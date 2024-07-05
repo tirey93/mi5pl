@@ -1,0 +1,370 @@
+REØYSERIA
+Mike Stemmle
+
+KIEROWNIK ARTYSTYCZNY
+Dave Bogan
+
+KIEROWNICTWO ARTYSTYCZNE
+Derek Sakai
+
+PRODUCENT WYKONAWCZY
+Dan Connors
+Kevin Bruner
+Brett Tosti
+
+KIEROWNIK PRODUKCJI TECHNOLOGII
+Jonathan Sgro
+
+G£”WNY PROGRAMISTA
+Randy Tudor
+
+G£”WNY ANIMATOR
+David Bogan
+
+G£”WNY CHOREOGRAF
+Daniel Farjam Herrera
+Eric Parsons
+
+G£”WNY GRAFIK åRODOWISKA
+Brian Gillies
+
+SEZON ZAPROJEKTOWANY PRZEZ
+Mark Darin
+Mike Stemmle
+
+EPIZOD ZAPROJEKTOWANY PRZEZ
+Joe Pinney
+Sean Vanaman
+Dave Grossman
+Brendan Ferguson
+Jake Rodkin
+Will Armstrong
+Mark Darin
+Mike Stemmle
+
+KIEROWNIK PROJEKTU
+Dave Grossman
+
+GOå∆: PROFESOR OD MA£POLOGII
+Ron Gilbert
+
+SCENARIUSZ
+Mike Stemmle
+
+PRODUCENT
+Matt Hansen
+
+PROGRAMOWANIE
+Tulley Rafferty
+
+ANIMACJA
+Jeff Sarre
+Jessica Lozano
+Derek Sakai
+
+CHOREOGRAFIA
+Greg Killion
+Scott Melzer
+David Gantz
+Nick Herman
+Dennis Lenart
+Bryan Cohen
+
+GRAFIKA KONCEPTU
+Ryan Jones
+
+GRAFIKA POSTACI
+Jason Findley
+
+GRAFIKA OTOCZENIA
+Jonathon Banks
+
+DODATKOWA GRAFIKA
+Derek Sakai
+Matt Hansen
+Nick Mastroianni
+
+GRAFIKA I EFEKTY TECHNICZNE
+Jonathan Sgro
+Michael Perretta
+Smith Roberts
+
+PROJEKT INTERFEKSU I TYTU£U
+Jake Rodkin
+Ryan Jones
+
+DODATKOWE ZAPISKI
+Sean Vanaman
+Brendan Ferguson
+
+DODATKOWA ANIMACJA
+Cinematics
+Tim Reardon
+
+ASYSTENT PRODUCENTA
+Cesar Bittar
+
+G£”WNY TESTER
+Will Armstrong
+
+TESTY
+Seher Basak
+Alex Cannon
+Jeremy Acs
+Nick Mastroianni
+Trent Burg
+Shaun Finney
+
+MUZYKA
+Michael Land
+
+MASTERING
+John Marsden
+
+EDYCJA MUZYKI I MASTERING
+Jared Emerson-Johnson
+ 
+EDYCJA DèWI KU I MASTERING
+Bay Area Sound, Inc.
+Julian Kwasneski
+Jory Prum
+ 
+KOORDYNATOR DèWI KU
+Meg Crowel
+ 
+UDèWI KOWIENIE
+Jared Emerson-Johnson
+Julian Kwasneski
+ 
+WDROØENIE AUDIO
+Damian Kastbauer
+
+MARKETING AND PUBLIC RELATIONS
+Joel Dreskin
+Chris Schmidt
+Jacob DiGennaro
+
+TW”RCY STRON WWW
+Andre Govberg
+Mike Watson
+
+PROJEKT STRONY WWW
+Jake Rodkin
+
+STRONY WWW I SPO£ECZNOå∆
+David Eggers
+
+PRODUCENT STRONY WWW
+Eric Eberhardt
+
+INTRUKCJA KONSOLI
+Cesar Bittar
+John ìSegî Seggerson
+
+TESTERZY WEWN TRZNI
+Stan Shambaugh
+
+INØYNIER BUDUWY I DYSTRYBUCJI
+John ìSegî Seggerson
+
+WSPARCIE PRODUKTU
+Will Armstrong
+Bonnie Sheehan
+David Eggers
+
+OPERACJE
+Andre Blanadet
+Rhoda Gravador-Kao
+Greg Koll
+Linsday Speth
+
+PUBLIKACJA
+James Lamorticelli
+
+STRONA PRAWNA
+Mark Barbolak
+
+TELLTALE INTERN
+Nikki Harper
+
+TESTY GRY
+Frank Cifaldi
+Emily Morganti
+Shaun Finney
+Denise & Alexis Tosti
+Alyssa Foley
+
+TW”RCY DLA DAY FINALISTS
+Liz Johnston (The Winner!)
+Andrei ìSilver Wolfî Constantinescu
+Corrado Rafaelli
+Ivan Brett
+Julien Pirou
+
+
+
+G£OS”W UØYCZYLI
+
+Gafel Forma
+Tim Talbot
+
+D'Oro
+Andrew Chaikin
+
+Demon LeChuck
+Earl Boen
+
+DeSinge
+Jared Emerson-Johnson
+
+Elaine
+Alexandra Boyd
+
+Guybrush
+Dominic Armato
+
+Suchar
+Brian Sommer
+
+Blekot
+Roger Jackson
+
+Ludzki LeChuck
+Kevin Blackton
+
+SÍdzia Grindstump
+Brian Sommer
+
+Kathryn "Kate" Raks
+Alison Ewing
+
+Morgan
+Nicki Rapp
+
+Szkarpa
+Brian Sommer
+
+Stan
+Gavin Hammon
+
+Lady Voodoo
+Alison Ewing
+
+
+
+
+STWORZENIE PRZY WSP”£PRACY NARZ DZI TELLTALE
+Kevin Bruner
+Jonathan Sgro
+Graham McDermott
+Carlo Morgantini
+Randy Tudor
+Ben Ingram
+Andy Vella
+Robert Oates
+
+CzÍúÊ Praw Autorskich
+Firelight Technologies
+Portions Copyright
+(C) 2002 Jean-Marc Valin
+
+LOKALIZACJA
+SDI Media
+
+
+PODZI KOWANIA DLA
+Denise & Alexis Tosti
+Elisa Tudor
+Nick, Justice & Liberty Tudor
+Gwendolyn, Owen & Luke Sgro
+Nicohl Bogan
+Ellen Bogan
+Harmony, Stephen & Claire Sakai
+Faranak Farjamrad Herrera 
+David & Cherie Herrera
+Cristina Herrera & Gustavo De Lafore
+Hassan & Zahra Farjamrad
+Bobby Farjamrad & Sahba Motallebi
+Ikumi Sato
+Geoff Evans
+Mindy Shambaugh
+James Spafford
+Marek Bronstring
+Sue & Alex Lozano
+Victor Kao
+John Lyons
+Jen & Noah Sarre
+Susan, Rich & Nick Rodkin
+Edward & Karen Seggerson
+Carolyn & Jason Bronkema
+Jim & Cathy Armstrong
+Jake Armstrong & Laura White
+Erin Ashe
+Christina Darin
+The Otters
+Jason Ellis
+AAlgar
+xAdam Darin
+Mike ìDataî Moylan
+Anna Embree
+Joel DeYoung
+Hothead Games
+Molly Moloney
+Rick & Ruth Jones
+Roger, Sandi & Andrew Hansen
+Elias & Nyria Bittar
+Marco Castellanos
+Marius Fietzek
+David, za czyste miejsce pracy
+Alexa Eurich
+Marco Brezzo
+
+
+I dla Ciebie (tak, dla Ciebie)
+
+WERSJA POLSKA:
+T≥umaczenie: Pawcio
+Korekta: Pawcio
+Testy: Yarex, tirey93
+Konsultacja: Johnny, Yarex, Zagadka, tirey93
+
+
+PODZI KOWANIA DLA LUCASARST
+Darrell Rodriquez
+Craig Derrick
+Jeff Sangalli
+Adam Bormann
+David Nottingham
+
+
+ZWIERZAKI TELLTALE
+Max the Dog, Tess, Belle, Cornnut, Kitty, Stumpy, Kaya,
+Inky, Squiggle, Tobie, Patches, Holly, Yoshi, Fu, Buddha,
+Nick Charles Koll, Nitro T1, Eero, Misfit, Karma, Beau,
+Fritz, Brady, Indiva, Satindica, Mocha, Chai, Becky, Gomez,
+Brendan Q. Ferguson
+
+
+MA£E MA£PKI
+Mattia Morgantini
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©2009 Telltale, Inc.
+Wszelkie Prawa Zastrzeøone

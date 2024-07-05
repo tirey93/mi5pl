@@ -1,0 +1,358 @@
+REØYSERIA
+Joe Pinney
+
+WSP”£REØYSER
+Jake Rodkin 
+
+SCENARIUSZ
+Sean Vanaman
+
+KIEROWNIK ARTYSTYCZNY
+Dave Bogan
+
+KIEROWNICTWO ARTYSTYCZNE
+Derek Sakai
+
+PRODUCENT WYKONAWCZY
+Dan Connors
+Kevin Bruner
+Brett Tosti
+
+KIEROWNIK PRODUKCJI TECHNOLOGII
+Jonathan Sgro
+
+G£”WNY PROGRAMISTA
+Randy Tudor
+
+G£”WNY ANIMATOR
+David Bogan
+
+G£”WNY CHOREOGRAF
+Daniel Farjam Herrera
+Eric Parsons
+
+G£”WNY GRAFIK åRODOWISKA
+Kim Lyons
+Brian Gillies
+
+SEZON ZAPROJEKTOWANY PRZEZ
+Mark Darin
+Mike Stemmle
+
+EPIZOD ZAPROJEKTOWANY PRZEZ
+Joe Pinney
+Sean Vanaman
+Dave Grossman
+Brendan Ferguson
+Jake Rodkin
+Will Armstrong
+Mark Darin
+Mike Stemmle
+
+KIEROWNIK PROJEKTU
+Dave Grossman
+
+GOå∆: PROFESOR OD MA£POLOGII
+Ron Gilbert
+
+WSP”£PRODUCENT
+Matt Hansen
+
+PROGRAMOWANIE
+Tulley Rafferty
+
+ANIMACJA
+Jeff Sarre
+Jessica Lozano
+Derek Sakai
+
+DODATKOWA ANIMACJA
+Yoko Ballard
+Tim Reardon
+Pat Gillette
+Jason Porter
+Ryan Gong
+Ryan Hood
+
+CHOREOGRAFIA
+Nick Herman
+Greg Killion
+Scott Melzer
+Dennis Lenart
+David Gantz
+Jake Rodkin
+
+GRAFIKA KONCEPTU
+Ryan Jones
+
+GRAFIKA POSTACI
+Jason Findley
+
+GRAFIKA OTOCZENIA
+Jonathon Banks
+
+DODATKOWA GRAFIKA
+Derek Sakai
+Matt Hansen
+
+GRAFIKA I EFEKTY TECHNICZNE
+Jonathan Sgro
+Smith Roberts
+Michael Perretta
+
+PROJEKT INTERFEKSU I TYTU£U
+Jake Rodkin
+Ryan Jones
+
+DODATKOWE ZAPISKI
+Joe Pinney
+
+ASYSTENT PRODUCENTA
+Cesar Bittar
+
+G£”WNY TESTER
+Will Armstrong
+
+TESTY
+Alex Cannon
+Jeremy Acs
+Nick Mastroianni
+Seher Basak
+Trent Burg
+Shaun Finney
+
+MUZYKA
+Michael Land
+
+MASTERING
+John Marsden
+
+EDYCJA MUZYKI I MASTERING
+Jared Emerson-Johnson
+ 
+EDYCJA DèWI KU I MASTERING
+Bay Area Sound, Inc.
+Julian Kwasneski
+Jory Prum
+ 
+KOORDYNATOR DèWI KU
+Meg Crowel
+ 
+UDèWI KOWANIE
+Jared Emerson-Johnson
+Julian Kwasneski
+ 
+WDROØENIE DèWI KU
+Damian Kastbauer
+
+MARKETING I PUBLIC RELATIONS
+Joel Dreskin
+Chris Schmidt
+Jacob DiGennaro
+
+TW”RCY STRON WWW
+Andre Govberg
+Mike Watson
+
+PROJEKT STRONY WWW
+Jake Rodkin
+
+STRONY WWW I SPO£ECZNOå∆
+David Eggers
+
+PRODUCENT STRONY WWW
+Eric Eberhardt
+
+INTRUKCJA KONSOLI
+Cesar Bittar
+Matt Hansen
+Emily Morganti
+John ìSegî Seggerson
+
+TESTER WEWN TRZNY
+Stan Shambaugh
+
+INØYNIER BUDUWY I DYSTRYBUCJI
+John ìSegî Seggerson
+
+WSPARCIE PRODUKTU
+Will Armstrong
+Bonnie Sheehan
+David Eggers
+
+OPERACJE
+Andre Blanadet
+Rhoda Gravador-Kao
+Greg Koll
+Linsday Speth
+
+PUBLIKACJA
+James Lamorticelli
+
+STRONA PRAWNA
+Mark Barbolak
+
+PRAKTYKANCI TELLTALE
+Liz Cermak
+Nikki Harper
+
+TESTY GRY
+Mary Jo Tamimi
+Lena Tamimi
+Ellen T. Kephart
+Jennifer Neff
+Jason Seeba
+Jamie Seeba
+Travis Grathwell
+Katherine Brugman
+Megan Davies
+Michael Wilk
+Kristi ìDread Pirate Marzipanî Maloney
+Mark ìFirst Mate Monkey Alarmî Maloney
+Ben Malisow
+Frank Cifaldi
+Emily Morganti
+
+
+
+G£OS”W UØYCZYLI:
+Muszal - Adam Harrington
+
+Elaine - Alexandra Boyd
+
+Lady Voodoo - Allison Ewing
+
+Ga≥a - Andrew Chaikin
+
+DeCava - Andrew Chaikin
+
+Murray - Denny Delk
+
+Guybrush - Dominic Armato
+
+DeSinge - Jared Emerson-Johnson
+
+LeChuck - Kevin Blackton
+
+Morgan - Nicki Rapp
+
+Noogie - Owen Thomas
+
+Winslow - Roger Jackson
+
+
+
+STWORZENIE PRZY WSP”£PRACY NARZ DZI TELLTALE
+Kevin Bruner
+Jonathan Sgro
+Graham McDermott
+Carlo Morgantini
+Randy Tudor
+Ben Ingram
+Andy Vella
+Robert Oates
+
+Portions Copyright
+Firelight Technologies
+Portions Copyright
+(C) 2002 Jean-Marc Valin
+
+LOKALIZACJA
+SDI Media
+
+
+PODZI KOWANIA
+Denise & Alexis Tosti
+Elisa Tudor
+Nick, Justice & Liberty Tudor
+Gwendolyn, Owen & Luke Sgro
+Nicohl Bogan
+Ellen Bogan
+Harmony, Stephen & Claire Sakai
+Faranak Farjamrad Herrera 
+David & Cherie Herrera
+Cristina Herrera & Gustavo De Lafore
+Hassan & Zahra Farjamrad
+Bobby Farjamrad & Sahba Motallebi
+Ikumi Sato
+Victor Kao
+John Lyons
+Jen & Noah Sarre
+Susan, Rich & Nick Rodkin
+Edward & Karen Seggerson
+Carolyn & Jason Bronkema
+Jim & Cathy Armstrong
+Jake Armstrong & Laura White
+Erin Ashe
+Christina Darin
+The Otters
+Jason Ellis
+AAlgar
+xAdam Darin
+Mike ìDataî Moylan
+Anna Embree
+Joel DeYoung
+Hothead Games
+Molly Moloney
+Rick & Ruth Jones
+Roger, Sandi & Andrew Hansen
+Elias & Nyria Bittar
+Marco Castellanos
+Marius Fietzek
+David, za czyste miejsce pracy
+Alexa Eurich
+
+I dla Ciebie (tak, dla Ciebie)
+
+WERSJA POLSKA:
+T≥umaczenie: Pawcio
+Korekta: tirey93
+Testy: Yarex, tirey93
+Konsultacja: Johnny, Yarex, Zagadka, tirey93
+
+
+PODZI KOWANIA DLA LUCASARST
+Darrell Rodriquez
+Craig Derrick
+Jeff Sangalli
+Adam Bormann
+David Nottingham
+
+
+ZWIERZAKI TELLTALE
+Max the Dog, Tess, Belle, Cornnut, Kitty, Stumpy, Kaya,
+Inky, Squiggle, Tobie, Patches, Holly, Yoshi, Fu, Buddha,
+Nick Charles Koll, Nitro T1, Eero, Misfit, Karma, Beau,
+Fritz, Brady, Indiva, Satindica, Mocha, Chai, Becky, Gomez,
+Brendan Q. Ferguson
+
+
+MA£E MA£PKI
+Lia Farjam Herrera
+Jackson John Lyons
+Cooper Anthony Lyons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+©2009 Telltale, Inc.
+Wszelkie Prawa Zastrzeøone
