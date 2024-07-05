@@ -1,4 +1,8 @@
 Narzędzia zostały wgrane w formie releasu.
+Linki do releasu:
+https://github.com/tirey93/mi5pl/releases/tag/ttarchext
+https://github.com/tirey93/mi5pl/releases/tag/TTGTools
+
 Linki do oryginalnego releasu: https://aluigi.altervista.org/search.php?src=ttarch
 https://gitflic.ru/project/pashok6798/ttg-tools
 
