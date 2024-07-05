@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/po2tomi_converter/.vs
+/po2tomi_converter/.vs/po2tomi_converter/v17/.suo
+/omega_t/team project/omegat/project_stats.txt
+/omega_t/team project/omegat/project_save.tmx.*.bak
+/omega_t/team project/omegat/last_entry.properties
+/po2tomi_converter/bin
+/po2tomi_converter/obj
+/po2tomi_converter/bin/Debug/netcoreapp3.1/config.json
+/skrypty/po2tomi_converter.exe - Shortcut.lnk
+/po2tomi_converter/po2tomi_converter/bin/Debug/net8.0
+/po2tomi_converter/po2tomi_converter/obj
