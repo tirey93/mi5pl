@@ -3,7 +3,8 @@ Linki do releasu:
 https://github.com/tirey93/mi5pl/releases/tag/ttarchext
 https://github.com/tirey93/mi5pl/releases/tag/TTGTools
 
-Linki do oryginalnego releasu: https://aluigi.altervista.org/search.php?src=ttarch
+Linki do oryginalnego releasu: 
+https://aluigi.altervista.org/search.php?src=ttarch
 https://gitflic.ru/project/pashok6798/ttg-tools
 
 Szczegółowa instrukcja użytkowania znajduje się na forum grajpopolsku: https://grajpopolsku.pl/forum/viewtopic.php?t=1710
