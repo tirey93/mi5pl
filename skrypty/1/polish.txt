@@ -1856,7 +1856,7 @@ Co tu siê dzieje?
 896)  GUYBRUSH
 Œwietnie!!!
 897)  GUYBRUSH
-Och! Ospa rozwiewa siê po morzu!  Byle nie zawróci³a i nie z³apa³a mnie pod plecami.  To na pewno nie by³oby fajne.
+Och! Ospa rozwiewa siê po morzu!  Byle nie zawróci³a i nie z³apa³a mnie pod plecami.  Dobra, jakoœ to bêdzie.
 898)  DESINGE
 [stunned] {Amazed} Zut... alors... wiatry...
 899)  DESINGE

@@ -3756,7 +3756,7 @@ msgstr "Świetnie!!!"
 
 msgctxt "897_0_GUYBRUSH"
 msgid "{Embarrassed} [sheepish] Ooh, the Pox is blowing out to sea!  Hope that doesn't come back to bite me in the fundament.  {Sarcastic} Well, I'm sure it'll be fine."
-msgstr "Och! Ospa rozwiewa się po morzu!  Byle nie zawróciła i nie złapała mnie pod plecami.  To na pewno nie byłoby fajne."
+msgstr "Och! Ospa rozwiewa się po morzu!  Byle nie zawróciła i nie złapała mnie pod plecami.  Dobra, jakoś to będzie."
 
 msgctxt "898_0_DESINGE"
 msgid "[stunned] {Amazed} Zut... alors...the winds..."

@@ -11592,8 +11592,8 @@
       <tuv lang="en-US">
         <seg>{Embarrassed} [sheepish] Ooh, the Pox is blowing out to sea!  Hope that doesn't come back to bite me in the fundament.  {Sarcastic} Well, I'm sure it'll be fine.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Och! Ospa rozwiewa się po morzu!  Byle nie zawróciła i nie złapała mnie pod plecami.  To na pewno nie byłoby fajne.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240706T091146Z">
+        <seg>Och! Ospa rozwiewa się po morzu!  Byle nie zawróciła i nie złapała mnie pod plecami.  Dobra, jakoś to będzie.</seg>
       </tuv>
     </tu>
     <tu>
