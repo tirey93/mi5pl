@@ -1,0 +1,4970 @@
+1)  
+high
+2)  
+Load
+3)  
+low
+4)  
+Off
+5)  
+Okay
+6)  
+On
+7)  
+Quit
+8)  
+Save
+9)  
+Save & Load
+10)  
+Settings
+11)  
+Are you sure
+you want to quit?
+12)  
+Music
+13)  
+Sounds
+14)  
+Voice
+15)  
+Full Screen
+16)  
+Quality
+17)  
+Pop-Up Text
+18)  
+Subtitles
+19)  
+Loading...
+20)  
+Sorry, you can't save right now.
+21)  
+(AUTOSAVE)
+22)  
+Empty...
+23)  
+New Game
+24)  
+Yes
+25)  
+No
+26)  
+Graphics Settings
+2059)  
+Graphics Settings
+27)  
+Audio Settings
+2058)  
+Audio Settings
+28)  
+Gameplay Settings
+2057)  
+Gameplay Settings
+29)  
+Resolution
+30)  
+Hint Frequency
+31)  
+Saves
+32)  
+Any unsaved progress in your current game will be lost.
+33)  
+Ready to start
+a new game?
+34)  
+Yes, I am!
+35)  
+Oops, no!
+36)  
+Yes, quit!
+37)  
+No, don't!
+39)  
+Game Saved
+40)  
+Delete this saved game?
+41)  
+TALES OF MONKEY ISLAND
+
+CHAPTER 1
+
+LAUNCH OF THE SCREAMING NARWHAL
+2397)  
+TALES OF MONKEY ISLAND
+
+CHAPTER 1
+
+LAUNCH OF THE SCREAMING NARWHAL
+42)  
+Sorry!
+
+Saving and loading are
+disabled in trial mode!
+43)  
+Game Paused
+Press Space to Continue
+44)  
+Retro Mode:
+45)  
+(Standard)
+46)  
+(Widescreen)
+47)  
+<< Back
+48)  
+Next >>
+49)  
+Feeling lost? Play the
+Sam & Max tutorial...
+50)  
+Tutorial
+51)  
+Graphics: Adjust screen resolution, graphics quality, and other visual delights.
+52)  
+Sound Volume Levels: Adjust sound volumes.
+53)  
+Subtitles and Help: Miscellaneous features you can tinker with to your liking.
+54)  
+Full Screen: Play the game in full screen mode or in a window.
+55)  
+Graphics Quality: Toggle smoothing and other graphical enhancements which may slow down older computers.
+56)  
+Retro Mode: Probably does nothing, but you never know!
+57)  
+Screen Resolution: Choose the resolution you'd like to use while playing.  Higher resolutions look better, but may impact performance.
+58)  
+Music: Adjust the music volume level.
+59)  
+Voice: Adjust the character voice volume.
+60)  
+Effects: Adjust the volume of sound effects.
+61)  
+Subtitles: Turn subtitles on or off.
+62)  
+Pop Up Text: Toggle the text that pops up over an interactive object when you move your cursor over it.
+63)  
+Hint Level: Choose how frequently you want characters to offer advice when they think you're stuck. You can change this at any time.
+64)  
+Wait!
+65)  
+Before we begin...
+66)  
+Would you like to start a new
+game, or play the tutorial?
+67)  
+None
+68)  
+Very Rare
+69)  
+Rare
+70)  
+Periodic
+71)  
+Frequent
+72)  
+Thanks for playing the Tales of Monkey Island demo! This is just the beginning - play the full series to join Guybrush on his exciting piratey quest!
+
+You can also extend your pirate experience by joining Guybrush's Treasure Hunt.
+This additional mini-game is separate from the Tales of Monkey Island story.
+73)  
+Are you sure you want to overwrite this saved game?
+74)  
+Are you sure you want to load this game?
+Any unsaved progress in your current game will be lost.
+75)  
+Game Paused
+Press the 2 button to continue
+76)  GUYBRUSH
+It's Pink Pajama Pierre, one of D'oro's Porcelain Power Pirate "action figures."
+77)  GUYBRUSH
+Pink Pajama Pierre looks a little more menacing in inky black pajamas, but he still needs some accessorizing.
+78)  GUYBRUSH
+Even with a sword, Pink Pajama Pierre isn't gonna scare anyone in those pink pajamas.
+79)  GUYBRUSH
+Nothing like a quick paint job and a dangerously pointy accessory to turn a sad unwanted doll into an exciting ninja assassin!
+80)  GUYBRUSH
+It's a mysterious ancient instrument for breaking mysterious ancient crystals.
+81)  GUYBRUSH
+I just bet that Hemlock's map holds the secret to getting off this island and back to Elaine... but how will I get it out of that unbreakable bottle?
+82)  GUYBRUSH
+Ick, this cheese wheel's starting to go soft.  Maybe I shouldn't be storing it in my pants.
+83)  GUYBRUSH
+It's a cheese wheel with blood-and-milk curdling impressions of ancient eyeball carvings.
+84)  GUYBRUSH
+For such an exclusive club, you'd think they'd have higher quality membership cards.
+85)  GUYBRUSH
+I wonder what the artist was trying to say with this flower pot?  Other than "I need some more pottery lessons," of course.
+86)  GUYBRUSH
+What the!?
+87)  GUYBRUSH
+It's a tiny grogatini sword with an olive.
+88)  GUYBRUSH
+Once I get off this stupid island and find Elaine, I guess I'm gonna have to track down this De Cava guy so I can find La Esponja Grande.
+89)  GUYBRUSH
+De Singe used this thingamabob to open up that giant stone door... I wonder if it opens anything else?
+90)  GUYBRUSH
+It's an all-purpose tool used by the ancient Flotsam Islanders to activate their mysterious machines.
+91)  GUYBRUSH
+Hmm.
+92)  GUYBRUSH
+Interesting.
+1285)  GUYBRUSH
+Interesting.
+93)  GUYBRUSH
+I see.
+1288)  GUYBRUSH
+I see.
+94)  GUYBRUSH
+These thing could knock a pirate on his or her rear.
+95)  GUYBRUSH
+Hmm, a bomb with a burning fuse... maybe I should get rid of it...
+96)  GUYBRUSH
+Polly want a cracker?
+97)  GUYBRUSH
+It's a U-shaped  tube. The U must stand for "unbreakable," I guess.
+98)  GUYBRUSH
+{Surprised} Yow!
+2369)  GUYBRUSH
+{Surprised} Yow!
+99)  GUYBRUSH
+{Happy} Elaine here I come!
+100)  GUYBRUSH
+{Worried} Or, um... maybe not.
+101)  GUYBRUSH
+Hey, whaddaya know, that little teeny sword fits right into Pierre's little teeny hand!
+102)  GUYBRUSH
+He still doesn't look very fearsome, though.
+103)  GUYBRUSH
+Hm.  Between the cool black tights and the dangerously pointy accessory, Pajama Pants Pierre is starting to look halfway collectible.
+104)  GUYBRUSH
+[moaning weakly] Elaiiiine...
+105)  MARSHALL
+{Happy} Ahoy there, me hearty!
+106)  GUYBRUSH
+[groggy] {Confused} Wha?
+107)  MARSHALL
+Don't worry, we'll have you up and suckin' back a grog in--
+108)  MARSHALL
+{Angry}[sounding like a guy who's covering his broken nose] Ow!  Ma nose! {Worried} Me beautiful pirate nose! {Angry} I'll get you for this, ya craven bilge rat!
+109)  GUYBRUSH
+{Confused} Sorry!  I don't know what got [he sees his diseased hand]{Worried}... into... me.
+110)  GUYBRUSH
+[staring at his upraised icky hand] {Stern} Oh, this can't be good...
+111)  NIPPERKIN
+{Default}You really should have that looked at, kid!
+112)  NIPPERKIN
+{Sarcastic} The name's Nipperkin, {Enthused} Davey Nipperkin, {Default} senior reporter, Keelhauler Gazette.  Welcome to Flotsam Island. {Suspicious} Mind if I ask you a few questions?
+113)  GUYBRUSH
+{Stern} Actually--
+114)  NIPPERKIN
+{Enthused} Great!  What's your name, where'd you come from, and how'd you get here?
+115)  NIPPERKIN
+{Happy} Well, I don't know how you did it Seepwood, but thanks to you I've got enough sordid swashbuckling stories to keep the{Enthused}  Flotsam Keelhauler Gazette afloat for months!  {Suspicious} That'll show those bozos over at the Times!
+116)  GUYBRUSH
+{Suspicious} Yeah, that's, um, great.  {Default} Now about Deep Gut...
+117)  NIPPERKIN
+{Happy} My pleasure, Threepwood... sit tight while I make you a copy...
+118)  GUYBRUSH
+{Confused} Copy?
+119)  NIPPERKIN
+{Happy} Here ya go, kid - everything you need to know to contact Deep Gut.  {Suspicious} Don't let anyone know I gave this to you, or my editor'll put me on deep cover on the obituary beat,{Cocky} if you catch my drift.
+120)  GUYBRUSH
+{Happy} Finally!  Now I can ask this Deep Gut person how to get off this island, and back to Elaine!
+121)  GUYBRUSH
+[reading] "Attention:  Club 41, Flotsam Island's most prestigious pirate organization, is no longer accepting new applications for membership.  Thank you for your continued interest, and please go away."
+122)  GUYBRUSH
+{Default} "Club 41..." {Confused} I wonder what the 41 stands for?
+123)  GUYBRUSH
+[reading] "Hear ye, hear ye!  Owing to the unprecedented downturn in criminal activity on Flotsam Island, I've locked up the courthouse and taken a long-delayed three month sabbatical.  Please don't break any laws until I return... or else.  Sincerely, Judge Grindstump."
+124)  GUYBRUSH
+{Default} Hmm, I guess court isn't in session today... {Incredulous} which is probably a good thing considering all the laws I'll be breaking.
+125)  GUYBRUSH
+Patchy.
+126)  GUYBRUSH
+{Incredulous} From the jails, the flag, and the general air of perverted justice, {Default} I can only guess that this must be the Flotsam Island courthouse.
+127)  GUYBRUSH
+[creeped out] Whoever built this jail really wanted to put the "brrr" in "brig."  Those eye carvings are creepy!
+128)  GUYBRUSH
+{Confused} I don't know what's creepier... those eyes or {Disgust} the little flecks of cheese on them.
+129)  GUYBRUSH
+{Disgust} It's an empty, smelly jail cell, kind of like the ones back on Melee Island™...
+130)  GUYBRUSH
+{Happy} [wistfully] Good times...
+131)  GUYBRUSH
+[In mock evil pirate voice, as though playing with dolls] {Stern} Arrr, Pink Pajamas Pierre, you foiled me plans for the last time!  Prepare to meet your maker in the ebon depths of the Inky Sea!
+132)  GUYBRUSH
+[In weird French voice, as the action figure is lowered into the ink, simulating drowning] {Worried} Sacre bleu!  Eez zis ze end of Pink...Pajama...Pierre?  Glug!
+133)  GUYBRUSH
+{Surprised} Hmm.  I guess it's true.  Black really IS slimming.
+134)  GUYBRUSH
+{Incredulous} I know what would cheer up these gruesome carvings. {Happy} Cheese!
+135)  GUYBRUSH
+{Stern} Nope, still menacing.
+136)  GUYBRUSH
+[disgusted] {Disgust} Aw, and now my cheese wheel is staring at me...
+137)  GUYBRUSH
+Printer's ink... the life blood of the newspaper industry, lovingly harvested from squid udders.
+138)  NIPPERKIN
+[filter: from inside]Timmy, get me a copy of the Deep Gut file, pronto!
+139)  NIPPERKIN
+[filter: from inside][Obviously impersonating a non-existent junior staffer] Right away, Mister Nipperkin!
+140)  GUYBRUSH
+[reading]"The Flotsam Keelhauler Gazette - All the News that Floats, We'll Print"
+141)  GUYBRUSH
+[reading]N-E-W-S... {Happy} hey, the wind directions spell "news!"  {Suspicious}  This MEANS something.
+142)  GUYBRUSH
+{Surprised} That's easily one of the five or six biggest printing presses I've ever seen.
+143)  NIPPERKIN
+{Happy} Ain't she a beauty?  {Sarcastic} Of course, she'd be even more impressive if we had any swashbuckling pirate news to print.
+144)  GUYBRUSH
+{Happy} It's nice to see the Keelhauler printing press back in action... {Suspicious} I wonder if I should've held out for some royalties.
+145)  GUYBRUSH
+Mister Winslow, make way for...
+146)  GUYBRUSH
+...Heh-heh...[proud] The Rock of Gelato!
+147)  WINSLOW
+[enthusiaistic] Aye-aye, captain!
+148)  GUYBRUSH
+And get me some grog for this hand!
+149)  GUYBRUSH
+Winslow!
+150)  WINSLOW
+Captain?
+151)  GUYBRUSH
+Just go where I point!
+152)  GUYBRUSH
+[surprised] Hey!
+153)  GUYBRUSH
+[wrestling with hand] Grrr...
+154)  GUYBRUSH
+[getting decked] Yooooow!
+155)  GUYBRUSH
+[annoyed] Oh come on!
+156)  GUYBRUSH
+[wrestling with hand] Stupid...poxed...hand...
+157)  GUYBRUSH
+What the -?
+158)  WINSLOW
+Sir?
+159)  GUYBRUSH
+[pickup1][read with urgency] Set a course for here!
+160)  GUYBRUSH
+[getting decked] Whoah!
+161)  GUYBRUSH
+[landing] Ow.
+162)  GUYBRUSH
+Whoah!
+1282)  GUYBRUSH
+Whoah!
+163)  GUYBRUSH
+[pickup1][read with urgency]Mr. Van Winslow, set sail for the [hand covers mouth] mpph mph mph mph-mph!
+164)  WINSLOW
+What's that, sir?
+165)  GUYBRUSH
+[pickup1][read with urgency]I said, make way to the [hand covers mouth] mph mph mphmph!
+166)  GUYBRUSH
+Well, that's not gonna work.
+167)  GUYBRUSH
+{surprised}Hey, it's one of those spiffy new Hungarian Easy-Action Cannons{default} I've been begging Elaine to let me buy.
+168)  GUYBRUSH
+{surprised}Whoah, the wind's really doing a number on that cannonball.
+169)  CRIMPDIGIT
+[from a great distance] Ieeee!
+170)  GUYBRUSH
+Nothing like a deafening cannon discharge to clear the mind.
+171)  GUYBRUSH
+I'll sleep when I'm dead.  Or later tonight.
+172)  GUYBRUSH
+Ow!
+441)  GUYBRUSH
+Ow!
+748)  MEMBER1
+Ow!
+1478)  DESINGE
+Ow!
+173)  GUYBRUSH
+That's what I call a sticky situation!
+174)  GUYBRUSH
+That's a tightly-sealed barrel of tar, used for patching up cracks and hazing bosons.
+175)  GUYBRUSH
+That's one strong barrel!
+176)  GUYBRUSH
+Yes, it's rollicking pirate adventure for me!  Just as soon as the winds start blowing away from the island.
+177)  GUYBRUSH
+I could raise the anchor now, but without a seaward wind, what's the point?
+178)  GUYBRUSH
+This is no time to lower the anchor, I've got to go to the Rock of Gelato!
+179)  GUYBRUSH
+That's the mainmast of the Screaming Narwhal.  Or maintree.
+180)  GUYBRUSH
+Argh.  I HATE scrubbing tar off my mainmast.
+181)  GUYBRUSH
+[straining] Can't... reach... tar... sticking... pronouns... failing...
+182)  GUYBRUSH
+Guess I'm stuck.
+183)  GUYBRUSH
+[straining] Err
+184)  GUYBRUSH
+Yep, I'm stuck.
+185)  GUYBRUSH
+It's a detailed map of the entire Gulf of Melange.  This thing'll come in handy if I ever get off this fershlugginer island.
+186)  GUYBRUSH
+I don't think anything short of explosive force is going to open up that tar barrel.
+187)  GUYBRUSH
+Now WHY would I want to get that all covered with sticky tar?
+188)  GUYBRUSH
+Finally, the Rock of Gelato! Now to find Elaine!  Mister Van Winslow!  My spyglass!
+189)  WINSLOW
+Aye-aye sir!
+190)  GUYBRUSH
+Hmmm, Elaine's ship looks pretty good considering that it was EXPLODING the last time I saw it.
+191)  GUYBRUSH
+But where's MY ship?  And Elaine?   Is she out looking for me?  Is she still in LeChuck's clutches?  Is her beautiful bloated corpse slowly rotting at the bottom of the-- Hey!
+192)  GUYBRUSH
+What's that?  Winslow, enhance the upper-right quadrant 50%!
+193)  GUYBRUSH
+It's my ship!  Winslow, full enhancement!
+194)  GUYBRUSH
+Elaine!  I'm coming, plunder bunny!  Wait, what's that?
+195)  GUYBRUSH
+Oh no, it's LeChuck!  Elaine, look out!
+196)  GUYBRUSH
+[read like “Is that you, plunder bunny?”] Plunder bunny?
+2433)  GUYBRUSH
+[read like “Is that you, plunder bunny?”] Plunder bunny?
+197)  MORGAN
+Guybrush Threepwood!
+198)  MORGAN
+I've been waiting a long time for this!
+199)  GUYBRUSH
+[sheepish] Um, could you wait a little longer?
+200)  LECHUCKDEMON
+[shouting]{angry} Arrrr, Threepwood!  You've led me a merry chase, but soon the dread mysteries of these ancient simians{devilish} will be mine, and the seas will run red with the blood of my enemies!  Har-har-harrr!
+201)  GUYBRUSH
+{stern}[shouting][stern and commanding] All right LeChuck, put down the monkey and back away from my wife!
+202)  LECHUCKDEMON
+{default}[slowly chanting some voodoo ritual]Oh-a-ahmi, Oh-a-ahmi...
+203)  ELAINE
+[loudly, speaking between ships] They're pinned to your mast!{default}
+204)  GUYBRUSH
+{cocky}Oh yeah!{default}
+205)  GUYBRUSH
+{stern}LeChuck!
+206)  LECHUCKDEMON
+{devilish}Do ya mind?  {angry}I be in the middle of an unholy ceremony here!
+207)  GUYBRUSH
+{angry}Unholy THIS!
+208)  ELAINE
+{sarcastic}"Unholy this?"
+209)  GUYBRUSH
+{embarrassed}Yeah, I know, but he didn't give me much to work with{surprised}-HEY!
+210)  ELAINE
+{surprised}[slightly loudly, over the transformation] Is that how the cutlass is supposed to work?
+211)  GUYBRUSH
+{surprised}[shouting over the sound and light show of LeChuck's transformation] I... don't... know...{scared}it's...so... bright...!
+212)  GUYBRUSH
+{confused}What the heck?
+213)  ELAINE
+{surprised}[stunned] Woof!
+214)  LECHUCK
+I... I... I'm human!
+215)  GUYBRUSH
+{suspicious}That's debatable...
+216)  ELAINE
+[shaking off her befuddled entrancement]  {stern}Guybrush, quick!  Finish him off!
+217)  GUYBRUSH
+{confused}What? {default}Oh, right!
+218)  GUYBRUSH
+{stern}This is for the monkeys, LeChuck!
+219)  GUYBRUSH
+[stunned] Elaine?
+220)  ELAINE
+{worried}[stunned] Guybrush?
+221)  GUYBRUSH
+ELAAAAAAAAAAAAAAAaaaaaaaaanie!!!
+222)  GUYBRUSH
+{stern}[shouting between ships] Prepare to meet your frosty carbonated maker, LeChuck!
+223)  GUYBRUSH
+{Default} The SCUMM Bar! Haven for the rowdiest bunch of drunken skallywags you'll ever see!
+859)  GUYBRUSH
+{Default} The SCUMM Bar! Haven for the rowdiest bunch of drunken skallywags you'll ever see!
+224)  GUYBRUSH
+{Happy}Hi there, scruffy-looking pirate-person! {Proud}I'm Guybrush Threepwood, mighty pirate! What's your name?
+225)  GUYBRUSH
+{Incredulous}Wait a minute, your name is I Cheese?
+226)  GUYBRUSH
+{Proud}How would you like to join my crew of mighty pirates?
+227)  GUYBRUSH
+{Happy} Oh c'mon! Join my crew. It'll be fun!
+228)  GUYBRUSH
+{Whiny} I've got troubles.
+229)  GUYBRUSH
+I haven't got a crew to take me to Lucre Island.
+230)  GUYBRUSH
+{Disgust} On second thought, I hate listening to myself whine.
+231)  GUYBRUSH
+{Confused}What was it I was supposed to be doing?
+232)  GUYBRUSH
+{Suspicious} More backrubs and foot massages?
+233)  GUYBRUSH
+{Cocky} That is one FAT BIRD!
+234)  GUYBRUSH
+{Sarcastic}She was a lot nicer before she died.
+235)  GUYBRUSH
+{Worried} Uh y-yes dear?
+236)  GUYBRUSH
+{Worried}W-won't that make you a flesh {Scared}eating  zombie?
+237)  GUYBRUSH
+{Happy}I'm in the market for an enchanted sword that hypnotizes my enemies into a deep {Cocky} stupor before I skewer them with it.
+238)  GUYBRUSH
+{Angry} ID?!? I don't got to show you no stinkin' ID!
+239)  GUYBRUSH
+{Embarrassed} I...uh...left it in my other pants.
+240)  GUYBRUSH
+{Sarcastic} Yeah! Busy makin' holes in the wall.
+241)  LECHUCKDEMON
+{devilish}[shouting between ships]Arrr!  Come and get me, ya dirt-diggin' doily dipper!
+242)  GUYBRUSH
+{cocky}[shouting]I'm not showboating, I'm--
+243)  GUYBRUSH
+{surprised}Whoooah!
+244)  GUYBRUSH
+Oops.
+245)  ELAINE
+{sarcastic}[to herself] And now we're going to die.  {bitchy}Again.  Wonderful.{default}
+246)  LECHUCKDEMON
+[shouting between ships]Har-har-harrrrrr!{default}
+247)  ELAINE
+{bitchy}Hmmm.
+248)  GUYBRUSH
+{confused}How'd you do that?
+249)  ELAINE
+You don't spend several years at the side of {sarcastic}Guybrush Threepwood, Mighty Pirate™{default} without picking up a FEW tricks, darling.
+250)  GUYBRUSH
+[despondent] My ship!  {worried}My booty!  {whiney}My collection of autographed sextants!{default}
+251)  ELAINE
+{surprised}We'll buy you some more sextants later,{angry} just stop LeChuck!{default}
+252)  GUYBRUSH
+{default}I'd fire the cannon, but Elaine jettisoned all my ammo after I{embarrassed} "accidentally" sank her mother's schooner.
+253)  GUYBRUSH
+You really should take better care of your plants, Elaine.  This one's roots are bursting right out of its pot.
+254)  ELAINE
+I've been meaning to get around to it, but as you can see, I've been a bit busy.{default}
+255)  GUYBRUSH
+{worried}Poor little guy... {default}I wonder if it'll have "phantom root" pains now.
+256)  GUYBRUSH
+{default}I wonder if there's anything useful down there...
+2219)  GUYBRUSH
+{default}I wonder if there's anything useful down there...
+257)  GUYBRUSH
+Nope.  Nothing but a bunch of lazy crewmen.  {disgust}I can't believe I spent so much time recruiting those guys.{default}
+2220)  GUYBRUSH
+Nope.  Nothing but a bunch of lazy crewmen.  {disgust}I can't believe I spent so much time recruiting those guys.{default}
+258)  GUYBRUSH
+{cocky}Nope, nothing in there but a decade's worth of fantastic pirate booty.{default}
+259)  GUYBRUSH
+Hang in there guys!  We'll get you out as soon as I put an end to LeChuck!
+260)  GUYBRUSH
+It's Elaine's barrel of "lite" grog.  It's like real grog, only without the taste, calories, or debilitating blackouts.
+261)  GUYBRUSH
+{cocky}It's a barrel of lite grog, made incredibly fizzy by my clever application of breath mints.  {suspicious}I'm still not drinking it, though.{default}
+262)  GUYBRUSH
+It's a barrel of lite grog with a bunch of roots in it... root grog, if you will.
+263)  GUYBRUSH
+{surprised}It's a glowing, fizzy barrel of "root grog."{default}
+264)  GUYBRUSH
+{happy}Ah, the legendary Monkey Casket of Kauai!  {confused}I'll never forget the horrible hula of Hades I had to do to get this thing!{default}
+265)  GUYBRUSH
+{happy}Come to Guybrush, you spooky voodoo recipe you.{default}
+266)  GUYBRUSH
+{cocky}Elaine thought I was an idiot for buying the "auto-navigation" option, but who's the idiot now, huh?{default}
+267)  GUYBRUSH
+{default}That's unnecessary... {happy}those monkeys have surprisingly good breath!{default}
+268)  GUYBRUSH
+{happy}Care for a breath mint?{default}
+269)  ELAINE
+{bitchy}Oral hygiene can wait, love.{default}
+270)  GUYBRUSH
+I don't think I can hit her mouth from here.
+271)  GUYBRUSH
+{confused}Hmmm.  Fizzy lo-cal grog.  {default}I bet I can make a fortune selling this to...{confused} well, no one.{default}
+272)  GUYBRUSH
+{happy}Now THAT'S some fizzy root grog.  {disgust}I bet it still tastes like monkey snot, though.{default}
+273)  GUYBRUSH
+I think that monkey's got enough problems without me complaining about his breath.
+274)  GUYBRUSH
+{cocky}Hey LeChuck!
+275)  LECHUCKDEMON
+{angry}Who dares interrupt my arcane reverie!?
+276)  GUYBRUSH
+Want a breath mint?
+277)  LECHUCKDEMON
+Whaaat?
+278)  GUYBRUSH
+Seriously, the funk that's comin' out of your mouth could peel the blubber off a manatee!{default}
+279)  LECHUCKDEMON
+Arrrrr!{default}
+280)  GUYBRUSH
+{default}Let's see if these roots add anything to this horrible not-grog.
+281)  GUYBRUSH
+{disgust}Blech.  This "root grog" is bland, joyless, and jejune.  {default}It's also flat.
+282)  GUYBRUSH
+{suspicious}I don't think this sword can slice open that hold.{default}
+283)  GUYBRUSH
+Let's see if we can cut back some of those unruly roots.
+284)  GUYBRUSH
+There, much neater.
+285)  GUYBRUSH
+I don't think that plant would survive a second trimming.
+286)  GUYBRUSH
+{stern}Brace yourself, I'm gonna cut you free!
+287)  ELAINE
+{sarcastic}Cut through these ropes with that sword?{surprised}  Are you crazy?
+288)  GUYBRUSH
+{proud}Crazy in looOOOoove, maybe.{default}
+289)  ELAINE
+{default}You just worry about LeChuck, sweetheart.{bitchy}  I'll be okay.{default}
+290)  GUYBRUSH
+{confused}I don't think I should be throwing my cutlass at Elaine from way over here.  {scared}I could hit something sensitive.{default}
+291)  GUYBRUSH
+{suspicious}Hmm, a wet cutlass.  {default}Just what I've always wanted.
+292)  GUYBRUSH
+{suspicious}Okay, you barrel of disgusting lo-cal goo, make yourself useful!
+293)  GUYBRUSH
+{cocky}Boo-yeah!  Look out LeChuck, here comes Guybrush Threepwood's glowing sword of hot monkey vengeance!
+294)  GUYBRUSH
+{happy}I wondered where all my gunpowder went after the {default}mother-in-law incident.
+295)  GUYBRUSH
+{stern}I'm NOT skewering a monkey... {default}they're not in season.
+296)  GUYBRUSH
+{default}All right, time to give this cutlass a root beer shower.
+297)  GUYBRUSH
+{disgust}Flat root beer?  What kind of second-rate voodoo seltzer bottle has FLAT root beer?{default}
+298)  GUYBRUSH
+{stern}En garde!
+299)  GUYBRUSH
+{surprised}Ow!{default}
+300)  ELAINE
+{worried}I don't think that'll work until you finish enchanting the cutlass, love.{default}
+301)  GUYBRUSH
+{embarrassed}I was kinda hoping you wouldn't say that.{default}
+302)  GUYBRUSH
+{stern}You fight like a...
+303)  GUYBRUSH
+{surprised}...dairy farmer.
+304)  GUYBRUSH
+{scared}Look!   A three-headed monkey!
+305)  CRIMPDIGIT
+{angry}Hey!  Keep yer grubby mitts off me bottle breaker!
+306)  GUYBRUSH
+Yoink!
+307)  GUYBRUSH
+It's amazing how many of life's problems are solved by indiscriminate cannon fire...
+308)  GUYBRUSH
+{cocky}Allez-oop!
+309)  GUYBRUSH
+{worried}Uh-oh.
+310)  GUYBRUSH
+{stern}[muffled] Hey!
+311)  GUYBRUSH
+{default}Oof!
+312)  GUYBRUSH
+{stern}[struggling against Winslow's cranking] Grrrr... ar!
+313)  GUYBRUSH
+{angry}[straining] Grrrr!
+314)  GUYBRUSH
+{stern}Oh, monkeyspit.
+315)  GUYBRUSH
+{default}Man, those are some sturdy undies.
+316)  GUYBRUSH
+Hmm, it looks like this clothesline can be cranked from either side.  Snazzy.
+317)  GUYBRUSH
+{proud}[as though reading an ad] "Sheer, sexy, and playful, with plenty of support, for the active pirate."
+318)  GUYBRUSH
+That sock needs a good darning.
+319)  GUYBRUSH
+{stern}Darn you, sock!
+320)  GUYBRUSH
+{confused}Okay, now what?
+321)  GUYBRUSH
+It's a good thing Winslow's undies have so much crotchal support.
+322)  GUYBRUSH
+These size 9 bombs won't fit in that size 3 sock.
+323)  WINSLOW
+{happy}[stifling a laugh sound] <snort!>
+324)  GUYBRUSH
+{stern}Hey, those things are heavy!
+325)  WINSLOW
+[apologetic while still trying to suppress a laugh] No need to explain, lad.  Happens to the best of us.
+326)  GUYBRUSH
+{cocky}Take that!
+327)  WINSLOW
+{happy}[stifling a laugh sound] I'm sorry, what exactly was I supposed to be taking?
+328)  GUYBRUSH
+{embarrassed}[annoyed]  Never mind.
+329)  GUYBRUSH
+{incredulous}[facetiously] No.  Don't.  Please.
+330)  WINSLOW
+{cocky}You'll have to be a lot sneakier than that if you want to knock ME off, lad!
+331)  GUYBRUSH
+{cocky}Oh, I wouldn't say that...
+332)  WINSLOW
+{confused}What?
+436)  GUYBRUSH
+{confused}What?
+732)  GUYBRUSH
+{confused}What?
+1533)  GUYBRUSH
+{confused}What?
+333)  WINSLOW
+{surprised}Clever boy...
+334)  WINSLOW
+{happy}Well played, Master Threepwood!  Or should I say "Captain Threepwood?"
+335)  GUYBRUSH
+{confused}Captain?
+336)  WINSLOW
+{enthused}Aye!  Now that you've bounced me off the Screaming Narwhal, you're officially its captain until someone else comes along and knocks you off!
+337)  GUYBRUSH
+{happy}Sweet!
+338)  WINSLOW
+Aye, bloody well sweet it is!  Now, if you'll excuse me, I have some massive internal hemorrhaging to attend to.   Congratulations!
+339)  NIPPERKIN
+{suspicious}I just got a tip that there's some kind of wanton piracy going on around here!
+340)  GUYBRUSH
+Not just any wanton piracy! {proud} [proud] A genuine ship seizure, committed by none other than Captain Guybrush Threepwood, Mighty Pirate™!
+341)  NIPPERKIN
+{happy}Wonderful!  I can probably get a week's worth of stories out of this!
+342)  NIPPERKIN
+{stern}You know, Threepwood, you've got spunk. {Sarcastic} Pirate spunk.
+343)  GUYBRUSH
+{proud}Well, it all started back on Melee Island™...
+344)  NIPPERKIN
+{sarcastic}Keep up the swashbuckling, Threepwad, and I'll be forking over the secrets of Deep Gut in no time!
+345)  GUYBRUSH
+What can you tell me about this bottle?
+1855)  
+What can you tell me about this bottle?
+346)  CRIMPDIGIT
+{cocky}Arrr, that be one of my special "unbreakable" bottles!
+347)  GUYBRUSH
+{cocky}"Unbreakable?" Ha! {proud}[proud] There isn't a bottle alive that's a match for MY gift for destruction!
+348)  CRIMPDIGIT
+{default}The secret ingredients are those jagged crystal reefs. {stern} They're tougher than diamonds!
+349)  GUYBRUSH
+{confused}Weird.  But what do you do if you want to open one of these unbreakable bottles in order {embarrassed}to, say, look at an ancient scroll that you've cleverly sealed inside?
+350)  CRIMPDIGIT
+{cocky}Arrr, that's a good question, lad.  Here, I'll show you how it's done.
+351)  CRIMPDIGIT
+{enthused}I use this beauty to chip off flakes from the reefs, and to crack open bottles like this one.
+352)  GUYBRUSH
+{confused}So let me get this straight - Your "unbreakable" bottles {happy}are, in fact, opened by breaking them?
+353)  GUYBRUSH
+Nothing more pirate-y than the ol' "climbing up the anchor" trick...
+354)  GUYBRUSH
+{incredulous}Oh, dang.
+355)  GUYBRUSH
+{whiney}Hot! hot! hot!  Ow!
+356)  WINSLOW
+You'll have to do better than that, lad!
+357)  WINSLOW
+{cocky}Ahem.
+358)  GUYBRUSH
+{stern}[Annoyed] And now the dock is smoldering.  Perfect.
+359)  GUYBRUSH
+{confused}I don't know why I keep doing that.
+360)  DESINGE
+[cheery][filter: through a tube] Bon jour!
+361)  MARSHALL
+[screaming][filter: through a tube]  OHHH HO HO HO!  MY NOSE!
+362)  DESINGE
+[cheery][filter: through a tube] Doctor De Singe!
+363)  DORO
+[screaming][filter: through a tube]  MY EYE!  WHAT HAVE YOU DONE TO MY EYE!?
+364)  DESINGE
+[cheery][filter: through a tube] Bonjour!
+365)  MCGEE
+[screaming][filter: through a tube]  HEY!  WHAT HAPPENED TO ME OTHER LEG!?
+366)  DESINGE
+[cheery][filter: through a tube] Hello?
+367)  WINSLOW
+[in pain][filter: through a tube]Argh, my spleen!
+368)  GUYBRUSH
+Sounds like he's busy.
+369)  GUYBRUSH
+I'll just come back later.
+370)  GUYBRUSH
+I should probably come back after he's done with his patient.
+371)  GUYBRUSH
+{incredulous}Yeah, I think I'll try again later.
+372)  GUYBRUSH
+{stern}Prepare to be boarded, Van Winslow!
+373)  GUYBRUSH
+{confused}What the-?
+374)  WINSLOW
+{cocky}Bacon grease, boyo.  Slickest stuff in the seven seas.
+375)  GUYBRUSH
+{angry}Grrrr...
+376)  GUYBRUSH
+{scared}[sliding down the gangplank]  Ahhhhhh!
+377)  GUYBRUSH
+{whiney}Aw, crud, this jacket was an anniversary present, and now it's all covered with bacon grease!{worried}  Man, is Elaine gonna be p.o.'d.
+378)  GUYBRUSH
+Let's try that again.
+379)  GUYBRUSH
+{stern}Grrrr...
+380)  GUYBRUSH
+[sliding backwards on the gangplank]  Ahhhhhh!
+381)  GUYBRUSH
+{default}Yup, still pointless.
+382)  GUYBRUSH
+I don't think those embers are going out any time soon.
+392)  GUYBRUSH
+I don't think those embers are going out any time soon.
+383)  GUYBRUSH
+The Screaming Narwhal may not be particularly pretty (or seaworthy), but at least she's a ship.
+384)  GUYBRUSH
+{happy}I've got a ship again! {worried} Now if only these stupid winds would stop sucking, I could sail away and find Elaine.
+385)  GUYBRUSH
+{confused}If I give you a flower, will you allow me to seize the Screaming Narwhal?
+386)  WINSLOW
+{happy}[amused] By Jove lad, that is by far the silliest attempt to get me off this ship in months!
+387)  GUYBRUSH
+{happy}So you'll do it?
+388)  WINSLOW
+Of course not.  YOU may be silly, but I'm not!  Ha!
+389)  GUYBRUSH
+Would you like a flower?
+1276)  GUYBRUSH
+Would you like a flower?
+390)  CRIMPDIGIT
+{worried}Nay, those things make me sneeze like a banshee... {default}which can be a real hazard when you're blowing molten glass.
+391)  GUYBRUSH
+{confused}Hmm.  Banshees sneeze.  Who knew?
+393)  GUYBRUSH
+{confused}Hmm carvings of mermaids... or are they mer-men?
+394)  GUYBRUSH
+{whiney}I don't really have the education, jacket, or fedora to properly interpret ambiguous ancient carvings.
+395)  GUYBRUSH
+It's locked.
+1644)  GUYBRUSH
+It's locked.
+396)  CRIMPDIGIT
+Arr, the only people allowed in me studio are me, meself, and I [pronouonced "ayyyye."]
+397)  CRIMPDIGIT
+{angry}[angry] Come back later!  We're closed until I can replace all me inventory that SOMEONE blasted to hades and back!
+398)  GUYBRUSH
+{embarrassed}Man, what kind of a jerk would do that?
+399)  CRIMPDIGIT
+[angry] I don't know, but when I find the scupperscraper, I'll shove one of me bottles so deep up his fundament....
+400)  CRIMPDIGIT
+[angry] Arrgh!
+401)  GUYBRUSH
+{worried}What's a "fundament"?
+402)  CRIMPDIGIT
+[angry] We're closed!
+403)  GUYBRUSH
+[reading] "Well, Blow Me Down Glassworks."
+404)  GUYBRUSH
+{confused}I'm not sure whether this is Late Rococo or Early Creepy.
+405)  GUYBRUSH
+{happy}Mmmm, flowers.
+406)  GUYBRUSH
+{disgust}What a crummy sconce.
+407)  GUYBRUSH
+{stern}That contraption just screams “mad scientist.” {default} Or at the least, “extremely miffed scientist.”
+408)  GUYBRUSH
+{Confused}Huh?
+409)  GUYBRUSH
+I think I've made a big enough impression on this cheese wheel.
+410)  GUYBRUSH
+{surprised}Holy screaming starfish!
+411)  GUYBRUSH
+{happy}I think I've just found my ride off this stinkin' island.
+412)  WINSLOW
+{stern}[loudly, from above] Not so fast, my well-coiffed friend!
+413)  GUYBRUSH
+{confused}Who?
+414)  WINSLOW
+[loudly, from the deck] Reginald Van Winslow, captain of the Screaming Narwhal.  {cocky}And you are?
+415)  GUYBRUSH
+It's a pile of roots from Elaine's plant.
+416)  GUYBRUSH
+You wouldn't believe the incredible adventures I went through finding all the parts for this thing.
+417)  GUYBRUSH
+Over the years I've learned the best time to use a weapon is when it's pulsing with spooky voodoo energy.
+418)  GUYBRUSH
+I kind of guessed that the breath mints would make the root beer fizzy... but I'm a little freaked out by the glowing.
+419)  GUYBRUSH
+It's a seltzer bottle full of root beer.  It looks kind of flat.
+420)  GUYBRUSH
+I wonder how you open this thing...
+421)  GUYBRUSH
+Aha!
+422)  GUYBRUSH
+A seltzer bottle full of root beer!  I haven't seen one of these since before I had a beard!
+423)  GUYBRUSH
+What was a seltzer bottle doing in a monkey coffin, anyway?
+424)  GUYBRUSH
+Hmm.  Looks like I've only got a couple of steps left.
+425)  GUYBRUSH
+{happy}Whoah!  Fizz city!{default}
+426)  GUYBRUSH
+{confused}If I make this root beer any fizzier, the bottle'll break.{default}
+427)  GUYBRUSH
+[reading]"Fizzy Phil's Breath Mints - Give Your Mouth the Gift of Fizz."
+428)  GUYBRUSH
+{confused}So doc, what's the verdict?
+429)  DESINGE
+{happy}Ah, monsieur, you are a very lucky man!
+430)  GUYBRUSH
+{surprised}I am?
+431)  DESINGE
+Ah oui!  {amazed}The disease spreading through your saucy little pirate hand is like nothing I've ever seen before!
+432)  GUYBRUSH
+{suspicious}That doesn't sound very lucky...
+433)  DESINGE
+In fact, {stern}somewhere in that oozing appendage may lie the secrets{amazed} to life itself!
+434)  GUYBRUSH
+It may?  {happy}Hey, nice going, hand!
+435)  DESINGE
+{arrogant}I'll know more after I cut it off.
+437)  GUYBRUSH
+Hey!
+913)  DORO
+Hey!
+953)  DESINGE
+Hey!
+438)  DESINGE
+{happy}But of course, Monsieur Threepwood! The only cure for a hand THAT infected is a quick clean amputation!
+439)  GUYBRUSH
+{worried}[trying not to freak out] Amputation!?{scared}  Isn't that a little rash?
+440)  DESINGE
+{stern}No, it's a very BIG rash, which is why we have to amputate!  {default}But not to worry, monsieur, your hand won't feel a thing thanks to my {happy}specially-concocted grog anesthetic!
+442)  DESINGE
+{default}Now, if you'll just relax here for a few minutes, I'll be in the back sharpening my petite guillotine blade.  {happy}[cheery] We don't want to cut off our hand with a dull blade, now do we?
+443)  GUYBRUSH
+{worried}Well, I guess you have a point there...
+444)  DESINGE
+Au revoir!{default}
+445)  GUYBRUSH
+What a loon.  {confused}But at least my hand seems under control for a while.
+446)  GUYBRUSH
+{default}I'd better figure out a way out of this tastefully appointed abattoir before {suspicious}the Marquis de Crazypants comes back.{default}
+447)  GUYBRUSH
+{default}It's a cute little guillotine... {worried}that's about to cut my hand off!{default}
+448)  GUYBRUSH
+I wonder what that does?
+449)  DESINGE
+{default}THAT is my experimental Foudrovolium, which pulls lightning from the skies via {happy}these cute little voles!
+450)  GUYBRUSH
+Why would you do that?{default}
+451)  DESINGE
+SCIENCE!{default}
+452)  GUYBRUSH
+{confused}It's a machine that uses rodents to make lightning.{default}
+453)  GUYBRUSH
+{suspicious}I wonder what's in that box?{default}
+454)  DESINGE
+That's where I keep poor little Jacques.  Now that I've nursed him back to health after his terrible ordeal, I'm training him to help out around my laboratorium.
+455)  GUYBRUSH
+{default}It's the box for Jacques.{happy}  Hmm, a Jacques-in-the-Box.{default}
+456)  GUYBRUSH
+{default}It's a key.{suspicious}  I can't reach it from this position.{default}
+457)  GUYBRUSH
+{surprised}Feets don't fail me now...
+458)  GUYBRUSH
+{happy}Score one for the pirate with the pointy feet!{default}
+459)  GUYBRUSH
+It's some sort of foot pedal.  I can't reach it from here.
+460)  GUYBRUSH
+It's a pedal that releases a banana.  I can't reach it from here.
+461)  GUYBRUSH
+{default}Let's see what this does.
+462)  GUYBRUSH
+{happy}Bananas from heaven!  Thanks, banana god!{default}
+463)  GUYBRUSH
+Let's see what this does.
+464)  DESINGE
+Please don't fiddle with my assistant instruction pedal, mon ami!  It is, how you say, "sensitive."
+465)  GUYBRUSH
+It's a snazzy bronze foot pedal. I can't reach it.
+466)  GUYBRUSH
+It's a pedal that causes that machine over there to go crazy.
+467)  GUYBRUSH
+This looks like it might do something interesting...
+468)  GUYBRUSH
+{surprised}That's the key De Singe used to lock me down!{default}  If only it weren't so far away!
+469)  GUYBRUSH
+{confused}If I had to guess, I'd say that was one of DeSinge's former patients...{suspicious} probably one who came in with a hangnail.{default}
+470)  GUYBRUSH
+{suspicious}Murray?{default}
+471)  GUYBRUSH
+It's a cute little baby bell.  I can't reach it from this position.
+472)  GUYBRUSH
+It's a cute little bell that makes the monkey play with that picture machine over there.
+473)  GUYBRUSH
+{happy}What an amazing device.
+474)  DESINGE
+{happy}Ah, I see you have discovered my incredible Illuminopictoscreen!  {amazed}It harnesses the power of light to amplify tiny drawings a thousandfold!
+475)  DESINGE
+Just imagine, someday people will be able to share hundreds of pictures of their holiday travels with their extended families, {happy}simultaneously!{default}
+476)  GUYBRUSH
+{stern}You fiend!{default}
+477)  GUYBRUSH
+{confused}It's De Singe's Ilumi-,{suspicious}  Illiminu, Imilinu... {default}it's a machine that puts pictures on a wall.
+478)  GUYBRUSH
+Hmm, a stack of pictures.
+479)  GUYBRUSH
+It's a stack of pictures for that picture-embiggening-device over there.
+480)  GUYBRUSH
+{worried}Those are the stairs I naively climbed to enter this lab of horrors.{default}
+481)  GUYBRUSH
+{confused}It's a strange drawing of the inside of my hand.
+482)  DESINGE
+{happy}I call it a "LA DESINGEOGRAPH!"{default}
+483)  GUYBRUSH
+I call it creepy.{default}
+484)  GUYBRUSH
+{default}It's a "desingeograph" of the inside of my hand,{surprised} bones and all.{default}
+485)  GUYBRUSH
+The monkey knocked over that picture of my hand, but I can't reach it from here.
+486)  GUYBRUSH
+{cocky}All right feet, make yourselves useful...
+487)  GUYBRUSH
+{happy}All right!  A gross picture of my grosser hand!  Things are looking up!{default}
+488)  DESINGE
+{amazed}Hmmm... very interesting... {confused}and you say your sick little hand has a mind of its own?
+489)  GUYBRUSH
+{surprised}Yeah, it keeps hitting people, making rude gestures, {confused}doing all sorts of stuff I'd never do... {suspicious}well, not without a really good reason anyway.
+490)  DESINGE
+{amazed}Fascinating.
+1830)  DESINGE
+{amazed}Fascinating.
+491)  GUYBRUSH
+{confused}So, can you fix it?
+492)  DESINGE
+{happy}Monsieur Threepwood, {arrogant}you have my word as a former physician of the Court of King Louis that {amazed}by the time you leave here, your misanthropic hand will never trouble you again!{default}
+493)  GUYBRUSH
+{default}Go right ahead, doc.
+494)  GUYBRUSH
+{surprised}[watching the tail bob] That's it... {confused}come on, you magnificent magnetic monkey...
+495)  GUYBRUSH
+{surprised}Gotcha!  Now to work the [straining to bend his hand backwards]{suspicious} key... into... the lock...
+496)  GUYBRUSH
+{surprised}Ta-daaaa!
+497)  DESINGE
+{angry}Monsieur Threepwood!  What do you think you're doing?  {stern}Get back on that table at once!
+498)  GUYBRUSH
+Sorry, doc, {cocky}but I think I should get a second opinion.  {happy}Thanks for numbing up my hand, though!  {suspicious}All that flailing and slapping was getting on my nerves!
+499)  DESINGE
+{angry}Wait!{default}
+500)  GUYBRUSH
+{surprised}Wow, an electromagnetic monkey!... {happy}I had a dream like that once, {confused}only it was an iguana, not a monkey, and instead of a key{happy} it was an ice cream cone.  {suspicious}Plus, I was in my underwear for some reason...
+501)  GUYBRUSH
+{confused}I hope this works, or I'm about to throw away a perfectly good key...
+502)  DESINGE
+{stern}Jacques!  Bad monkey!  {angry}After I take care of Monsieur Threepwood, it's back in the box for you!{default}
+503)  GUYBRUSH
+{default}Listen, monkey, if you and I work together, we can both bust out of this joint.  {suspicious}Whaddaya say, are you with me?
+504)  GUYBRUSH
+{happy}That's the universal symbol for "yes!"{default}
+505)  GUYBRUSH
+{surprised}Ouch.  {suspicious}That looked unpleasant.{default}
+506)  GUYBRUSH
+{worried}Sorry!{default}
+507)  GUYBRUSH
+{suspicious}Waitasec... {confused}is he enjoying this?{default}
+508)  GUYBRUSH
+{confused}Sick little monkey.{default}
+509)  GUYBRUSH
+Hmmm... lightning and monkeys... what's the connection?
+510)  GUYBRUSH
+Hmmm...
+511)  GUYBRUSH
+It's a beautiful rendering of the classic "Pirate Da Vinci."
+512)  GUYBRUSH
+{confused}Wow, my hand looks about 80 times more disgusting when it's blown up like this.{default}
+513)  GUYBRUSH
+{suspicious}I don't think I wanna drop this there.{default}
+514)  GUYBRUSH
+{suspicious}I don't think I wanna drop this there...
+515)  GUYBRUSH
+{surprised}Whoops!
+516)  GUYBRUSH
+I meant to do that.{default}
+517)  GUYBRUSH
+{confused}I don't think I can unlock that.{default}
+518)  GUYBRUSH
+{suspicious}I don't think this key goes with that lock, and besides, I don't think my legs will bend that far.{default}
+519)  GUYBRUSH
+{suspicious}I've heard of these... {confused}I think they're called "microscopes."
+520)  DESINGE
+I prefer the term "Enlargorama."
+521)  GUYBRUSH
+{evil}[going LeChuck] Yeah, and I'd prefer to rip yer gizzard out, ya sniveling sea slug!
+522)  GUYBRUSH
+{surprised}[normal]  Whoah!  What was that?{default}
+523)  GUYBRUSH
+It's an "Enlargorama."
+524)  GUYBRUSH
+That's the door to De Singe's balcony, for mad doctoring "al fresco."
+525)  GUYBRUSH
+{default}De Singe is back there, {worried}sharpening his blades.
+526)  DESINGE
+Did you say something?
+527)  GUYBRUSH
+{surprised}No, just talking to myself.  {confused}I do that sometimes.
+528)  DESINGE
+You know, I can cure that too!
+529)  GUYBRUSH
+{surprised}No thanks, I'm good.{default}
+530)  DESINGE
+As you wish.
+531)  GUYBRUSH
+{confused}That blade must be really dull.{default}
+532)  GUYBRUSH
+{surprised}Come on Jacques, help a guy out!
+533)  GUYBRUSH
+{suspicious}Wonderful.{default}
+534)  GUYBRUSH
+{surprised}C'mon, Jacques, bring me the key!
+535)  GUYBRUSH
+What is it boy?  Are you hungry?  Do you need to go to the bathroom?  {happy}It's the bathroom, isn't it?
+536)  GUYBRUSH
+{suspicious}Hmm, I could swear I've seen a monkey do that before.{default}
+537)  GUYBRUSH
+{default}I never know what to think of test tubes...{suspicious} I really hate tests,{confused} but I'm generally okay with tubes.{default}
+538)  GUYBRUSH
+{surprised}If I spent a few dozen years in a University, I bet I could combine these chemicals to create a powerful acid that would eat through my bonds!
+539)  GUYBRUSH
+{cocky}But I'm a pirate, so I'll just say{stern} "arrrrr."{default}
+540)  GUYBRUSH
+{confused}Within those musty tomes lies the scientific know-how to get me out of this jam.
+541)  GUYBRUSH
+{default}But even if I could reach them, {cocky}I'm a pirate, which means I get my know-how from the pages of the SEA,{stern} arrrr.{default}
+542)  GUYBRUSH
+Well that's just swell.  My brand new ship's all covered with tar.  [addressing his hand] This is all your fault, you know.
+543)  GUYBRUSH
+Ow.
+544)  CRIMPDIGIT
+[from a great distance]  Me unicorns!  Me beautiful unicorns!
+545)  CRIMPDIGIT
+[from a great distance]  Not again!
+546)  CRIMPDIGIT
+[from a great distance] Noooooo!
+547)  GUYBRUSH
+{proud}Ahoy there, scruffy artisan, I'm Guybrush Threepwood, Mighty Pirate™.
+548)  CRIMPDIGIT
+{enthused}Ahoy yerself.  I be Gaffer Crimpdigit, pirate glassblower.
+549)  GUYBRUSH
+I'm back!
+550)  CRIMPDIGIT
+Aye, so ya are.
+551)  GUYBRUSH
+[pickup1] What kind of name is Gaffer Crimpdigit?
+552)  GUYBRUSH
+{confused}How'd a crusty pirate like yourself wind up making little glass unicorns?
+555)  GUYBRUSH
+What can you tell me about Flotsam Island?
+556)  CRIMPDIGIT
+Well, ye probably already know about Flotsam's infernal winds, {enthused}but has anyone told you about the reefs?
+557)  GUYBRUSH
+{confused}The reefs?
+558)  CRIMPDIGIT
+{default}Aye, the crystal reefs of Flotsam Island!  {enthused}Sharper than a dragon's tooth they be!  They encircle the island, shredding any ship foolish enough to get caught in Flotsam's winds!
+559)  GUYBRUSH
+{surprised}Yikes!
+560)  GUYBRUSH
+Could you use your nifty bottle breaking tool to break open a bottle for me?
+561)  CRIMPDIGIT
+Of course!
+562)  GUYBRUSH
+{happy}Great-
+563)  CRIMPDIGIT
+That'll be 37 pieces of eight.
+564)  GUYBRUSH
+{whiney}What?  I haven't got any pieces of eight!
+565)  CRIMPDIGIT
+{sarcastic}Then I guess I won't be breaking any bottles for you.
+566)  GUYBRUSH
+If you won't break my bottle, maybe I'll find a bottle breaker of my own!
+567)  CRIMPDIGIT
+Aye, good luck with that.  This beauty's the only one on the island, so unless you be plannin' to steal it-
+568)  CRIMPDIGIT
+Arrr, that be a tale of murder [smash] and high seas intrigue.  It all began [Smash] with me great-great-grandfather, Codliver Crimpdigit [SMASH] HEY!
+569)  GUYBRUSH
+[pickup1] What?
+570)  CRIMPDIGIT
+Would you kindly refrain from smashin' me inventory?
+571)  GUYBRUSH
+[pickup1] Oh, sorry.  I seem to be having some trouble with my hand today.
+572)  CRIMPDIGIT
+{stern}Listen matey, glassblowing's every bit a dangerous as Sailing the Spanish Main!  {default}One false move with your glassjack near the glory hole, and you can kiss your eyebrows good-bye!
+573)  GUYBRUSH
+I can? {suspicious} I'm not sure that's biologically possible.
+574)  GUYBRUSH
+{confused}What's this "Alphabet Sale" all about?
+575)  CRIMPDIGIT
+{enthused}It's the latest thing!  {happy}I make unbreakable tubes in the shapes of letters, which can be used to created festive illuminated business signs, novelty mementoes or lamps.
+576)  GUYBRUSH
+{suspicious}Kitschy.
+577)  CRIMPDIGIT
+Aye, very camp.  {default}Consonants cost 48 pieces of eight, {enthused}but today I'm giving away one free vowel per customer.  Would you like a vowel?
+578)  GUYBRUSH
+I think I'd like one of those free vowel tubes.
+579)  CRIMPDIGIT
+{enthused}You'd like to buy a vowel, eh?  Here ya go!
+580)  GUYBRUSH
+Thanks for chatting, {embarrassed}but I've got a wife and arch-nemesis to return to.
+581)  CRIMPDIGIT
+Aye, who doesn't?
+582)  GUYBRUSH
+I'll let you return to your fancy-shmansy glassblowing.
+583)  CRIMPDIGIT
+Aye, {stern}and I'll let you return to being a pest.
+584)  GUYBRUSH
+How goes the glassblowing?
+585)  CRIMPDIGIT
+{stern}Don't get me started!  {angry}[angry] Some idiot just blasted a batch of me best unicorns to kingdom come!
+586)  GUYBRUSH
+{surprised}No!
+587)  CRIMPDIGIT
+{stern}Aye!  When I get my hands on him I'm gonna {angry}[he goes full-pox here] rip out his tongue and pour molten glass down his throat!  Arrrrrrr! [he snaps out of it.]
+588)  GUYBRUSH
+How's the glassblowing biz?
+589)  CRIMPDIGIT
+{sad}Arrr, it be in serious trouble, sonny.  Some thievin' scoundrel stole me one-of-a-kind bottle breaker!
+590)  GUYBRUSH
+{stern}The devil you say!
+591)  CRIMPDIGIT
+Without me bottle breaker, I can't break open me unbreakable bottles!  And if can't break them open, who's gonna want to buy them?  I'm ruined!
+592)  GUYBRUSH
+{default}You could always go back to pirating.
+593)  CRIMPDIGIT
+{angry}[He goes full-pox][angry]Are you soft in the head?  What kind of blankety-blank pirate would I be without a ship!?  Or Winds!?  Or Eyebrows!? [he snaps out of it]
+594)  GUYBRUSH
+[saying it without full bravado, kinda by rote, still looking at his hand] {Stern} I'm Guybrush Threepwood, Mighty Pirate™, {Default}and--
+595)  NIPPERKIN
+{Happy} A pirate, eh?  {Suspicious} Well, I'll believe it when I see it, kid.  {Cocky} Still, it'd be nice to have a real genuine pirate buckling his swash around Flotsam Island again. {Default} Why, I haven't had a honest-to-goodness pirate story to write about {Stern} in over six months!  {Default} Yessireebob, nothing like the promise of a good pirate story to get the ol' {Sarcastic} journalistic juices flowin' again, sez I...
+596)  GUYBRUSH
+[trying to get a word in edgewise] {Confused} Um...
+597)  GUYBRUSH
+[trying to get a word in edgewise] {Worried} Er...
+598)  GUYBRUSH
+[exasperated] {Angry} Hey!
+599)  NIPPERKIN
+{Happy} Say!  {Stern} Just listen to me prattling on, while you stand there {Sarcastic} all wet and confused and whatnot.  {Default} SO, what's {Suspicious} your story, Creepwood?
+600)  GUYBRUSH
+{Default} This island looks, {Suspicious} ur, lovely, but {Confused} where can I find a ship?  {Stern} I really need to get back to the Rock of Gelato and find my wife!
+601)  NIPPERKIN
+{Default} Well, there's only one ship here on Flotsam Island, {Sarcastic} but it won't do you any good.
+602)  GUYBRUSH
+{Confused} Why not?
+603)  NIPPERKIN
+{Stern} It's the winds, Threepwand, {Suspicious} the winds!  {Default} Here on Flotsam Island, the winds are always blowing inward, 24 hours a day, 365 days a year.  {Confused} It's a freak of nature,{Sarcastic} a fluke, {Suspicious} a curse.  {Default} Whatever you wanna call it, the result is the same - once you've landed on Flotsam Island, {Stern} you're TRAPPED.
+604)  GUYBRUSH
+{Suspicious} Are you seriously telling me there's no way off this island?
+605)  NIPPERKIN
+{Cocky} Well, not by ship, anyway.  {Default} The only person who I think might know a way off the island is Deep Gut.
+606)  GUYBRUSH
+[curious] {Confused} Deep Gut?  {Stern} What's a Deep Gut?
+607)  NIPPERKIN
+{Default} Deep Gut's my secret source for off-island news stories.  {Cocky} And it's a good thing, too!  {Default} Without the Gut's uncanny inter-island scoops, the Keelhauler Gazette would never be able to compete with those [angry] {Angry} snooty prima donnas over at the Flotsam Times!
+608)  GUYBRUSH
+[curious] {Suspicious} Off-island news?  {Happy} Then he might know something about Elaine! {Stern} Where can I find this "Deep Gut?"
+609)  NIPPERKIN
+{Sarcastic} Hold on a second, pirate-boy!  {Stern}Davey J. Nipperkin doesn't go handing over his secret sources to every Tom, Dick, and {Suspicious} Guybrush that washes ashore!
+610)  GUYBRUSH
+{Default} But I can pay you!  With treasure!  {Sarcastic} From my ship...[crestfallen] {Whiny} which is probably at the bottom of the ocean by now.
+611)  NIPPERKIN
+{Suspicious} Look, kid, you seem like a nice enough pirate, {Default} so I'll make you a deal.
+612)  GUYBRUSH
+{Confused} A deal?
+613)  NIPPERKIN
+{Cocky} Oh, we used to love all sorts of piracy here on Flotsam! {Happy}  Barely a day would go by without a good bar fight, ship seizing, or buried treasure cropping up!  {Confused} Now it seems like all anyone wants to do is hang around and wait for the winds to change...
+614)  GUYBRUSH
+[proud] {Proud} Well, leave it to me, and your sleepy little hamlet will be bubbling over with buccaneering boisterousness before you know it!
+615)  NIPPERKIN
+{Enthused} That's the spirit, kid!  {Default} If you can translate that moxie into newsmaking pirate mayhem, then I'll {Happy}hand you Deep Gut on a silver platter!
+616)  GUYBRUSH
+{Confused} A snap.
+617)  GUYBRUSH
+{Stern} A sna-OW!
+618)  VOODOO
+[off-screen] Welcome, Guybrush.
+619)  GUYBRUSH
+{happy}The Voodoo Lady!  Boy, am I glad to see you!  {surprised}I've got so many questions--
+620)  VOODOO
+{default}There'll be time enough for questions later!  But first, hand me the LeChuck-slayer!
+621)  GUYBRUSH
+{confused}The what?
+622)  VOODOO
+The Cursed Cutlass of Kaflu! {mystical}Now that LeChuck has been destroyed, the cutlass must be {stern}ritually dismantled in a soul-chilling voodoo ceremony, to ensure that his evil never reawakens!{default}
+623)  GUYBRUSH
+{embarrassed}Yeahhhh, about that...
+624)  GUYBRUSH
+{surprised}[embarrassed and talking somewhat quickly] I tried to destroy LeChuck with the cutlass, but I had to make some last second substitutions,{embarrassed} and there were some... complications.
+625)  VOODOO
+{stern}What manner of... complications?
+626)  GUYBRUSH
+[hemming and hawing] Well, the cutlass didn't so much annihilate LeChuck as it... [quietly] turned him human.
+627)  VOODOO
+{angry}WHAAAAAAT!?
+628)  GUYBRUSH
+{surprised}I couldn't believe it, either.  {suspicious}[to himself] Personally, I think it's a trick...
+629)  VOODOO
+[ignoring Guybrush, talking to her self] A human LeChuck... this is... troubling.
+630)  GUYBRUSH
+{whiney}Can you help me?
+631)  VOODOO
+{default}I'll do as much as the fates allow... but I fear that you will not like what I have to say...
+632)  GUYBRUSH
+{surprised}Can you help me get off Flotsam Island?  {confused}I've got a ship, but it won't do me any good with these crazy winds.
+633)  VOODOO
+The cards say... no.
+634)  GUYBRUSH
+{suspicious}[getting angry] No?  Can't you just {angry}wiggle your fingers and voodoo-shmoodoo the winds to blow out?
+635)  VOODOO
+What you ask is beyond my power, Guybrush.
+636)  GUYBRUSH
+{evil}[demonically angry, talking like LeChuck]  Then what in the name of Satan's combover are ya good for,{angry} ya bloated old sea hag!?
+637)  GUYBRUSH
+{whiney}Can you tell me if Elaine is okay?
+638)  VOODOO
+Hmmm, the view is... hazy.  Ask again later.
+639)  GUYBRUSH
+Later?  But she could be in danger!{worried}  Or dead!  {surprised}Or worse!
+640)  VOODOO
+I only know what the spirits reveal, Guybrush Threepwood.
+641)  GUYBRUSH
+{confused}Have you got anything for my hand?  {whiney}I think I may have picked up a rash somewhere.
+642)  VOODOO
+Fascinating.
+643)  GUYBRUSH
+And itchy.  Can you fix it?
+644)  VOODOO
+No.
+645)  GUYBRUSH
+{suspicious}[shaking it off, reverting to normal] [tongue radpidly wags back and forth in mouth as he shakes]Whoo.  {surprised}What was that?
+646)  VOODOO
+{surprised}That... was the Pox of LeChuck!
+647)  GUYBRUSH
+{confused}Who the whatnow?
+648)  VOODOO
+{default}The Pox of LeChuck.  When your improperly-enchanted cutlass turned LeChuck into a human, all the evil voodoo juju within him had to go somewhere.  Were you touching him at the time?
+649)  GUYBRUSH
+{surprised}Do you have a cure?
+650)  VOODOO
+No.  But I know where you can find one.
+651)  GUYBRUSH
+{suspicious}I feel a pirate-y quest coming on...
+652)  VOODOO
+{default}To eliminate the Pox of LeChuck, you must seek out... {mystical}LA ESPONJA GRANDE!
+653)  GUYBRUSH
+[translating] The.. Big... Sponge?
+654)  VOODOO
+La Esponja Grande is no ordinary sponge, Threepwood.  It is a legendary sea sponge with incredible voodoo exfoliating abilities, capable of absorbing limitless quantities of voodoo mojo.
+655)  GUYBRUSH
+{cocky}I'll get right on it after I find Elaine.
+656)  VOODOO
+{stern}That would be unwise, Guybrush.  {angry}The Pox of LeChuck must be eliminated before it spreads.{default}
+657)  GUYBRUSH
+Whatever.
+658)  VOODOO
+I'm afraid the winds of Flotsam are controlled by forces beyond my control, Guybrush.  Perhaps someone in town can help you.
+659)  GUYBRUSH
+{confused}Do you have anything to stave off the Pox of LeChuck? {whiney} This hand is really starting to annoy me.
+660)  VOODOO
+The ONLY way to safely deal with the Pox is La Esponja Grande.
+661)  GUYBRUSH
+{whiney}Why didn't you tell me that grog could be used to stave off the effects of the Pox?
+662)  VOODOO
+{angry}Grog!?  Grog won't cure the Pox of LeChuck, it'll only make it worse!
+663)  GUYBRUSH
+{incredulous}How can grog make ANYTHING worse?
+664)  VOODOO
+{default}You hand may seem fine now, but when it wakes up, {stern}it'll be even nastier than ever.{default}
+665)  GUYBRUSH
+{suspicious}You've just got a thing against grog.
+666)  GUYBRUSH
+{confused}What else can you tell me about the Pox of LeChuck?
+667)  GUYBRUSH
+{whiney}Are you sure you can't help me get off Flotsam Island?
+668)  VOODOO
+As I said, the mysteries of Flotsam are above my pay grade.  Seek out others to assist you.
+669)  VOODOO
+{stern}It's a creeping cloud of unstoppable evil, spreading LeChuck's accumulated vileness like a disease across the seas!
+670)  GUYBRUSH
+{disgust}Ugh!
+671)  VOODOO
+{default}Even now, I can sense the Pox wending its way to this very island!
+672)  GUYBRUSH
+{scared}The Pox of LeChuck is spreading!  {surprised}There's a big green cloud of it floating over Flotsam Island!
+673)  VOODOO
+{default}Then it is even more imperative that you find La Esponja Grande as soon as possible, before LeChuck's residual evil infects pirates everywhere!
+674)  GUYBRUSH
+No problem.  {cocky}Once I find Elaine I'm all over this Sponge thing.
+675)  VOODOO
+{stern}Don't allow your concern for Elaine cloud your judgment, young Threepwood.{default}
+676)  GUYBRUSH
+Listen, {stern}if it comes down to a choice between saving my wife and going on a dangerous pirate quest for a giant magical loofah,{cocky} Elaine's gonna win out at LEAST sixty percent of the time!
+677)  GUYBRUSH
+{confused}Anything else you think I should know about this Pox?
+678)  VOODOO
+{stern}Only that it must be stopped, {default}and that you are the only one who can stop it.
+679)  GUYBRUSH
+{whiney}Do you know anything about the Marquis De Singe?
+680)  VOODOO
+{default}I do not trust that man, nor do I understand him.
+681)  GUYBRUSH
+{surprised}He tried to cut off my hand!
+682)  VOODOO
+This does not surprise me.  {stern}"Scientists" such as De Singe would shatter the soul of the world to answer a few petty riddles.  {angry}The fates alone know what he's done to this poor island.{default}
+683)  GUYBRUSH
+{whiney}Do you think De Singe could have something to do with the freaky winds of Flotsam Island?
+684)  VOODOO
+It would not surprise me, but I cannot tell.
+685)  GUYBRUSH
+{surprised}I've found evidence that De Singe has been manipulating the winds of Flotsam Island!
+686)  VOODOO
+{default}Then you must work to restore them.  {stern}Ill winds such as these are not natural, and must be returned to their proper balance.{default}
+687)  GUYBRUSH
+{cocky}That's what Elaine always says on taco night.
+688)  GUYBRUSH
+{cocky}Assuming that I DO go looking for [air quotes] "La Esponja Grande" after I get off this island, what else can you tell me about it?
+689)  VOODOO
+{mystical}It's a giant magical sea sponge, capable of absorbing immense voodoo energies.  {default}If there's anything that can mop up all of LeChuck's evil mojo,{mystical} it's the sponge.{default}
+690)  GUYBRUSH
+{suspicious}That guy looks awfully familiar...{default}
+691)  GUYBRUSH
+Frozen chicken gizzard, frozen newt eyes, snake venom popsicles...
+692)  GUYBRUSH
+{confused}I'm not sure what kind of skull that is, but I hope I never run into one.{default}
+693)  GUYBRUSH
+{happy}Cool bocce ball!
+694)  VOODOO
+{angry}This is no bocce ball!  {default}This is the Legendary All-Seeing Eye of Yemalla!
+695)  GUYBRUSH
+All-seeing?  Can it see Elaine's ship, {confused}or what happened to my favorite pair of socks?{default}
+696)  VOODOO
+Not right now.  It's, um, sleeping.
+697)  GUYBRUSH
+It's the Voodoo Lady's Legendary Paperweight of Yemalla.
+698)  GUYBRUSH
+{stern}[straining to open chest] Umph!  {default}It's locked.
+699)  VOODOO
+{mystical}Yes, and it will remain locked until it's ready to reveal its secrets... many moons from now.{default}
+700)  GUYBRUSH
+It's a mysterious chest that I won't be opening in this episode.
+701)  GUYBRUSH
+{happy}[enthusiastic] Cards, neat!  {cocky}Anyone up for a quick game of Five Card Draw-and-Quarter?  Follow the Monkey?  {happy}Melee Hold 'Em?
+702)  VOODOO
+{stern}These cards are not playthings, Guybrush Threepwood!  {default}They are only to be used to divine the will of the Fates!
+703)  GUYBRUSH
+{confused}So, what do the Fates have in store for me?
+704)  VOODOO
+{mystical}You are about to take a journey...
+705)  VOODOO
+...on a ship...
+706)  VOODOO
+...you will suffer a great loss...
+707)  VOODOO
+...and make a new friend...{Default}
+708)  GUYBRUSH
+{suspicious}[sarcastic] Ooh, portentous.  Not to mention vague.{default}
+709)  GUYBRUSH
+{confused}Any new tidings from the cards?{default}
+710)  VOODOO
+{mystical}Not until you begin your journey.{default}
+711)  GUYBRUSH
+{happy}Hey, I bet one of these creepy voodoo books could come in handy.
+712)  VOODOO
+{default}This is not a lending library, Threepwood.  {stern}Merely intoning the TITLES of these forbidden tomes can inflict a curse on uninitiated tongues!{default}
+713)  GUYBRUSH
+{incredulous}[sarcastic] Shyeah, right.{default}
+714)  GUYBRUSH
+[reading]"Chicken Hearts for the Soul."
+715)  GUYBRUSH
+{default}[reading, voice starting to get raspy] "What to Expect When You're Expecting Zombies"{stern}... <kaff>
+716)  GUYBRUSH
+{worried}[reading, voice nearly gone] "Screams... of... my Father..."{default}
+717)  GUYBRUSH
+{stern}[thin rasp] "Z is for Zombie"{default}
+718)  GUYBRUSH
+{stern}[thin rasp] "The New Joy of Hex: A Gourmet Guide to Spellmaking in the 1590s"{default}
+719)  GUYBRUSH
+{happy}Spiffy rug.  {confused}Is that some sort of voodoo foursquare court?
+720)  VOODOO
+{default}That is the symbol of the Crossroads, the intersection between this world and the world of the spirits.  All those who practice the voodoo must make offerings to the Crossroads to draw magic into the world of the living.
+721)  GUYBRUSH
+Really?  'Cause I've never seen LeChuck offer up anything to anyone.
+722)  VOODOO
+That is because LeChuck is a selfish abomination, {stern}hoarding voodoo power for personal gain without concern for the natural order of things.  {default}Now that he's human, his leftover plundered mojo is oozing around like a disease, clogging the Crossroads with its putrescence.
+723)  GUYBRUSH
+It's a rug with a symbol of the Crossroads on it.
+724)  GUYBRUSH
+{suspicious}Hideous.{default}
+725)  GUYBRUSH
+{default}[talking to parrot] Knock-knock?
+726)  VOODOO
+{surprised}Guybrush, don't--
+727)  PARROT
+<squawak!> Who's there?
+728)  VOODOO
+[alramed] No-
+729)  GUYBRUSH
+{happy}It's me, Guybrush Threepwood, Mighty Pirate!
+730)  PARROT
+<squawk> [in perfect Guybrush voice] It's me, Guybrush Threepwood, Mighty Pirate!
+731)  VOODOO
+{angry}You fool!
+733)  VOODOO
+I've spent months crafting a Pyrite Parrot of Petaluma, and you've ruined it before it was finished!  Now I'll have to start all over!{default}
+734)  GUYBRUSH
+{embarrassed}Sorry.{default}
+735)  GUYBRUSH
+{default}Hey, if you're done with this,{happy} can I have it?
+736)  VOODOO
+{stern}[annoyed] Fine.  It's of no use to me now.{default}
+737)  GUYBRUSH
+{cocky}[addressing the parrot] Who's the studliest pirate in the whole wide world?
+738)  GUYBRUSH
+Heh.{default}
+739)  GUYBRUSH
+That really puts the "die" in "diorama."
+740)  GUYBRUSH
+{confused}Yummy.{default}
+741)  GUYBRUSH
+Can't you use all the magical gunk in these bottles to cure my hand?
+742)  GUYBRUSH
+{confused}I wonder what's in-
+743)  VOODOO
+{stern}Don't touch that!  It's where I keep my... {mystical}unmentionables.{default}
+744)  GUYBRUSH
+{disgust}[shuddering] Gewghh...{default}
+745)  GUYBRUSH
+{confused}What's this?{default}
+1524)  GUYBRUSH
+{confused}What's this?{default}
+1537)  GUYBRUSH
+{confused}What's this?{default}
+746)  VOODOO
+{mystical}That is a shrine to the Nor Treblig, keeper of the Crossroads.{default}
+747)  MEMBER2
+Arrr, keep yur poxy hand out of me grog!
+749)  GUYBRUSH
+Sorry, I seem to be having some trouble with my hand...[hearing the growling]... today.
+750)  MEMBER1
+Look out for his hand!
+751)  MEMBER2
+Ieee!
+752)  GUYBRUSH
+Sorry!  Ow!
+753)  MEMBER1
+Oof!
+754)  VOODOO
+The Pox of LeChuck can only be cured with La Esponja Grande.
+755)  GUYBRUSH
+{default}[reading] "International House of Mojo Brand Hand Lotion.  Good for removing warts, curses, hexes, and unsightly buobols."
+756)  GUYBRUSH
+[reading]"WARNING - Not for use against poxes, especially the Pox of LeChuck."{stern}
+757)  GUYBRUSH
+Rats.{default}
+758)  GUYBRUSH
+I think the Voodoo Lady would get pretty honked off if I broke her crystal ball.
+759)  GUYBRUSH
+{confused}I'm not letting the scorpion loose...{scared} that thing looks dangerous!{default}
+760)  GUYBRUSH
+What do you make of this?
+761)  VOODOO
+{mystical}Hmmm, this appears to be an artifact of the Vaycaylians, an ancient tribe that lived here many ages ago.{default}
+762)  GUYBRUSH
+{happy}Would you like a flower?
+763)  VOODOO
+{default}Hmm, a rare Vacaylian Daisy.
+764)  VOODOO
+{mystical}They can be used to converse with certain sea creatures.
+765)  GUYBRUSH
+{suspicious}What do they talk about?{default}
+766)  VOODOO
+{default}Fish, mostly.
+767)  GUYBRUSH
+{happy}Would you like another flower?{default}
+768)  VOODOO
+No thank you.
+769)  GUYBRUSH
+{cocky}I broke open the bottle... can you help me with this scroll?
+770)  VOODOO
+{stern}[looks at map]  Hmmm.  The Fates have decreed that you must travel this path on your own, Guybrush Threepwood.
+771)  GUYBRUSH
+{suspicious}You can't figure it out either, can you?{default}
+772)  VOODOO
+{default}No, it's the, um, Fates.
+773)  GUYBRUSH
+{proud}I figured the Vaycaylian scroll out all by myself!{default}
+774)  VOODOO
+{mystical}All is as the Fates have foresaw.  Foreseen.  {default}Foresook.  Whatever.
+775)  GUYBRUSH
+{confused}Tell me more about this locket.
+776)  VOODOO
+{default}It was a given to me by my... {mystical}friend.. Coronado De Cava.
+777)  GUYBRUSH
+{suspicious}Why do you keep putting dramatic pauses around "friend?"  Was Coronado-?
+778)  VOODOO
+Yes, he was my boyfriend.
+779)  GUYBRUSH
+{disgust}Icky!
+780)  VOODOO
+We met in the Jerkbait Islands many years ago.  I fell in love with his treasure hunting mind and his beautiful eyes.  He fell in love with my voodoo charms and my supple-
+781)  GUYBRUSH
+La-la-la-la!  Not listening!
+782)  VOODOO
+{surprised}[finishing her torrid description] - like a volcano!  {default}But after several months of ocean-steaming passion, our love cooled after he became obsessed with the myth of La Esponja Grande. When we parted, he gave me that locket...
+783)  GUYBRUSH
+{worried}Sad... {confused}and disquietingly graphic.{default}
+784)  GUYBRUSH
+Tell me some more about the locket.
+785)  VOODOO
+No, it... hurts too much.  Go to the Jerkbait Islands.  Find Coronado De Cava and show him the locket.  If anyone can find La Esponja, he can.
+786)  GUYBRUSH
+{confused}I think this fell off your roof.
+787)  VOODOO
+{mystical}Ah, I found that when I was building my Shack.  I believe it's an ancient Vaycaylian weather vane.  You can tell by the extra directions, pointing to some of their many wind gods.
+788)  GUYBRUSH
+Want it back?{default}
+789)  VOODOO
+{default}No.  The Spirits have obviously delivered it to you for a reason.
+790)  GUYBRUSH
+{suspicious}If I start blowing up stuff in the Voodoo Lady's, she'll probably turn me into a fruit bat!{default}
+791)  GUYBRUSH
+{confused}I'm feeling kinda bad about your parrot.  {happy}Would you like it back?
+792)  VOODOO
+{default}No, Guybrush.  {stern}The Curse of the Pyrite Parrot is yours forevermore.{default}
+793)  GUYBRUSH
+Thanks.  {suspicious}Wait, what?{default}
+794)  MCGEE
+Arrr!
+2392)  MCGEE
+Arrr!
+795)  GUYBRUSH
+{Happy} Hey there-
+1661)  GUYBRUSH
+{Happy} Hey there-
+796)  MCGEE
+{Stern} You!
+797)  GUYBRUSH
+[confused] {Confused} Me?
+798)  MCGEE
+{Stern} Couldn't leave an old Hemlock alone with his grog and his tattered dreams, could ya?
+799)  GUYBRUSH
+{Default} Why aren't you in Club 41, curled up with your grog?
+800)  MCGEE
+[angry][going full pox] {Evil} Because the two-timin' cannon-cloggers kicked me out!
+801)  GUYBRUSH
+{Confused} What the heck happened to your legs!?
+802)  GUYBRUSH
+{Suspicious} Why?
+803)  MCGEE
+{Stern} The Club has a strict "No Feet, No Service" clause.
+804)  GUYBRUSH
+{Cocky} Talk about adding insult to injury.
+805)  MCGEE
+[koffing a bit throught]{Stern} You mean ASIDE from some idiot getting a {Sad} poor old pirate involved in a deadly bar fight?
+806)  GUYBRUSH
+{Stern} Um, {Happy} yeah.
+807)  MCGEE
+{Suspicious} Four words - The. Marquis. De. {Stern} Singe.
+808)  GUYBRUSH
+{Confused} The Marquis De Singe cut off your legs?
+809)  MCGEE
+{Sad} Aye.  Not all at once, of course. {Default}  He cut off the first leg seven years ago, after I {Stern} stubbed me toe while investigating the winds of Flotsam Island.
+810)  GUYBRUSH
+{Disgust} That seems kind of severe.
+811)  MCGEE
+{Sad} Aye.  Sometimes I think that {Stern} poncy git has it {Concerned} in for me.
+812)  GUYBRUSH
+{Incredulous} YOU were investigating the winds of Flotsam Island?
+813)  MCGEE
+{Default} Aye.  I've been trying to {Confused} suss out these zany zephyrs since I {Stern} washed up here! {Suspicious} I even found an ANCIENT SCROLL that promised to {Enthused} lead me to all the answers!
+814)  GUYBRUSH
+{Disgust} Harsh.
+815)  MCGEE
+{Concerned} Without two good legs, {Sad} I couldn't explore anymore, {Stern} so I limped into Club 41 and started up a {Sarcastic} long-term relationship with a keg of grog.
+816)  GUYBRUSH
+{Seductive} Can I see your ancient scroll?
+817)  MCGEE
+{Sarcastic} 'Fraid not, skippy.  {Evil} [angry]Some two-bit witch stole it from me in a poker game a few months ago.  {Stern} [bitter]Won't do her any good without my {Cocky} Eye of the Manatee, though!  Heh!
+818)  GUYBRUSH
+{Happy} I was thinking I could carry on your work, to make amends for the whole {Worried}  "getting your leg hacked off" thing.
+819)  GUYBRUSH
+{Default} If De Singe DOES have it in for you, I might be able to use it wreak some sort of {Cocky} pirate-y revenge on him.
+820)  GUYBRUSH
+{Cocky} Because I'm a fearsome pirate, and you should do as I say!  {Stern} Arrrr!
+821)  GUYBRUSH
+{Confused} Because of my plus-10 charisma?
+822)  MCGEE
+{Stern} Ehh... fine.  [dejected]{Sad} I can't use it anymore, anyhow.
+823)  GUYBRUSH
+{Confused} I got your scroll, but {Worried} I'm having a hard time figuring it out.
+824)  MCGEE
+{Sarcastic} It's a stumper, ain't it?
+825)  GUYBRUSH
+{Suspicious} Got any advice?
+826)  MCGEE
+{Sarcastic} Try not to stub your toe.  Heh.
+827)  GUYBRUSH
+{Happy} I figured out your scroll!
+828)  MCGEE
+{Sarcastic} Well, whoopee for you!  {Stern} What did you find?
+829)  GUYBRUSH
+A big statue that looks like someone playing a musical salamander.
+830)  MCGEE
+{Suspicious} That must be what those {Stern} danged mer-folk used to controls the winds!
+831)  GUYBRUSH
+[Confused]{Confused} You mentioned Mer-Folk??
+832)  MCGEE
+{Sarcastic} Aye, Mer-Folk!  Before {Stern} De Singe cut off me leg, I'd discovered that {Suspicious} Flotsam Island was colonized by a <koff!> hidden race of mer-folk called the "Vaycaylians," {Default} who'd grown tired of living under the sea, and wanted to try living on land for a while.
+833)  GUYBRUSH
+{Suspicious} And?
+834)  MCGEE
+{Default} It didn't take.  After a {Confused} few hundred years, they went {Suspicious} back to the oceans.  {Stern} Buncha flibbertijibbets, if you ask me.
+835)  GUYBRUSH
+{Default} Anything else you can tell me about those indecisive MerFolk?
+836)  MCGEE
+{Confused} The Vaycaylians?  {Default} Well, they had a thousand different words for "wind," {Suspicious} but none for "man" or "woman."
+837)  GUYBRUSH
+{Seductive} Exotic.
+838)  GUYBRUSH
+{Default} Y'know, even aside from the legs, {Sarcastic} you're looking a little green at the gills.
+839)  GUYBRUSH
+{embarrassed}Um, good luck with that.
+840)  MCGEE
+[going full pox][angry] {Evil} And I think you should mind yer own beeswax, ya lily-livered chum {Stern} sucker![he recovers]
+841)  GUYBRUSH
+{Surprised} Whoah.  {Confused} What was that?
+842)  MCGEE
+{Confused} What was what?
+843)  VOODOO
+{default}I have never seen it myself, but a former... {mystical}friend... of mine, Coronado De Cava, spent many years searching for it.  {default}I last saw him in the Jerkbait Islands.  Take this locket to him, and tell him I vouched for your character.
+844)  GUYBRUSH
+{confused}So, how'd a dazzling urbanite like yourself wind up in {suspicious}a sleepy pirate island like Flotsam?
+845)  DESINGE
+{happy}[wistfully remembering]  Ah, mon ami, that is a tale of triumph {stern}and tragedy.  {default}Many years ago, I was a young physician in the court of King Louis.  {happy}Those were heady days, tending to the many ills of the aristocracy, navigating scandalous palace intrigues... {default}I was a rising star in the scientific firmament.
+846)  GUYBRUSH
+{surprised}And zen- {suspicious}I mean -then?
+847)  DESINGE
+{angry}[fuming] A conspiracy of jealous scientists accused me of performing inhumane cross-breeding experiments with the Queen's poodles!
+1833)  DESINGE
+{angry}[fuming] A conspiracy of jealous scientists accused me of performing inhumane cross-breeding experiments with the Queen's poodles!
+848)  GUYBRUSH
+{incredulous}Scientists can be so catty.
+849)  DESINGE
+{default}The King was outraged, {stern}and ordered me exiled on this deserted tropical island.
+850)  GUYBRUSH
+{confused}Deserted?  Then you were the first-
+851)  DESINGE
+{happy}Oui.  Happily, my solitude was short-lived, {default}as the merry winds of Flotsam have conspired to bring me many new pirate patients over the years!
+852)  GUYBRUSH
+{default}Y'know, Hemlock thinks you've got it in for him.
+853)  DESINGE
+{stern}Hemlock?
+854)  GUYBRUSH
+Pirate explorer?  {confused}Two peg legs?  Bit of an attitude?
+855)  DESINGE
+{default}Ah Hemlock!  Such a sad little pirate.  All those years of searching in vain for the "secrets" of Flotsam Island have driven him, how you say, "cuckoo bananas," no?
+856)  GUYBRUSH
+{default}Scientifically speaking, {confused}what do YOU think is the cause of these crazy winds swirling around Flotsam.
+857)  DESINGE
+{default}Ah yes, the winds.  {stern}Personally, I'm convinced that they're a rare, but perfectly natural meteorological phenomenon {default}caused by a LaGrange inversion of the atmospheric humors in the upper troposphere, causing a counter-cyclonic-
+858)  GUYBRUSH
+Ack!  {disgust}Forget I asked.
+860)  GUYBRUSH
+{default}A friend of mine says that my hand is{surprised} cursed with a voodoo pox that can only be cleared up with a magical sponge.
+861)  DESINGE
+{happy}Voodoo, pfah!  {angry}Voodoo is nothing but unenlightened baby jabber for the ignorant and superstitious masses!  {stern}The only path to true knowledge is via a rigorous scientific inquiry... {default}preferably conducted by a suitably aristocratic mind.
+862)  GUYBRUSH
+{confused}So my pox-
+863)  DESINGE
+Is nothing more than a disease.  A disease we will cure with{happy} SCIENCE!{default}
+864)  DESINGE
+{amazed}[excited] Encroyable!
+865)  DORO
+[Out of breath from all the walking]  {Worried} And X marks the spot!
+866)  DORO
+[Out of breath from all the walking] Whew!  I better start digging...
+867)  DORO
+{Confused} I hope it's not as deep as the other ones....
+868)  DORO
+{Stern} Ow!  I got dirt in my eye!
+869)  GUYBRUSH
+{Happy} See, I told you I could find it!
+870)  DORO
+[whispered] {Stern} Madre de dios!  {Sarcastic} Dark. {Happy} Ninja. {Enthused} Dave. with KillerKarateKatana!!!
+871)  DORO
+[these first two are sing-songy, kinda to the childlike Nyah-nyah-ne-nyah-nyah, or if you can't figure that out, the "no time for losers" line in "We Are the Champions"] {Happy} Dark Ninja Dave!  Dark Ninja Dave!
+872)  NIPPERKIN
+{Suspicious} Do my ears deceive me, or did that portly pirate just dig up a buried treasure?
+873)  GUYBRUSH
+{Happy} He sure did... with a {Proud} little help from Guybrush Threepwood, Mighty Pirate™!
+874)  NIPPERKIN
+{Happy} That's fantastic!  We haven't had a good "buried treasure" story in weeks!
+875)  NIPPERKIN
+{Default}I'd better catch up with that wheezy pirate before he {Sarcastic} has a coronary, or worse, {Stern} starts talking to those boobs from {Angry} the Times.
+876)  NIPPERKIN
+{Sarcastic} Snappy pirating, Threepwood.  {Happy} Keep this up, and the secrets of Deep Gut'll be all yours!
+877)  DORO
+Don't touch those!
+878)  GUYBRUSH
+Why?
+1345)  GUYBRUSH
+Why?
+879)  DORO
+They're mine!
+880)  GUYBRUSH
+Can I have one of your Pink Pajamas Pierres?
+881)  DORO
+NO!
+882)  GUYBRUSH
+But I though you didn't like them!
+883)  DORO
+That doesn't mean I don't WANT them!
+884)  GUYBRUSH
+[whispering to himself][quickly girding himself to deal with the porcelain]  {Worried} Okay Guybrush... {Stern} it's only a little porcelain... {Default} just close your eyes and {Confused} go to your happy place...
+885)  GUYBRUSH
+{Disgust} [mildly disgusted] Ewwww.
+886)  DORO
+{Stern} I didn't see anything!
+887)  GUYBRUSH
+{Embarrassed} Sorry, must've been a leaf.
+888)  DORO
+{default} All this turning around {Worried} is getting me winded.
+889)  GUYBRUSH
+{Stern} Oh shoot, {Sarcastic} you just missed it.
+890)  DORO
+{Suspicious} Are you messing with me?
+891)  GUYBRUSH
+{Incredulous} Moi?
+892)  GUYBRUSH
+I better put this cheese back in my pants before a wandering capybara gobbles it up.
+893)  ELAINE
+{angry}[shouting between ships]Stop showboating and spray the sword, Guybrush
+894)  DESINGE
+[muffled by being stuck in the idol] What's happening?
+895)  GUYBRUSH
+{Stern} Shh!
+896)  GUYBRUSH
+{Happy} [enthusiastic] All right!!!
+897)  GUYBRUSH
+{Embarrassed} [sheepish] Ooh, the Pox is blowing out to sea!  Hope that doesn't come back to bite me in the fundament.  {Sarcastic} Well, I'm sure it'll be fine.
+898)  DESINGE
+[stunned] {Amazed} Zut... alors...the winds...
+899)  DESINGE
+[fuming] {Angry} Do you have any idea what you've done!?  Without the winds of Flotsam bringing me a steady supply of injury-prone pirate test subjects, {Stern} the pace of my groundbreaking experiments will slow to a crawl!
+900)  GUYBRUSH
+{Cocky} Talk to the hand, sicko, 'cause the pirate ain't listenin'!
+901)  DESINGE
+[angry] {Angry} Grrrrr!  Mark my words, Threepwood... you'll rue the day you crossed the Marquis De Singe!
+902)  DESINGE
+{Stern} And your little hand, too!
+903)  GUYBRUSH
+[shouting after him]  {Confused} Rue!?  I don't know {Stern} the meaning of the word!
+904)  GUYBRUSH
+{Cocky} Well, looks like my work here is done.  {Happy} I better hurry back to the Screaming Narwhal before the Flotsamites get wind of the, {Confused} um, wind...
+905)  DESINGE
+What was that fooping sound?
+906)  GUYBRUSH
+{Incredulous} Beats me.  {Default} Now, if you'll just stop waving that rifle around, I've got some winds to change.
+907)  DESINGE
+Not so fast, insignificant pirate person!
+908)  DESINGE
+Sacre merde!
+909)  GUYBRUSH
+{Suspicious} Hmm, guess I didn't do whatever I was supposed to do.
+910)  GUYBRUSH
+{Incredulous} Nothin'.
+911)  GUYBRUSH
+{Confused} I wonder what I'm doing wrong?
+912)  GUYBRUSH
+{Stern} Randomly spinning these dials is getting me nowhere.
+914)  GUYBRUSH
+{Suspicious} Hmmm, that must've been the God of Winds that Knock off Your Hat.
+915)  GUYBRUSH
+Hmmm, I wonder what wind god that was supposed to--
+916)  GUYBRUSH
+[disgusted]Ewww.  Broken wind, got it.
+917)  DORO
+Santa Maria Conchita Alonso!  I KNEW I should've worn my chinos today!
+918)  GUYBRUSH
+Ah, that must be the Wind that Makes you Reconsider Wearing Shorts.
+919)  DESINGE
+Threepwood!
+926)  DESINGE
+Threepwood!
+929)  DESINGE
+Threepwood!
+920)  DESINGE
+Cease your ham-fisted fumblings, and surrender that hand!
+921)  GUYBRUSH
+{Stern} Make me!
+922)  GUYBRUSH
+[falling]Ahhhhh!
+923)  GUYBRUSH
+{Happy} Hey, I'm still alive!
+924)  GUYBRUSH
+{Stern} Whatta grouch.
+925)  GUYBRUSH
+{Sarcastic} It's a good thing De Singe's rifle is just as wimpy as the man who built it.
+927)  DESINGE
+Step away from that delicate machinery, and give me your hand!
+928)  GUYBRUSH
+{Stern} And if I don't?
+930)  DESINGE
+You're meddling in affairs you can't possibly understand!
+931)  GUYBRUSH
+{Cocky} So what else is new?
+932)  GUYBRUSH
+{suspicious} Hmm, no sign of the Marquis.  {Happy} Good... all that {Confused} shooting was giving me a headache.
+933)  GUYBRUSH
+[happy] {Happy} Okay, let's figure out the final wind idol thingie, and get the heck--
+934)  DESINGE
+{Stern} Threepwood!
+1256)  DESINGE
+{Stern} Threepwood!
+935)  GUYBRUSH
+[annoyed] {Suspicious} Aw geez.
+936)  GUYBRUSH
+{Confused} How'd you beat me here, anyway?
+937)  DESINGE
+[arrogant] {Sarcastic} Once I heard the third change in the winds, it was child's play for a {Arrogant} scientifically-trained intellect of my stature to deduce which of the four winds remained.
+938)  GUYBRUSH
+{Stern} So, now what?
+939)  DESINGE
+[annoyed] {Stern} NOW, my annoying pirate friend, you hand over that ancient leverometer device, I restore the winds to their full "sucking" force, and you accompany me to my laboratorium, so that I can properly remove and study your hand with the pointy sticks of SCIENCE!
+940)  GUYBRUSH
+{Confused} "Leverometer?"
+941)  DESINGE
+{Angry} [angry] The thing with the seahorse on it!
+942)  GUYBRUSH
+{Surprised} Oh.  {Sarcastic} Yeah, I don't think I'll be giving you that.
+943)  GUYBRUSH
+{Happy} Hey look!  It's King Louis the Twelfth!
+944)  DESINGE
+{Worried} My liege!  {Confused} I thought you were dead!
+945)  GUYBRUSH
+{Sarcastic} Oh my!  It's King Louis the Thirteenth!
+946)  DESINGE
+{Amazed} Mon dieu!
+947)  GUYBRUSH
+{Surprised} Holy moses! It's King Louis the Fourteenth!
+948)  DESINGE
+{Confused} Are we already up to fourteen?
+949)  GUYBRUSH
+{Confused} Sacre bleu!  It's King Louis the Fifteenth!
+950)  DESINGE
+{Stern} Now THAT doesn't sound right at all...
+951)  GUYBRUSH
+{Surprised} Look over there!  {Suspicious} It's King Louis the <mumble-mumble>
+952)  DESINGE
+{Confused} Who?
+954)  GUYBRUSH
+{Suspicious} You're still here?
+955)  DESINGE
+{Arrogant} But of course.
+956)  GUYBRUSH
+{Suspicious} Let's try this again.
+957)  DESINGE
+{Sarcastic} Oui, Let's.
+958)  GUYBRUSH
+{Suspicious} You know I'm never going to give you my hand, right?
+959)  DESINGE
+{Sarcastic} Then I suppose I'll just have to improvise a NEW experiment!
+960)  VOODOO
+[voice altered, as though perhaps trying to sound more masculine]  What's the word?
+961)  GUYBRUSH
+{Incredulous} I've been reliably informed that the bird is, {Sarcastic} in fact, the word.
+962)  GUYBRUSH
+{Incredulous} I'm selling these fine leather jackets.
+963)  GUYBRUSH
+Keelhauler.
+964)  GUYBRUSH
+{Sarcastic} Nipperkin.
+965)  GUYBRUSH
+{Confused} Is it pie?  {Happy} I hope it's pie.
+966)  GUYBRUSH
+{Confused} I haven't a clue.
+967)  GUYBRUSH
+{Suspicious} You sound awfully familiar...
+968)  GUYBRUSH
+{Happy} "Deadline"
+969)  GUYBRUSH
+{default} Maybe I can move the door by pushing on this giant crystal nose...
+970)  GUYBRUSH
+[straining] {Angry} Grrrrr...
+971)  GUYBRUSH
+{Default} Nope.
+972)  GUYBRUSH
+{Angry} [straining] Grrrrr...
+973)  GUYBRUSH
+{Default} Nothin'.  And I'm starting to get cuts on my hands.  What's this thing made of anyway?
+974)  GUYBRUSH
+{Happy} Wow.  I bet this thing would be really impressive if {Confused} I knew what the heck all these inscriptions meant.
+975)  GUYBRUSH
+{Confused} Hmm, I wonder if I can see anything on the other side?
+976)  GUYBRUSH
+{Sarcastic} There's something interesting in there, but I can't tell what it is.
+977)  GUYBRUSH
+{Default} Hmm.  Guess this thing fell off the roof when I had my little "LeChuck Episode."
+978)  GUYBRUSH
+{Happy} I should get shouty more often.
+979)  GUYBRUSH
+That's odd... don't most weather vanes only have FOUR wind directions?
+980)  GUYBRUSH
+{surprised}[shouting] Elaine!{default}
+981)  ELAINE
+{surprised}[shouting] What?{default}
+982)  GUYBRUSH
+{surprised}[shouting] What am I supposed to be doing?{default}
+983)  ELAINE
+{stern}[shouting] Get the voodoo recipe!  {surprised}It's tacked to your mast!{default}
+984)  GUYBRUSH
+{confused}[shouting] The recipe says I'm supposed to soak the cutlass in magical root beer, but I can't find any!
+985)  ELAINE
+{surprised}[shouting]  Have you looked in that creepy monkey coffin!?{default}
+986)  GUYBRUSH
+{happy}[shouting] I found the root beer!{default}
+987)  ELAINE
+{sarcastic}[shouting] We're all very impressed! Now spray the cutlass with it!{default}
+988)  GUYBRUSH
+{confused}[shouting] The root beer's flat!{default}
+989)  ELAINE
+{angry}[shouting] Then find something to fizz it up!{default}
+990)  GUYBRUSH
+{happy}[shouting]I made fizzy root beer!{default}
+991)  ELAINE
+{surprised}[shouting] Then spray the sword before it goes flat!{default}
+992)  GUYBRUSH
+{confused}[shouting] I don't know what to do!
+993)  ELAINE
+{surprised}[shouting] Neither do I!  {worried}I think we're doomed!{default}
+994)  GUYBRUSH
+{surprised}[shouting] Are you okay?{default}
+995)  ELAINE
+{surprised}[shouting] I'm fine!  Finish the recipe!{default}
+996)  GUYBRUSH
+{surprised}[shouting] Do you need anything?{default}
+997)  ELAINE
+{surprised}[shouting] I said I'm fine!  {bitchy}Just finish the recipe!{default}
+998)  GUYBRUSH
+{confused}[shouting] Want me to get anything from the hold?{happy}  I've brought some pot stickers!{default}
+999)  ELAINE
+{angry}[shouting] No!  Finish the recipe!{default}
+1000)  GUYBRUSH
+{confused}[shouting] Why do you keep shouting at me?{default}
+1001)  ELAINE
+{stern}[shouting] I'm not shouting, I'm projecting!{default}
+1002)  GUYBRUSH
+{surprised}So, what've you been up to while I was out adventuring?
+1003)  ELAINE
+{default}Oh, the usual.   Mayhem.   Swashbuckling.  A troubling encounter with an enchanted aardvark.  {surprised}Now my hold's full of monkeys, {sarcastic}and Captain Personality over there thinks he's gonna marry me.
+1004)  GUYBRUSH
+Again?{confused}  Talk about obsessed.
+1005)  ELAINE
+It'd be flattering if I wasn't already so married... {bitchy}and he wasn't so dead.{default}
+1006)  GUYBRUSH
+{surprised}You wouldn't believe the adventures I've been having!  {default}There was a death-hula, {scared}an ice-breathing accountant, and-
+1007)  ELAINE
+You can tell me all about it over dinner, right after we stop the rampaging undead pirate over there!{default}
+1008)  GUYBRUSH
+{confused}What's LeChuck doing with all these monkeys, anyway?
+1009)  ELAINE
+{worried}I think it's some sort of blood sacrifice in exchange for the secret language of plankton.  {default}Or maybe he just really hates monkeys.  {bitchy}It's all been a little vague.{default}
+1010)  GUYBRUSH
+{suspicious}That's strange... {default}LeChuck's soul-chilling schemes are usually so well-planned.
+1011)  GUYBRUSH
+{happy}Now that we're reunited, what should we do?
+1012)  ELAINE
+{default}First, {bitchy}YOU should look for a way to replace that root beer you dropped.{default}
+1013)  GUYBRUSH
+{happy}I've replaced the root beer with root grog.  {confused}Do you think that'll work?{default}
+1014)  ELAINE
+{stern}It hope so, or those monkeys are doomed! {worried}Dip the cutlass in it, and hurry!{default}
+1015)  GUYBRUSH
+{cocky}Hey, the cutlass is all glowy!{default}
+1016)  ELAINE
+{stern}[excited] Swing it at LeChuck,{surprised} NOW!{default}
+1017)  GUYBRUSH
+{happy}Elaine!{default}
+1018)  ELAINE
+Guybrush?
+2259)  LECHUCK
+Guybrush?
+1019)  GUYBRUSH
+{cocky}LeChuck!
+1020)  LECHUCKDEMON
+[annoyed] What?
+1021)  GUYBRUSH
+{suspicious}What's with all the monkeys?  {cocky}[chummy] Are you trying to learn the Secret of Monkey Island again?
+1022)  LECHUCKDEMON
+{devilish}Nay, now I be after much darker secrets, {default}secrets buried deep within the entrails of the Monkeys of Montevideo!!!
+1023)  LECHUCKDEMON
+{devilish}Bwah-ha-harrrrrrr!
+1024)  GUYBRUSH
+{confused}What kind of secrets do these monkeys hold?
+1025)  LECHUCKDEMON
+{default}Dark secrets!  Powerful secrets!  {devilish}Secrets that will make me a demon pirate king!  Har-har-harrrr!
+1026)  GUYBRUSH
+{confused}Would you mind releasing my wife?  {embarrassed}She gets a little cranky when she's tied up for more than an hour or so.
+1027)  LECHUCKDEMON
+{surprised}YOUR wife?  {default}Nay, Elaine is destined to be MY bride!
+1028)  GUYBRUSH
+{cocky}Destiny, shmestiny, Elaine's MY wife, and she's not marrying you.
+1029)  LECHUCKDEMON
+{default}Ye be startin' to get on me nerves, Geekwood.  Elaine?
+1030)  ELAINE
+Oh, for pity's sake.  Just run him through with the cutlass so we can all go home.
+1031)  LECHUCKDEMON
+{devilish}As you wish, my love.
+1032)  GUYBRUSH
+{surprised}I'm pretty sure she was talking to me.
+1033)  GUYBRUSH
+{angry}Listen.  See this ring?  It means that Elaine and I are married.  Hitched.  Co-habitating.  Eternally betrothed.  {surprised}Till death do us part.  Get it!?
+1034)  LECHUCKDEMON
+{default}Till death do you part, eh?   {devilish}We'll have to do something about that.
+1035)  GUYBRUSH
+{disgust}You look like something the cat dragged in and spat up on the floor, LeChuck!
+1036)  LECHUCKDEMON
+Har!  My outer shell is meaningless, you fool!  Within my decaying flesh courses more voodoo power than your pitiful mind can possibly imagine!
+1037)  GUYBRUSH
+{suspicious}Didn't you used to be a ghost?  {disgust}Or a demon?  [trailing off]{confused} Or maybe it was a zombie...
+1038)  LECHUCKDEMON
+Arr, the evil of LeChuck is always evolving in new and terrifying ways, Sheepgood.
+1039)  GUYBRUSH
+{confused}If evil is always evolving, why can't it evolve into something less butt-ugly?
+1040)  GUYBRUSH
+{stern}Look at him, all smug and oozing with voodoo... we'll see who's oozing after I finish my{cocky} awesome voodoo spell.{default}
+1041)  GUYBRUSH
+{Happy} Hi!
+1042)  DORO
+{Surprised} Ack!
+1043)  DORO
+{Suspicious} Who're you?
+1044)  GUYBRUSH
+{Proud} I'm Guybrush Threepwood, Mighty Pirate™!  {Suspicious} And you are?
+1045)  DORO
+{Happy} Joaquin Jocinto De Meara Alphonso D'Oro, {Sarcastic} Treasure Hunter Extraordinaire!
+1046)  GUYBRUSH
+{Happy} Hello again!
+1047)  DORO
+{Surprised} Eep!
+1048)  DORO
+{Stern} Stop doing that!
+1049)  GUYBRUSH
+{Default} What kind of treasure do you hunt?  {Sarcastic} Gold Doubloons?  {Incredulous} Silver Triploons?
+1050)  DORO
+{Stern} Anyone can find gold or silver... {Enthused} I look for the rarest of pirate treasures!
+1051)  GUYBRUSH
+{Default} I almost certain I'm going to regret asking this, but {Sarcastic} WHAT is the rarest of all pirate treasures?
+1052)  DORO
+{Enthused} Porcelain {Cocky} Power Pirates!
+1053)  GUYBRUSH
+{Confused} What in the name of Davey Jones' Closet Organizer are {Sarcastic} Porcelain Power Pirates?
+1054)  DORO
+{Sarcastic} They're the rarest and {Enthused} coolest action figures ever!  I've been {Stern} tracking them with the Porcelain Power Pirate treasure maps hidden in {Cocky} special boxes of Porcelain Power Pirate Pear-PFlavored [prounounced "Puh-Flavored"] breakfast cereal! {Worried}  I've spent YEARS tracking them down, {Happy} and I've almost got the full set!
+1055)  GUYBRUSH
+{Disgust} What were you doing down there?
+1056)  DORO
+[guiltily] {Worried} Nothin'.
+1057)  GUYBRUSH
+{Sarcastic} It LOOKED like you were playing with dolls.
+1058)  DORO
+{Stern} They're not dolls!  {Cocky} They're poly-articulated Porcelain Power Pirates!
+1059)  GUYBRUSH
+{Default} How many P-P Pirates do you have left?
+1060)  DORO
+{Default} The only Power Pirate I haven't found is the {Sarcastic} ultra-rare, impossible-to-find, {Worried} Dark Ninja Dave with {Surprised} Killer Karate Katana.  {Default} I thought I might find it here on Flotsam Island, {Worried} but I got scammed.
+1061)  GUYBRUSH
+{Confused} Scammed?
+1062)  DORO
+Yeah.  Some {Angry} guy in a plaid jacket with waving arms sold me a Ninja Dave {Stern} map, but it just keeps sending me in circles.
+1063)  GUYBRUSH
+{Default} Mind if I take a look at that map?
+1064)  DORO
+{Default} Take it.  It's useless.
+1065)  GUYBRUSH
+{Default} I'll let you know if I find anything.  {Suspicious} You're sure this "Dark Ninja Dave" is a valuable treasure, right?
+1066)  GUYBRUSH
+{Happy} Hey look, a three-headed monkey!
+1067)  DORO
+{Stern} I've already GOT a three-headed monkey figure.
+1068)  GUYBRUSH
+{Happy} Look, it's a Ninja Dave figure with Throwing Star Action!
+1069)  DORO
+{Suspicious} Where?
+1070)  GUYBRUSH
+{Default} Did the winds shipwreck you on Flotsam Island too?
+1071)  DORO
+{Default} Yes, but I came here voluntarily in search of the {Suspicious} elusive Dark Ninja Dave Porcelain Power Pirate action figure!
+1072)  DORO
+{Happy} It's the stuff that dreams are made of!  {Enthused} Porcelain dreams!
+1073)  GUYBRUSH
+{Disgust} What's that big pink pile of dolls-
+1074)  DORO
+{Cocky} "Action figurines"
+1075)  GUYBRUSH
+{Confused} What's that big pink pile {Sarcastic} of [air quotes]"action figurines" over there all about?
+1076)  DORO
+{Sarcastic} Those are my extra Pink Pajama Pierres, {Suspicious} the lamest and  least valuable of the Porcelain Power Pirates. {Stern} I loathe Pink Pajama Pierre with the {Angry} white-hot intensity of a million exploding cannonballs.
+1077)  GUYBRUSH
+{Cocky} Well, I've got pirate news to make, and you've got {Sarcastic} dolls to play with, so I'll just be on my way.
+1078)  DORO
+{Stern} They're NOT dolls!
+1079)  GUYBRUSH
+{Happy} Bye.
+1080)  DORO
+{Stern} Kep'lah!
+1081)  BARTENDER
+Arr, what'll it be, laddie?
+1082)  GUYBRUSH
+I've heard you make a mean grogatini.
+1083)  BARTENDER
+Meaner than Poseidon's wrath, and sweeter than a siren's song!  I'll set you up.
+1084)  BARTENDER
+There you are, mate!  One Club 41 Grogatini, on the house!
+1085)  GUYBRUSH
+You put one of those miniature swords with an olive in my grogatini!  I HATE those things!
+1086)  GUYBRUSH
+{Cocky} Where does a pirate go to start a bar fight on this island?
+1087)  NIPPERKIN
+{Default} Well, the only bar around here is Club 41, {Sarcastic} but good luck starting a fight in that joint.  {Stern} They run a pretty tight ship over there. {Suspicious} You know what I mean?
+1088)  GUYBRUSH
+{Default} Where should I look for treasure on this island?
+1089)  NIPPERKIN
+{Cocky} There used to be all kinds of buried treasures in Flotsam's jungles, {Default} but they've been pretty much tapped out.  If I were you,{Suspicious} I'd look for an established pirate treasure hunter to give you a hand.
+1090)  GUYBRUSH
+{Suspicious} What kind of ships are there to seize on Flotsam Island?
+1091)  NIPPERKIN
+{Default} We've only got one ship on Flotsam... {Sarcastic} the Screaming Narwhal.  {Cocky} It hasn't been seized in years!
+1092)  GUYBRUSH
+{Confused} What's this [air quotes]"Deep Gut" person like, anyway?
+1093)  GUYBRUSH
+{proud}[loudly, talking up to the deck] Guybrush Threepwood, Mighty Pirate™!
+1094)  WINSLOW
+{sarcastic}[skeptical][loudly] Oh really?  What can I do for you, Mister Mighty Pirate?
+1095)  GUYBRUSH
+{proud}[getting Van Winslow's attention] Ahoy there!
+1096)  WINSLOW
+[loudly] Ahoy there, Master Threepwood!
+1097)  GUYBRUSH
+{stern}[loudly]Heave to and strike your colors!  I've come to seize your ship!
+1098)  WINSLOW
+{confused}[loudly]You have!?  {happy}Jolly good!  No one's been man enough to take the Screaming Narwhal for over two years!
+1099)  GUYBRUSH
+{confused}[too himself]  Hmm, he's got a really good attitude for someone who's about to lose his ship.
+1100)  GUYBRUSH
+{confused}[loudly]Why are you so happy about me seizing your ship?
+1101)  WINSLOW
+{happy}[loudly]I like a good challenge!  Girds the mind and sharpens the loins, don't you know!
+1102)  GUYBRUSH
+{confused}[loudly]Do you know anything about Club 41?
+1103)  WINSLOW
+{confused}[loudly]Club 41?  {happy}Wonderful place!  I haven't been there since I lost my Membership Card when I seized the Narwhal!
+1104)  GUYBRUSH
+[loudly] I found your membership card!
+1105)  WINSLOW
+{happy}[loudly] Keep it!  In my book, possession is seven-twelfths of the law!
+1106)  GUYBRUSH
+{suspicious}[loudly] Nice ship!  Were you drunk when you built it?
+1107)  WINSLOW
+{happy}[loudly] Har-har-har!  Good one, boyo!  But I didn't build the Screaming Narwhal!  It was assembled by a committee of concerned Flotsam citizens!
+1108)  GUYBRUSH
+[loudly]  Were THEY drunk?
+1109)  WINSLOW
+{enthused}[loudly]  No, but they had to use whatever floated ashore!  Hence the aforementioned "constructed by sots" look!
+1110)  GUYBRUSH
+{confused}[loudly] If you didn't build the Narwhal, why are you the "captain?"
+1111)  WINSLOW
+[loudly] By tradition, whoever knocks the captain of the Screaming Narwhal off the deck{enthused} gets to be the captain until HE'S knocked off by the next guy.
+1112)  GUYBRUSH
+[loudly] How'd you end up on Flotsam?
+1113)  WINSLOW
+[loudly]Same as everyone else here, lad!  {happy}The winds!  {stern}I was chasing some brigand that had stolen my hard-earned booty, {surprised}when all of the sudden Flotsam's capricious winds picked up my ship, shredded it to bits, {default}and plunked me down on her bounteous shores!
+1114)  GUYBRUSH
+[loudly] Be seeing you!
+1115)  WINSLOW
+[loudly] I look forward to it!
+1116)  GUYBRUSH
+{default}[reading] "Club 41... Probationary Member #37... Reginald Van Winslow."
+1117)  GUYBRUSH
+This should come in handy.
+1118)  GUYBRUSH
+{Happy} Hey, Davey...
+1119)  NIPPERKIN
+{Default} Call me Nipperkin, kid.  Everyone else does.
+1120)  GUYBRUSH
+{Disgust} I'd rather not...
+1121)  GUYBRUSH
+{default} I've still got some questions about those acts of piracy.
+1122)  NIPPERKIN
+{Default} Fire away, kid!  {Enthused} I'm a font of information!  {Suspicious} Whaddaya want to know?
+1123)  GUYBRUSH
+{confused}Doc?
+1124)  DESINGE
+{stern}[cold] Oh, it's YOU.  Unless you're here to volunteer your hand to the advancement of science, I have nothing to say to you.  [to himself, sinisterly] For now.
+1125)  GUYBRUSH
+{stern}My hand's not dead!{worried}  It moves!  {scared}Sometimes all by itself!
+1126)  DESINGE
+{amazed}And that's what makes it SO fascinating!  A seemingly necrotic, hand, persistently animating as though compelled by an outside force!  Just imagine the possibilities!
+1127)  GUYBRUSH
+{confused}Why are you so interested in my hand, anyway?
+1128)  DESINGE
+{stern}Because the disease that courses through it appears{amazed} to be an entirely new life form, capable of animating and taking over dead tissues!
+1129)  GUYBRUSH
+{happy}[enthused] No kidding?  That's so {worried}- wait, did you say "dead" tissues?
+1130)  GUYBRUSH
+{confused}What are you doing out here?  Don't you have some mildly-injured pirates to mangle?
+1131)  DESINGE
+I'm investigating these wondously icky green clouds that have settled over Flotsam Island.
+1132)  GUYBRUSH
+{confused}Are you SURE you don't know anything about Flotsam's winds?
+1133)  DESINGE
+{stern}What are you insinuating?
+1134)  GUYBRUSH
+{incredulous}It occurs to me that the weird winds around here have been pretty good to you... {suspicious}giving you a steady supply of "patients" and all.
+1135)  DESINGE
+{Stern}I have no idea what you're talking about.
+1136)  GUYBRUSH
+{suspicious}C'mon, confess... YOU'RE the guy behind all these freaky winds, aren't you?
+1137)  DESINGE
+{angry}[angry] What an outrageous accusation!  Do you have any proof?
+1138)  GUYBRUSH
+{confused}Uhh-
+1139)  DESINGE
+{stern}[angry]  I thought not.  Good day sir!
+1140)  GUYBRUSH
+Er.
+1141)  DESINGE
+{angry}[angry] I said good day!
+1142)  GUYBRUSH
+Bye.
+1646)  GUYBRUSH
+Bye.
+1882)  
+Bye.
+1887)  
+Bye.
+1143)  DESINGE
+{happy}Au revoir.  {default}[to himself] For now.
+1144)  NIPPERKIN
+{enthused}[enthused] Hey there, Threepwood!  Mind if I get your Pirate-on-the-Street opinion about the Death Cloud!?
+1145)  GUYBRUSH
+{confused}[confused]  Death Cloud?
+1146)  GUYBRUSH
+{scared}[to himself] The Pox of LeChuck...
+1147)  NIPPERKIN
+{confused}The Pox of LeChuck?  [mulling it over] Hmm..  Pox of LeChuck... {sarcastic}nah!  {Stern}To on-the-nose, {surprised}not enough pizzazz!  {enthused}"Death Cloud" is punchier, more in-your-face, more "ooh, I'm gonna die!"  {default}Well, I got sick pirates to interview! {enthused} See ya!
+1148)  GUYBRUSH
+Y'know, there's other sick pirates infected with the same disease as my hand.  Why don't you cut off their limbs?
+1149)  DESINGE
+{happy}Oh I have... {default}but your case is special somehow!  {amazed}I must have that hand!
+1150)  GUYBRUSH
+{suspicious}Um, how about no.
+1151)  DESINGE
+{default}We'll just see about that... [slyly]heh.
+1152)  MEMBER1
+[shouting] Get 'im!
+1153)  GUYBRUSH
+[shouting] Ow!
+1154)  MEMBER2
+[shouting] Look out, he's got a baguette!
+1155)  MCGEEBAR
+[shouting] Get yer poxy hand off me, ya cracker-croaker!
+1156)  BARTENDER
+[shouting] Look out!
+1157)  MCGEE
+Ieeee!
+1158)  MCGEE
+Oooh, me leg!
+1159)  NIPPERKIN
+Whatta fight!  That was spectacular, Driftwood!  Best pirate brouhaha I've seen in months!
+1160)  GUYBRUSH
+I don't know what got in to me... it was like my hand was possessed or something.
+1161)  NIPPERKIN
+Possessed you say?  Hmmm.  Sounds like there may be a follow-up story there.
+1162)  NIPPERKIN
+{Happy}Keep feeding me these boffo pirate stories, Threepwood, and {Suspicious} I'll be handing over the secrets of Deep Gut before you know it!
+1163)  GUYBRUSH
+{Proud} [proud] - and that's how I wound up here on Flotsam Island!
+1164)  ROCKRIB
+Card?
+1166)  ROCKRIB
+Card?
+1170)  ROCKRIB
+Card?
+1165)  GUYBRUSH
+Card? What card?
+1167)  GUYBRUSH
+What are you talking about?
+1168)  ROCKRIB
+Your MEMBERSHIP card, mate.
+1169)  GUYBRUSH
+I, um, left it in my other pants.
+1171)  GUYBRUSH
+{Confused} Card?  {Happy} Oh yes, my membership card.  {Default} Here ya go.
+1172)  ROCKRIB
+Very good, Captain Van Winslow.  Here's your blindfold.
+1173)  GUYBRUSH
+{Confused} [confused]Blindfold?
+1174)  ROCKRIB
+Come now, sir, you know the rules.  All Probationary Club 41 Members must wear blindfolds inside the Club.
+1175)  GUYBRUSH
+{Embarrassed} Right, how silly of me.
+1176)  ROCKRIB
+Very good, sir.  Mind the step.
+1177)  DESINGE
+Wait, stop!  I must have your beautiful, death-defying hand!  Come ba-
+1178)  DESINGE
+<mmmph!> [angry] Slovenly pirates, leaving their trash floating all over the place!
+1179)  DESINGE
+[scheming] Hmmm.  A pirate hunter, eh?
+1180)  GUYBRUSH
+If this "Morgan Le Flay - Pirate Hunter" is half as nasty as his ads, I'd better give him a wide berth.
+1181)  GUYBRUSH
+[reading] "Pirates Plundering your Palace?  Buccaneers Bashing your Ballistrades?  Swashbucklers Slicing your Stomachs?  Then you need MORGAN LE FLAY, Pirate Hunter Par Excellance!"
+1182)  GUYBRUSH
+Great, a pirate hunter.  {worried}I need that like I need a fourth nipple.
+1183)  PIRATEA
+{Default} Cheese, Ignatius Cheese.
+1741)  DESINGE
+{Default} Cheese, Ignatius Cheese.
+1184)  PIRATEA
+{Confused} And what, pray tell, might I be findin' myself doin' if I joined {Sarcastic} this crew of mighty pirates?
+1185)  PIRATEA
+{Default} I'm open to persuasion, {Suspicious} what do you have in mind?
+1186)  PIRATEA
+{Angry} Are you outta your grog-addled mind?!? No!
+1744)  DESINGE
+{Angry} Are you outta your grog-addled mind?!? No!
+1187)  PIRATEA
+{Stern} Arrr, that doesn't sound too manly! Any girly pirate can loot a defenseless fishing community.
+1188)  PIRATEA
+{Happy}The better to insult arm wrestle with Mr. Threepwood!
+1189)  PIRATEA
+{Default} Well nowadays you can't throw a dart or...or play a game of checkers without bein' expected to toss in a witherin' bon mot.
+1190)  PIRATEA
+{Sad} A greedy Australian is making a grab for my bar!
+1191)  PIRATEA
+{Enthused} My particular speciality is insult arm-wrestlin' {Default} which I use to defend my bar {Stern}from hostile takeovers.
+1192)  PIRATEA
+Aye! {Sarcastic}It could be a pleasure to sail with a refined wit such as yourself.
+1193)  PIRATEB
+{Default} Right now, we're in a dead tie.
+1194)  PIRATEB
+{Happy} Yeah! We never miss a shot!
+1195)  PIRATEB
+{Default} I would, but once I win the Melee championship, I'm gonna have to go on tour to win the tri-island dart thrower's championship.
+1196)  PIRATEB
+No Problem!
+1197)  PIRATEB
+{Sarcastic} Yeah! And unless you're good enough to compete
+1198)  PIRATEB
+{Stern} We'd advise that you take a long walk off a short pier!
+1199)  PIRATEB
+{Angry} Yeah! Can't you see we're busy here!
+1200)  PIRATEB
+{Confused}Really?
+1201)  PIRATEB
+{Stern} Sez you, swabbie!
+1202)  
+I'm Guybrush Threepwood, Mighty Pirate!™
+1203)  
+My private life is none of your darned business, newsie!
+1204)  
+I've washed ashore from a battle near the Rock of Gelato...
+1205)  GUYBRUSH
+{Default} Not really, but-
+1206)  NIPPERKIN
+{Enthused} Great!  {Default} Now if you'll excuse me, {Cocky} Ace Reporter Davey Nipperkin's got some headlines to grab!
+1207)  GUYBRUSH
+Hmmm, seems simple enough.
+1208)  GUYBRUSH
+I think Pierre's Pajamas are black enough as it is.
+1209)  
+You don't look so good.
+1210)  GUYBRUSH
+{Confused} No!
+1211)  MCGEE
+{Sarcastic} Aye!  But I {Concerned} couldn't figure it out.  I got so frustrated {Stern} that I kicked one of those statues out in the jungle, and {Sad} stubbed me toe.  {Stern} When I went to that butcher De Singe, {Angry} he cut me leg off.
+1212)  
+It'll honk off the Marquis...
+1213)  GUYBRUSH
+[reading]"WIND STILL SUCKS - Flotsam Island endures 1138th straight day of unwelcome winds."
+1214)  GUYBRUSH
+[reading]"PIRATE WREAKS HAVOCK! - Bars Tossed, Ships Seized in Wake of Threepwood's Swashbuckling Chaos."
+1215)  GUYBRUSH
+{Proud} A wake of chaos... neat!
+1216)  GUYBRUSH
+Nipperkin wasn't kidding about news being slow on Flotsam.
+1217)  GUYBRUSH
+I don't want to get ink all over that!
+1218)  GUYBRUSH
+[hushed] Actually, I kinda do, but I don't think it'll help.
+1219)  NIPPERKIN
+{Suspicious} Trying to sneak some information out of me?  {Default} I can respect that, kid.  Reminds me of {Cocky} me when I was your age.
+1220)  GUYBRUSH
+{Sarcastic} [sarcastic] When was that, about twenty minutes ago?
+1221)  GUYBRUSH
+{Suspicious} Do you really think Deep Gut can tell me what happened to Elaine and LeChuck, and help me get off this island?
+1222)  
+I've got more questions about those acts of piracy...
+1223)  NIPPERKIN
+{Default} If there's anyone who can help you with your problems, Skipwood, it's Deep Gut.
+1224)  GUYBRUSH
+{Whiny} Couldn't you just TELL me how to contact Deep Gut?  {Seductive} I'll be your best friend...
+1225)  NIPPERKIN
+{Stern} Sorry kid, no can do.  {Default} I need pirate stories, and you need my source.  {Cocky} Any questions?
+1226)  GUYBRUSH
+{Confused} I'm drawing a blank.
+1227)  NIPPERKIN
+{Stern} I hate it when that happens.
+1228)  GUYBRUSH
+What can you tell me about this "Morgan Le Flay" guy?
+1229)  NIPPERKIN
+{Suspicious} The pirate hunter?  {Stern} Oh, he's a mystery, that one. {Stop}
+1230)  GUYBRUSH
+{Confused} How so?
+1231)  NIPPERKIN
+Stories about Le Flay started trickling in about a year ago.  Frightening, fantastical tales of a hard-as-nails pirate hunter with ice in his veins and death in his eyes.
+1232)  GUYBRUSH
+{Worried} Spooky.
+1233)  NIPPERKIN
+{Sarcastic} Spooky, sure, but none of the stories jibed.  One pirate would testify to a daring escape from a redbearded giant, but the next would spin a yarn about a peg-legged midget.  Either there's a whole fleet of pirate hunters sailin' around callin' themselves "Morgan Le Flay," or someone's hidin' something.
+1234)  GUYBRUSH
+Know anything about this Le Flay character?
+1235)  MCGEE
+He's a little after me time, spanky.  But from the whining of some of the younger pirates around here, you'd think he was the devil incarnate!
+1236)  MCGEE
+{Sarcastic} "Ooh, Morgan nailed me head to the deck!"
+1237)  MCGEE
+{Sarcastic} "Ooh, Le Flay bit off me ear!"
+1238)  MCGEE
+{Stern} Buncha wussies, the lot of 'em.  In MY day, when a pirate ran into a pirate hunter, we'd sink his ship, keelhaul his crew, and make 'im walk the plank!  In THAT order!
+1239)  GUYBRUSH
+{surprised}Whoah!
+1240)  GUYBRUSH
+{worried}[pointing out the spelling] "Guybrush" is one word...
+1241)  GUYBRUSH
+{embarrassed}I'd better pick this up before someone notices - {incredulous}um, trips over it.
+1242)  GUYBRUSH
+{stern}I'm not burning that up!  I might need it... {worried}someday.
+1243)  GUYBRUSH
+{worried}I'd better not... he might recognize the flowers.
+1244)  GUYBRUSH
+{confused}Know anything about this pirate hunter?
+1253)  GUYBRUSH
+{confused}Know anything about this pirate hunter?
+1245)  CRIMPDIGIT
+{confused}Le Flay?  {stern}Arrr, you best be steerin' clear o' him, if you know what's good for ya.  They way I hears it, his face is so hideously grotesque that most pirates slit their own throats at the mere sight of him!
+1246)  GUYBRUSH
+{incredulous}[incredulous] Right.
+1247)  CRIMPDIGIT
+{worried}No, really.  I heard it... from a friend of a guy.
+1248)  GUYBRUSH
+[incredulous] A friend of a guy who slit his throat...
+1249)  CRIMPDIGIT
+Aye!
+1250)  GUYBRUSH
+[slightly loudly]  Hey!  Do you know anything about this Le Flay guy?
+1251)  WINSLOW
+{confused}[slightly loudly]  Morgan Le Flay?  Beastly chap!  Keeps a nest of trained scorpions in his beard, or so the story goes.
+1252)  GUYBRUSH
+Scorpions, eh?  I should try that the next time Elaine complains about crumbs in my beard.
+1254)  DESINGE
+{stern}I'm not talking to you...
+1255)  GUYBRUSH
+{Surprised} Holey ships!
+1257)  DESINGE
+[annoyed] {Arrogant} Well played, Mr. Threepwood. You have forced me to reveal the location of the hidden temple. {Sarcastic} But a simpleton like you will never be able to master the mysteries of {Arrogant} this ancient wind control device without my help, and I will reveal NOTH--
+1258)  GUYBRUSH
+{Incredulous} That's a wind control device?  {Happy} Thanks for telling me!
+1259)  DESINGE
+[angry, frustrated with himself for revealing more than he should of] {Worried} You... didn't... know? {Angry}  Arrrrrrgh!
+1260)  GUYBRUSH
+According to De Singe, this ancient doohickey controls the winds on Flotsam Island... somehow.
+1261)  GUYBRUSH
+That oyster shell looks so empty without a pearl.
+1262)  GUYBRUSH
+[reading] "Smilin' Stan's Young Miss Mini-Bombs - All the Punch of Larger Mini-Bombs, Packed into a Smaller Package for Petite Pirate Hands."
+1263)  GUYBRUSH
+{Incredulous} Hmm.  {Default} Y'know, I'd better just take all of 'em.
+1264)  GUYBRUSH
+{Scared} Something about that shack shivers me timbers...
+1265)  GUYBRUSH
+{Sarcastic} Somehow, the knowledge that the Voodoo Lady's in there hasn't made this shack any less timber-shivering.
+1266)  GUYBRUSH
+{Suspicious} Aw, dang.  Looks like someone already dug up this treasure.
+1267)  GUYBRUSH
+I hope no one notices that I've re-gifted this buried treasure spot.
+1268)  GUYBRUSH
+That's a good idea, but I don't think D'Oro'd be interested in digging up ANOTHER Pink Pajamas Pierre.
+1269)  GUYBRUSH
+I'll just bury...
+1270)  GUYBRUSH
+Wait, I can't bury this yet!  It doesn't have its "Killer Katana Kutlass" accessory!
+1271)  GUYBRUSH
+[whispering] Dark Ninja Dave with Killer Katana Kutlass waits stealthily for famed out-of-shape pirate hunter Joaquin D'oro to find him...
+1272)  GUYBRUSH
+I don't want to bury that.
+1273)  GUYBRUSH
+{Sarcastic} Hm.  Looks like I cut off the door's nose to spite its face.
+1274)  GUYBRUSH
+Hmm, not a bad fit.
+1275)  GUYBRUSH
+That's not a GOUDA idea. I don't know JACK about this MUENSTER, and if it b-ROQUEFORT we'd be BLEU and okay I'll stop now.
+1277)  DORO
+No thanks.  Flowers give me hives.
+1278)  GUYBRUSH
+There's no place to put it.
+1279)  GUYBRUSH
+{Incredulous} Hmmm.
+1280)  GUYBRUSH
+{Happy} Much better.  {Suspicious} Well, better, anyway.
+1281)  GUYBRUSH
+{Surprised} Whoah!
+1283)  GUYBRUSH
+{Surprised} Whoah!
+1284)  GUYBRUSH
+Weird.
+1286)  GUYBRUSH
+Hmmm.
+1421)  GUYBRUSH
+Hmmm.
+1287)  GUYBRUSH
+Ah.
+1289)  GUYBRUSH
+Oh.
+1290)  GUYBRUSH
+{Happy} Aha!
+1291)  GUYBRUSH
+Hmm. Curious.
+1292)  GUYBRUSH
+This idol looks like it's missing something.
+1293)  GUYBRUSH
+I don't know much about ancient idols, but this one looks really broken.
+1294)  GUYBRUSH
+{Confused} I've just had a really weird idea.
+1295)  GUYBRUSH
+{Stern} I've got a mission for you, little parrot!  Go to the other side of this door, {Incredulous} and open it from the other side!
+1296)  GUYBRUSH
+{Happy} Okay, little champion!  Open the door!
+1297)  GUYBRUSH
+{Seductive} And yet, there's still something downright charming about him.
+1298)  GUYBRUSH
+{Worried} Uh-oh!
+1299)  DESINGE
+{Arrogant} Ah, so it appears that Monsieur Threepwood HAS found the Vaycaylian Porte du Vent! {Stern}  Naughty little pirate boy!
+1300)  DESINGE
+{Sarcastic} Come out, come out, wherever you are, Monsieur Threepwood!
+1301)  DESINGE
+{Arrogant} Really, monsieur, how many times must we repeat this pointless charade?
+1302)  DESINGE
+Hello, is anybody in there?
+1303)  DESINGE
+[snooty] {Confused} Hmph.  How silly of me. {Arrogant} Threepwood would never be clever enough to get through that door.
+1304)  GUYBRUSH
+{Cocky} I am TOO clever enough to get through that door! {Incredulous} Or at least, make him THINK I am.
+1305)  DESINGE
+Yoo-hoo?  Anyone?...
+1306)  DESINGE
+{Stern} Hmph.  I see no evidence that anyone's been on the other side of that door!
+1307)  DESINGE
+Is anybody in there?
+1308)  PARROT
+[muffled] <squawk> It's me, Guybrush Threepwood, Mighty Pirate!
+1309)  DESINGE
+[flummoxed] {Confused} What?  How'd he-?
+1310)  DESINGE
+{Angry} Grrr.
+1311)  GUYBRUSH
+{Cocky} I can't believe he fell for that.
+1312)  GUYBRUSH
+This looks like it might be useful.
+1313)  GUYBRUSH
+{Incredulous} Who's the cleverest pirate in the whole wide world?
+1314)  GUYBRUSH
+[pickup1] {Sarcastic} Can I call you "D'Oro the Explorer?"
+1315)  DORO
+{Stern} No.
+1316)  GUYBRUSH
+Know anything about this pirate hunter?
+1317)  DORO
+Morgan Le Flay!?  Only that he's the coolest privateer ever!  They say his suspenders are made from the severed hooks of his pirate prey!
+1318)  GUYBRUSH
+[incredulous] How's THAT supposed to work?
+1319)  DORO
+I don't know, but isn't it cool!?
+1320)  GUYBRUSH
+{confused}Can you make heads or tails out of this thing?{default}
+1321)  VOODOO
+Unless these old eyes deceive me, that is an all-purpose Vaycaylian Al'n [pronounced "ah-LEN"] Wrench, used to activate their elaborate machines.
+1322)  
+Can you help me get off Flotsam Island?
+1327)  
+Can you help me get off Flotsam Island?
+1323)  
+That cutlass recipe you gave me was a dud!
+1324)  
+I followed your recipe to the letter, but Elaine messed it up!
+1325)  
+I kinda had to ad-lib your cutlass recipe...
+1326)  GUYBRUSH
+{surprised}Where can I find it?
+1328)  
+How do I stave off the Pox of LeChuck?
+1329)  
+The Pox of LeChuck is spreading!
+1330)  
+About this "Big Sponge..."
+1331)  GUYBRUSH
+{whiney}If you can't tell me about Elaine, can you at least tell me where LeChuck is?
+1332)  VOODOO
+Without the mark of the voodoo on him, LeChuck's whereabouts are a mystery to me.
+1333)  GUYBRUSH
+{cocky}Well, this has been disturbing, but I've got an island to escape, a wife to find and, {suspicious}apparently, a giant voodoo-sucking sponge to hunt.
+1334)  VOODOO
+May the Fates guide you, Guybrush Threepwood.
+1335)  GUYBRUSH
+{cocky}Don't get up, I'll find my own way out.
+1336)  VOODOO
+Be well, Threepwood.
+1337)  GUYBRUSH
+{surprised}Y'know, you've been helping me out for years, and I still don't know you name!
+1338)  VOODOO
+{stern}Names have power, Guybrush Threepwood.  Only a fool willingly gives it away.
+1339)  GUYBRUSH
+{confused}Does MY name have power?
+1340)  VOODOO
+{default}Er, um, sure.  Why not?
+1341)  GUYBRUSH
+{confused}How'd you end up on Flotsam Island?
+1342)  VOODOO
+I go where I am needed.
+1343)  GUYBRUSH
+{confused}So YOU'RE "Deep Gut?"  Davey Nipperkin's source of off-island news?
+1344)  VOODOO
+Yes.
+1346)  VOODOO
+The price of a voodoo lifestyle is not merely spiritual, little pirate.  It also requires a substantial financial commitment.
+1347)  GUYBRUSH
+{suspicious}Have you ever heard of this pirate hunter?
+1348)  VOODOO
+{mystical}Hmm, this "Morgan" is unknown to me.  But...{entranced} [the Voodoo Lady's eyes roll back] [she begins intoning lines Morgan will say in future episodes] Guybrush Threepwood!... There's no escape... The skull is right... You!... Arrrrrrrgh!{mystical} [her eyes return to normal]
+1349)  GUYBRUSH
+{confused}What was that?{default}
+1350)  VOODOO
+The past?  The future?  Who can say?{default}
+1351)  WINSLOW
+{enthused}Welcome aboard, sir!
+1352)  GUYBRUSH
+Van Winslow!  What are you doing here?
+1353)  WINSLOW
+{default}If it's all right with you, captain, I'd like to stay aboard as your first mate!
+1354)  GUYBRUSH
+{worried}I don't know...
+1355)  
+I really don't want a first mate who'll be trying to seize my ship...
+1356)  
+I really don't want a first mate with major internal injuries...
+1357)  
+I really don't want a first mate at ALL... I'm a bit of a loner...
+1358)  
+I really don't want a first mate who hasn't sailed in two years...
+1359)  GUYBRUSH
+{whiney}I really don't-
+1360)  WINSLOW
+{happy}[interupting] Jolly good, sir!  You won't regret it, mark my words!  Now, if you'll excuse me, I believe some of my stitches have popped.  I'll meet you here if the winds ever change!
+1361)  GUYBRUSH
+{stern}[loudly] Van Winslow!   Where are you!?
+1362)  WINSLOW
+{enthused}[loudly] Right here, sir!
+1363)  GUYBRUSH
+[loudly]Raise anchor and get us the heck out of here before the winds change!
+1364)  WINSLOW
+[loudly] With pleasure, captain!
+1365)  
+Set sail for the Rock of Gelato, so I can find Elaine!
+1366)  
+Set sail for the Rock of Gelato, so I can finish off LeChuck!
+1367)  
+Set sail for the Rock of Gelato, so I can work on my tan!
+1368)  WINSLOW
+{enthused}Congratulations, sir!  The Screaming Narwhal has successfully escaped from Flotsam Island!  Where to now?
+1369)  GUYBRUSH
+{happy}Mister Van Winslow...
+1370)  GUYBRUSH
+If you would be so kind...
+1371)  GUYBRUSH
+I would like you to set sail for [hand clamped over mouth] mrph-mrph mprh mr rph mrph!
+1372)  WINSLOW
+{confused}Come again, sir?
+1373)  GUYBRUSH
+[pickup1][read with urgency][panicy and angry]{angry}I SAID set a course for [hand clamped over mouth] mrph-mrph mprh mr rph mrph!
+1374)  GUYBRUSH
+[pickup1][read with urgency][angry and loud]Oh, come on!
+1375)  WINSLOW
+{concerned}Come on what sir?
+1376)  GUYBRUSH
+Winslow! [trying to speak quickly]  Setacoursefor [hand covers mouth] mpphmphmphmph-mph!
+1377)  GUYBRUSH
+{Happy} Okay, let's break some bottles!
+1378)  GUYBRUSH
+{Stern} Hey!  Knock it off, hand!
+1379)  GUYBRUSH
+{Surprised} Ow!
+1382)  GUYBRUSH
+{Surprised} Ow!
+1380)  GUYBRUSH
+{Whiney} Looks like I'm gonna have to get my hand under control if I want to break this bottle.
+1381)  GUYBRUSH
+{Surprised} Hey!
+1383)  GUYBRUSH
+{Whiney} Nope.
+1384)  GUYBRUSH
+I don't think it would look good there.
+1385)  GUYBRUSH
+{Confused} I'm not giving this away!  It could pay for my kid's pirate school someday!
+1386)  GUYBRUSH
+That's not made of "unbreakable" glass.
+1387)  GUYBRUSH
+That's cheesy enough as it is.
+1388)  GUYBRUSH
+{Stern} If I start giving away my cheese, I could end up cheeseless!  {Incredulous} Then were would I be?
+1389)  GUYBRUSH
+Nah.
+1390)  GUYBRUSH
+Nope.
+1391)  GUYBRUSH
+Um, no.
+1392)  GUYBRUSH
+Um, I don't want to part with this right now.
+1393)  GUYBRUSH
+{Incredulous} I don't think a flower sconce would enhance the feng shui right here.
+1394)  GUYBRUSH
+{Incredulous} That really doesn't need skewering by a teeny tiny sword.
+1395)  GUYBRUSH
+{Embarrassed} Waving around my tiny little sword at people could get me in trouble.
+1396)  GUYBRUSH
+The only person I should give this to is Coronado De Cava... and that's not him.
+1397)  GUYBRUSH
+{confused}[loudly, speaking between ships][trying to think up something clever to say] Yeah, well, you fight like a-
+1398)  GUYBRUSH
+{default}[loudly, speaking between ships] I'm on it!  {cocky}One LeChuck-defeating Cursed Cutlass of Kaflu, coming up!
+1399)  GUYBRUSH
+{confused}Now where did I leave those handy voodoo instructions?
+1400)  ELAINE
+{surprised}What are you doing?  {angry}Finish him!
+1401)  GUYBRUSH
+{surprised}It's not me, it's my hand!  It won't--
+1402)  GUYBRUSH
+{scared}Uh-oh.
+1403)  GUYBRUSH
+{disgust}[quick and disgusted]  Ew.
+1404)  NIPPERKIN
+{default}- Why don't you take a walk with me back to the Keelhauler and tell me a little bit more about yourself...
+1405)  GUYBRUSH
+{Stern} Stupid bird.
+1406)  GUYBRUSH
+{surprised}Hey, there's something in this sock!
+1407)  GUYBRUSH
+{Proud} I wish I were the mightiest pirate ever!
+1408)  LECHUCKDEMON
+{Default} Arrr!  No!
+1409)  GUYBRUSH
+{Surprised} Yipes.
+1410)  GUYBRUSH
+I wonder what sort of hideous sacrificial rites were performed on this ancient altar?
+1411)  GUYBRUSH
+Hmm, tastes like chicken.
+1412)  GUYBRUSH
+I don't want to sacrifice that.
+1413)  GUYBRUSH
+That could pollute the Flotsam water supply... and not in a good and/or funny way.
+1414)  GUYBRUSH
+Hmm, according to this, it's Sunday, the 12th of Manatee.
+1415)  MCGEEBAR
+Me cat!
+1416)  MEMBER2
+Me nachos!
+1417)  MEMBER1
+Me eye!
+1418)  ELAINE
+{surprised}[shouting]Guybrush! The Voodoo Lady's spell!  {default}I attached it to your mast before you left so you wouldn't lose it, now hurry up!
+1419)  GUYBRUSH
+{happy}A cheese wheel!
+1420)  GUYBRUSH
+{disgust}Muenster, yick!  {suspicious}Still, maybe I'll find some starving rats who'll eat it.
+1422)  GUYBRUSH
+{stern}Take THIS, "unbreakable" bottle!
+1423)  GUYBRUSH
+Hey, look out!
+1424)  GUYBRUSH
+{sarcastic}Well, at least the bottle's probably broken.
+1425)  GUYBRUSH
+{surprised}[shouting]Right! On it, Honeybunch!  {default}I was just finishing up some things...
+1426)  ELAINE
+{surprised}[shouting]GUYBRUSH! Focus!  {stern}Piece of paper!  Stuck to the mast!  {bitchy}It's the big giant stick in the center of your ship!{default}
+1427)  GUYBRUSH
+There'll be plenty of time for frolicking in the ship's hold later.
+1428)  GUYBRUSH
+That's a good idea... but I should probably try lighting it first.
+1429)  GUYBRUSH
+That hurt.
+1430)  GUYBRUSH
+{scared}Darn
+1431)  GUYBRUSH
+{stern}Ow.
+1432)  GUYBRUSH
+{stern}Drat.
+1433)  GUYBRUSH
+{default}I should probably come up with a plan before lighting another one of those.
+1434)  GUYBRUSH
+{incredulous}Wow.  I never thought I'd ever see a pirate selling glass unicorns for a living.
+1435)  CRIMPDIGIT
+{stern}Aye, and I never thought I'd see a talking baboon, so I guess we're even.
+1436)  ELAINE
+{stern}[shouting]Hurry up with that recipe already!
+1437)  GUYBRUSH
+{surprised}[shouting]I've already got it! {default}I've got everything under control!
+1438)  ELAINE
+[shouting]That's great honey,{surprised} but have you READ it yet?{default}
+1439)  GUYBRUSH
+[reading] "Alphabet Sale - Free Vowels While Supplies Last!"
+1440)  GUYBRUSH
+{surprised}Hmm, I guess it IS unbreakable.
+1441)  GUYBRUSH
+I hope the Marquis doesn't mind that I've broken the face off his ancient manatee door thingie.
+1442)  DESINGE
+{stern}[muttering]..."Second opinion!"  the arrogance...
+1443)  DESINGE
+{stern}[muttering]...Savages, all of them...
+1444)  DESINGE
+{stern}[muttering]...Mon dieu, this wig itches...
+1445)  DESINGE
+{stern}[muttering]...Silly pirate thought he could trick me into opening the portal...
+1446)  DESINGE
+{stern}[muttering]...What if he DID get to the other side?...
+1447)  GUYBRUSH
+{confused}Wow, not only is this grog lacking all flavor and kick, it's also completely flat.{default}
+1448)  WINSLOW
+{happy}[humming to himself]...da-de-da-de-da, yo-ho blow the man up...
+1449)  WINSLOW
+{happy}[humming to himself, vaguely to the tune of "Love Boat"]...da-de-do-de-do, come aboard, I'm expecting you...
+1450)  WINSLOW
+{happy}[humming to himself, slightly to the tune of the drunken sailor song]...lash him to the anchor until he's sober, dum-ditty-dum de dum...
+1451)  WINSLOW
+Hmm, still not dry...
+1452)  GUYBRUSH
+{suspicious}Hmm, shouldn't there be some sort of glowy voodoo explosion here?  {default}Maybe the grog just isn't root beery enough?
+1453)  GUYBRUSH
+[pickup1]{default}Any way you slice it, that barrel of grog still isn't root beer.  {cocky}I've got to get to the root of this problem!{default}
+1454)  WINSLOW
+[humming to himself]...And I never ever ever do a thing about the weather 'cause the weather never ever does a thing for me...
+1455)  WINSLOW
+[humming to himself]...la de da  and a dead wind's crest, yo ho ho and a bottle of grog...
+1456)  CRIMPDIGIT
+[loudly] Alphabet sale!
+1457)  CRIMPDIGIT
+[loudly] Free vowels!  Get 'em while they're vowels!
+1458)  CRIMPDIGIT
+[loudly] Unicorns!  Handblown glass unicorns!
+1459)  GUYBRUSH
+{confused}Monkey coffin, monkey coffin, {default}I know I saw one of those around here somewhere...
+1460)  GUYBRUSH
+{default}Either there's something mysterious sloshing around in my pants, or I really{confused} REALLY need to go to the little pirate's room.{default}
+1461)  NIPPERKIN
+[muttering, as though composing a headline]..."Swabs Seek Club Cards..." nah, too trite.
+1462)  NIPPERKIN
+[muttering, as though composing a headline]..."Explosive Find in Jungle..." meh, too cute.
+1463)  GUYBRUSH
+{default}Fizzy but completely uncompelling.{confused}  What makes root beer so rooty?{default}
+1464)  GUYBRUSH
+{confused}I think I'm out of options here.{default}  Maybe Elaine has some bright ideas.
+1465)  GUYBRUSH
+Oh, I'd love to, but I'm pretty sure that De Singe doesn't have the necessary... slots.
+1466)  GUYBRUSH
+{scared}[Shouting]Elaine, all I've got is a ship full of useless booty!{default}
+1467)  ELAINE
+{surprised}[shouting]Have you checked your pockets!?{default}
+1468)  GUYBRUSH
+{Incredulous} Sometimes it's all I can do to save a little face.
+1469)  PIRATEB
+{Happy}Welcome to the Palace of Prostheses! {Enthused} Home of the no detection, no infection, no rejection 30-day guarantee!
+1470)  PIRATEB
+{Default}I'm Dave. Around here they call me Deadeye Dave. {Happy} I'm the tri-island area's foremost expert in anatomical approximation!
+1471)  PIRATEB
+{Angry}Of course I'm blind you lilac-scented pantywaist!
+1472)  PIRATEB
+{Sarcastic} Heh heh, don't give it a second thought. {Default} My other senses more than compensate for my lack of sight.  For example, I usually can identify my customers{Suspicious} by their distinctive individual odors.
+1473)  PIRATEB
+{Sarcastic}Heck, I can smell your "Lilacs and Lillies" aftershave even through my stuffy nose!
+1474)  PIRATEB
+{Angry}Free!? What do you think I'm running, a charity!?
+1475)  GUYBRUSH
+{Stern} What kind of cheesy ancient civilization worships manatees?
+1476)  GUYBRUSH
+{Happy}Hi there, scruffy-looking pirate-person! {Angry}I'm Guybrush Threepwood, mighty pirate! What's your name?
+1477)  PIRATEB
+{Angry}Well, you figured wrong...{Stern} Australia, what kind of a name is that anyway!
+1479)  DESINGE
+Eek!
+1624)  JACQUES
+Eek!
+1720)  JACQUES
+Eek!
+1828)  MONKEY
+Eek!
+1480)  DESINGE
+[in pain]Agh!
+1481)  PIRATEB
+{Concerned} Ok...you've appealed to my sense of generosity.
+1482)  PIRATEB
+{Default} I'll let you choose...{Suspicious}through a story.
+1483)  PIRATEB
+{Sad} My monkey left me.
+1484)  PIRATEB
+{Surprised} Despondent?! {Confused} Over Pongo? {Sarcastic} Don't be silly!
+1485)  DESINGE
+[as though unexpectedly tickled or physically pleasured] Oooooh.
+1486)  DESINGE
+[as though unexpectedly tickled or physically pleasured] Ahhhh.
+1487)  DESINGE
+[as though unexpectedly tickled or physically pleasured] Ohhhh.
+1488)  GUYBRUSH
+Nothing happened.  Guess it's broken.
+1489)  DESINGE
+[in pain]  Ieeee!
+1490)  PIRATEB
+{Confused} What? Where'd you get a weird idea like that?
+1491)  GUYBRUSH
+I thought you should know that I'm heading back to the jungle to try to open the door again.
+1492)  DESINGE
+[trying to be sly] Oh really?
+1493)  GUYBRUSH
+{happy}Yes, really.  Ciao!
+1494)  LECHUCKDEMON
+{devilish}Har!  You can't defeat me THAT easily, Sheepgood!
+1495)  LECHUCKDEMON
+{surprised}Wait... what's happening?
+1496)  LECHUCKDEMON
+{devilish}Harr-harr-harrrr!
+1497)  GUYBRUSH
+{suspicious}[sarcastic, to himself] Right, because everyone keeps their magic root beer in a tiny monkey coffin.{default}
+1498)  GUYBRUSH
+{cocky}If only I could use the monkey's paw, I could get anything I wish...{default}
+1499)  GUYBRUSH
+{stern}nnnggg! {suspicious}Can't... quite... reach...!{default}
+1500)  GUYBRUSH
+{surprised}That picture of my boney hand is really creeping me out,{default} but for some reason I just can't look away.{suspicious}[fake De Singe's french accent] Jacques! Dispose of that for me! {confused}[normal voice]... no? {default}*sigh*
+1501)  DESINGE
+[fuming, grumbling, in a huff to himself] I can see it's time for this Marquis to take matters into his own hands!
+1502)  GUYBRUSH
+{Happy} Whoah!
+1503)  GUYBRUSH
+{Suspicious} Hmm, the winds are still blowing in. {Stern} Looks like I've got some work to do.
+1504)  GUYBRUSH
+Doctor De Singe?
+1505)  DESINGE
+{angry}That's the MARQUIS De Singe to you, {stern}ruffian.
+1506)  GUYBRUSH
+I was! {whiney}Does that explain the anti-social behavior and the crude gestures?
+1507)  VOODOO
+{mystical}Yes some of LeChuck's evil has seeped into your hand.
+1508)  GUYBRUSH
+Hmm... shortcut.
+1509)  GUYBRUSH
+{suspicious}[in a bad imitation of De Singe's French accent] Jacques! Do my bidding and fetch me that key!  [normal voice]{cocky}  ... either Jacques is smarter than I thought, or De Singe must have a more mechanical way of controlling him.{default}
+1510)  GUYBRUSH
+{default}[psyching himself up] Okay, no problem.  I just need to find a fresh supply of {suspicious}impossible-to-find voodoo root beer.{default}
+1511)  GUYBRUSH
+{default}I don't know what LeChuck's doing to that poor monkey, but {confused}it can't be good.{default}
+1512)  GUYBRUSH
+Those roots could really use a trim.
+1513)  GUYBRUSH
+I can't reach him from here.
+1514)  GUYBRUSH
+{stern}[making light sabre noises] Vooom, vooom!{default}
+1515)  GUYBRUSH
+{scared}Sorry it took so long to catch up with you, but I've been busy digging up arcane voodoo items.  {cocky}Did you miss me?
+1516)  ELAINE
+{sarcastic}Buckets.  {bitchy}Now put this this pirate out of our misery.{default}
+1517)  GUYBRUSH
+{embarrassed}[to himself] Monkey entrails.  Of course.  {default}How silly of me.
+1518)  GUYBRUSH
+{cocky}Y'know, it's nice to see that your repeated deaths and dismemberments haven't dampened your enthusiasm.
+1519)  GUYBRUSH
+{disgust}Testy.
+1520)  GUYBRUSH
+Hmph.  You'd think a classy joint like this would have a RED carpet.
+1521)  GUYBRUSH
+{confused}I hope those knives are securely attached to the wall.  If I keep shocking the monkey by them,{surprised} I may end up with a shish-ka-baboon.{default}
+1522)  GUYBRUSH
+{cocky}Jacques, quit monkeying around and help me out of here!  {happy}I'll give you a banana, you want a banana?
+1523)  GUYBRUSH
+Great.  {suspicious}Now I just need a banana.{default}
+1525)  VOODOO
+{mystical}Ah, the spirits have guided you well.  {default}That is a bottle containing an ancient scroll left behind by the Vaycaylians, the former inhabitants of Flotsam Island.
+1526)  GUYBRUSH
+{default}Ancient scroll, eh?  Do you think it can tell me anything about these messed-up winds?
+1527)  VOODOO
+{mystical}Perhaps.  But first you'll have to figure out how to break the unbreakable bottle I've sealed it in.{default}
+1528)  GUYBRUSH
+{confused}Unbreakable bottle?  Why would you do that?{default}
+1529)  VOODOO
+{stern}Some secrets are too dangerous to fall into mortal hands, Threepwood.{default}
+1530)  GUYBRUSH
+Anything else you want to tell me about this scroll-in-a-bottle?
+1531)  VOODOO
+I procured the scroll from a bitter old pirate named McGee.  Make of that what you will.
+1532)  VOODOO
+{default}Wait!
+1534)  VOODOO
+{mystical}Perhaps I CAN help you escape from Flotsam Island.
+1535)  GUYBRUSH
+How?{default}
+1536)  GUYBRUSH
+{Whiney}I haven't got a crew to take me to Lucre Island.
+1718)  GUYBRUSH
+{Whiney}I haven't got a crew to take me to Lucre Island.
+1538)  VOODOO
+I recently found this contraption in a swamp.  I have yet to plumb its mysteries.
+1539)  GUYBRUSH
+{Happy} Keen!  {Seductive} Can I borrow it?
+1540)  MCGEE
+{Default} Now why in the {Stern} name of Neptune's hangnails would I let you borrow this priceless artifact of a long-dead civilization?
+1541)  GUYBRUSH
+McGee says this thing's the key to his scroll... of course, McGee also drinks a lot.
+1542)  GUYBRUSH
+It's... empty?
+1543)  GUYBRUSH
+Still empty.
+1544)  GUYBRUSH
+This looks promising...
+1545)  GUYBRUSH
+I don't need to see that in manatee-vision.
+1546)  GUYBRUSH
+{Surprised} No way!  {Stern} If I give this to him, HE'LL get first pick of all the fine pirate honies that I'VE picked out... {Embarrassed} for, um, my friend.
+1547)  GUYBRUSH
+{Cocky} No way I'm giving this away after all the trouble I went through to get it!
+1548)  GUYBRUSH
+I think this thing only works on ancient Flotsam artifacts.
+1549)  GUYBRUSH
+{Surprised} I don't want to blow that up!
+1550)  GUYBRUSH
+{Happy} C'mon bomby!
+1551)  GUYBRUSH
+{Worried} Ow.
+1552)  GUYBRUSH
+{Stern} Dang.
+1553)  GUYBRUSH
+Let 'em get their OWN flier.
+1554)  GUYBRUSH
+{Confused} That'd make a lousy perch.
+1555)  GUYBRUSH
+{Cocky} I don't think they'd enjoy my parrot as much as I do. {Worried}
+1556)  GUYBRUSH
+{Incredulous} I don't think that a U-Tube would be useful there.
+1557)  GUYBRUSH
+{Confused} I don't think they'd be amused by my U-Tube offering.
+1558)  GUYBRUSH
+{Default} Is this yours?
+1559)  MCGEE
+{Confused} A blank piece of paper?  {Stern} That could be anybody's!
+1560)  NIPPERKIN
+{Sarcastic} Yeah.  {Default} Off-island news is nice and all, but the fair citizens of Flotsam are getting tired of stories about {Stern} faraway lands that they'll never see again.  {Suspicious} Not to mention that I hate being beholden to this Deep Gut person.
+1561)  GUYBRUSH
+{Incredulous} So?
+1562)  NIPPERKIN
+{Enthused} So I need some nice meaty local pirate news!
+1563)  GUYBRUSH
+{Default} Won't using a pirate treasure hunter to find a treasure {Confused} kind of mess up the story?
+1564)  NIPPERKIN
+{Default} Nah.  If anything, {Suspicious} it'll make it more authentic.  I can see it now - [frames a headline] {Enthused} "NEW ARRRIVAL HELPS FAMED PIRATE TREASURE HUNTER BAG BIGGEST BOOTY EVER!"
+1565)  GUYBRUSH
+Do you know anything about breaking unbreakable bottles?
+1566)  MCGEE
+Unbreakable - [angry, going pox] {Angry} What in hell's hand basket makes you think I'd know anything about bottle blowin'!?
+1567)  GUYBRUSH
+{Incredulous} Touchy.
+1568)  GUYBRUSH
+{Incredulous} Even if this wasn't an unbreakable bottle, I don't think that's hard enough to break it.
+1569)  GUYBRUSH
+{proud}[ceremoniously] I christen thee, "Threepwood's Cool New Ship."
+1570)  GUYBRUSH
+{whiney}It was worth a shot.
+1571)  GUYBRUSH
+{embarrassed}[winded]  Impressive.
+1572)  CRIMPDIGIT
+{stern}Don't get cute, blondie.  [threatening] I break other things, too, ya know.
+1573)  GUYBRUSH
+[reading] "The doctor is BUSY"
+1574)  GUYBRUSH
+[reading] "The doctor is IN"
+1575)  GUYBRUSH
+[reading] "The doctor is OUT"
+1576)  GUYBRUSH
+No way.  The way my luck's running the fire'd probably torch the scroll long before it broke open the bottle.
+1577)  GUYBRUSH
+{confused}Er, really weird puppet shows?
+1578)  GUYBRUSH
+{Default} What makes Dark Ninja Dave so rare?
+1579)  DORO
+{Default} Because a bunch of {Stern} pirate parents had him banned on account of his {Cocky} pointy Killer Karate Katana accessory.  {Sarcastic} They said it was a choking hazard.  {Stern} Wimps.
+1580)  GUYBRUSH
+[acting] {Confused} Foolish Power Pirate!  Your porcelain parts will be sacrificed {Suspicious} to, um, Bob,{Sarcastic} the Lord of the Seas!
+1581)  GUYBRUSH
+[high-pitched, as though coming from the action figure] {Worried} Arrrr!  Me kidneys!
+1582)  GUYBRUSH
+Huh?
+1583)  GUYBRUSH
+{stern}[loudly] I was told there would be no math!
+1584)  GUYBRUSH
+{incredulous}[too himself] So all I have to do is knock him off, eh?
+1585)  GUYBRUSH
+Want your map back?
+1586)  DORO
+Does it lead to a treasure?
+1587)  GUYBRUSH
+Um...not yet?
+1588)  DORO
+Then I don't want anything to do with it.
+1589)  GUYBRUSH
+{Happy} Great news, D'Oro!  I think your map isn't a rip-off after all!
+1590)  DORO
+{Confused} It isn't? {Default}  But I never found anything with it!
+1591)  GUYBRUSH
+{Default} You must've been reading it wrong.  Here, follow me...
+1592)  GUYBRUSH
+[awestruck]{Surprised} Whoah.
+1593)  GUYBRUSH
+{Worried} Uh-oh, someone's coming.
+1594)  DESINGE
+{Worried} Whew!  {Arrogant} I never thought I'd have to come out here again!
+1595)  DESINGE
+But it'll be worth a temporary fluctuation in Flotsam's winds to get my hands on Threepwood's... {Sarcastic} hand.  Heh
+1596)  DESINGE
+[amused, to himself] {Happy} "Hands on his hand..." how droll.
+1597)  GUYBRUSH
+{Confused} What was that all about?  {Suspicious} And what's behind that door?
+1598)  GUYBRUSH
+{suspicious} Hey, I bet if I throw this thing over the door, I can fool passers-by {Happy} into thinking I'm on the other side!
+1599)  GUYBRUSH
+Does this look familiar?
+1600)  DESINGE
+{amazed}[nervious] Where'd you find that?
+1601)  GUYBRUSH
+{worried}It, um, fell off that creepy ancient door in the jungle.
+1602)  DESINGE
+[lying badly]  An ancient door with a manatee head in the jungle?  {stern}I have no idea what you're talking about!
+1603)  GUYBRUSH
+{suspicious}[nonchalant]  Sure, sure. {default} But you might want to check it out someday.  Looks like it could be pretty interesting, scientifically speaking.{proud} I'm heading back there now, to break through the door with my pirate-y wiles...
+1604)  GUYBRUSH
+[to himself]  {stern}First, I'll need some dynamite, then a rubber chicken with a pulley in the middle, then some sort of rudimentary lathe...
+1605)  DESINGE
+{angry}[fuming] Hmph.  He'll never open that door without my key. {default} Still, I'd better follow him from a safe distance, just to make sure he doesn't upset my long-term plans...
+1606)  GUYBRUSH
+Now that the door's open, I really don't want to close it again.
+1607)  GUYBRUSH
+Uh-uh.
+1608)  GUYBRUSH
+I don't think so.
+1609)  GUYBRUSH
+{Stern} Darn, I've broken the U-Tube. {Stop} I better get another.
+1610)  GUYBRUSH
+{suspicious}Me?  Steal something?  I wouldn't even know where-{scared} [excited]Hey, look!  A three-headed monkey!
+1611)  CRIMPDIGIT
+{stern}Hey!
+1612)  GUYBRUSH
+{embarrassed}[innocent] What?
+1613)  GUYBRUSH
+{happy}[excited]Hey look, a tungsten-flanged blowpipe!
+1614)  CRIMPDIGIT
+{stern}Stop trying to steal me bottle breaker!
+1615)  GUYBRUSH
+Treasure, wow!
+1616)  GUYBRUSH
+Yay, more booty!
+1617)  GUYBRUSH
+I love the smell of treasure in the morning...
+1618)  GUYBRUSH
+[happy] Arrrrr!
+1619)  JACQUES
+[dazed] Ook.
+1620)  JACQUES
+Eek.
+1621)  JACQUES
+[excited] Eek-eek-eek!
+1629)  JACQUES
+[excited] Eek-eek-eek!
+1622)  JACQUES
+[interested] ook-ook-ook!
+1825)  MONKEY
+[interested] ook-ook-ook!
+1623)  JACQUES
+[scared][ Eeeeeek!]
+1625)  GUYBRUSH
+{cocky}Your parrot is looking a little peaked[pronounced pea-kid] there.{default}
+1626)  VOODOO
+{default}It's a Pyrite Parrot of Petaluma! {stern}So don't touch it!{default}
+1627)  VOODOO
+{default}Why do you tarry, Threepwood?  {mystical}Your destiny lies elsewhere!{default}
+1628)  GUYBRUSH
+{confused}Wow, he seems excited about something.{default}
+1630)  GUYBRUSH
+{Default} I'd better be careful around this ink.  I don't want to become Guybrush Threepwood, Spotty Pirate.
+1631)  GUYBRUSH
+{Embarrassed} You know, if someone caught me walking around with a pink doll, it'd be a real black mark on my record.
+1632)  GUYBRUSH
+Why can't anyone just make a straightforward map... Someone around here must know how this thing works.
+1633)  GUYBRUSH
+{Stern} It's hard to have a short fuse with someone as friendly as Winslow, but I really want on that boat!
+1634)  GUYBRUSH
+{Suspicious} There has to be another way onto that ship; something a little more piratey...
+1635)  GUYBRUSH
+{Incredulous} Maybe I'm overthinking how to get onto the boat....
+1636)  GUYBRUSH
+{confused}[loudly]Are you sure you don't know where your Membership Card is?
+1637)  WINSLOW
+{cocky}[loudly]Well there was quite a soiree after I seized the Narwhal!  I'm still cleaning up the grog stains!
+1638)  DORO
+{Sarcastic} Finally, the full set of Porcelain {Enthused} Power Pirates is mine, all mine!
+1639)  GUYBRUSH
+{happy}Like a toilet!{default}
+1640)  VOODOO
+Sure, why not.
+1641)  GUYBRUSH
+{Whiney} It's locked.
+1642)  NIPPERKIN
+No one allowed in there but Keelhauler employees, Leapwood.  You thinking of becoming a reporter?
+1643)  GUYBRUSH
+{Surprised} Oh, heck no.
+1645)  NIPPERKIN
+{Confused} What're you doing here?  Shouldn't you be off looking for Deep Gut?
+1647)  NIPPERKIN
+{Happy} Keep up the pirating, kid!  I'm rootin' for ya.
+1648)  GUYBRUSH
+{Default} Davey.
+1649)  NIPPERKIN
+{Sarcastic} Whaddaya got for me, Sleepgood?
+1650)  NIPPERKIN
+(sigh).
+1651)  NIPPERKIN
+Any news?
+1652)  MCGEE
+[mumbling]... grrr...
+1653)  MCGEE
+[mumbling]... stupid club ...
+1654)  GUYBRUSH
+{stern}If I ever want to get back to Elaine, I'll have to do something about these winds!
+1655)  DORO
+[playing with action figures] Take THAT!
+1656)  DORO
+[playing with action figures] Pew! Pew! Pew!
+1657)  DORO
+[playing with action figures] En garde!
+1658)  DORO
+[playing with action figures] Arrgh!
+1659)  DORO
+[playing with action figures] What Dark Ninja Dave DIDN'T know was that Pierre was his long lost twin BROTHER!  Duhn-dun-duuun!
+1660)  PARROT
+<squawk!>
+1662)  MCGEE
+[grouchy] {Stern} Whattaya want now?
+1663)  GUYBRUSH
+{Happy} So long.
+1664)  MCGEE
+[incoherently] {Stern} Yeah, whatever...
+1665)  GUYBRUSH
+{Happy} Thanks, Hemlock!  I promise you {Seductive} probably won't regret this!
+1666)  GUYBRUSH
+I know you're supposed to stop and smell the flowers, but this pot looks like someone's taken it a wee bit too literally.
+1667)  GUYBRUSH
+I didn't think it was possible, but this idol's cheesier than ever!
+1668)  GUYBRUSH
+{Suspicious} I need to turn the tables on De Singe!
+1669)  GUYBRUSH
+{Stern} I'd like to turn that gun on De Singe... see how he likes it!
+1670)  GUYBRUSH
+This poor idol has a wheel-shaped hole where its eyes should be.
+1671)  GUYBRUSH
+[sneezing] Ah-choo!
+1706)  GUYBRUSH
+[sneezing] Ah-choo!
+1672)  GUYBRUSH
+I better not be allergic to one of these plants...
+1673)  GUYBRUSH
+That's a spectacularly good idea, but I don't think the eyes I'm looking for are on this idol.
+1674)  GUYBRUSH
+{Confused} That Rockrib guy sounds scary.  I wonder what he looks like?
+1675)  GUYBRUSH
+{Confused} I wonder why everyone's so scared of Rockrib?
+1676)  GUYBRUSH
+{incredulous}So. Unicorns huh?
+1677)  CRIMPDIGIT
+{happy}Aye, graceful, delicate creatures they are.  {suspicious}Though to be honest they aren't selling so well to the pirate community at large. {default} For my next project, maybe I'll make something that really speaks to them.  {angry}[angry]Assuming I can ever sell these blasted horny buggers!
+1678)  GUYBRUSH
+Hmmm, where have I seen those faces before?
+1679)  VOODOO
+{Surprised} You Pulled?
+1680)  VOODOO
+{Mystical} Yes, it is I.
+1681)  VOODOO
+My name is...{Stern}not important.
+1682)  VOODOO
+{Entranced} I sense that you wish to dabble in the dangerous voodoo arts. What did you have in mind?
+1683)  VOODOO
+Sigh
+1684)  VOODOO
+{Stern}Sorry, we're fresh out. We're expecting a {Default} shipment from Dinky Island early next week, though.
+1685)  VOODOO
+{Mystical} But I sensed that I was needed here on Melee. {Stern}Besides, the incessant clucking on Puerto Pollo {Angry} was driving me mad!
+1686)  VOODOO
+{Mystical} Who can say? Perhaps it's because we share an unspoken magical bond. Perhaps the fates have intertwined our destinies. {Happy} Or maybe I've got an unbreakable five-game deal with Lucasarts. {Default} In any event, I'm here to help. How can I assist you, Guybrush Threepwood?
+1687)  VOODOO
+That is an excellent question, Guybrush.
+1688)  VOODOO
+{Default}What goes up, must come down. But what's more important {Mystical} is WHERE it comes down.
+1689)  VOODOO
+The cards have foretold that you seek direction.
+1690)  VOODOO
+{Stern} In any event, the few pirates remaining on Melee Island, live in constant fear of being challenged by this foreign investor.
+1691)  VOODOO
+{Default}You don't need a sword to send your foes into a stupor, my child, just be yourself.
+1692)  VOODOO
+{Default}As you wish, Guybrush. {Mystical}I'll be here later if you need me.
+1693)  VOODOO
+{Stern} This is a pirate town. {Default} Even in these economically depressed times you should be able to find a couple of competent sailors.
+1694)  DESINGE
+{happy}[cheery] Bon jour!
+1695)  GUYBRUSH
+Hi there.  {confused}Are you a doctor?
+1696)  DESINGE
+[cheery] Mais oui!  I am the Marquis De Singe [pronounced "sahnj"], former court physician to King Louis himself!  {default}And who might you be?
+1697)  GUYBRUSH
+{proud}Guybrush Threepwood, Mighty Pirate™!
+1698)  DESINGE
+{amazed}Zut alors!  Your hand!
+1699)  GUYBRUSH
+{embarrassed}[sheepish] Yeah, I seem to have come down with something...
+1700)  DESINGE
+This is fantastic!  We must investigate this at once!
+1701)  GUYBRUSH
+{Cocky} Idol hands are the devil's something something...
+1702)  GUYBRUSH
+{Happy} I could go for a good grog right now... or even a bad one.
+1703)  GUYBRUSH
+{Incredulous} I wonder if there's anything in the Voodoo Lady's that can help me...
+1704)  GUYBRUSH
+{Happy} I can't wait to take my new ship out for a spin!
+1705)  GUYBRUSH
+{Happy} I hope the Narwhal's ready to sail...
+1707)  GUYBRUSH
+{Whiney} Rockrib sounds so lonely...
+1708)  GUYBRUSH
+{Suspicious} If I ever want to find a treasure, I bet I'm going to have to leave town.
+1709)  GUYBRUSH
+{Happy} I feel the urge to do some exploring.
+1710)  GUYBRUSH
+{Stern} This jungle is starting to drive me nuts...
+1711)  GUYBRUSH
+I'm so sorry.
+1712)  GUYBRUSH
+{worried}A "U"?  What about A, E, I, O,{worried} or even Y?
+1713)  CRIMPDIGIT
+{stern}All sold out.  All we got is U Tubes these days.
+1714)  GUYBRUSH
+I'll take another one of your U Tubes, please.
+1715)  CRIMPDIGIT
+{confused}What happened to the last one?
+1716)  GUYBRUSH
+{worried}I, um, lost it.
+1717)  CRIMPDIGIT
+{stern}Here ya go... lucky for you no else seems all that interested in me U Tube offerings...
+1719)  GUYBRUSH
+{suspicious}Oh what a relief it isn't!  {default}This stuff is like root beer, but without the usual stimulating fizz.
+1721)  GUYBRUSH
+{cocky}Wow! Talk about your animal magnetism!{default}
+1722)  GUYBRUSH
+{happy}[loudly] Thanks again!
+1723)  WINSLOW
+[loudly] Best of luck to you my friend!
+1724)  GUYBRUSH
+{whiney}It's hard to have a short fuse with someone as friendly as Winslow,{stern} but I really want that boat!
+1725)  
+Nipperkin
+1726)  
+Marshall
+1727)  
+Sign
+1777)  
+Sign
+1728)  
+Carpet
+1729)  
+Club Door
+1730)  
+Membership Card
+1731)  
+Club Sign
+1732)  
+Red Carpet
+1733)  
+Courthouse Door
+1734)  
+Jail
+1735)  
+Bulletin Board
+1736)  
+Keelhauler Door
+1737)  
+Squishy Blood Red Carpet
+1738)  
+Flier
+1739)  
+Deep Gut Map
+1740)  
+Pyrite Parrot
+1900)  
+Pyrite Parrot
+1742)  DESINGE
+{Angry} And what, pray tell, might I be findin' myself doin' if I joined this crew of mighty pirates?
+1743)  DESINGE
+{Happy} I'm open to persuasion, what do you have in mind?
+1745)  DESINGE
+{Amazed} Arrr, that doesn't sound too manly! Any girly pirate can loot a defenseless fishing community.
+1746)  DESINGE
+{Default}The better to insult arm wrestle with Mr. Threepwood!
+1747)  DESINGE
+{Angry} Well nowadays you can't throw a dart or...or play a game of checkers without bein' expected to toss in a witherin' bon mot.
+1748)  DESINGE
+{Happy} A greedy Australian is making a grab for my bar!
+1749)  DESINGE
+{Amazed} My particular speciality is insult arm-wrestlin' {Default} which I use to defend my bar from hostile takeovers.
+1750)  DESINGE
+Aye! {Amazed} It could be a pleasure to sail with a refined wit such as yourself.
+1751)  GUYBRUSH
+{Confused}What was it I was supposed to be doing? {Voodoo Mystical}
+1752)  
+Grogatini Sword
+1753)  
+Eye of the Manatee
+1754)  
+Flower Pot
+1755)  
+Unbreakable Bottle
+1756)  
+Unbreakable Bottle Breaker
+1815)  
+Unbreakable Bottle Breaker
+1757)  
+Cheese Wheel
+1922)  
+Cheese Wheel
+1758)  
+Ancient Door Face
+1759)  
+Action Figure
+1760)  
+Ink-Stained Action Figure
+1761)  
+Action Figure with Sword
+1762)  
+Ninja Action Figure
+1763)  
+Locket
+1764)  
+D'Oro's Map
+1765)  
+Ancient Scoll
+1766)  
+Ancient Tool
+1767)  
+Ancient Weather Vane
+1768)  
+Mini-Bomb
+1769)  
+Lit Mini-Bomb
+1770)  
+U Tube
+1771)  
+Fancy Building
+1772)  
+Imprinted Cheese Wheel
+1773)  
+Vat
+1774)  
+Jail Carvings
+1775)  
+Courthouse Flag
+1776)  
+Printing Press
+1778)  
+Paper Stack
+1779)  
+Weather Vane
+1812)  
+Weather Vane
+1780)  GUYBRUSH
+Sea monster, are you nuts?  There are no  giant man eating sea monsters in these waters!
+1781)  GUYBRUSH
+Set sail for the Jerkbait Islands, Mr. Winslow!
+1782)  GUYBRUSH
+LeChuck?!  What kind of Voodoo trickery is this?!
+1783)  
+Swordfish
+1784)  
+Pillar
+1785)  
+Crimpdigit
+1786)  
+Winslow
+1787)  
+De Singe
+1788)  
+Guybrush
+1789)  
+Bookshelf
+1816)  
+Bookshelf
+1790)  
+Voodoo Chest
+1791)  
+Closet
+1792)  
+Crystal Ball
+1793)  
+Exit
+1961)  
+Exit
+1794)  
+Dead Animals
+1795)  
+Deep Freezer
+1796)  
+Doll Diagram
+1797)  
+Mask
+1798)  
+Hand Lotion
+1799)  
+Voodoo Ingredients
+1800)  
+Machine
+1801)  
+Rug
+1802)  
+Parrot Skeleton
+1803)  
+Voodoo Shrine
+1804)  
+Skull
+1805)  
+Diorama
+1806)  
+Skull Candle
+1807)  
+Cards
+1808)  
+Voodoo Lady
+1809)  
+Pile of Dolls
+1810)  
+Portly Pirate
+1811)  
+Pile of Bombs
+1813)  
+Creepy Shack
+2226)  
+Creepy Shack
+1814)  
+Rack of Glass Unicorns
+1817)  
+Bottle Rack
+1818)  
+Mysterious Idol
+1819)  
+Office Door
+1820)  
+Balcony Door
+1821)  
+Microscope
+1822)  
+Key
+1823)  
+Cage
+1824)  MONKEY
+{Default}[excited] Eek-eek-eek!
+1826)  MONKEY
+{Frustrated}[scared] Eeeeeek!
+1827)  MONKEY
+{Disappointed}[dazed] Ook.
+1829)  DESINGE
+{Arrogant}Hmmm... very interesting... {Sarcastic}and you say your sick little hand has a mind of its own?
+1831)  DESINGE
+{happy}Monsieur Threepwood, {Arrogant}you have my word as a former physician of the Court of King Louis that by the time you leave here, {Sarcastic}your misanthropic hand will never trouble you again!  {default}But in order to determine the correct treatment, I'll have to spend a few minutes inspecting this skin sample under my experimental Enlargorama.
+1832)  DESINGE
+{happy}[wistfully remembering]  Ah, mon ami, that is a tale of triumph {Worried}and tragedy.  {Stern}Many years ago, I was a young physician in the court of King Louis.  {Confused}Those were heady days, tending to the many ills of the aristocracy, {sarcastic} navigating scandalous palace intrigues... {Arrogant}I was a rising star in the scientific firmament.
+1834)  DESINGE
+{Stern}The King was outraged, {Worried}and ordered me exiled on this deserted tropical island.
+1835)  
+Pedal
+1836)  
+Banana Pedal
+1837)  
+Shock Pedal
+1838)  
+Strange Device
+1839)  
+Hand Picture
+1840)  
+Mini-Guillotine
+1841)  
+Skeleton
+1842)  
+Bell
+1843)  
+Picture Device
+1844)  
+Picture
+1845)  
+Pictures
+1846)  
+Stairs
+1847)  
+Test Tubes
+1848)  
+Jacques
+1849)  GUYBRUSH
+I can't reach it from this position.
+1850)  
+Altar
+2234)  
+Altar
+1851)  
+Wishing Well
+1852)  
+Frilly Pink Underwear
+1853)  
+Socks
+1854)  
+Crank
+1856)  
+About this unbreakable bottle...
+1857)  
+Door
+1858)  
+Door
+1893)  
+Door
+1859)  ELAINE
+{Stern} First, YOU should look for a way to replace that root beer you dropped.
+1860)  ELAINE
+It better, {Concerned}or those monkeys are doomed! {Worried}Dip the cutlass in it, and hurry!
+1861)  ELAINE
+[excited] {Angry} Swing it at LeChuck,  NOW!
+1862)  ELAINE
+{Dismissive} Oh, the usual.   Mayhem.   Swashbuckling. {Sarcastic} A troubling encounter with an enchanted aardvark. {Serious} Now my hold's full of monkeys, and Captain Personality over there thinks {Surprised} he's gonna marry me.
+1863)  ELAINE
+I think it's some sort of blood sacrifice in exchange for the secret language of the dead.  {Sarcastic} Or maybe he just really hates monkeys. {Dismissive} It's all been a little vague.
+1864)  ELAINE
+{Babying}I'm sure it was all very interesting, sweetie, but let's try to stop  the rampaging undead pirate first, okay?
+1865)  ELAINE
+{Exhasperated} It'd be flattering if I wasn't already so married... and he{Serious} wasn't so dead.
+1866)  ELAINE
+[shouting]{Evil} I'm not shouting, I'm projecting!
+1867)  
+Grease Fire
+1868)  
+Glassblower Sign
+1869)  
+My name is... not important.
+1870)  
+I need a ship so I can get back to Elaine!
+1871)  
+Couldn't you just TELL me how to contact Deep Gut?
+1872)  
+Do you really think Deep Gut can help me?
+1873)  
+I'm sorry my evil hand threw you out of Club 41.
+1874)  
+So I can investigate the winds!
+1875)  
+Because I'm a fearsome pirate!
+1876)  
+Prepare to be boarded!
+1877)  
+Bye!
+1878)  
+This is a seriously weird-looking ship.
+1879)  
+My hand's not dead!
+1880)  
+I'm heading back to open that freaky door...
+1881)  
+Y'know, there are other poxed pirates out there...
+1883)  
+What kind of treasure do you hunt?
+1884)  
+What are Porcelain Power Pirates?
+1885)  
+How many Porcelain Power Pirates do you have left?
+1886)  
+What's that big pink pile of dolls all about?
+1888)  
+Look, it's Dark Ninja Dave!
+1889)  
+Look, it's King Louis!
+1890)  
+What's a guy like you doing on Flotsam Island?
+1891)  
+What do you know about these crazy Flotsam winds?
+1892)  
+I heard my hand can only be cured by a magical sponge.
+1894)  
+Crossroads Rug
+1895)  
+Nor Treblig Shrine
+1896)  
+Useless Hand Lotion
+1897)  
+The Scariest Closet In The World
+1898)  
+Useless Voodoo Ingredients
+1899)  
+Broken Crystal Ball
+1901)  
+Chest of Foreshadowing
+1902)  
+Uselessly Vague Tarot Cards
+1903)  
+Joaquin D'Oro
+1904)  
+Pile of "Action Figurines"
+1905)  
+Pile of Pink Pajama Pierres
+1906)  
+The Voodoo Lady's Creepy Shack
+1907)  
+Picture of Guybrush's Hand
+1908)  
+Desingeograph of Guybrush's Hand
+1909)  
+Enlargorama
+1910)  
+Insidious Picture Projector
+1911)  
+Vole-Powered Generator
+1912)  LECHUCKDEMON
+{Default} Ah, Threepwood.  {Devilish} So good of you to join us.  Saves me the trouble of having to {Angry} sink your ship.
+1913)  LECHUCKDEMON
+{Default} Nay, now I be after much darker secrets, secrets buried {Devilish} deep within the entrails of the Monkeys of Montevideo!!!
+1914)  LECHUCKDEMON
+{Surprised} YOUR wife?  Nay, Elaine is {Default} destined to be {Devilish} MY bride!
+1915)  LECHUCKDEMON
+{Devilish} Har!  My outer shell is {Default} meaningless, you fool!   Within my decaying flesh courses more {Surprised}voodoo power than your pitiful {Angry} mind can possibly imagine!
+1916)  
+Calendar
+2235)  
+Calendar
+1917)  
+Anchor Chain
+1918)  
+Plank
+1919)  
+Clothesline
+1920)  
+Scientific Thingamabob
+1921)  
+Screaming Narwhal
+1923)  
+Courthouse
+1924)  
+Hemlock
+1925)  
+Crystal Nose
+1926)  
+Crusty Pirate
+1927)  
+Ancient Portal
+1928)  
+Ink Vat
+1929)  
+Barrel
+1930)  
+Barrel of Lite Grog
+1931)  
+Barrel of Fizzy Lite Grog
+1932)  
+Barrel of Root Grog
+1933)  
+Barrel of Enchanted Root Grog
+1934)  
+Nasal Cavity
+1935)  
+Manatee
+1936)  
+Noseless Facial Carving
+1937)  
+X Marks the Spot
+1938)  
+LeChuck
+1939)  
+Can you tell me where LeChuck is?
+1940)  
+The Marquis is manipulating the winds!
+1941)  
+About De Singe...
+1942)  
+What's your name, anyway?
+1943)  
+YOU'RE Deep Gut?
+1944)  
+Have you got anything for my hand?
+1945)  
+Cannon
+1946)  
+Chuck the Plant
+1947)  
+Monkey Coffin
+1948)  
+Interesting Socket
+1949)  
+Chuck Roots
+1950)  
+Fizzy Root Beer
+1951)  
+Root Beer
+1952)  
+Breath Mints
+1953)  
+Voodoo Recipe
+1954)  
+Cutlass
+1955)  
+Enchanted Cutlass
+1956)  
+Hatch
+1957)  
+Quarters Door
+1958)  
+Elaine
+1959)  
+Gun Powder
+1960)  
+Wheel
+1962)  
+Main Mast
+1963)  
+Tar Barrel
+1964)  
+Map
+1965)  
+The word is...
+1966)  
+I can't find any root beer!
+1967)  
+Are you hungry?
+1968)  
+You wouldn't believe the day I've had.
+1969)  
+So, what's new with you?
+1970)  
+Sorry I'm late.
+1971)  
+I've replaced the root beer with root grog!
+1972)  
+What am I supposed to be doing?
+1973)  
+I found the root beer!
+1974)  
+The root beer's flat!
+1975)  
+I made fizzy root beer!
+1976)  
+I don't know what to do!
+1977)  
+Are you okay?
+1978)  
+Do you need anything?
+1979)  
+Why do you keep shouting at me?
+1980)  
+Hey, the cutlass is all glowy!
+1981)  
+What's he doing to that monkey?!
+1982)  
+What should we do now?
+1983)  
+Never mind.
+1984)  
+What's with all the monkeys?
+1985)  
+What kind of secrets do these monkeys hold?
+1986)  
+Would you mind releasing my wife?
+1987)  
+Destiny, shmestiny, Elaine's MY wife!
+1988)  
+Check the ring, LeChuck.
+1989)  
+Didn't you used to be a ghost?
+1990)  
+You look like something the cat dragged in.
+1991)  
+Why'd you evolve into THIS?
+1992)  
+How'd you beat me here?
+1993)  
+So, now what?
+1994)  
+You're not getting my hand.
+1995)  
+What happened to your legs?!
+1996)  
+The Marquis De Singe cut off your legs?
+1997)  
+So long.
+1998)  
+I can't decipher that crazy scroll.
+1999)  
+Your scroll was no match for my intellect.
+2000)  
+I found a scroll in a bottle!
+2002)  
+You mentioned Mer-Folk?
+2003)  
+Tell me more of these MerFolk.
+2004)  
+Because of my plus-10 charisma?
+2005)  
+YOU were investigating the winds of Flotsam Island?
+2007)  
+Can I see your ancient scroll?
+2008)  
+Puddle o' Tar
+2009)  
+I need to find a ship so I can get back to LeChuck!
+2010)  
+Deep Gut?  Aren't guts usually more wide than deep?
+2011)  
+What's this "Deep Gut" person like, anyway?
+2012)  
+What kind of ship can I seize around here?
+2013)  
+Where should I look for buried treasure?
+2014)  
+I can get the help of a treasure hunter?
+2015)  
+How am I supposed to start a bar brawl?
+2016)  
+Enough about piracy.
+2017)  
+You're a pirate glassblower?
+2018)  
+So. Unicorns huh?
+2019)  
+What's this Alphabet Sale all about?
+2020)  
+Why are you so interested in my hand?
+2021)  
+What are you doing out here?
+2022)  
+Are you SURE you don't know anything about the winds?
+2023)  
+You're behind the winds, aren't you?
+2025)  
+How'd you end up on Flotsam?
+2026)  
+See ya.
+2034)  
+See ya.
+2027)  
+How'd you become the captain?
+2028)  
+I found your membership card!
+2029)  
+Why are you so happy about me seizing your ship?
+2030)  
+Do you know anything about Club 41?
+2031)  
+Where's your Club 41 membership card?
+2032)  
+Did the winds bring you to Flotsam?
+2033)  
+Hemlock thinks you've got it in for him.
+2035)  
+How'd you end up on Flotsam Island?
+2036)  
+Know anything about the Marquis De Singe?
+2037)  
+Tell me more about this locket.
+2038)  
+Are you sure you can't help me get off the island?
+2039)  
+Can you tell me if Elaine is okay?
+2040)  
+Anything else about this pox?
+2041)  
+Anything else about this pox?
+2042)  
+Hey!  Can grog stave off the pox?
+2043)  
+Hemlock's Map
+2353)  
+Hemlock's Map
+2044)  
+Resume
+Game
+2045)  
+Clamshell
+2046)  VOODOO
+{default}That is a bottle containing an ancient scroll left behind by the Vaycaylians, the former inhabitants of Flotsam Island.
+2047)  
+rifle
+2048)  
+TEMPORARY MAP TEXT
+1. Go to the Well.
+2. E - E - N - S - S - N - W - W - W - W - N
+3. X Marks the spot
+2049)  
+TEMP MAP TEXT
+1. Use map with altar, go S-W-N.
+2. Use flowers with well, go E-W-W.
+3. Walk left around the calender, go N.
+2050)  
+Imagine a blank piece of papyrus here...
+2051)  
+TEMP MAP TEXT
+W-N-N-N
+"Deadline"
+2052)  
+Sock
+2053)  GUYBRUSH
+{Incredulous} Hmm.
+2054)  GUYBRUSH
+{Sarcastic} Interesting.
+2055)  GUYBRUSH
+{Default} I see.
+2056)  GUYBRUSH
+{Confused} Hmmm, where have I seen those faces before?
+2060)  
+Tantalizing Rope
+2061)  
+Important Monkey
+2062)  
+Enigmatic Idol
+2228)  
+Enigmatic Idol
+2435)  
+Enigmatic Idol
+2063)  
+Strange Idol
+2229)  
+Strange Idol
+2436)  
+Strange Idol
+2064)  
+Messed Up Idol
+2230)  
+Messed Up Idol
+2437)  
+Messed Up Idol
+2065)  
+????
+2066)  
+Grease Smear
+2067)  
+Giant Statue
+2068)  
+I need a ship so I can get back to those monkeys!
+2069)  
+Deep Gut?  That's the worst pirate name ever!
+2070)  
+Deep Gut?  Elaine's mother is here?
+2071)  
+A deal? I won't have to dress up like a sheep, will I?
+2072)  
+A deal?  Great, I love making deals with complete strangers!
+2073)  
+A deal?  Okay, but no blood signatures.
+2074)  LECHUCKDEMON
+[pickup1] At last, my victory is at hand!  Har-har-haaaar!
+2075)  LECHUCKDEMON
+[pickup1] [loudly, shouting to the heavens] Behold, the legendary Thirteenth Monkey of Montevideo, whose sacrifice will eternally bind the oceans themselves to my infernal will! Arrrr![looking down at Elaine] Impressed yet?
+2076)  ELAINE
+[pickup1] [angry] Not half as much as I'll be when Guybrush guts your diseased carcass with his voodoo cutlass, you doddering sack of scumm!
+2077)  LECHUCKDEMON
+[pickup1] I wouldn't hold your breath waiting for any last-minute heroics, me dear.  The last I saw of your [sarcastic] "Mighty Pirate" husband, he was being torn apart by a school of my ravenous piranha poodles...[he's cut off by Guybrush's next line]
+2078)  ELAINE
+[pickup1] Guybrush!
+2079)  ELAINE
+[pickup1][loudly across ships] Stop LeChuck from tormenting those monkeys!
+2080)  ELAINE
+[pickup1][loudly across ships]  The Cutlass of Kaflu is the only thing that can stop LeChuck!
+2081)  ELAINE
+[pickup1][loudly across ships] Don't worry about me!
+2082)  
+Throw me the rope!
+2083)  
+To walk around, click and drag your mouse in the direction you want to go.  Try walking toward the mast on the left.
+2084)  
+To display your inventory, move the cursor to the right edge of the screen and select the tab that appears.  To examine the coffin, select the magnifying glass, then select the coffin.
+2085)  
+To combine items, place an item in each of the two large circles on the left, then select the plus sign to combine them.
+2086)  
+Sometimes after certain events, characters will have new things to say.  Try selecting Elaine to talk to her.
+2412)  
+Sometimes after certain events, characters will have new things to say.  Try selecting Elaine to talk to her.
+2087)  
+Weird Door Face
+2088)  ELAINE
+{surprised}[pickup1] Find something to replace the Voodoo Root Beer!{default}
+2089)  ELAINE
+{surprised}[pickup1][shouting]If the root beer's flat, try making it fizzy!{default}
+2090)  ELAINE
+{surprised}[pickup1] Why don't you try the same thing you did to make the root beer fizzy?{default}
+2091)  ELAINE
+{surprised}[pickup1] Soak the sword so we can stop LeChuck!{default}
+2092)  ELAINE
+[pickup1][excited]Hurry!  Run LeChuck through with the enchanted cutlass before the spell wears off!
+2093)  GUYBRUSH
+[pickup1]  The mysterious Rock of Gelato... it's hard to believe that LeChuck's latest master plan literally revolves around such a nondescript scab of dirt.
+2094)  ELAINE
+[pickup1][loudly across ships, push the "I"]Is there anything I can do?
+2095)  GUYBRUSH
+Maybe Elaine has some bright ideas.
+2096)  
+Use map on calendar
+E-W-E
+2097)  GUYBRUSH
+[pickup1][as though reading a weather report] Today's forecast calls for the Pox of LeChuck oozing in from the Rock of Gelato, combining with Flotsam's stubbornly sucking winds to create a Cat 5 Crudstorm.
+2098)  GUYBRUSH
+[pickup1] Man, Flotsam's sucky winds have really pulled in the Pox of LeChuck...
+2099)  GUYBRUSH
+[pickup1][to himself] If I can't TELL Winslow where to steer, maybe I can steer there myself!
+2100)  GUYBRUSH
+[pickup1] I wonder if there's another way to tell Winslow where to go?
+2101)  GUYBRUSH
+[pickup1] If I ever want to get to the [hand clasps over Guybrush's mouth as he says "Rock of Gelato"] mph-mphmph-mph mph, I'll have to outsmart it.
+2102)  GUYBRUSH
+[pickup1][read with urgency] Hmm, this tar might be useful...
+2103)  GUYBRUSH
+[pickup1]Ow!
+2104)  GUYBRUSH
+[pickup1][read with urgency]  Hey!  I bet this sticky puddle of tar would be perfect for trapping my evil hand!
+2105)  GUYBRUSH
+[pickup1][read with urgency] Guess I shouldn't have tipped my, um, hand.
+2106)  
+Deep in the Caribbean, the evil undead pirate LeChuck is moments from completing a dark voodoo spell giving him powers untold.  Our hero, Guybrush Threepwood, plans to stop him by using his own mystical voodoo instructions to enchant his cutlass and skewer the villain.
+2107)  
+Guybrush found the necessary root beer (don't ask where), and resourcefully used his fizzy breath mints to give it some kick.
+2108)  
+But just as he was about to spray the fizzy root beer on the cutlass, LeChuck evilly rammed his ship, and Guybrush's root beer became a casualty of war.  Guybrush realized he needed a replacement, and quick!
+2109)  
+Guybrush washed up on the shore of Flotsam Island with a voodoo-infected hand and his beautiful wife, Elaine, nowhere in sight.  He was greeted by ace reporter Davey Nipperkin, who spoke of the one person who could help him get off the island: Deep Gut.  Nipperkin agreed to reveal the location of Deep Gut if Guybrush created some exciting pirate news, so Guybrush got to work.
+2110)  
+He walked in to Club 41 and started the worst bar brawl in Flotsam's history (blindfolded no less), although most of the credit belonged to his icky hand.
+2111)  
+He bombed his way aboard the Screaming Narwhal, seizing it from the preternaturally pleasant Reginald Van Winslow.
+2112)  
+He not only buried a treasure, but helped professional treasure hunter Joaquin D'Oro dig it back up again.
+2113)  
+True to his word, Nipperkin revealed the location of Deep Gut, and Guybrush set out to find some answers.
+2114)  GUYBRUSH
+[pickup1] Ugh.  This one looks like it's missing a nose...
+2115)  GUYBRUSH
+[pickup1] Seriously, who goes around ripping the noses off of ancient idols?
+2116)  
+Deep Gut turned out to be the ever mysterious Voodoo Lady, who revealed that to leave Flotsam, Guybrush would have to reverse the island's unnatural winds.  Not knowing the source of the winds, our hero found a single clue to help him in his quest:  an unbreakable bottle containing a map.  Guybrush set out to break the unbreakable.
+2117)  
+But before he could deal with the bottle, Guybrush visited the Marquis de Singe to sedate his voodoo-infected hand.  The Marquis, however, decided he wanted the hand for himself!
+2118)  
+Luckily, Guybrush was able to make his escape before the Marquis could use his petite guillotine.
+2119)  
+Guybrush returned to the task of opening the bottle using Gaffer Crimpdigit's bottle-breaker.  Inside was an enigmatic map, seemingly completely blank.
+2120)  
+But with Hemlock McGee's Eye of the Manatee, Guybrush was able to reveal the map leading to the source of the winds.
+2121)  
+Still hoping to get off Flotsam by reversing the island's unnatural winds, Guybrush followed Hemlock's map to their source.  There Guybrush discovered none other than the Marquis de Singe leaving from an ancient stone door, carrying the key that Guybrush needed to get inside.
+2122)  
+With the help of a tiny stunt double, Guybrush succeeded in tricking the Marquis to open the door.  On the other side he discovered the source of the winds:  a giant sucking machine.
+2123)  
+Using the Marquis' key, Guybrush revealed four stone idols around the jungle, and realized that each one must play a part in turning the winds.
+2124)  
+Guybrush finally managed to reverse Flotsam's winds, allowing him to set sail for Elaine.  His hand, however, has other plans... or maybe it's just being a jerk.
+2125)  GUYBRUSH
+[pickup1]  Hm.  That's one inviting socket.  I hope whatever's supposed to be stuck into that socket will help me figure out how to manage this wind control machinery.
+2126)  GUYBRUSH
+[pickup1]  That's a socket for the ancient weather vane.
+2127)  GUYBRUSH
+[pickup1] The faces on those idols look familiar...
+2128)  GUYBRUSH
+[pickup1] I wonder if the winds gods on the idols are related to the ones on the weather vane...
+2129)  GUYBRUSH
+[pickup1]  That jungle sure is noisy.
+2130)  GUYBRUSH
+[pickup1] Sure are a lot of animals on this map.
+2131)  GUYBRUSH
+[pickup1] I wonder if the animals in Flotsam's jungles can help me with this thing...
+2132)  GUYBRUSH
+I wonder who can help me with this worthless map?
+2133)  GUYBRUSH
+Eye'd better keep my EYE on this map.  Ayyye.
+2134)  GUYBRUSH
+[pickup1] Ancient map, ancient map... what else do I have that's ancient?
+2135)  GUYBRUSH
+[pickup1] Looks like I have to do... something... at the altar, the well, and the calendar to solve this map.
+2136)  GUYBRUSH
+[pickup1]  Are those drawings supposed to represent the wind?
+2137)  GUYBRUSH
+[pickup1]So far so good.
+2138)  GUYBRUSH
+[pickup1] I wonder who might know something about blowing exotic unbreakable bottles?
+2139)  GUYBRUSH
+[pickup1] I really should make sure my new ship is ship-shape before shipping out...
+2140)  
+Use map on altar
+W-W-N
+2141)  
+Use map on well
+W-E-E-S
+2142)  
+Use map on calendar
+S-N-E-E
+2143)  
+Use map on bombs
+E-E-S-N-E
+2144)  
+Use map on altar
+E-W-S-W
+2145)  
+Use map on well
+N-S-N-S
+2146)  
+Use map on well
+E-W-N-E-S
+2147)  
+Use map on calendar
+E-W-W-E-E
+2148)  
+Use map on bombs
+W-W-E-S-E
+2149)  
+Use map on shack
+W-S-E-E-E
+2150)  
+Use map on altar
+W-W-N-E-W
+2151)  
+Use map on well
+S-E-S-W-W-W
+2152)  
+Use map on altar
+W-W-W-W-N-E-N
+2153)  
+Use map on well
+E-W-N-E-S-W-S-N-E
+2154)  GUYBRUSH
+[pickup1] [loudly] Elaine, my beautiful butter... [cut off by Elaine before finishing the word buttercup]
+2155)  ELAINE
+[pickup1] [loudly, she honestly didn't hear him] What?
+2156)  GUYBRUSH
+[pickup1] [louder] I said, "Elaine, my beautiful butter..."  [cutting himself off in imitation of before]
+2157)  ELAINE
+[pickup1] [loudly] My beautiful butter?
+2158)  GUYBRUSH
+[pickup1] [loudly] I was going to say buttercup, but you keep cutting me off!
+2159)  ELAINE
+[pickup1] [loudly, but honestly touched] Oh Guybrush!  [turning urgent] Now stop LeChuck or we're all dead!
+2160)  ELAINE
+{stern}[pickup1] [loudly] LeChuck hijacked my ship and sailed to the Rock of Gelato to finish his {worried}terrifying voodoo ritual!  {surprised}It's a good thing we've got the Cutlass of Kaflu on our side, or we'd be done for!{default}
+2161)  GUYBRUSH
+{surprised}[pickup1] [loudly] What's going on here?{default}
+2162)  
+What's going on here?
+2163)  GUYBRUSH
+[pickup1] Hmm, looks like the wind gods of Flotsam are pointing thataway...
+2164)  DESINGE
+[pickup1][ annoyed] {Arrogant} Well played, Mr. Threepwood. You have forced me to reveal the location of the hidden temple. {Sarcastic} But without my help, a simpleton like you will never be able to figure out which of the so-called "wind gods" must be summoned to master {Arrogant} this ancient wind control device, and I will reveal NOTHING![he is cut off]
+2165)  GUYBRUSH
+[pickup1] {Suspicious} Hmm, the winds are still blowing in. {Stern} Looks like I've got some ancient wind gods to summon.
+2166)  GUYBRUSH
+[pickup1] I wonder if that idol can be used to summon wind gods?
+2167)  GUYBRUSH
+[pickup1] If I understood De Singe correctly through his crazy accent, this ancient doohickey will reverse the winds of Flotsam... if I summon the correct wind gods.
+2168)  GUYBRUSH
+[pickup1] This idol's way too broken.  I better come back to it later.
+2169)  GUYBRUSH
+[pickup1]  What the-?  This idol doesn't even have an axle!  It'll never work like this!
+2170)  GUYBRUSH
+[pickup1] I generally don't rub my booty in the faces of those I've stolen it from.
+2171)  GUYBRUSH
+[pickup1] As happy as it'd make D'Oro to finally get his hands on a Dark Ninja Dave (or an unreasonable facsimile), I think it'd be a lot more newsworthy if he found it himself.
+2172)  GUYBRUSH
+[pickup1] I don't think Nipperkin'll count this as "treasure" unless he sees someone digging it up.
+2173)  GUYBRUSH
+[pickup1] [indignant]I'm not putting that poor monkey in a coffin until he's well and truly dead... [sheepish] which, from the looks of things, ought to be in about ten minutes.
+2174)  GUYBRUSH
+[pickup1][read with urgency] Winslow!
+2175)  GUYBRUSH
+[pickup1] Well I had to sail six of the seven major seas to find the ingredients, but I've finally finished the cutlass.  Almost.
+2176)  GUYBRUSH
+[pickup1] Now all I need is to find some fizzy root beer to spray on it, and LeChuck's as good as toast... icky, diseased toast.
+2177)  GUYBRUSH
+[pickup1] Is this thing sloshing?  Four words you don't want to hear when you pick up a coffin.
+2178)  GUYBRUSH
+[pickup1] Looks like I've got some fizzing to do!
+2179)  GUYBRUSH
+[pickup1] I sure hope there's some on Elaine's ship, 'cause mine's dry as a bone.  And not one of those wet bones.  I'm talking a dry, dry bone.
+2180)  GUYBRUSH
+[pickup1] Right!  Have no fear, my love, I shall now heroically find a fizzy root beer substitute!
+2181)  GUYBRUSH
+[pickup1] I bet this stuff'll work wonders on my cutlass!
+2182)  GUYBRUSH
+[pickup1] Worst.  Air freshener.  Ever.
+2183)  
+I've got PROOF that you're up to no good!
+2185)  GUYBRUSH
+[pickup1] I wonder what De Singe was up to out in the jungle?
+2186)  GUYBRUSH
+[pickup1] I think I should look around for more stuff to plunder, arrr!
+2187)  
+What kind of name is Gaffer Crimpdigit?
+2188)  
+Your name is D'Oro?
+2189)  GUYBRUSH
+{suspicious}[pickup1] [loudly] Elaine!  You've got inordinately strong thighs...{confused}  see if you can swing me that rope!{default}
+2190)  ELAINE
+{surprised}[pickup1] [loudly] It's not long enough!  {bitchy}But I've got a better idea.{default}
+2191)  ELAINE
+[pickup1] No time to waste, Guybrush!  Finish enchanting that sword before LeChuck completes his spell!
+2192)  ELAINE
+[pickup1] You can do it, sweetie!
+2193)  ELAINE
+[pickup1] For the last time, LeChuck, I'm just not that into you!
+2194)  ELAINE
+[pickup1] Have you no heart, LeChuck?  Wait, what am I saying, of course he doesn't.
+2195)  ELAINE
+[pickup1] You'll be sorry when my sweet patootie gets his hands on you, LeChuck!
+2196)  ELAINE
+[pickup1] Won't someone please think of the monkeys!?
+2197)  ELAINE
+[pickup1][struggling in ropes] These ropes are starting to chafe!
+2198)  LECHUCKDEMON
+[pickup1] Nothing can stop me now!
+2199)  LECHUCKDEMON
+[pickup1] [in some sort of voodoo rapture] Yes... yes!
+2200)  LECHUCKDEMON
+[pickup1] Cease your infernal struggling, or I'll gut ya from gob to gizzard!
+2201)  LECHUCKDEMON
+[pickup1] Har-har-harrrr!
+2202)  
+Close Inventory
+2203)  
+Combine Items
+2204)  
+Examine Mode Off
+2205)  
+Examine Mode On
+2206)  
+No Inventory Selected
+2207)  
+I don't know what kind of pirate news to make.
+2208)  GUYBRUSH
+[proud]{Cocky} So, what sorts of swashbuckling do you go in for around these parts?
+2209)  GUYBRUSH
+{confused}[pickup1] Once I get rid of LeChuck, I'd better mop that stuff up before it {scared}eats through the deck.{default}
+2210)  
+Apply
+2211)  
+DeSinge
+2212)  
+The Legendary Rock of Gelato
+2213)  
+Volatile Enchanted Root Grog
+2214)  
+Shrunken Heads
+2215)  
+Broken Grogatini Glass
+2216)  GUYBRUSH
+This'll be a snap!
+2217)  GUYBRUSH
+I LOVE making pirate news!
+2218)  
+Note to self - 
+              "DEADLINE"
+2221)  
+Idol
+2222)  
+Idol
+2223)  
+Idol
+2224)  
+Dock
+2225)  
+Beach
+2227)  
+Giant Wind Control Device
+2231)  
+Giant Doorway
+2232)  
+Jungle Entrance
+2233)  
+Well
+2236)  
+Buried Treasure
+2237)  
+Swirling Pox Vortex
+2241)  
+Swirling Pox Vortex
+2238)  
+Flotsam Beach
+2239)  
+Flotsam Dock
+2240)  
+Finale
+2242)  
+Jungle
+2243)  
+Jungle 2
+2244)  
+Jungle 3
+2245)  
+Jungle 4
+2246)  
+Jungle 5
+2247)  
+Jungle 6
+2248)  
+Jungle 7
+2249)  
+Jungle 8
+2250)  
+Jungle 9
+2251)  
+Jungle 10
+2252)  
+Jungle 11
+2253)  
+Jungle 12
+2254)  
+Jungle 13
+2255)  
+De Singe's Lab
+2256)  
+Prologue
+2257)  
+Voodoo Lady's
+2258)  
+Good news!  Your map isn't a rip-off!
+2260)  GUYBRUSH
+"The Pirate Who Mistook His Wife for A Hook"
+2286)  
+"The Pirate Who Mistook His Wife for A Hook"
+2261)  GUYBRUSH
+"Voodoo at Tiffany's"
+2262)  GUYBRUSH
+"Scary Pot-Arrr and the Giblet of Mire"
+2263)  GUYBRUSH
+"Sea++ For Beginners"
+2264)  GUYBRUSH
+"7 Habits of Highly Infected People"
+2265)  GUYBRUSH
+"Voodoo and the Art of Monkey Robot Maintenance"
+2266)  GUYBRUSH
+"Eat, Sleep and Rot: A Path to Illumination"
+2267)  GUYBRUSH
+"How Elaine Got Her Mojo Back"
+2268)  GUYBRUSH
+"Heretics of Rune"
+2269)  GUYBRUSH
+"Hex Yourself Healthy"
+2270)  GUYBRUSH
+"Living with the Non-Living"
+2271)  GUYBRUSH
+"The Threepwood Delusion"
+2272)  GUYBRUSH
+"Everything You Always Wanted to Know About Voodoo (But Were Afraid to Ask)"
+2273)  GUYBRUSH
+"Letter to a Voodoo Nation"
+2274)  GUYBRUSH
+"Hex and the City"
+2275)  GUYBRUSH
+"There and Back Again...and Again...and Again"
+2287)  
+"There and Back Again...and Again...and Again"
+2276)  
+Interesting Bottle
+2277)  WINSLOW
+Captain on deck!
+2278)  
+Know anything about "unbreakable" bottles?
+2279)  
+Broken Rowboat
+2280)  
+Useless Rowboat
+2281)  
+Utterly Unfixable Rowboat
+2282)  
+Rotting Heap of Junk Vaguely Resembling a Rowboat
+2283)  
+Fascinating Yet Pointless Sea Flotsam
+2284)  
+DeSinge's examination table can be moved by using A and D to rotate left and right, or W and S to incline and decline.
+2285)  
+What a coincidence, I've got an indecipherable ancient scroll too!
+2288)  
+idol2
+2289)  
+Empty Barrel
+2290)  GUYBRUSH
+Hey LeChuck!
+2291)  GUYBRUSH
+Hey! LeChuck!
+2292)  
+Fudgebeard's Beginner's Map
+2293)  
+Grogmug Breafmint's Map of Simplicity
+2294)  
+Cobb Vandeventer's Not-At-All Hard Map
+2295)  
+Wobbly Bob's Map o' Fun
+2296)  
+Loogie Hawking's Map of Minor Mystery
+2297)  
+Flinty McDinty's Map of Tiny Trials
+2298)  
+Frank Threesheets' Map of Increasing Peril
+2299)  
+Mike Ironbutt's Map of Glee
+2300)  
+Tjibbe the Unwashable's Map of Ambling
+2301)  
+William Scrinkwater's Hardheaded Map
+2302)  
+Blokebroom Pluckplank's Map of Urgency
+2303)  
+Very Important Pirate #4's Very Important Map
+2304)  
+Ripstuff Limewire's Map of Saltiness
+2305)  
+Stabastion Gashagher's Penultimate Map
+2306)  
+Peg-Shoulders Whitterton's Map of Treasurey Goodness
+2307)  
+ESK'RGOH
+2308)  
+Quit Treasure Hunting?
+2309)  
+Voodoo Lady's Creepy Shack
+2310)  
+Return to Jungle Entrance
+2311)  
+Treasure
+Hunt
+2312)  
+Ready to start
+treasure hunting?
+2313)  
+SHUTTLEMOC
+2314)  
+THINKIKAN
+2315)  
+DSHRAHG
+2316)  
+VRUM
+2317)  
+OWCHEE
+2318)  
+IKKPTOO
+2319)  
+HAIGHNO
+2320)  
+MAPLACIEA
+2321)  
+FALHALA
+2322)  
+CLAMPAXIA
+2323)  
+NOSTLAGUHH
+2324)  
+GOODGREEFIA
+2325)  
+POLLYGONUS
+2326)  
+MEMLEST
+2327)  
+Congratulations, you've dug up
+2328)  
+To find out what treasure this god is guarding, and to get more treasure maps, please shut down your current game and visit MonkeyIslandTreasures.com
+2329)  
+Congratulations!  You have
+found all of the treasure.
+You are a Mighty Pirate™!
+2330)  
+God of Winds that Creep Like a Snail
+2331)  
+God of the Breeze that Ruins Badminton Matches
+2332)  
+The Little Wind God that Could
+2333)  
+Goddess of Zesty Lemony Zephyrs
+2334)  
+God of Breezes that Tickle your Nosehairs
+2335)  
+Goddess of Winds that Blow Small Pebbles into your Face
+2336)  
+God of Curiously Viscous Winds
+2337)  
+God of Winds that Blow Up Skirts that Really Should Stay Down
+2338)  
+Goddess of Breezes that Make you Lose your Place in your Book
+2339)  
+God of the Wind that Waits Until Your Leaves are in a Nice Big Pile
+2340)  
+Goddess of Winds that Smell Vaguely Like Barnacles
+2341)  
+Goddess of Breezes that Remind you of Someone Else's Childhood
+2342)  
+Goddess of Kite-Eating Winds
+2343)  
+God of Gales that Knock the Parrot off Your Shoulder
+2344)  
+God of Winds that Blow a Little Longer than Absolutely Necessary
+2345)  
+Soft Cheese Wheel
+2346)  
+Malleable Cheese Wheel
+2347)  
+Cheese Wheel with Scary (but familiar) Eyes
+2348)  
+Cheese Wheel with Creepy Wind God Eyes
+2349)  
+Grogatini Cutlass
+2350)  
+Grogatini Kutlass
+2351)  
+Ancient Weather Vane and Wind Pointer
+2352)  
+Ancient Wind Direction Device
+2354)  
+Curiously-Shaped Flower pot
+2355)  
+Nose-Shaped Flower Pot
+2356)  
+Unbreakable Crystal Bottle Breaker
+2357)  
+Fizzy Breath Mints
+2358)  
+Hemlock's Eye of the Manatee
+2359)  
+Flier for Scary Pirate Hunter
+2360)  
+Flier for Soul-Chilling Pirate Hunter
+2361)  
+Flat Root Beer
+2362)  
+Hollow U Tube
+2363)  
+Hollow, Unbreakable U Tube
+2364)  
+Hollow, Unbreakable, Table-Turning U Tube
+2365)  
+Unbreakable Handblown Bottle
+2366)  
+Ancient Stone Door Face
+2367)  
+Ancient Poly-Faced Weather Vane
+2368)  
+Ancient Wind God Weather Vane
+2370)  
+Welcome to the Tales of Monkey
+Island Treasure Hunt!  Follow your
+maps to find buried treasure!
+2371)  
+To select an object, left-click it with the mouse.  Try selecting the voodoo instructions on the mast.
+2372)  
+A B C
+2373)  MCGEE
+It's Hemlock.  Hemlock McGee.
+2374)  
+Follow the sounds of the jungle to find the treasure.  Walk around by clicking and dragging your mouse in the direction you want to go.  Look at your map again if you forget the clues.
+2375)  
+To display your maps, move the cursor to the right edge of the screen and select the tab.  Examine the map in the upper left by selecting the magnifying glass, then selecting the map.
+2376)  
+The first symbol is a clue that you must use the map on the altar.  Once you've exited the close-up, select the map, then select the altar in front of you.
+2377)  
+Oops, you went the wrong way.  You can look at your map again if you want to give it another try.  Listen carefully for the sounds of the jungle to guide you!
+2378)  
+Deep in the Caribbean
+2379)  
+The Rock of Gelato
+2380)  
+Written & Directed By
+2381)  
+Mike Stemmle
+2382)  
+Programmed By
+2383)  
+Randy Tudor
+2384)  
+Music By
+2385)  
+Michael Land
+2386)  
+Choreography By
+2387)  
+Daniel Herrera
+2388)  
+Art Direction
+2389)  
+Derek Sakai
+David Bogan
+2390)  
+Story By
+2391)  
+Mark Darin
+Mike Stemmle
+Dave Grossman
+2393)  
+Based on Characters
+Created By
+2394)  
+Ron Gilbert
+2395)  
+Can you help me with these crazy winds?
+2396)  
+To Be Continued in 
+
+Chapter 2
+
+"THE SIEGE OF SPINNER CAY"
+2398)  
+Welcome to the Tales of Monkey Island treasure hunt. Tiki gods are buried across Flotsam Island, each one guarding a valuable treasure. Follow your maps to find the booty!  
+
+Visit MonkeyIslandTreasures.com to check on the status of your treasure hunts, redeem your prizes, and get more maps!
+2399)  
+You have
+2400)  
+out of 15 possible maps in your inventory.
+2401)  
+Visit MonkeyIslandTreasures.com now?
+
+Note: Your game will shut down and you'll be connected to MonkeyIslandTreasures.com automatically.
+2402)  
+Imminently Climbable Clothesline
+2403)  
+Open Inventory
+2404)  GUYBRUSH
+"Are you there Baron Samedi? It's me, Jimi"
+2405)  GUYBRUSH
+"Room with a Voodoo"
+2406)  GUYBRUSH
+"The Audacity of Rope : A Life in The Rigging "
+2407)  GUYBRUSH
+"La historia fantástica de Pollo Diablo: Las plumas de la muerte! "
+2408)  GUYBRUSH
+"How to Tame a Three Headed Monkey"
+2409)  GUYBRUSH
+"Killing Time on Flotsam Island"
+2410)  
+LucasArts and the LucasArts logo are trademarks of Lucasfilm Ltd. in the United
+States and/or other countries. © 1990-2009 Lucasfilm Entertainment Company Ltd.
+Telltale and the Telltale Games logo are trademarks of Telltale, Inc.
+2411)  
+To select an object, aim the Pointer at it and press the A Button. Try selecting the voodoo instructions on the mast.
+2413)  
+Use your Nunchuk's Control Stick or press and hold the A Button and aim the Pointer in the direction you want to go.  Try walking toward the mast on the left.
+2414)  
+DeSinge's examination table can be moved by using the +Control Pad to rotate left and right, or incline and decline.
+2415)  
+To display your inventory, press the - Button on your Wii Remote.  To examine the coffin, select the magnifying glass or press the 2 Button, then select the coffin.
+2417)  
+Marketing text goes here.
+2418)  
+His name is Guybrush Threepwood, Mighty Pirate™
+2419)  
+His three loves are Elaine, swashbuckling,
+and a chilled grogatini
+2420)  
+His mortal enemy is a horrifyingly
+depraved pirate named LeChuck
+2421)  
+His stories are so epic that they
+can't be contained in a single game
+2422)  
+What's the deal
+with Guybrush's
+feisty hand?
+2423)  
+Will the Mighty Pirate
+reunite with his
+beloved wife?
+2424)  
+How can LeChuck
+be stopped, now that
+he's... human?!
+2425)  
+The answers to these and
+other questions await
+in the 5 episode series!
+
+Start playing
+Tales of Monkey Island
+today!
+2426)  
+To view maps, move the Pointer to the right edge of the screen and select the tab. Examine your map by selecting the magnifying glass with the A Button, then select the map.
+2427)  
+Welcome to Tales of Monkey Island! To join Guybrush on the first chapter of his adventures, select New Game. 
+
+You can also extend your pirate experience by joining Guybrush’s Treasure Hunt. This additional mini-game is separate from the Tales of Monkey Island story.
+2428)  
+Follow the sounds of the jungle to the treasure. Use your Control Stick or press and hold the A button and aim the Pointer in the direction you want to walk. Look at your map again for clues.
+2429)  
+To combine items, place an item in each of the two large circles on the left, then select the plus sign or press the 1 Button to combine them.
+2430)  
+Welcome to the Tales of Monkey Island treasure hunt. Tiki gods are buried across Flotsam Island, each one guarding a valuable treasure. Follow your maps to find the booty!
+2431)  
+Don't worry, everything's under control!
+2434)  
+Giant Wind Control Device and Mysterious Idol
+2438)  ANNOUNCER
+What's the deal with Guybrush's feisty hand?
+2439)  ANNOUNCER
+Will the Mighty Pirate reunite with his beloved wife?
+2440)  ANNOUNCER
+How can LeChuck be stopped, now that he's... human?!
+2441)  ANNOUNCER
+The answers to these and other questions await in the five-episode series! Start playing Tales of Monkey Island today!
+2442)  
+... at least, that's what he tells everyone.
+2443)  
+... though not necessarily in that order.
+2444)  
+... a.k.a "The Ghost Pirate LeChuck,"
+2445)  
+... or even two or three. So we're giving
+you FIVE epic chapters of pirate goodness!
+2446)  
+HIS GREATEST ADVENTURE BEGINS
+2447)  
+Right
+2448)  
+About
+2449)  
+Now...
+2450)  
+"The Demon Pirate LeChuck,"
+2451)  
+and "That Big Jerk LeChuck."
+2452)  
+Welcome to Tales of Monkey Island! To join Guybrush on the first chapter of his adventures, select New Game.

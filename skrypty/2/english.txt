@@ -1,0 +1,4539 @@
+1)  
+Load
+2)  
+Off
+3)  
+Okay
+4)  
+On
+5)  
+Quit
+6)  
+Save
+7)  
+Save & Load
+8)  
+Settings
+9)  
+Are you sure
+you want to quit?
+10)  
+Music
+11)  
+Sounds
+12)  
+Voice
+13)  
+Full Screen
+14)  
+Quality
+15)  
+Pop-Up Text
+16)  
+Subtitles
+17)  
+Sorry, you can't save right now.
+18)  
+(AUTOSAVE)
+19)  
+Empty...
+20)  
+New Game
+21)  
+Yes
+22)  
+No
+23)  
+Graphics Settings
+24)  
+Audio Settings
+25)  
+Gameplay Settings
+26)  
+Resolution
+27)  
+Hint Frequency
+28)  
+Ready to start a new game?
+29)  
+Yes, I am!
+30)  
+Oops, no!
+31)  
+Yes, quit!
+32)  
+No, don't!
+33)  
+Saving Game...
+34)  
+Delete this saved game?
+35)  
+TALES OF MONKEY ISLAND
+
+CHAPTER 2
+
+THE SIEGE OF SPINNER CAY
+36)  
+Sorry!
+
+Saving and loading are
+disabled in trial mode!
+37)  
+Game Paused
+Press Space to Continue
+38)  
+<< Back
+39)  
+Are you sure you want to overwrite this saved game?
+40)  
+Are you sure you want to load this game?
+Any unsaved progress in your current game will be lost.
+41)  GUYBRUSH
+{Default} The SCUMM Bar! Haven for the rowdiest bunch of drunken scallywags you'll ever see!
+59)  GUYBRUSH
+{Default} The SCUMM Bar! Haven for the rowdiest bunch of drunken scallywags you'll ever see!
+42)  GUYBRUSH
+{Happy}Hi there, scruffy-looking pirate-person! I'm {Proud}Guybrush Threepwood, mighty pirate! What's your name?
+43)  GUYBRUSH
+{Suspicious}Wait a minute, your name is I Cheese?
+44)  GUYBRUSH
+{Cocky}How would you like to join my crew of mighty pirates?
+45)  GUYBRUSH
+{Whiney}Oh c'mon! Join my crew. {Happy}It'll be fun!
+46)  GUYBRUSH
+{Worried}I've got troubles.
+47)  GUYBRUSH
+I haven't got a crew to take me to Lucre Island.
+48)  GUYBRUSH
+{Default}On second thought, I hate listening to myself whine.
+49)  GUYBRUSH
+{Suspicious}What was it I was supposed to be doing?
+50)  GUYBRUSH
+{Happy}More backrubs and foot massages?
+51)  GUYBRUSH
+That is one {Surprised}FAT BIRD!
+52)  GUYBRUSH
+{Whiney}She was a lot nicer before she died.
+53)  GUYBRUSH
+{Worried}Uh y-yes dear?
+54)  GUYBRUSH
+{Worried}W-won't that make you a flesh eating  zombie?
+55)  GUYBRUSH
+{Stern}I'm in the market for an enchanted sword that hypnotizes my enemies into a deep  stupor before I skewer them with it.
+56)  GUYBRUSH
+{Angry}ID?!? I don't got to show you no stinkin' ID!
+57)  GUYBRUSH
+{Disgust}I...uh...left it in my other pants.
+58)  GUYBRUSH
+{Happy}Yeah! Busy makin' holes in the wall.
+60)  PIRATEA
+{Default} Cheese, Ignatius Cheese.
+118)  DESINGE
+{Default} Cheese, Ignatius Cheese.
+61)  PIRATEA
+{Confused} And what, pray tell, might I be findin' myself doin' if I joined {Sarcastic} this crew of mighty pirates?
+62)  PIRATEA
+{Default} I'm open to persuasion, {Suspicious} what do you have in mind?
+63)  PIRATEA
+{Angry} Are you outta your grog-addled mind?!? No!
+121)  DESINGE
+{Angry} Are you outta your grog-addled mind?!? No!
+64)  PIRATEA
+{Stern} Arrr, that doesn't sound too manly! Any girly pirate can loot a defenseless fishing community.
+65)  PIRATEA
+{Happy}The better to insult arm wrestle with Mr. Threepwood!
+66)  PIRATEA
+{Default} Well nowadays you can't throw a dart or...or play a game of checkers without bein' expected to toss in a witherin' bon mot.
+67)  PIRATEA
+{Sad} A greedy Australian is making a grab for my bar!
+68)  PIRATEA
+{Enthused} My particular specialty is insult arm-wrestlin' {Default} which I use to defend my bar {Stern}from hostile takeovers.
+69)  PIRATEA
+Aye! {Sarcastic}It could be a pleasure to sail with a refined wit such as yourself.
+70)  PIRATEB
+{Default} Right now, we're in a dead tie.
+71)  PIRATEB
+{Happy} Yeah! We never miss a shot!
+72)  PIRATEB
+{Default} I would, but once I win the Melee championship, I'm gonna have to go on tour to win the tri-island dart thrower's championship.
+73)  PIRATEB
+No Problem!
+74)  PIRATEB
+{Sarcastic} Yeah! And unless you're good enough to compete
+75)  PIRATEB
+{Stern} We'd advise that you take a long walk off a short pier!
+76)  PIRATEB
+{Angry} Yeah! Can't you see we're busy here!
+77)  PIRATEB
+{Confused}Really?
+78)  PIRATEB
+{Stern} Sez you, swabbie!
+79)  GUYBRUSH
+Nah.
+80)  GUYBRUSH
+Nope.
+1499)  TRENCHFOOT
+Nope.
+81)  GUYBRUSH
+Um, no.
+82)  GUYBRUSH
+Um, I don't want to part with this right now.
+83)  PIRATEB
+{Happy}Welcome to the Palace of Prostheses! {Enthused} Home of the no detection, no infection, no rejection 30-day guarantee!
+84)  PIRATEB
+{Default}I'm Dave. Around here they call me Deadeye Dave. {Happy} I'm the tri-island area's foremost expert in anatomical approximation!
+85)  PIRATEB
+{Angry}Of course I'm blind you lilac-scented pantywaist!
+86)  PIRATEB
+{Sarcastic} Heh heh, don't give it a second thought. {Default} My other senses more than compensate for my lack of sight.  For example, I usually can identify my customers{Suspicious} by their distinctive individual odors.
+87)  PIRATEB
+{Sarcastic}Heck, I can smell your "Lilacs and Lillies" aftershave even through my stuffy nose!
+88)  PIRATEB
+{Angry}Free!? What do you think I'm running, a charity!?
+89)  GUYBRUSH
+{Happy}Hi there, scruffy-looking pirate-person! {Angry}I'm Guybrush Threepwood, mighty pirate! What's your name?
+90)  PIRATEB
+{Angry}Well, you figured wrong...{Stern} Australia, what kind of a name is that anyway!
+91)  PIRATEB
+{Concerned} Ok...you've appealed to my sense of generosity.
+92)  PIRATEB
+{Default} I'll let you choose...{Suspicious}through a story.
+93)  PIRATEB
+{Sad} My monkey left me.
+94)  PIRATEB
+{Surprised} Despondent?! {Confused} Over Pongo? {Sarcastic} Don't be silly!
+95)  PIRATEB
+{Confused} What? Where'd you get a weird idea like that?
+96)  GUYBRUSH
+{Whiney}I haven't got a crew to take me to Lucre Island.
+116)  GUYBRUSH
+{Whiney}I haven't got a crew to take me to Lucre Island.
+97)  GUYBRUSH
+{Confused} That'd make a lousy perch.
+98)  GUYBRUSH
+{Cocky} I don't think they'd enjoy my parrot as much as I do. {Worried}
+99)  GUYBRUSH
+Uh-uh.
+100)  GUYBRUSH
+I don't think so.
+101)  VOODOO
+{Surprised} You Pulled?
+102)  VOODOO
+{Mystical} Yes, it is I.
+103)  VOODOO
+My name is...{Stern}not important.
+104)  VOODOO
+{Entranced} I sense that you wish to dabble in the dangerous voodoo arts. What did you have in mind?
+105)  VOODOO
+Sigh
+106)  VOODOO
+{Stern}Sorry, we're fresh out. We're expecting a {Default} shipment from Dinky Island early next week, though.
+107)  VOODOO
+{Mystical} But I sensed that I was needed here on Melee. {Stern}Besides, the incessant clucking on Puerto Pollo {Angry} was driving me mad!
+108)  VOODOO
+{Mystical} Who can say? Perhaps it's because we share an unspoken magical bond. Perhaps the fates have intertwined our destinies. {Happy} Or maybe I've got an unbreakable five-game deal with Lucasarts. {Default} In any event, I'm here to help. How can I assist you, Guybrush Threepwood?
+109)  VOODOO
+That is an excellent question, Guybrush.
+110)  VOODOO
+{Default}What goes up, must come down. But what's more important {Mystical} is WHERE it comes down.
+111)  VOODOO
+The cards have foretold that you seek direction.
+112)  VOODOO
+{Stern} In any event, the few pirates remaining on Melee Island, live in constant fear of being challenged by this foreign investor.
+113)  VOODOO
+{Default}You don't need a sword to send your foes into a stupor, my child, just be yourself.
+114)  VOODOO
+{Default}As you wish, Guybrush. {Mystical}I'll be here later if you need me.
+115)  VOODOO
+{Stern} This is a pirate town. {Default} Even in these economically depressed times you should be able to find a couple of competent sailors.
+117)  
+Pyrite Parrot
+119)  DESINGE
+{Angry} And what, pray tell, might I be findin' myself doin' if I joined this crew of mighty pirates?
+120)  DESINGE
+{Happy} I'm open to persuasion, what do you have in mind?
+122)  DESINGE
+{Amazed} Arrr, that doesn't sound too manly! Any girly pirate can loot a defenseless fishing community.
+123)  DESINGE
+{Default}The better to insult arm wrestle with Mr. Threepwood!
+124)  DESINGE
+{Angry} Well nowadays you can't throw a dart or...or play a game of checkers without bein' expected to toss in a witherin' bon mot.
+125)  DESINGE
+{Happy} A greedy Australian is making a grab for my bar!
+126)  DESINGE
+{Amazed} My particular specialty is insult arm-wrestlin' {Default} which I use to defend my bar from hostile takeovers.
+127)  DESINGE
+Aye! {Amazed} It could be a pleasure to sail with a refined wit such as yourself.
+128)  GUYBRUSH
+{Confused}What was it I was supposed to be doing? {Voodoo Mystical}
+129)  
+Eye of the Manatee
+130)  
+Locket
+131)  
+Ancient Tool
+132)  
+Winslow
+133)  
+Weather Vane
+134)  MONKEY
+{Default}[excited] Eek-eek-eek!
+135)  MONKEY
+[interested] ook-ook-ook!
+136)  MONKEY
+{Frustrated}[scared] Eeeeeek!
+137)  MONKEY
+{Disappointed}[dazed] Ook.
+138)  MONKEY
+Eek!
+139)  DESINGE
+{Arrogant}Hmmm... very interesting... {Sarcastic}and you say your sick little hand has a mind of its own?
+140)  DESINGE
+{amazed}Fascinating.
+141)  DESINGE
+{happy}Monsieur Threepwood, {Arrogant}you have my word as a former physician of the Court of King Louis that by the time you leave here, {Sarcastic}your misanthropic hand will never trouble you again!  {default}But in order to determine the correct treatment, I'll have to spend a few minutes inspecting this skin sample under my experimental Enlargorama.
+142)  DESINGE
+{happy}[wistfully remembering]  Ah, mon ami, that is a tale of triumph {Worried}and tragedy.  {Stern}Many years ago, I was a young physician in the court of King Louis.  {Confused}Those were heady days, tending to the many ills of the aristocracy, {sarcastic} navigating scandalous palace intrigues... {Arrogant}I was a rising star in the scientific firmament.
+143)  DESINGE
+{angry}[fuming] A conspiracy of jealous scientists accused me of performing inhumane cross-breeding experiments with the Queen's poodles!
+144)  DESINGE
+{Stern}The King was outraged, {Worried}and ordered me exiled on this deserted tropical island.
+145)  ELAINE
+{Stern} First, YOU should look for a way to replace that root beer you dropped.
+146)  ELAINE
+It better, {Concerned}or those monkeys are doomed! {Worried}Dip the cutlass in it, and hurry!
+147)  ELAINE
+[excited] {Angry} Swing it at LeChuck,  NOW!
+148)  ELAINE
+I think it's some sort of blood sacrifice in exchange for the secret language of the dead.  {Sarcastic} Or maybe he just really hates monkeys. {Dismissive} It's all been a little vague.
+149)  ELAINE
+{Babying}I'm sure it was all very interesting, sweetie, but let's try to stop  the rampaging undead pirate first, okay?
+150)  ELAINE
+{Exhasperated} It'd be flattering if I wasn't already so married... and he{Serious} wasn't so dead.
+151)  ELAINE
+[shouting]{Evil} I'm not shouting, I'm projecting!
+152)  LECHUCK
+{Default} Ah, Threepwood.  {Devilish} So good of you to join us.  Saves me the trouble of having to {Angry} sink your ship.
+153)  LECHUCK
+{Default} Nay, now I be after much darker secrets, secrets buried {Devilish} deep within the entrails of the Monkeys of Montevideo!!!
+154)  LECHUCK
+{Surprised} YOUR wife?  Nay, Elaine is {Default} destined to be {Devilish} MY bride!
+155)  LECHUCK
+{Devilish} Har!  My outer shell is {Default} meaningless, you fool!   Within my decaying flesh courses more {Surprised}voodoo power than your pitiful {Angry} mind can possibly imagine!
+156)  
+Plank
+157)  
+LeChuck
+158)  
+Cannon
+159)  
+Quarters Door
+160)  
+Elaine
+161)  
+Wheel
+162)  
+Main Mast
+163)  
+Map
+164)  MORGAN
+[Excited and cocky]{Cocky} Guybrush Threepwood, I've been waiting a long time for this!
+165)  GUYBRUSH
+[nervous/scared] {Worried} Now wait a minute, I'm sure there's been some mistake.  I don't even know you!
+166)  MORGAN
+{Sarcastic} Don't be too flattered, I'm here for the job.  {Serious} The Marquee DeSinge wants that hand of yours so {Fierce} I'm bringing you in!  And don't even {Sarcastic} try your Insult Sword Fighting technique on me, that's something only {Cocky} farm boys use these days.
+167)  GUYBRUSH
+{Cocky} How appropriate, you fight like a {Worried} co-
+168)  GUYBRUSH
+-oooOOOOOWWWW!!!!  {Whiny} I was using that!
+169)  MORGAN
+[Giddy and excited] {Excited} Oh, this is gonna be good!  Pick up your sword and {Fierce} face me like a man!
+170)  GUYBRUSH
+{Confused} Like you're a man or {Worried} like I'm a man?
+171)  MORGAN
+{Fierce} ENGARDE!
+172)  GUYBRUSH
+{Stern} How did you get on my ship anyway?
+173)  MORGAN
+{Happy} I simply grappled aboard while you were busy {Sarcastic} staring out at the sunset.  {Serious} You aren't very observant, you know.  By the way, my grapple hook got stuck {Cocky} so you owe me a new one!
+174)  GUYBRUSH
+{stern} Hey, {Worried} where is Winslow?  {Stern}You better not have hurt him, you salty sea witch!
+175)  MORGAN
+{Cocky} He's fine, {Dismissive} I've got him tied up in the main quarters. {Strained} Keep your head in the fight!
+176)  WINSLOW
+[process: Behind a closed door]{Happy} Don't worry 'bout me, Cap'n!  I'm sure I can wriggle my way out of these ropes eventually.
+177)  GUYBRUSH
+{Suspicious} Aren't you {Worried} getting tired yet?
+178)  MORGAN
+{Excited} Not a chance!  {Fierce} I trained myself by studying your moves! I can match you blow for blow!  {Cocky} Heck, I can even hold my breath for five minutes, just like you!
+179)  GUYBRUSH
+{Cocky} Ha! I can hold my breath for TEN minutes!
+180)  MORGAN
+{Questioning} You mean that's true?  {Excited}I thought the stories were exaggerated!  {Dismissive} Impressive!
+181)  GUYBRUSH
+{Happy} Ha ha!!  {Cocky} Try and catch me now!  {Proud} Betcha didn't see THAT move coming!
+182)  MORGAN
+{Sarcastic} Ahem
+183)  GUYBRUSH
+{Worried} Yipes!
+184)  GUYBRUSH
+{Confused} Why are you taking orders from that, {Stern} DeSinge guy anyway?  {Incredulous} He is clearly one looney doctor! {Cocky} He's got lampreys in his lighthouse!
+185)  MORGAN
+{Dismissive} I'm a mercenary.  It's what I do.  {Cocky} Once hired, I won't quit 'til the job is done.  {Excited} Even if it means taking down a pirate as renowned as yourself!
+186)  GUYBRUSH
+{Confused} Re-nowned? {Proud} I didn't even realize I was nowned!
+187)  GUYBRUSH
+{Stern} Back off, woman!
+188)  MORGAN
+{Fierce} Never!
+189)  GUYBRUSH
+{Confused} Can't we just agree to disagree?
+190)  MORGAN
+{Strained} Not gonna happen.
+191)  GUYBRUSH
+{Cocky} Every enemy I have met, I've annihilated.
+192)  MORGAN
+{Dismissive} With your breath, {Cocky} I'm sure they all suffocated.
+193)  GUYBRUSH
+{Happy} WHEEEEE!!!!
+194)  GUYBRUSH
+{Surprised} Look behind you, a three headed sea chimp!
+195)  MORGAN
+{Serious} No thanks,{Cocky} I've already had lunch.
+196)  GUYBRUSH
+{Disgust} Ewww.... that's taking it too far.
+197)  GUYBRUSH
+{Cocky} Sorry Morgan, I hate to do this to a fan, but you {Stern} did cut off my hand...
+198)  MORGAN
+[being catapulted into the air (surprised)]Ahhhhggghhhh!!!!!!!
+199)  MORGAN
+[slightly, Out of breath]{Excited} You ARE good, Guybrush Threepwood!  {Cocky} Well, I hate to battle and run, but I've got to see a doctor about his hand!
+200)  WINSLOW
+{Enthused} Here I come captain Threepwood? {Confused} Where is the lass? {Stern} I'll run her through and use her for fish bait!
+201)  GUYBRUSH
+[relaxed, and somewhat relieved]{Suspicious} Eh, she's gone. [Annoyed, but not angry] {Whiney} And she took my hand.
+202)  WINSLOW
+{Cocky} Quick, let's get after her!
+203)  GUYBRUSH
+{Default} Let her go, Mr. Winslow. {Worried} I've got to find Elaine! [remembering unfondly] {Whiney} Last time I saw her she was falling into LeChuck's evil clutches!
+204)  WINSLOW
+[slightly confused]{Sarcastic} Looked like a cheerful, friendly moment to me.
+205)  GUYBRUSH
+[emphasising]{Stern} ... EVIL....CLUTCHES.
+206)  WINSLOW
+[looking disparingly at the mast] {Concerned} We're not going far with the mast in that shape.  {Stern} The cowardly cutthroat must have released the counterweight I set up to keep the mast balanced. {Concerned} Now it's cracked.
+207)  GUYBRUSH
+{Stern} Very well,  Mr. Winslow. We'll head for the Jerkbait Islands.
+208)  WINSLOW
+{Happy} Right!  We can have our mast repaired there!
+209)  GUYBRUSH
+{Suspicious} Uh, sure.  {Default}Also, that's the direction Elaine was headed.
+210)  GUYBRUSH
+[while swordfighting]Winslow, are you okay?
+211)  WINSLOW
+[process: Behind a closed door] {Happy} Quite well, sir! {Sarcastic} I'm sure I'll be out of these ropes and out to help you in no time!
+212)  GUYBRUSH
+{disgust}It's a mess in there.  {suspicious}I'll clean it later.{default}
+213)  GUYBRUSH
+[while swordfighting]I can't reach it, but even so, {Sarcastic} it's really better for shooting at things NOT on my ship.
+214)  GUYBRUSH
+{happy}KABOOM!
+215)  GUYBRUSH
+{confused}Ah, I never get tired of that!{default}
+216)  GUYBRUSH
+[while swordfighting]Boy, that thing isn't very well secured
+217)  GUYBRUSH
+{whiney}Aw, there's a big crack in it.{default}
+218)  WINSLOW
+{Angry} Aye!  {Default} We're out to sea not one day and {Stern} Morgan LeFlay breaks our ship!
+219)  GUYBRUSH
+{Worried} Yes... {Embarrassed} Morgan did it.
+220)  GUYBRUSH
+[while swordfighting]{Happy} That's the mast of my ship, The Screaming Narwhal!
+221)  MORGAN
+{Sarcastic} Yes, I know what a mast is.
+222)  GUYBRUSH
+[while swordfighting]{Cocky} That's the mast.
+223)  MORGAN
+{Serious} Yes, you mentioned that.
+224)  MORGAN
+{Stern} Okay, shut up about the mast.
+225)  MORGAN
+[frustrated]{Strained} Uuugff!
+226)  GUYBRUSH
+[while swordfighting]I think the mean lady trying to cut off my limbs takes precedence over navigating my ship right now.  Besides, there's no one at the wheel!
+227)  GUYBRUSH
+Let's get out of here, Mr. Winslow.
+228)  GUYBRUSH
+[while swordfighting]{Whiney} You climbed onto my ship with this? {Cocky} Where's the rope part?
+229)  MORGAN
+[while swordfighting]{Sarcastic} Well, obviously I kept the rope!  {Dismissive} You wouldn't believe the number of situations a length of rope comes in handy for. {Excited} For example, using it to tie up your first mate!
+230)  GUYBRUSH
+[while swordfighting]{Whiny} Yeah, well, {Stern} I'm keeping the hook!
+231)  MORGAN
+[while swordfighting]{Fierce} Go ahead. [casual] {Cocky} I'll just take it back after I kill you.
+232)  GUYBRUSH
+{happy}That is one sturdy cable!{default}
+233)  GUYBRUSH
+[while swordfighting]I bet that line could hold my weight, but it's about an inch out of reach.
+234)  GUYBRUSH
+[slicing the rope with his sword]{Cocky} Heyah!
+235)  MORGAN
+{Questioning} Was that supposed to hurt me somehow?
+236)  GUYBRUSH
+{Worried} ....Maybe.  {Cocky} Did it work?
+237)  
+Resume
+Game
+238)  GUYBRUSH
+{cocky}Are we there yet, Mr. Winslow?
+239)  WINSLOW
+{cocky}Aye capt'n!  Spinner Cay, the main epicenter of the Jerkbait Islands!
+240)  GUYBRUSH
+{confused}Really? Where is everyone?
+241)  WINSLOW
+{confused}Hmmm, it's been many years since I have been here, {suspicious}but if the city is still inhabited by Mer-Folk, I'd say underwater!
+242)  GUYBRUSH
+Mer-Folk?{happy}[giddy] Heehee... maybe I'll meet a pretty mermaid.
+243)  WINSLOW
+{confused}Err... well...
+244)  GUYBRUSH
+Ah, you're right, maybe later.  {proud}First I've gotta make sure Elaine is safe from the Evil of LeChuck!
+245)  WINSLOW
+{cocky}We need our mast repaired before we can set out to sea again!
+246)  ANEMONE
+{flirty}[read casually! Like greeting an aquaintance named Sailor] Hello sailor!{default}
+247)  GUYBRUSH
+{surprised}[startled] Aaahhhh!!
+248)  ANEMONE
+{happy}Woah, take it easy!   {flirty}Big strong pirate like yourself afraid of a lil 'ol Vacaylian like me.{default}
+249)  GUYBRUSH
+{embarrassed}Heh, sorry about that.{default}
+250)  GUYBRUSH
+{cocky}Nice raft. Can I ride it?{default}
+251)  MCGILLICUTTY
+{angry}Give me what I want or we'll tear yer whole town to pieces lookin'!
+252)  MERLEADER
+{stern}[speaking with a calm regalness]You and your men shall NOT have the ancient Summoning Artifacts!
+253)  ELAINE
+{serious}Please, calm down!  {babying}I'm sure we can find a solution that works for everyone!
+254)  GUYBRUSH
+{happy}[noticing Elane] Elaine?{elaine surprised}
+255)  ELAINE
+{happy}Guybrush!
+256)  ELAINE
+{surprised}Guybrush! Thank goodness you're all right!  {concerned}I've been worried sick about you! {serious}First the explosion, then that big cloud of voodoo pox you released from LeChuck started{surprised} infecting pirates all over the Caribbean...
+257)  ELAINE
+Exactly!  {suspicious}What happened to your hand?!{angry} [after a beat, even more angry] And where is your wedding ring?!!
+258)  GUYBRUSH
+{surprised}Uh oh... uh... well, {incredulous}It happened like this...
+259)  MCGILLICUTTY
+{angry}Arrr!! I should gut ya where ya stand!
+260)  ELAINE
+{stern}[hurried, noticing that the  argument is getting heated again]Uh oh. I better get back there before they kill each other!
+261)  ELAINE
+{happy}[hurried]Here, take my ring.
+262)  GUYBRUSH
+{confused}Aw, no... that's the one-
+263)  ELAINE
+{sarcastic}[hurried] Just take it! {serious}Trust me!
+264)  ELAINE
+{sarcastic}[ calling back to guybrush as she runs off/playful] And DON'T lose it, Guybrush Threepwood!
+265)  GUYBRUSH
+{cocky}So, what's everybody talking about?
+266)  MCGILLICUTTY
+{stern}Arrrrrg. Me and my men seem to have come down with a touch of the sickly pox!
+267)  GUYBRUSH
+{disgust}[cringing]Eerrgh.
+268)  MCGILLICUTTY
+And these half breed halibuts know how to get a hold of a cure, {angry}but they won't give it up!
+269)  MERLEADER
+{serious}We'll never give you the summoning items, "captain" McGillicutty!  {stern}Not after the years of polluting our sacred waters!
+270)  MCGILLICUTTY
+So we accidentally spilt a few barrels of spoiled grog over the years...
+271)  MERLEADER
+Accidentally my dorsal fin!
+272)  MCGILLICUTTY
+{evil}Ah, shut yer blow hole!
+273)  ELAINE
+{surprised}[trying to calm them down] Gentlemen, please! {worried}I'm sure you and Chieftain Beluga can come to some kind of agreement...
+274)  GUYBRUSH
+{cocky}Hello again!
+275)  
+Whats this about a cure?
+276)  GUYBRUSH
+{suspicious}What's this about a cure?
+277)  ELAINE
+The Vacaylians hold an ancient prophecy that tells of a mythical sea sponge {surprised}with the power to soak up voodoo energy.
+278)  GUYBRUSH
+{happy}La Esponja Grande!
+279)  MERLEADER
+{proud}Yes.   But to find Esponja Grande you must first summon the {thinking}Legendary Sea Creatures who can guide you to its location.
+280)  MCGILLICUTTY
+{angry}Aye!  And that's why we need the rest of those summoning items!  {stern}My men have already recovered one of them, may as well just hand over the rest!
+281)  
+You mentioned "Summoning artifacts..."
+282)  GUYBRUSH
+{cocky}You mentioned "Summoning Artifacts,"  that sounds cool.
+283)  MERLEADER
+{proud}Our prophecies speak of three golden artifacts that have been hidden throughout these Islands.  {thinking}They are in the form of the ancient gods of the ocean, the Wise Turtle, Noble Sea Horse, and the Cranky Fish.
+284)  GUYBRUSH
+{incredulous}Cranky Fish?
+285)  MERLEADER
+{embarrassed}Err... the prophesies are very old.  {thinking}Some of the translations may be a bit off.
+286)  MERLEADER
+{proud}When these artifacts are combined and the ceremonial ritual words recited, the Legendary Sea Creatures will rise from the ocean and lead you to the source of the cure.
+287)  
+What are these Legendary Sea Creatures?
+288)  GUYBRUSH
+{confused}What are these Legendary Sea Creatures?
+289)  MERLEADER
+{proud}Though I have never seen them, the prophecies say they are the physical representation of the ocean gods on earth {thinking}and that they will lead the way to the mouth and the sponge.
+290)  GUYBRUSH
+Mouth?
+291)  MCGILLICUTTY
+{angry}Enough of this!  {stern}The only mouth you need to be concerned with is the one I'm gonna {evil}shove a hook through if I don't get those summoning artifacts!
+292)  
+Do you know the Ceremonial Ritual words by heart?
+293)  GUYBRUSH
+{cocky}Do you know the ceremonial ritual words by heart?
+294)  MERLEADER
+{proud}I do.  And as Chieftain of the Vacaylians, I am the ONLY one that does.
+295)  MCGILLICUTTY
+{stern}You'll be tellin' em ALL to me or you'll be our chieftain {angry}"catch of the day" come supper!
+296)  
+I thought you guys worshiped wind gods?
+297)  GUYBRUSH
+{confused}I thought you guys worshiped wind gods?
+298)  MERLEADER
+{serious}Yes, some of our people tried evolving and living on land ages ago, {proud}but they always come back to the sea.
+299)  ELAINE
+{exasperated}[Pulls Guybrush aside] Guybrush, we can't leave.
+300)  GUYBRUSH
+{surprised}Why not?  {cocky}I've got a new ship and everything!
+301)  ELAINE
+{surprised}These pirates are acting under the influence of the Pox!  {serious}Since we're the ones responsible for releasing said pox, this conflict is really all OUR fault.  We're going to stick around and clean up this mess.
+302)  ELAINE
+{surprised}Yes.  Don't worry, dear. {sarcastic}He's harmless.
+303)  ELAINE
+{surprised}Guybrush, he's different, {stern}and I don't have time to argue.  {serious}He's going to need your help.  {cutesy}[changing her tone] Please, my Swashbuckling Sea Stud?
+304)  GUYBRUSH
+{stern}[giving in] *sigh* Fine.
+305)  ELAINE
+{cutesy}So you'll be my personal pirate paladin and get those summoning items while I stall these guys?
+306)  GUYBRUSH
+{incredulous}[bashful]...okay.
+307)  ELAINE
+Thank you sweetie.
+308)  ELAINE
+{serious}Okay how about this, we each get one summoning item and {happy}go our separate ways?
+309)  MCGILLICUTTY
+{angry}Arrr, what's the point of that?!
+310)  MERLEADER
+{stern}I'll never let them have our sacred items!
+311)  ELAINE
+{dismissive}Well, then, what do you two suggest?
+312)  GUYBRUSH
+{surprised}You all still have a lot to work out soooo... {cocky}I'll just see myself out.{default}
+313)  
+I understand you do ship repair here?
+314)  GUYBRUSH
+{happy}Hi there. {cocky}I understand you do ship repair here?
+315)  ANEMONE
+{stern}You!  I thought I told ya to stay away from this place! {angry}Especially after that stunt you played at the Royal Aquarium!
+316)  GUYBRUSH
+{scared}But I-
+317)  ANEMONE
+{happy}Nah, {flirty}I'm just messing with you, handsome.  [don't you recognize me?]  {happy}It's me, Anemone!
+318)  GUYBRUSH
+{incredulous}Oh..ha ha, you got me.  {suspicious}How'd you get up here?
+319)  ANEMONE
+I swam.
+320)  ANEMONE
+{excited}So, what did you say you needed?
+321)  TETRA
+{proud}Hello sailor!
+322)  GUYBRUSH
+{stern}Shut up, you!
+323)  DESINGE
+Ah, ma petite murderess.  Where is the puny pirate and his superbly sickly hand?
+324)  MORGAN
+Right Here.  {Excited} Ah, and what a glorious battle it was!  Guybrush was amazing! You should have seen the way he-
+325)  DESINGE
+{Angry} What?! No,no no no no, this will not do! I need ALL of Monsieur Threepwood!
+326)  MORGAN
+{Questioning} That was not our agreement. {Serious}[growing suspicious] I think you'd better give me my gold now.
+327)  DESINGE
+{Arrogant} Oui, oui.  Of Course!
+328)  DESINGE
+{Arrogant} But, I have discovered that Threepwood himself is very special!  I need his body for my experiments!  I'll pay you double to bring him back to me alive!
+329)  MORGAN
+{Fierce} Make it triple.
+330)  DESINGE
+{Arrogant} [in a "Sure! Anything goes" attitude] I'll make it quadruple!  {Happy} Once I have extracted his essence and perfected my elixir, the world will offer me all of her treasures in exchange!
+331)  DESINGE
+{Stern} Now go, mademoiselle!  Go like the winds of Flotsam and bring me my {Happy}perfectly profitable pirate prize!
+332)  GUYBRUSH
+{scared}What the-?  {confused}What's going on!
+333)  ANEMONE
+{frightened}It's McGillicutty!  He's moving his ships in and creating a blockade around the island! {angry}He's gonna tear this place apart if he doesn't get those summoning artifacts!
+334)  WINSLOW
+{surprised}[shouting down from the ship]Sir, {cocky}I'll take the Screaming Narwhal out to sea before the blockade has a chance to move in, {stern}so she's not caught in the crossfire!
+335)  GUYBRUSH
+{surprised}[shouting/paniced] Okay, I'll find a way to get out to you as soon as I find -
+336)  ELAINE
+{surprised}[in the distance, Elaine screams as wreckage from cannon fire falls on her]  Ahhhhhh!!  Help!!!
+337)  GUYBRUSH
+{scared}[contnuing his sentence] ...Elaine!
+338)  GUYBRUSH
+{confused}Oh no!  {surprised}Sea Bunny!  What happened?
+339)  ELAINE
+{stern}McGillicutty!  He caught me off guard, knocked me out and kidnapped Chieftain Beluga!  I was working out a plan to rescue him, {serious}but then I got blindsided by a falling chunk of mer-statue and now I'm stuck!
+340)  GUYBRUSH
+{cocky}I got ya!
+341)  ELAINE
+{surprised}Right, your ship!  {happy}That's perfect!  I needed one more ship for my plan! {serious}[as an after thought] Oh, and we're not leaving yet.
+342)  GUYBRUSH
+{whiney}But-
+343)  ELAINE
+Okay, listen carefully.  {surprised}There is always a weak point on the blockade. {stern}We're going to use a classic Two-Point Distract-and-Skewer to take advantage of it.
+344)  GUYBRUSH
+{confused}How do I do that?
+345)  ELAINE
+{serious}There's a cannon on the beach. {stern}Constant attacks from that should keep them occupied so someone else can slip through unnoticed.
+346)  GUYBRUSH
+{suspicious}Who else is there?
+347)  ELAINE
+I also need you to tell LeChuck about his part. {serious}He needs to sneak through the weak point in the blockade once you and I have them distracted, then take {surprised}YOUR ship, {serious}sail out to McGillicutty's flag ship, sink it, and rescue Beluga.
+348)  GUYBRUSH
+{cocky}Actually,  I think I should be the one to sail out there and do the valiant sinking and rescuing of the Mer-king!...{surprised} err...Queen...{cocky} Whatever!
+349)  ELAINE
+{babying}[sympathetic]Oh sweetie, {concerned}I wish you could...{surprised}but the pox has taken McGillicutty over completely now. {stern}There's no reasoning with him anymore.
+350)  GUYBRUSH
+{whiney}But it's my ship and-
+351)  ELAINE
+{angry}[going all LeChuck, showing signs of the pox] I said {evil}quit yer whimpering and grow some barnacles, for Black Beard's sake!  I'm makin' the plans here, fancy pants!
+352)  GUYBRUSH
+{surprised}Yikes!  {confused}Um... don't look now, but I think you might be slightly infected with the Pox.
+353)  ELAINE
+{angry}[still poxed]Unless you want to find yerself with a matchin' set of hook hands, {evil}I suggest you do as I say!
+354)  GUYBRUSH
+{worried}Yes dear.
+355)  ELAINE
+{surprised}[shaking off the pox] Whoa...
+356)  GUYBRUSH
+[shouting across ships] {Stern} Captain McGillicutty!  Prepare to be boarded and surrender the fish man!
+357)  MCGILLICUTTY
+[pondering, where did I hear that name?] {Confused} Guybrush?... [shouting across ships/realizing in anger] {Surprised} THREEPWOOD!!  Then you're the one who stuck my men with this accursed cheap imitation summoning artifact!
+358)  GUYBRUSH
+{Worried} Uh oh.
+359)  MCGILLICUTTY
+[shouting across ships] {Angry} Arrr!!!  You'll rue the day you crossed paths with me, boy!
+360)  MCGILLICUTTY
+[shouting across ships] {Cocky} Gaarrrr!!! You be wearin' on me nerves, Threepwood!  Don't ya ever get tired of losing?
+361)  MCGILLICUTTY
+[shouting across ships] {Angry} NOOO!!!  My ship!!!
+362)  MCGILLICUTTY
+[shouting across ships] Damn you Threepwood!
+363)  WINSLOW
+{Enthused} Good show, sir!  I knew you'd make a good captain from the moment I saw your beard!
+364)  GUYBRUSH
+{Proud} Thank you Mr. Winslow.  Now, back to the Jerkbait islands, before Elaine's pox gets any worse.
+365)  WINSLOW
+...Ahem...The map, sir.
+366)  GUYBRUSH
+{Confused} What?
+367)  WINSLOW
+[slightly embarrassed]I... I like it when you point on the map.
+368)  GUYBRUSH
+{Incredulous} Oh, very well, Mr. Winslow.
+369)  MERLEADER
+{stern}Guybrush Threepwood.  {proud}On behalf of the Mer-People of the Jerkbait Islands, I wish to extend our deepest thanks and gratification.  {serious}Please, approach.
+370)  ELAINE
+{exasperated}Guybrush!
+371)  MERLEADER
+{thinking}Indeed!
+372)  MERLEADER
+I return to you, in its former glorious state, {proud}your prized pyrite parrot of Petaluma!
+373)  GUYBRUSH
+{suspicious}[Speaking along with the parrot] -Mighty Pirate... {whiney}I know.  [Disapointed] Thanks.{default}
+374)  MERLEADER
+If there is anything else we can offer you, please feel free to ask.
+375)  ELAINE
+{serious}Your thanks is enough.  [becoming poxed again]  ..{surprised}*cough* {evil}Aye and yer Gold!  Give us all yer gold! {stern}*cough cough*...
+376)  ELAINE
+{surprised}[clearing her throat/normal] Ahem... {serious}sorry, something got stuck in my throat.
+377)  GUYBRUSH
+{confused}Actually, there is one thing.  I sorta caused this pox and I need Esponja Grande to fix that.  {worried}Especially now. [looks at Elaine]
+378)  GUYBRUSH
+{confused}I have the artifacts, {happy}will you perform the ceremonial ritual to summon the Legendary Sea Creatures to take me there.
+379)  MERLEADER
+{thinking}You, Guybrush, are the holder of the summoning items.  You must be the one to use them.  {proud}Come give me the artifacts, I will teach you the ritual words.
+380)  MERLEADER
+Take this and throw it with all your might into the ocean, {serious}then speak these words... {proud}"Oh great Legendary Creatures of the Sea....
+381)  MERLEADER
+{excited}[This is the one time the regal voice is broken.  as if talking to a puppy] Come on!  Come on boys! Get the ball! You want the ball? Huh?  You want the ball?  Come get it!
+382)  GUYBRUSH
+{confused}Really?  Those are the ceremonial ritual words?
+383)  GUYBRUSH
+{confused}[awestruck]Woah.  Creepy.
+384)  MERLEADER
+{thinking}When you are ready, they will lead your ship to where you need to be.  {proud}Again, thank you Guybrush Threepwood.  And good Luck on your journey.
+385)  GUYBRUSH
+Well, that's that!  {happy}Come on, Elaine!  Let's get that sponge and go home!
+386)  ELAINE
+{surprised}Wait, {stern}I just need to check up on LeChuck and those monkeys!  {serious}You go ahead and summon the creatures, I'll meet you at your ship in a just a moment.
+387)  GUYBRUSH
+{suspicious}*sigh* [to himself] I'm starting to think LeChuck was less of a nuisance when he was an evil zombie demon!{default}
+388)  WINSLOW
+{enthused}Captain Threepwood!
+389)  GUYBRUSH
+{cocky}Yes!  [Then disappointed]{whiney}Well... almost...
+390)  GUYBRUSH
+{confused}Actually, no.  Not quite.
+391)  GUYBRUSH
+{suspicious}Maybe, {cocky}just a few more minutes, Mr. Winslow.
+392)  
+Yes!
+393)  
+No.
+394)  
+Maybe.
+395)  GUYBRUSH
+{confused}I'm still waiting for Elaine and {stern}stupid LeChuck to get here.[Starting to drift off, talk to himself]{suspicious} Something about monkeys, or pants, I don't know.
+396)  ELAINE
+{serious}Guybrush...
+397)  GUYBRUSH
+{happy}Elaine, there you are!  Come on, let's go! [Turns to LeChuck] {suspicious}LeChuck, been great seeing you again!  {incredulous}Hope the "human" thing works out for you.  {cocky}I've got a wife to get home and snuggle with.  Later!
+398)  ELAINE
+Guybrush, {worried}I'm not coming with you.
+399)  GUYBRUSH
+{surprised}What?
+400)  LECHUCK
+{concerned}It's these monkeys!  {confused}I'm going to need help getting these poor little guys back to their homes!
+401)  ELAINE
+You go and get Esponja Grande.  {happy}You don't need me for that. [leaning in, speaking quietly to Guybrush] {suspicious}Besides, I really think I should keep an eye on LeChuck.
+402)  ELAINE
+{babying}Trust me, sweetie.
+403)  GUYBRUSH
+{whiney}[reluctantly]...Okay.
+404)  LECHUCK
+{proud}Don't worry boy, {happy}I'll take good care of her while you're gone!
+405)  GUYBRUSH
+{proud}Elaine, I'll be back for you in the blink of a squid's eye!
+406)  ELAINE
+{sarcastic}Be careful dear, {serious}and don't put your lips on anything!
+407)  GUYBRUSH
+{stern}Mr. Winslow... Follow those sea creatures.
+408)  WINSLOW
+{confused}...ummm... the map?
+409)  GUYBRUSH
+{confused}Again with the map?
+410)  WINSLOW
+{surprised}I like the map...
+411)  GUYBRUSH
+{incredulous}Forget about the map, just go!
+412)  WINSLOW
+{stern}I thought we agreed..
+413)  GUYBRUSH
+{incredulous}You're making us look bad, {surprised}just GO!
+414)  WINSLOW
+{scared}All right, all right! {stern}I'm going!
+415)  GUYBRUSH
+{proud}[Triumphantly] To Esponga Grande!
+416)  VOODOO
+{Default} It has been said {Mystical} "What fates impose, that men must needs abide; It boots not to resist both wind and tide."
+417)  VOODOO
+{Default} Yet Guybrush Threepwood has somehow managed to turn the tides of fate by [show LeChuck Card]removing the {Happy} Voodoo Curses from his nemesis LeChuck.
+418)  VOODOO
+{Default} Infected himself, Guybrush escaped [Show DeSinge card]{Stern} the "scientific" experiments of the Marquis DeSinge and {Default} managed to divert the Ill Winds of Change[Show Wind/Pox card], an action which could alter his own fate as well {Stern} as the fate of the entire Caribbean!
+419)  VOODOO
+{Mystical} That is, if he lives long enough.[Show Sword at throat card]
+420)  MORGAN
+[still cocky]Well,  allow me to introduce myself.  I am Morgan LeFlay, {Fierce} Mighty Pirate Hunter ™!  {Cocky} My name is feared across the seven seas!  {Dismissive} I've taken down some of the most hardened grog guzzling scumbags from here to Zanzibar. It's an honor to finally face off against {Excited} the legendary Guybrush Threepwood!
+421)  GUYBRUSH
+{Worried} LeFlay? {Confused} But, you're a woman!  I thought- Wait, {Proud} you've heard of me?
+422)  MORGAN
+{Sarcastic} Have I heard of you?  [Excited and gushing a bit]Guybrush Threepwood, the pirate who {Fierce} destroyed the  Ghost Pirate LeChuck single handedly!?  {Happy} Who discovered the mythical treasure of Big Whoop!?  {Cocky} Who escaped the inescapable Carnival of the damned!?  {Excited} I've been following you my whole life!
+423)  GUYBRUSH
+{Happy} Wow!
+424)  GUYBRUSH
+{stern}Are we almost there, Mr. Winslow?
+425)  WINSLOW
+{stern}I'm not sure, Captain Threepwood. {worried}I'm just following the beasties, I have no idea where they are going.  {stern}And to be honest, I'm not sure they do either.
+426)  GUYBRUSH
+We'll be fine, Mr. Winslow.  Just stay on course.
+427)  GUYBRUSH
+{happy}[Drawing in a deep breath of admiration]  Ah, this is the sweet pirate life!  {proud}Out in the deep blue with your best ship and crew searching for the world's rarest treasures...{suspicious} which just happens to be a giant voodoo sucking sea sponge in this case.  {confused}Make you wonder why anyone would consider any other life, am I right Mr. Winslow?
+428)  GUYBRUSH
+{stern}Mr. Winslow?
+429)  GUYBRUSH
+{whiney}YOU AGAIN?!
+430)  MORGAN
+{cocky}Miss me?
+431)  GUYBRUSH
+Not really.
+432)  MORGAN
+{serious}Turns out, the Marquis isn't satisfied with just your hand, he wants the complete package.  {stern}So, I'm taking over this ship and taking you back to Flotsam Island.  {fierce}Try anything funny, and the short one gets it!
+433)  GUYBRUSH
+{stern}Go ahead, run him though! I don't think you have the guts!
+434)  WINSLOW
+{worried}Why must you tempt her, sir?
+435)  GUYBRUSH
+{suspicious}Don't worry, she won't do it.  She's only got orders to bring me in.  Killing you wouldn't  bring her any profit.
+436)  MORGAN
+{dismissive}He's right, I'm afraid.  Part of the Pirate Hunter's code: don't kill anyone you aren't getting paid to.  {serious}So, I'll just kill you, Guybrush.
+437)  GUYBRUSH
+{incredulous}[sweet talking her]Why don't you give this up?  {happy}Join me instead. We can sail together, see the world, just you and me,{incredulous} looting and pillaging in every harbor!  {happy}It could be just like you always dreamed!
+438)  MORGAN
+{happy}[sincere]As wonderful as that sounds, Guybrush,{sarcastic} I do have a job to do.  {Stern}Besides, you're already married to "Elaine"!
+439)  GUYBRUSH
+{cocky}Ha!  You don't have the skills or the wit to defeat Guybrush Threepwood!
+440)  
+You're bluffing!
+441)  
+Why don't you give this up and join my crew, sweetheart?
+442)  
+You don't have the skills or the wit to defeat me!
+443)  WINSLOW
+{worried}[nervous/scared] Errr.... Captain... something's happening to the sea creatures....
+444)  MORGAN
+{terrified}[terrified] I don't believe it...
+445)  GUYBRUSH
+{cocky}[with authority]Well you better believe it, sister!   [then confused]{confused}Wait, believe what?
+446)  GUYBRUSH
+...What?
+447)  GUYBRUSH
+[screaming]MANATEEEEEEE!!!!!!
+448)  GUYBRUSH
+{Surprised} What a dump!   Look at this place! It's completely uninhabitable.  {Proud}[nostalgic] Ah, reminds me of my first apartment.
+449)  GUYBRUSH
+Hmmm... this funky shaped carving in the middle of the manatee looks strangely familiar.
+450)  GUYBRUSH
+It's a toy manatee with a hole in the middle.
+451)  GUYBRUSH
+Huh.  Must be broken.
+452)  GUYBRUSH
+Nope, still nothing.
+453)  GUYBRUSH
+Yep, that's DeCava all right. This must be his ... {Incredulous}place.  {Confused}It looks as if he hasn't been here in ages.  Wonder what happened to him?
+454)  GUYBRUSH
+DeCava's journals.  [reading] Poems I wrote while searching for Esponja Grande.  [not reading] Wow, thirty six volumes!  Looks like he was searching for a LONG time!
+455)  GUYBRUSH
+[reading] "The path of the mouth." [confused]...okay....
+456)  GUYBRUSH
+[reading]"Musk at Dusk - How to match the perfect couple, a complete guide to animal matchmaking."
+457)  GUYBRUSH
+{Worried}[uncomfortable] I think I'm learning way too much about this DeCava guy.
+458)  GUYBRUSH
+This looks like plans for some kind of under-water device.  Or perhaps shoes for wallabies.
+459)  GUYBRUSH
+{Confused} These look a little like my good friend the Voodoo Lady, except skinny, and kind of shaky and more out of proportion than usual.
+460)  GUYBRUSH
+He must have done these from memory.
+461)  GUYBRUSH
+Eeew, it's covered in seagull droppings!   {Worried}I hope it got that way AFTER he left this place.
+462)  GUYBRUSH
+No way am I taking a nap on that thing!
+463)  GUYBRUSH
+{Disgust} Awww, that's.... {Confused}sweet?
+464)  GUYBRUSH
+Man, look at all these empty grog bottles!  {Incredulous}[lying to himself] I'm sure he was just collecting these for...recycling.
+465)  GUYBRUSH
+{Surprised} Whoa!
+466)  GUYBRUSH
+Hmm... It looks blank. {Confused} Why would anyone hide a blank piece of paper in the mouth of a toy?
+467)  GUYBRUSH
+[chaping like a child]{Happy} Yay!
+468)  GUYBRUSH
+[chaping like a child]{Happy} I love that song.
+469)  GUYBRUSH
+{surprised}[angry/suprised]LeChuck!
+470)  LECHUCK
+{worried}Guybrush!  Thank goodness you're safe!    Elaine and I were so worried!
+471)  GUYBRUSH
+{angry}Forget it, LeChuck.  You may have somehow fooled my wife with your voodoo trickery, but not me!
+472)  LECHUCK
+{shocked}But, it's true! {excited}Thanks to you, I'm a new man, completely voodoo free!
+473)  LECHUCK
+{excited}And I have good news Guybrush, {proud}I have found one of the Merpeople's summoning artifacts!  {embarrassed}I just need a little help actually getting it.
+474)  GUYBRUSH
+{Stern}What's your game, LeChuck?  Lure me into a false sense of security with kind  words and  sandwiches and then murder me in my sleep?
+475)  LECHUCK
+{humble}My boy, if I wanted to murder you I'd just throw you off this cliff!  Why wait for you to sleep?
+476)  LECHUCK
+{happy}We've done it Guybrush!
+477)  GUYBRUSH
+{happy}[speaking while trying to position himself to get the artifact away from LeChuck as soon as possible] Yep,  sure did.   {suspicious}Now if I can just-
+478)  LECHUCK
+{awe}Just look at it! {Proud} Pure gold. A treasure fit for any respectable pirate hold...
+479)  GUYBRUSH
+{stern}Ok,  come on, just let me have-
+480)  LECHUCK
+{awe}And surrounded with the secret power to summon ancient mysterious beasts of the sea...
+481)  GUYBRUSH
+{Evil}[having a Pox flare up, acting like a pirate jerk]Now listen here, ya fleshy sack of chum, You'd better be handin' over that golden sea turtle or I'll be handin' ya yer liver on the pointy end of my hook!
+482)  LECHUCK
+{disappointed}[somewhat remorseful, and sincere] Ah, you are infected with the pox after all. {concerned} I'm so sorry, Guybrush.  {whiney}Somehow I feel this is all my fault.
+483)  LECHUCK
+{stern}Not to worry, boy.  We'll get these artifacts, find La Esponja Grande and have you cured in no time!
+484)  GUYBRUSH
+[getting slapped on the back] Oof.
+485)  GUYBRUSH
+[stumbling, short] whaaoooaa...
+486)  GUYBRUSH
+[falling] Aaaahhhhhhh.....
+487)  GUYBRUSH
+[falling/alt] LeChuuuuuuuuuuuuccckkkk!!!!....
+488)  GUYBRUSH
+{worried}[groggy] Ooowwww.
+489)  GUYBRUSH
+{Surprised}[realizing that LeChuck has stolen the artifact] Oh no!  The summoning artifact!
+490)  LECHUCK
+{awe}[happy to see Guybrush alive] Guybrush!  Are you okay?
+491)  GUYBRUSH
+{stern}I'm fine, you back stabbing back slapper!  {angry}Give me that Sea Turtle!
+492)  LECHUCK
+{proud}Of course, Guybrush.  I understand that you want to take the credit.  It's important to look good in front of your wife.
+493)  GUYBRUSH
+{embarrassed}[defensive]It's not that, it's just-
+494)  LECHUCK
+{embarrassed}Now, if you'll be so good as to excuse me, I need to get back to the task of returning the monkeys I once kidnapped back into the wild. {embarrassed} [Laughing a bit to himself] You wouldn't believe the number of monkeys it takes to complete an evil voodoo curse!{happy}  What was I thinking!?
+495)  GUYBRUSH
+{stern}Ok, come on little fishy...
+496)  GUYBRUSH
+{surprised}Hey, I think I feel a nibble...
+497)  GUYBRUSH
+{worried}Come a little closer.... {happy}GOTCHA!
+498)  GUYBRUSH
+{scared}Uh oh.
+499)  GUYBRUSH
+[struggling partly underwater with a big fish] Woah!!
+500)  GUYBRUSH
+[struggling partly underwater with a big fish] Oof!!
+501)  GUYBRUSH
+[struggling partly underwater with a big fish] ....Hold still...
+502)  GUYBRUSH
+[struggling partly underwater with a big fish] Ouch ouch ouch!
+503)  GUYBRUSH
+[struggling partly underwater with a big fish] ...almost...
+504)  GUYBRUSH
+[struggling partly underwater with a big fish] Urghh..
+505)  GUYBRUSH
+{happy}[Finally sudues the fish and pulls himself out of the well.] Ah ha!   .... Errngh!
+506)  GUYBRUSH
+[triumphant]Guybrush Threepwood!  Obtainer of cranky golden fish artifacts!
+507)  GUYBRUSH
+{worried}Sorry lil guy.  {default}Good thing you're not actually alive!
+508)  GUYBRUSH
+{whiney}Well, that's unsettling.
+509)  GUYBRUSH
+{happy}Oooh, melty.
+510)  GUYBRUSH
+{scared}Ouch!  Hot!
+511)  GUYBRUSH
+{happy}Hey guys, look!  He's got the Summoning Artifact right here!
+512)  BILL
+{Stern}He's right!  Grab it, men!
+513)  BILL
+[while fighting]Arrrr!!!  Oof... give it here! ..grrrfff...Ooo...
+514)  TED
+[while fighting]I got em!... ouch... hold em down!  ...Ennnghh!
+515)  KEVIN
+[while fighting]Harrrr!!..  Gahhh... Eerrff.... Let me at him!...
+516)  BILL
+[while fighting]Ha ha!!!  I GOT IT!!
+517)  GUYBRUSH
+{incredulous}[smug] Ouch.  That looks painful.
+518)  BILL
+[Cheering as they walk away] Yeeeeaaaaaarrrrrr!!
+519)  TED
+[Cheering as they walk away] Yeeeeaaaaahhhhh!!
+520)  KEVIN
+[Cheering as they walk away] Yeeaaahhh!!!  Haar Haa!
+521)  LECHUCK
+{excited}Good thinking, lad!  {humble}Where'd ya learn to pull off a trick like that?
+522)  GUYBRUSH
+{cocky}That?  Oh, I've been doing that kinda thing for years!  [bragging, reffering to fan girl, Morgan ] In fact, I'm kinda famous for it.
+523)  LECHUCK
+{happy}Ha ha!  I betcha are, boy!  [getting back to business]{concerned}Now, you said Elaine had something she wanted you to tell me?
+524)  ELAINE
+{babying}I gotta run, love!  {serious}Go find LeChuck and tell him the plan!
+525)  ELAINE
+{surprised}Guybrush, help me!
+526)  GUYBRUSH
+{cocky}I'll be right there, schnookems!{default}
+527)  GUYBRUSH
+{happy}Nice hot tub.
+528)  MERLEADER
+{serious}This is the Royal Vacaylian Throne.  {proud}It is where I, the Chieftain of all the Vacaylian people, conduct all matters of importance to our society.  {stern}It is not in any way a vessel for recreational activities or relaxing massage.
+529)  GUYBRUSH
+{confused}Is it heated?
+530)  MERLEADER
+{proud}Yes, it is.
+531)  GUYBRUSH
+{incredulous}It's a hot tub.{default}
+532)  ELAINE
+[as if correcting a child (but still thinks he's adorable)] Guybrush!
+533)  GUYBRUSH
+{incredulous}I still say it's a hot tub.{default}
+534)  GUYBRUSH
+{disgust}Eew, it looks all slimy with mer people crud now.  {suspicious}I think I'll stay out here.{default}
+535)  GUYBRUSH
+{confused}That water {happy}looks cold, let me turn the heat up for you.
+536)  MERLEADER
+{serious}Please don't touch that!  We just got it fixed.
+537)  GUYBRUSH
+{confused}[getting a closer look]This is fixed?
+538)  MERLEADER
+For now.  We are waiting for the proper parts to come in.
+539)  MCGILLICUTTY
+{stern}Aye, and if ya don't give us those artifacts, my men will make sure those parts never get here, {surprised}forcing you to rule from luke warm water!  {evil}Har ha ha ha haaarrrr!!!
+540)  GUYBRUSH
+{happy}Are ya sure I can't turn the heat up for you?{default}
+541)  GUYBRUSH
+{happy}I'll just turn the heat up a little...
+542)  GUYBRUSH
+{confused}Uh oh.
+543)  GUYBRUSH
+If nobody saw it, it didn't happen!{default}
+544)  GUYBRUSH
+{confused}[reading] Protected historical landmark.  No part of this standing structure shall be defaced or removed at any time.  As decreed by Chieftain Beluga.{default}
+545)  GUYBRUSH
+[reading] Bait shop. [reading the tacked on additional sign] And Ship Repair.{happy}  Handy.{default}
+546)  GUYBRUSH
+{disgust}I'd hate to be the guy following THAT with a shovel.{default}
+547)  GUYBRUSH
+{suspicious}I guess these ruins are ruined now.{default}
+548)  GUYBRUSH
+{surprised}Ouch, hot!  {confused}How did Elaine not burn herself on these?{default}
+549)  GUYBRUSH
+{confused}I've singed my fingers enough.{default}
+550)  GUYBRUSH
+{cocky}Hey, can I have this bucket?
+551)  ANEMONE
+{flirty}Well, I like you, so yeah, go ahead.  {thinking}What are you going to use it for?
+552)  GUYBRUSH
+{confused}I dunno.
+553)  ANEMONE
+{sarcastic}So why do you want to take it?
+554)  GUYBRUSH
+Ummm.... {suspicious}cause it's there, I guess.{default}
+555)  ANEMONE
+You're weird, kid.  {flirty}Cute, but weird.{default}
+556)  ANEMONE
+{stern}[intrupting Guybrush's actions]Hey, not without a pass!{default}
+557)  
+That raft ride by the docks looks like fun!
+558)  GUYBRUSH
+{cocky}I noticed a cool raft down by the docks. {suspicious}How would I go about getting a ride on that?
+559)  MERLEADER
+{proud}Ah, you wish to enjoy our state-of-the-art human transportation system!
+560)  ELAINE
+Here you go, honey.  I already purchased a few all-day transit passes.  {happy}Doing my part to support the economy, you know.
+561)  GUYBRUSH
+{cocky}All right!  {happy}Thanks, Laineypoo!
+562)  ELAINE
+{embarrassed}[slightly embarrased, but remaining composed] Not in front of company, dear.
+563)  GUYBRUSH
+{embarrassed}[playful]Ooops, sorry.... {happy}[then under his breath]Laineypoo.
+564)  ELAINE
+{suspicious}[as if warning a child] Guybrush...
+565)  GUYBRUSH
+{whiney}[disapointed] Oh, all right.{default}
+566)  GUYBRUSH
+{disgust}That water's all gross and slimy now. {confused}I think I'll leave it where it is.{default}
+567)  GUYBRUSH
+Rubbery.
+568)  GUYBRUSH
+{cocky}That's the mast, recently repaired.{default}
+569)  GUYBRUSH
+[while swordfighting]I can't reach it from here.
+570)  GUYBRUSH
+[kicking the steering wheel with his foot while swordfighting]Ennghh!
+571)  GUYBRUSH
+{cocky}Mr. Winslow...
+572)  WINSLOW
+{enthused}Yes Captain?
+573)  GUYBRUSH
+{cocky}Keep up the good work.{default}
+574)  WINSLOW
+{cocky}Aye aye, sir.{default}
+575)  GUYBRUSH
+{cocky}Where are we headed?
+576)  WINSLOW
+{confused}Nowhere yet, sir.  {cocky}As soon as you point out a location on the map, we can set sail.
+577)  GUYBRUSH
+{suspicious}How's the mast holding up?
+578)  WINSLOW
+{surprised}Yes!  {concerned}And your lady is injured. {stern}We need to get her repaired as soon as possible.  {concerned}We'll be sailing at half speed until then.
+579)  WINSLOW
+{happy}She is looking fantastic, Captain!  {enthused}The repairs are holding well!
+580)  WINSLOW
+{enthused}Excellent sir!  {confused}A bit rubbery, but it handles remarkably well! {cocky}She reminds me of a dancer I once met on Booty island.  {suspicious}Why she was able to bend over so far that-
+581)  GUYBRUSH
+{suspicious}Well, I met some merfolk.
+582)  WINSLOW
+{happy}[laughing to himself, amused by guybrush's disapointment] And did ya {suspicious}find the lovely mermaid lass you were looking for?
+583)  GUYBRUSH
+{confused}I'm not sure? [whispering uncomfortably] {suspicious}I can't tell the men from the women.
+584)  WINSLOW
+{happy}Ha ha ha! {enthused}Well just don't go kissin' em all!  {cocky}I found that out the hard way!  {enthused}Ha ha ha ha!
+585)  GUYBRUSH
+{confused}McGillicutty is proving to be{angry} a pain in my mast!{default}
+586)  WINSLOW
+{surprised}Aye.  {concerned}Perhaps we should invest in a wood a bit less destructible!
+587)  ANEMONE
+{excited}Hello again, sailor!
+588)  GUYBRUSH
+{worried}Please stop saying that.
+589)  ANEMONE
+{flirty}What'll it be?
+590)  GUYBRUSH
+{happy}[done shopping] I think I'm good.  See ya.{default}
+591)  ANEMONE
+{flirty}[vaguely flirty] Don't be a stranger!{default}
+592)  GUYBRUSH
+{happy}Can I have some bait?
+593)  ANEMONE
+{flirty}Sure, you got yer coupon?
+594)  GUYBRUSH
+{happy}No, but... {cocky}[awkwardly flirting] can't you be a sweetheart and give me one anyway?
+595)  ANEMONE
+{embarrassed}[awkward scilence] ...
+596)  ANEMONE
+What are you doing? {sarcastic}Are you flirting?
+597)  GUYBRUSH
+{embarrassed}[unsure]Um.... I...{confused} don't know?
+598)  ANEMONE
+[very friendly]Look, it's real easy, just bring me a coupon {happy}and I'll give you some bait, got it?
+599)  GUYBRUSH
+{embarrassed}[uncomfortable but covering from his possible mistake] Yep.
+600)  GUYBRUSH
+{confused}Can I have some bait, now?
+601)  ANEMONE
+{flirty}Got yer coupon yet?
+602)  GUYBRUSH
+{happy}... I'll be back!
+603)  GUYBRUSH
+{happy}I'd like some bait, please.
+604)  GUYBRUSH
+{cocky}Yes I do!
+605)  ANEMONE
+{happy}Great, hand it over!
+606)  GUYBRUSH
+{confused}I need my mast repaired.
+607)  ANEMONE
+{excited}You think that's bad, this place used to be bait shop and pizza joint, {sarcastic}and I still couldn't sell any anchovies!
+608)  GUYBRUSH
+{suspicious}So you sell bait {confused}AND repair ships here.  That's an odd pairing.
+609)  ANEMONE
+{serious}Well, times are tough.  {proud}Some times you gotta pick up an extra job or two just to earn enough sand dollars to live on.
+610)  GUYBRUSH
+{whiney}That's tough.{default}
+611)  ANEMONE
+{happy}Sure thing.  {flirty}You want a patch job or a full mast repair?
+612)  GUYBRUSH
+{incredulous}Um, it's just a crack, I guess a patch job will do.
+613)  ANEMONE
+{proud}See, that's how they getcha!  A patch job is basically the same amount of work as a full replacement, but it's certain to go bad on you a lot faster!  I'll give you a full mast replacement!  Be right back!
+614)  GUYBRUSH
+{cocky}[whistles a bit of Largo LeGrande's theme music while poking around at the counter]...*whistle*...
+615)  GUYBRUSH
+{suspicious}Hmmm... why do I have that song stuck in my head?
+616)  ANEMONE
+{happy}There we go!  All fixed.  {thinking}Your man Mr. Winslow took care of the bill.  Nice guy, that Reggie.  {flirty}Does he have a cousin?
+617)  GUYBRUSH
+{confused}How'd you repair my ship so fast?
+618)  ANEMONE
+{proud}I'm telling you, mast replacement is easy!  {excited}There are a whole slew of trees out on Spoon Isle beach just perfect for masts!  {proud}Not to mention the fact that they are just sitting by the water's edge where I can easily grab one!  {happy}I just float one over to your ship, a flip and a flop and it's done!
+619)  GUYBRUSH
+{suspicious}These trees on Spoon Isle, {confused}can anyone just take one?
+620)  ANEMONE
+{sarcastic}Technically, sure.  But they are pretty heavy... {proud}I'd suggest leaving it to the experts!
+621)  GUYBRUSH
+{confused}I need my mast repaired...{suspicious}again.
+622)  ANEMONE
+{thinking}Again?  Wow, twice in one day!
+623)  GUYBRUSH
+{surprised}Yeah, {confused}well I'm trying to rescue your leader and taking down McGillicutty,{suspicious} but that guy is cannon happy!
+624)  ANEMONE
+{happy}[sincere] Oooh, how heroic. I'll get right on it!
+625)  GUYBRUSH
+That was fast!
+626)  ANEMONE
+{serious}Our leader's life is at stake!  {proud}Now get out there and do your thing!
+627)  GUYBRUSH
+{confused}I'm back.
+628)  ANEMONE
+{proud}I'm on it!
+629)  ANEMONE
+{happy}All set!
+630)  GUYBRUSH
+{happy}Thanks!
+631)  GUYBRUSH
+{confused}I'm gonna need another mast replacement.  {surprised}And I'm {happy}pretty sure I found a suitable tree on a small island just north of the Rock of Gelato!
+632)  ANEMONE
+{sarcastic}Yeah?  {happy}I'll go check it out.
+633)  ANEMONE
+{excited}Hey, you were right! Never used a rubber tree for a mast before, but it worked just fine. {proud}Your ship is ready and better than ever!
+634)  GUYBRUSH
+{confused}Have any of you ever heard of Coronado DeCava?
+635)  GUYBRUSH
+{suspicious}I was told to look for him here and show him a locket.
+636)  MERLEADER
+{thinking}I do remember this man.  He too was obsessed with finding La Esponja Grande, {serious}but I have not seen him around Spinner Cay for some time.  Perhaps he gave up, {stern}or died in the pursuit.
+637)  GUYBRUSH
+{confused}Ever hear of a man named DeCava?  {suspicious}I'm supposed to show him this locket.
+638)  ANEMONE
+{happy}You mean Crazy Sponge Guy?  Yeah, I remember him.  {sarcastic}Last time I saw him he was putting together a crew to go after some mystical sea urchin or something.  {thinking}Haven't seen him in a while though.  He used to have a little shelter out on Roe Island.
+639)  GUYBRUSH
+[flirting awkwardly]{happy} How about, if you give me a coupon and{cocky} I'll take you to lunch?
+640)  GUYBRUSH
+{incredulous}[flirting awkwardly] Someone as attractive as you doesn't really{cocky} need coupons, right?
+641)  GUYBRUSH
+{cocky}I'd like some bait please, fish eggs.
+642)  ANEMONE
+{happy}Sure, here ya go.
+643)  GUYBRUSH
+Thanks!
+644)  ANEMONE
+{excited}[cheerfully]No problem,  I just made them myself!
+645)  GUYBRUSH
+{disgust}[creeped out] You.... did what?{default}
+646)  ANEMONE
+{happy}Hee hee, relax, I'm just yankin' your tail.  {flirty}You're adorable when ya squirm!{default}
+647)  GUYBRUSH
+{cocky}I'd like some oysters please!
+648)  ANEMONE
+{excited}Ooh, you're lucky, we only have one left, and it's a doozy!
+649)  ANEMONE
+{flirty}You know, some people refer to the oyster as the "Love muscle."{default}
+650)  GUYBRUSH
+{confused}Really?  Maybe that's just to boost its self esteem.  {suspicious}This things as ugly as a pile of sea gull droppings!{default}
+651)  GUYBRUSH
+{confused}Here ya go, Amemmalee, I've got a coupon here for something called... {suspicious}"gusanos de destino"
+652)  ANEMONE
+{excited}Wow, that's an old coupon!  I'm not even sure I still carry this stuff.  {thinking}Wait here, I need to check in the back.
+653)  ANEMONE
+{excited}Found some!  {happy}It was all the way in the back behind the monkey fingers.  It's even still glowing!{default}
+654)  GUYBRUSH
+{disgust}Eww.{default}
+655)  GUYBRUSH
+{happy}Hi...umm... [toung twisted]{confused}Anumbelie
+656)  GUYBRUSH
+{cocky}Me again!
+657)  ANEMONE
+{flirty}So I see.  What can I getcha?
+658)  GUYBRUSH
+{happy}Hi, [tongue tied] {confused}Alemonade...
+659)  ANEMONE
+{happy}Hello, sailor!
+660)  GUYBRUSH
+{suspicious}[awkwardly, not sure if he's talking to a mer-man or mer-maid] Soooo...{confused} are you a Mer...?
+661)  ANEMONE
+{proud}That's right!  I'm 100% proud Vacaylian Merfolk! {flirty}[kinda flirty] Tail kinda gave it away, huh?  So, what brings you to Spinner Cay?
+662)  
+Are you a mer-maid?
+663)  
+Are you Ethel Merman?
+664)  GUYBRUSH
+{cocky}Cool raft, {happy}can I ride it?
+665)  ANEMONE
+{flirty}Do you have a pass?
+666)  GUYBRUSH
+{suspicious}Ummm... I do not.
+667)  ANEMONE
+Well, I can't let you get by on good looks alone, {happy}you're going to have to get yourself a transit pass.
+668)  GUYBRUSH
+{incredulous}Where can I get a transit pass?
+669)  ANEMONE
+{happy}You may be able to get one from our Chieftain, Beluga, in the royal chamber, {thinking}but it looks like there's some kind of dispute going on right now.
+670)  GUYBRUSH
+{confused}I'm looking for my wife, Elaine.  {happy}She's the most beautiful pirate you've ever seen,{cocky} with silky red hair and eyes as green as summer grog...
+671)  ANEMONE
+{flirty}Awww, thats so sweet.  {excited}You know, I think I did see her.  She and that other guy arrived about an hour before you did.
+672)  ANEMONE
+{excited}Yeah, I think so.  {proud}She went right over to the Royal Chamber and the guy set off into the jungles with an arm full of monkeys!
+673)  GUYBRUSH
+{confused}Can I ride your raft?
+674)  ANEMONE
+{flirty}[thinks guybrush is adorable for asking, but...]How sweet of you to ask. {proud}I don't do raft business from up here.  Meet me down by the docks for that.
+675)  GUYBRUSH
+{cocky}I gotta run.  [after thought] {surprised}Oh, no offense.{default}
+676)  ANEMONE
+{flirty}None taken!{default}
+677)  GUYBRUSH
+{happy}I'd like some bait please!
+678)  ANEMONE
+{flirty}Well, aren't you an eager fisherman?!  {thinking}But, I don't have any bait down here.  See me at the shop!
+679)  GUYBRUSH
+{suspicious}I need my mast repaired, [toungt tied]{confused} Amepoppoly.
+680)  ANEMONE
+{happy}Sure, but I keep all the invoices upstairs.  {thinking}Meet me at the shop and we'll talk business.
+681)  GUYBRUSH
+{Cocky} Ah ha!  This must be the weak point in the blockade!  Now All I need to do is quietly sail through and...
+682)  GUYBRUSH
+[panic!  One large ships are firing cannons at him!] {Surprised} Ahhhhh!!!!!
+683)  TRENCHFOOT
+[shouting across ships] {Enthused} Well well, if it ain't the little pirate with the fancy coat what smells like bacon!
+684)  HARDTACK
+[shouting across ships] {Stern} Awww... why can't you just leave us alone so I can get back to my job in the kitchen?
+685)  GUYBRUSH
+Hey guys, what's going on?
+686)  TRENCHFOOT
+{Stern}None of yer business!  Now why don't you back away, yer stinkin' up the place.
+687)  TRENCHFOOT
+[shouting across ships]{Angry} Never mind that, let's just blow him outta the water!
+688)  GUYBRUSH
+[shouting across ships] {Worried} Now guys, let's be reasonable...
+689)  TRENCHFOOT
+[shouting across ships] {Surprised} Hey!  Who's shootin' at me?!
+690)  ELAINE
+[shouting across ships] {Angry} Hoist yer colors, ya mangy sea dogs!  Not a one of ya has the guts to sail out here and face me!
+691)  GUYBRUSH
+[excited] Elaine!
+692)  TRENCHFOOT
+[shouting across ships] {Angry} You're lucky I'm stuck in this blockade ya saucy female, or I'd sail me ship right over ya!
+693)  LECHUCK
+[FAR off in the distance]  Ha ha!  See if you can handle THIS, boys!
+694)  HARDTACK
+[shouting across ships] {Surprised} They are shooting at me!  Why are they shooting at me?!
+695)  GUYBRUSH
+[shouting across ships]It does?
+696)  HARDTACK
+[shouting across ships]{Angry} Just where do you think you're going?
+697)  GUYBRUSH
+[shouting across ships] {Cocky} To Grandmothers house?
+698)  HARDTACK
+[shouting across ships] {Suspicious} Not through here you're not.
+699)  GUYBRUSH
+[shouting across ships] {Stern} I'm setting out to take down McGillicutty and you can't stop me!
+700)  GUYBRUSH
+{Surprised} okay, maybe you can.
+701)  HARDTACK
+{happy}It is the savory smell of thinly sliced potatoes fried crisp and golden with a touch of honey and a dash of salt.  How I long to be back in the kitchen peeling my potatoes.
+702)  GUYBRUSH
+[shouting across ships] {Happy} Out to sea, where the golden hues of sunset burn across her silken waves reflecting a never-ending dance between opposing forces of nature.
+703)  HARDTACK
+[shouting across ships][sentimental] {Surprised} That's beautiful.
+704)  GUYBRUSH
+[shouting across ships] {Cocky} I knew you had the heart of a poet.
+705)  HARDTACK
+[shouting across ships]{Sarcastic} Aye, but I still ain't letting you pass.
+706)  GUYBRUSH
+{Scared} Darn!
+707)  GUYBRUSH
+[shouting across ships] You mean this isn't the way to Cabo San Lucas?  I  knew I should've taken a left turn at Tortuga.
+708)  GUYBRUSH
+[being shot at by a cannon] {Scared} Yipes!
+709)  GUYBRUSH
+[being shot at by a cannon] {Angry} Hey! Quit that!
+710)  GUYBRUSH
+[shouting across ships]{Cocky} Ha ha!  So long, suckers! It was nice chatting with you again, but I've got a Mer-Leader to save!
+711)  TRENCHFOOT
+[shouting across ships]{Confused} Where'd he go?  Did you let him through?!
+712)  HARDTACK
+[shouting across ships]{Angry} Me?!  If you didn't notice, I'm a little busy over here!
+713)  TRENCHFOOT
+[shouting across ships] {Angry} Shootin' blindly at a far off island ain't exactly what I'd call "busy" ya snivvelin' spud scraper!
+714)  HARDTACK
+[shouting across ships]Arrrrr!!!
+715)  TRENCHFOOT
+[shouting across ships]AArrrrgg!!!!
+716)  HARDTACK
+[screams in panic] {Scared} Aaaahhhh!!!!
+717)  TRENCHFOOT
+[screams in panic] {Scared} Aaaahhhh!!!!
+718)  GUYBRUSH
+{happy}Woah. I got a bite!
+719)  GUYBRUSH
+{surprised}Woah!  It a big one!
+720)  GUYBRUSH
+{whiney}Shoot!
+721)  GUYBRUSH
+{happy}Gotcha!
+722)  GUYBRUSH
+{whiney}Lost another one.
+723)  GUYBRUSH
+{happy}Ah ha!
+724)  GUYBRUSH
+{stern}I think I need better bait.
+725)  GUYBRUSH
+{disgust}Ick, I don't want to walk around smelling like fish food.
+726)  GUYBRUSH
+{happy}[cheerful]Hello squishy fish person.
+727)  TETRA
+{happy}[giggles a bit] Hello pudgy human. {proud}My name is Tetra.
+728)  GUYBRUSH
+{confused}No actually, but I do have a few other questions. [under his breath] {stern}...And I'm not pudgy.
+729)  TETRA
+{happy}Hello sailor.
+730)  GUYBRUSH
+{cocky}Hello, Tetra.
+731)  GUYBRUSH
+{incredulous}That's enough book learnin' for now.  {cocky}I've got piratey things to do.
+732)  TETRA
+{flirty}Go get 'em, Swashbuckler!{default}
+733)  GUYBRUSH
+{cocky}Tell me about Vacalian history.
+734)  GUYBRUSH
+{suspicious}Ever hear of a guy named DeCava?  {confused}I have this locket for him.
+735)  TETRA
+{excited}Oh yes!  That guy used to be here at the library all the time, checking out books about sea sponges, aquatic mammals, and mythological treasures.  {sarcastic}Bit of a nut if you ask me.
+736)  GUYBRUSH
+{incredulous}Sea sponges, eh?  {confused}When was the last time you saw him?
+737)  TETRA
+{thinking}Oh it's been ages since he's been around.  [sincere]{happy} Good luck finding him.
+738)  GUYBRUSH
+{happy}Thanks.
+739)  GUYBRUSH
+{cocky}[afirmation - stress on the word "would"]Ya know,  I would like a book from the library.
+740)  TETRA
+{excited}Sure!  Ooohhh, I know a great one you might like!  I'll be right back!
+741)  GUYBRUSH
+{cocky}I'd like another book.
+742)  TETRA
+{excited}Perfect!  I'll get you one of my favorites.
+743)  GUYBRUSH
+{happy}Can you get me another book?
+744)  TETRA
+{flirty}I'll be right back, I know just the thing!
+745)  GUYBRUSH
+{confused}What's the deal with this building?
+746)  TETRA
+{excited}This is our library and cultural archives!  {proud}It houses century's worth of information about the evolution of the Vaycalian people.  It's also a protected national landmark so it'll be here forever!
+747)  GUYBRUSH
+{suspicious}But, it's under water.
+748)  TETRA
+{sarcastic}Well of course, we sunk it!
+749)  GUYBRUSH
+{confused}Why?
+750)  TETRA
+{thinking}The library was built during the age of terra firma, {proud}but when we as a race returned to the sea, we felt our knowledge should do the same.
+751)  GUYBRUSH
+{incredulous}Doesn't that make your books all soggy?
+752)  TETRA
+{flirty}[creepily aroused] Mmmm, it sure does.
+753)  GUYBRUSH
+{disgust}[uncomfortable] Errr... okay...
+754)  TETRA
+{proud}Well, did you know that centuries ago, we MerFolk bypassed evolution and used Vacaylian science to obtain legs on which to walk on land?
+755)  GUYBRUSH
+{confused}[not very interested] Nope.  I can safely say I did not know that.
+756)  TETRA
+We used that same technology to re-attach our tails when we returned to mother ocean!  It's fascinating!
+757)  GUYBRUSH
+{disgust}[bored] *Yawn* ... Yes, fascinating.
+758)  TETRA
+{excited}All this knowledge and more can be found right here in your local library!
+759)  TETRA
+Here ya go!
+760)  GUYBRUSH
+{suspicious}[reading] The Motion of the Ocean! [commenting] {cocky}Oooh! Sounds racy! [reading] An accurate record of the Spinner Cay tide changes over the last 50 years. {disgust}[dissapointed] Oh.
+761)  GUYBRUSH
+You know, why don't you just hold on to this one for me.
+762)  
+Can I have that Sea Horse?
+763)  GUYBRUSH
+{confused}Can I have that Sea Horse?
+764)  TRENCHFOOT
+{sarcastic}[sarcastic] You mean this sea horse that Captain McGillicutty gave to us to hide until all the artifacts are found?  Of course!  In fact, why don't we just give you the treasure, and then rip off our own arms so our captain don't have to. {stern} BEAT IT.
+765)  GUYBRUSH
+{surprised}Look behind you! A three-headed golden sea horse!
+766)  TRENCHFOOT
+{enthused}[excited]Oooh where?
+767)  TRENCHFOOT
+{sarcastic}Eh, there be plenty of little islands out there. Unless the treasure itself called out your name, you'd be out there till the sea cows came home.
+768)  GUYBRUSH
+{confused}What are you guys still doing here?
+769)  TRENCHFOOT
+{sad}Just biding our time till McGillicutty sails round to pick us up.
+770)  GUYBRUSH
+{suspicious}So you guys are sure you buried the chest in a safe place this time?
+771)  HARDTACK
+{confused}Why do we have to come back here every time?
+772)  GUYBRUSH
+{disgust}Oh yeah, well you don't smell so[sniff] ... {whiney} Ok, this awkward but you guys smell amazing!
+773)  HARDTACK
+{stern}Look, would you just give me the artifact so we can bury it and get out of here?
+774)  GUYBRUSH
+It's a pile of fallen trees.
+775)  GUYBRUSH
+{surprised}I bet that's the Sea Horse artifact the Merleader was talking about.  {confused}I wonder if they will just let me have it...
+776)  HARDTACK
+{confused}[confused]What?-  Are you trying to slip something into our treasure chest?  {stern}You know I'm lookin' right at it right?
+777)  GUYBRUSH
+{incredulous}{surprised}Whoops, {embarrassed}must have dropped it. Sorry.
+778)  HARDTACK
+What if someone were to put in a homing pigeon in there? They could follow it back to the chest!
+779)  TRENCHFOOT
+Idiot.  If you put a pigeon in a treasure chest, all you get is a dead animal and some smelly treasure.
+780)  GUYBRUSH
+Nice chest, but it looks a little empty.
+781)  GUYBRUSH
+[reading] A City of Two Tails. An in depth analysis of the rationale {suspicious}concerning the decision to leave the ocean and the inevitable return.
+782)  GUYBRUSH
+[lying] I ...uh... think I've read this one before. {incredulous}Thanks anyway!
+783)  TETRA
+Enjoy
+784)  GUYBRUSH
+{confused}[reading]The Old Man and the Sea Gull.
+785)  GUYBRUSH
+{suspicious}Ya know, it's getting awfully late in the day... {confused}what time did McGillicutty want this done by?
+786)  GUYBRUSH
+{incredulous}Well, I think I've taken up enough of your time, good luck with the treasure and all.
+787)  TRENCHFOOT
+[noncommittal grunt]
+788)  GUYBRUSH
+{cocky}I'd like a book from the library, please.
+789)  TETRA
+{happy}Fantastic!  {proud}You know I never cease to be fascinated by the way our ancestors preserved such treasures of knowledge within these walls so that our race will long be respected for our intellectual achievements.
+790)  TETRA
+{excited}So which book do you want?
+791)  TETRA
+{disappointed} ...101 fish jokes?  Really?  {frightened}My ancestors have worked for centuries to gather these treasures of knowledge and preserve them within these walls so that our race will long be respected for our intellectual achievements, {disgusted}and you want fish jokes?
+792)  TETRA
+{disgusted}[Sarcastic] Here, this ought to enrich your understanding of Vaycalian literature.
+793)  GUYBRUSH
+{happy}[joking]Great!  I hope it doesn't keep me in stitches or I might need a {cocky}... Sturgeon!
+794)  TETRA
+I hate you now.
+795)  GUYBRUSH
+{surprised}Look behind you! It's a Dark Ninja Dave action figure!
+796)  HARDTACK
+{enthused}Really?  I've never actually seen one in person!
+797)  GUYBRUSH
+{proud}Look!  Defenseless babies with piles of gold!
+798)  HARDTACK
+{enthused}[excited]Where, where?
+799)  GUYBRUSH
+{incredulous}Would you please tell that lady behind you to button up her blouse?
+800)  GUYBRUSH
+{surprised}Look! A distraction!
+801)  TRENCHFOOT
+{enthused}[excited]Oooh!  What's it distracting?
+802)  HARDTACK
+{enthused}Yeah?!
+803)  HARDTACK
+{confused}I didn't see anything.
+804)  TRENCHFOOT
+{stern}Me neither.
+805)  GUYBRUSH
+{stern}[feigning anger] Neither did I!  What a dirty trick!
+806)  TRENCHFOOT
+{confused}There's nothing there!
+807)  GUYBRUSH
+{incredulous}Sorry, It was probably just a weather balloon.
+808)  HARDTACK
+{sad}Aw, I must have missed it.
+809)  GUYBRUSH
+{cocky}Too bad, it was glorious!
+810)  GUYBRUSH
+{confused}Still here?
+811)  TRENCHFOOT
+{worried}Yup.
+812)  GUYBRUSH
+It's a palm tree.
+813)  GUYBRUSH
+{Happy} Wow, I didn't think tiny islands like this actually existed.  {Sarcastic} Good thing I'm not stuck here, I haven't finished my "top five things to have while stranded on a deserted island" list!
+814)  ELAINE
+{concerned}I'm sure we can come up with a slightly less grisly approach if we try.
+815)  ELAINE
+{happy}Maybe you could tell Captain McGillicutty SOME of the ritual words {babying}if he agrees to take only half of the sponge.
+816)  MCGILLICUTTY
+{angry}If you gave him the summoning items, I swear, {evil}I'll gut every one of ya!
+817)  ELAINE
+{stern}No one is gutting anyone!  {surprised}We can work this out peacefully!
+818)  GUYBRUSH
+{stern}No!
+819)  GUYBRUSH
+{Incredulous}Even as small as these islands are, I wouldn't want to just dig randomly in the hopes of finding buried treasure.  I'd be island hopping for years.
+820)  ELAINE
+{cutesy}[sweet talking] Please?
+821)  GUYBRUSH
+{Confused} Hmm, if I were a buried parrot, where would I be?
+822)  GUYBRUSH
+{stern}Nu uh!
+823)  ELAINE
+{cutesy}[sweet talking] Pretty please?
+824)  GUYBRUSH
+{stern}Nope!
+825)  ELAINE
+{cutesy}[sweet talking] Pretty please with marshmallows?
+826)  GUYBRUSH
+{stern}Negative!
+827)  ELAINE
+{cutesy}[sweet talking] Come on...
+828)  GUYBRUSH
+{stern}No way!
+829)  ELAINE
+{cutesy}[sweet talking] For me?
+830)  GUYBRUSH
+{stern}Nyet!
+831)  ELAINE
+{cutesy}[sweet talking] I'll be your best friend...
+832)  GUYBRUSH
+{disgust}Forget it!
+833)  ELAINE
+{cutesy}[sweet talking] I'll make it worth your while...
+834)  GUYBRUSH
+{stern}Not gonna happen!
+835)  ELAINE
+{cutesy}[sweet talking] But I'm your wife...
+836)  
+Le Who?!!
+837)  GUYBRUSH
+{confused}Hey, honey... {suspicious}can I talk to you for a sec?
+838)  ELAINE
+{surprised}Of course dear. {babying}What is it?
+839)  GUYBRUSH
+Creepy.  It sounds like I've been buried alive.  Again.  I think once is enough for a lifetime.
+840)  GUYBRUSH
+Take that poxy pirates! Never underestimate the treasure finding skills of Guybrush Thre...
+841)  GUYBRUSH
+Oh shut up already.
+842)  GUYBRUSH
+Oo, bendy.  I never get sick of rubber trees.
+843)  GUYBRUSH
+{suspicious}Where am I supposed to find these Summoning Artifacts again?
+844)  ELAINE
+{serious}Go to Spoon Isle.  LeChuck is there in the jungles somewhere, he can help you find one.  And I hear rumors that there may be some clues to finding another in an abandoned shack on Roe Island.
+845)  ELAINE
+And don't forget, {suspicious}McGillicutty's men have stolen one.  You'll have to find them{serious} and get that one as well.
+846)  
+I've got one of the summoning items!
+847)  GUYBRUSH
+{cocky}[excited]Hey, guess what?  I got one of -
+848)  TRENCHFOOT
+{Surprised} You!
+849)  GUYBRUSH
+{Stern} You!
+850)  GUYBRUSH
+{Sarcastic} Shouldn't you guys be being tortured by McGillicutty by now?
+851)  TRENCHFOOT
+When McGillicutty finds out you slipped past US to get through the blockade, he'll have our heads on a pike!
+852)  HARDTACK
+{Confused} I know we left it on this island.  It has to be here somewhere!
+853)  ELAINE
+{surprised}[hastily Interupting ] Hey hey! Guybrush! [takes guybrush aside]{stern} If that is what I think it is, keep it to yourself for now!  {suspicious}We don't want to let McGillicutty know you found one, {stern}he's likely to kill you for it where you stand.
+854)  GUYBRUSH
+{suspicious}[being a smart ass] What if I'm sitting down?
+855)  GUYBRUSH
+{confused}That was an accident!  [offering possible explanations] The sword was crooked.  {suspicious}The spell was misspelled.  The breath mints had artificial ingredients.  {surprised}It wasn't my fault!  {suspicious}I'll bet there was a conspiracy!
+856)  ELAINE
+{surprised}[noticing Guybrush's missing hand/concerned]Oh my god!  Your hand!
+857)  GUYBRUSH
+{embarrassed}What hand?
+858)  GUYBRUSH
+{cocky}[fantasizing quietly to himself] Hey, LeChuck, Elaine says you should see how many cannonballs you can fit in your stupid-
+859)  ELAINE
+{happy}[playful yelling from off camera/tounge in cheek] I can hear you!
+860)  GUYBRUSH
+{embarrassed}[bashful] Yes, Dear.{default}
+861)  GUYBRUSH
+All right, let's sneak out to my ship and sail outta here!
+862)  GUYBRUSH
+{surprised}You wouldn't believe what I've had to go through to find you!  {whiney}A crazy homicidal French doctor!  An island with winds that kept everybody from leaving!  {cocky}I even faced off against the infamous Pirate Hunter, Morgan LaFlay and sh-{surprised} ah- HE's {cocky}just as vicious as people say!
+863)  ELAINE
+{surprised}Ooh, {babying}I wish I could have been there for that!
+864)  ELAINE
+{serious}Whatever you did to that cutlass spell, {surprised}it seems to have cured him of his many and various voodoo curses completely!  {happy}He's become a perfectly charming ordinary pirate just like anyone else.
+865)  GUYBRUSH
+{whiney}[jealous] Oh, so now he's "charming," is he?
+866)  ELAINE
+{sarcastic}Oh, not like that!  {happy}You know, he hasn't even tried to marry me once since then!
+867)  GUYBRUSH
+{stern}I still don't trust LeChuck!
+868)  ELAINE
+{babying}[sympathetic]I know, but you are going to {serious}have to if we're going to get all of the Summoning Artifacts and fix this whole messy pox business!
+869)  GUYBRUSH
+{confused}Well, I found our new best friend, {suspicious}"Good Guy" LeChuck.
+870)  ELAINE
+{happy}Great!  You see, he's nothing to worry about.
+871)  GUYBRUSH
+{stern}I still don't trust him.    {surprised}He's a big phony.  {stern}And his beard stinks!
+872)  ELAINE
+{dismissive}No it doesn't.
+873)  GUYBRUSH
+{surprised}[Accusatory]Oh yeah?  How would you know?
+874)  ELAINE
+{exasperated}Ok, that's enough.
+875)  GUYBRUSH
+{embarrassed}Sorry.
+876)  GUYBRUSH
+{suspicious}Soooo... have you been trying to find me too?
+877)  ELAINE
+{evil}What do you mean by that you worthless piece of {stern}*cough cough cough*[sweet again] {surprised}excuse me.{default}
+878)  ELAINE
+{sarcastic}Of course, dear.  {serious}That's why we came here.  [trailing off a bit]{embarrassed} Well, that and the monkeys...
+879)  GUYBRUSH
+{suspicious}You said you came here partly for the monkeys... {confused}what monkeys?
+880)  ELAINE
+{serious}All those poor monkeys LeChuck had cast a spell over on my ship.  We were able to gather them all up and we're going to make sure they all get back to their proper habitat.  Several of them are native to the Jerkbait Islands.
+881)  GUYBRUSH
+{suspicious}Sounds like you spent more time rescuing monkeys than you did looking for me.  {worried}I can do anything those monkeys can do!
+882)  ELAINE
+{sarcastic}I've seen you scratch your behind in the morning, you're very talented.
+883)  GUYBRUSH
+{confused}Were you really worried about me?  {suspicious}I mean, you did stop to chat with these fish people.
+884)  ELAINE
+{serious}Guybrush, we came here looking for you!   If we tried to leave, {suspicious}the ugly diseased pirate over there was going to have us killed!  {exasperated}I had to stay.
+885)  GUYBRUSH
+{incredulous}Figure it out yet?
+886)  LECHUCK
+{seriousTHinking}[trying to figure out a puzzle]Not yet, but I think I'm really close...
+887)  GUYBRUSH
+{confused}So, what exactly are you trying to do here?
+888)  LECHUCK
+{awe}I have surmised that the summoning artifact is somehow locked away within that structure. {seriousThinking} There has got to be a way to activate it so that we can actually retrieve it.
+889)  LECHUCK
+{Stern}No, no!  Don't tell me.  I need to learn how to do this on my own.  {concerned}If I am going to prove to you that I am on your side, I need to be able to face challenges the same way you do, {humble}instead of threatening to cut off your head when I don't get my way.
+890)  GUYBRUSH
+{incredulous}Fine, I'll let you try to figure out how to unlock the artifact, {stern}but I will be the one to actually take it!
+891)  LECHUCK
+{happy}Fantastic! {embarrassed} So, like I said, don't tell me how to do this. {seriousthinking}  I'm sure I can figure this out on my own.
+892)  GUYBRUSH
+{incredulous}So, how much longer do you think?
+893)  LECHUCK
+{seriousthinking}[frustrated]I'm so close, {frustrated}I can feel it!  Arrrgh! {exasperated} I'm just... not so good with this {stern}whole puzzle solving thing!  {exasperated}It was so much easier to just ...kill people until someone did things for you![defeated]...{pleading}Maybe you could just give me a hint?
+894)  GUYBRUSH
+{embarrassed}You look like you are still struggling, need some more help?
+895)  GUYBRUSH
+{confused}What are you carrying with you?
+896)  LECHUCK
+{confused}Hmmm, let's see... I have some breath mints... and this thing.  It looks just like the thing you used in that clamshell, but mine seems to be broken.
+897)  LECHUCK
+{shocked}Oh!  Ah! {excited} I think I've got it now. {exasperated} Oh wait, no, that won't work.  {Seriousthinking}Hmmm....
+898)  LECHUCK
+{stern}I can't use those two things together!
+899)  LECHUCK
+{Stern}Those things don't work together.
+900)  LECHUCK
+{exasperated}Guybrush, that doesn't work!
+901)  LECHUCK
+{stern}I can't use those two things together!{exasperated} This is hopeless.
+902)  LECHUCK
+{worried}That didn't do anything!
+903)  LECHUCK
+{disappointed}That was totally useless.
+904)  GUYBRUSH
+{confused}Okay, what was the last thing you showed me?
+905)  LECHUCK
+{seriousthinking}This broken seahorse claw thing.{confused}  Is that Important?
+906)  GUYBRUSH
+{suspicious}Maybe...
+907)  LECHUCK
+{seriousthinking}Hmmm....
+908)  GUYBRUSH
+{confused}Maybe you should just let me have whatever you are carrying and let me do this.
+909)  LECHUCK
+{exasperated}No, Guybrush, I insist!  I MUST learn to do these things for myself!
+910)  GUYBRUSH
+{whiney}Are you sure you don't want to just give me everything you have and let me do this?  It'll be MUCH faster!
+911)  LECHUCK
+{exasperated}Absolutely not! {humble} I'm sure I can do this,{seriousThinking} just let me think for a moment...
+912)  GUYBRUSH
+{incredulous}Suit yourself.
+913)  GUYBRUSH
+Okay, well, try this...
+914)  GUYBRUSH
+{embarrassed}Use...
+915)  GUYBRUSH
+{embarrassed}Look at...
+916)  GUYBRUSH
+{incredulous}...claw thingie...
+917)  GUYBRUSH
+{incredulous}...pearl...
+918)  GUYBRUSH
+{incredulous}...altar.
+919)  GUYBRUSH
+{incredulous}...clamshell lock.
+920)  GUYBRUSH
+{incredulous}...claw thingie.
+921)  GUYBRUSH
+{incredulous}... the pearl.
+922)  GUYBRUSH
+{incredulous}... yourself.
+923)  GUYBRUSH
+{incredulous}...MerFolk key...
+924)  LECHUCK
+{seriousthinking}...yes...
+925)  LECHUCK
+{seriousthinking}...uh huh...
+926)  LECHUCK
+{seriousthinking}...right...
+927)  LECHUCK
+{seriousthinking}...Hmmm.... use what...
+928)  LECHUCK
+{seriousthinking}...Okay... look at ... hmmm...
+929)  LECHUCK
+{seriousthinking}...hmmm... use it with what...?
+930)  LECHUCK
+{seriousthinking}...No, no... I got it!... ummm... use with...?
+931)  LECHUCK
+{Excited}Right! {exasperated} Uhhh...{seriousthinking} use with.... use with...?
+932)  GUYBRUSH
+{worried}[suspicious]Sooo... you say you're human now, huh?  {incredulous}Well, let's just see what happens when I ...{surprised}PULL OFF YOUR MASK!!
+933)  LECHUCK
+{stern}Owwch!!  Guybrush, stop that!
+934)  GUYBRUSH
+{confused}Huh.  Okay... maybe you are human. {stern} I still don't like you.
+935)  LECHUCK
+{frustrated}Be that as it may, we still must work together to retrieve this Summoning Artifact!
+936)  GUYBRUSH
+{stern}If you did anything to hurt Elaine while I was gone, I swear I'll-
+937)  LECHUCK
+{concerned}The only thing I did to Elaine {excited}was pull her from the freezing water along with a bunch of wet, screaming monkeys!
+938)  GUYBRUSH
+{happy}[chuckling to himself] Actually, that kinda sounds like our honeymoon!
+939)  GUYBRUSH
+{incredulous}Good luck, LeChuck. I'm outta here.
+940)  LECHUCK
+{worried}Well, don't go too far, I may need your help.
+941)  LECHUCK
+{seriousTHinking}Hmmm... that didn't do anything.
+942)  LECHUCK
+{worried}Like this?
+943)  GUYBRUSH
+{incredulous}[Snickering] Oh yes!  Now you'll be the prettiest one at the ball!
+944)  LECHUCK
+{frustrated}[putting the pearl away; annoyed] Stop playing games, Guybrush, we have to get that artifact!
+945)  LECHUCK
+{happy}Ah ha!  It fits perfectly!
+946)  GUYBRUSH
+{proud}Yep!  You now have yourself a fully functional Mer-Key!  See, that wasn't too hard, was it?
+947)  LECHUCK
+{humble}No not at all!  [still clueless]{worried} So, now what?
+948)  GUYBRUSH
+{whiney}[rolling his eyes]Oh, brother.
+949)  LECHUCK
+{frustrated}I don't think that is going to do anything until I fix it.
+950)  GUYBRUSH
+{incredulous}Yeah, you're probably right.
+951)  LECHUCK
+{excited}It's working, Guybrush!
+952)  GUYBRUSH
+{happy}Of course, now I'll just use my key over-
+953)  LECHUCK
+[excited] Wait!  I think I've figured it out!  Now that I've got my key in place, you go use yours in the OTHER clamshell!
+1836)  LECHUCK
+[excited] Wait!  I think I've figured it out!  Now that I've got my key in place, you go use yours in the OTHER clamshell!
+954)  GUYBRUSH
+{suspicious}[sarcastic] Yeah... smart thinking!
+955)  LECHUCK
+{seriousTHinking}It looks like it's missing something...
+956)  LECHUCK
+{frustrated}I saw you put the Sea Horse stick thing in it, but other than that it just looks like an oyster.
+957)  LECHUCK
+{exasperated}Nice altar.
+958)  TRENCHFOOT
+{Angry}Go away, hook-boy.  We don't have time for you.
+959)  GUYBRUSH
+Aw, come on, I thought we were friends!  Especially after all the help I gave you guys earlier.
+960)  LECHUCK
+{seriousThinking}The artifact is in there, if I can just figure out how to open it...
+961)  LECHUCK
+{proud}Well, I am rather handsome now that I'm free of the voodoo curses,{concerned} but I don't see how that is going to help.
+962)  GUYBRUSH
+{incredulous}It's not, {Stern}I just wanted you to take a long hard look at yourself and realize what a jerk you've been over the years.
+963)  LECHUCK
+{humble}Ah yes.  Self reflection is a humbling beast.
+964)  GUYBRUSH
+So... can't find the treasure, huh?
+965)  HARDTACK
+{Confused} I know it's here.   It's just... well, we reburied it so many times I can't remember where we put it!
+966)  GUYBRUSH
+{Suspicious} Sounds like someone should have been a little more decisive.  {Happy} Maybe I can help.
+967)  GUYBRUSH
+{cocky}Nice key ya got  there, LeChuck!  Keep  up the good work.
+968)  LECHUCK
+{exasperated}Guybrush,  Please, go use your key in the other clamshell lock!
+969)  GUYBRUSH
+{suspicious}I don't wanna bother him while he's got a cannon.
+970)  GUYBRUSH
+I could do this all day, but until LeChuck gets another key for the other clamshell lock, this is useless!
+971)  GUYBRUSH
+{incredulous}How's that other key coming, LeChuck?
+972)  LECHUCK
+{awe}Good, good!  I think I've almost got it figured out...
+973)  LECHUCK
+{awe}Will you look at that! {proud} I knew the summoning artifact would be here!  Let's go get it!
+974)  GUYBRUSH
+{surprised}Whoa!  {Stern}Hey!  I will be the one to get it, remember!  That was our deal! You wait here!
+975)  LECHUCK
+{humble}Yes, of course.  I've got your back.
+976)  GUYBRUSH
+{suspicious}Hmmm... looks like someone else tried to pry the Artifact out of here with no luck.
+977)  GUYBRUSH
+{suspicious}So this is what all the fuss is about...
+978)  GUYBRUSH
+{confused}Hmm... I'm not getting it out of there that way.
+979)  GUYBRUSH
+It's stuck in there!
+980)  GUYBRUSH
+{Stern}Errrrnnggghh..... Come on... Ennnghaa....
+981)  LECHUCK
+{confused}Need some help?
+982)  GUYBRUSH
+Nope, I got it... It's just... really stuck!
+983)  GUYBRUSH
+Errrrnnggghh!!!
+984)  LECHUCK
+{confused}Why don't you just let me do it? {proud} I'm not saying I'm stronger than you, but...
+985)  GUYBRUSH
+{Stern}One more time... Errrrnnggghh!!!
+986)  LECHUCK
+{pleading}Just give me that pry tool, I'll pop it right out!
+987)  TRENCHFOOT
+{Suspicious} What do you think I am, some kind of back-hoe?{Stern} Do you know how hard it is to get through rubber tree roots?
+988)  TRENCHFOOT
+{Angry}[about to explode] I..you...buh....
+989)  GUYBRUSH
+{Sarcastic} What about that rock over there?  Seems like a likely place to bury a treasure.
+990)  GUYBRUSH
+{stern}[frustrated] Here!  Against my better judgment I'm going to let you TRY to get the summoning artifact out of the stone.  But only because ...[mumbling a bit]you're a lot stronger than me.
+991)  GUYBRUSH
+But you better give the artifact right back or I swear-
+992)  LECHUCK
+{proud}Relax, Threepwood! I promise!
+993)  HARDTACK
+It's worth a shot...
+994)  TRENCHFOOT
+{Stern} Fine.
+995)  LECHUCK
+{proud}All you need is a little more leverage.
+996)  LECHUCK
+{awe}Amazing!
+997)  BILL
+{suspicious}Hmmmm....
+998)  TRENCHFOOT
+{Angry} Nothin'.  Any more bright ideas?
+999)  GUYBRUSH
+{Sarcastic} You know, I could have sworn it would be next to the rock.  I mean, that's where I would have hidden it.
+1000)  HARDTACK
+It is a pretty good place... maybe we should check it again.
+1001)  TRENCHFOOT
+{Stern} Now just hold on a second,  I'm callin' the shots here.
+1002)  GUYBRUSH
+{Sarcastic} Ok, you pick a place then.
+1003)  TRENCHFOOT
+...Fine.  Fine! We dig by the rock again, but only because it's such a bleedin' small island.
+1004)  GUYBRUSH
+Actually, I do.
+1005)  GUYBRUSH
+{cocky}Here ya go, one official Vaycalian Transit Pass, good for 24 hours!{default}
+1006)  ANEMONE
+{flirty}I bet you are!
+1007)  GUYBRUSH
+{confused}Huh?
+1008)  ANEMONE
+{happy}The raft is yours for the day!  Just hop on board and use it to sail anywhere within the Jerkbait islands!{default}
+1009)  GUYBRUSH
+{happy}Thanks!{default}
+1010)  HARDTACK
+{Happy} Well, I found something!
+1011)  GUYBRUSH
+{Surprised} Wait, what?  What did you find?
+1012)  GUYBRUSH
+Try the rock again?
+1013)  TRENCHFOOT
+{Stern} No.
+1014)  GUYBRUSH
+{happy}Pretty!{default}
+1015)  GUYBRUSH
+{cocky}I know I can hold my breath underwater for ten minutes, but I've {suspicious}never been able to stay in a library for that long.{default}
+1016)  GUYBRUSH
+Here, you might need this.
+1017)  LECHUCK
+{happy}Of course!  [still  clueless]... {confused}This thing!... {embarrassed}Yes...
+1018)  GUYBRUSH
+{Cocky} Maybe you left that coconut as a marker.
+1019)  TRENCHFOOT
+{Sarcastic} Oh yeah, smart.  We used a rolling, floating treasure marker. That's brilliant. [disbelieving]{Confused} "Take the cook," he said.  "It will be good for him," he said.
+1020)  HARDTACK
+[miserable]{Sad} Technically that's true.   McGillicutty would have killed me if you hadn't gotten me off the ship.
+1021)  TRENCHFOOT
+{Confused} So you put the coconut where we buried the treasure?
+1022)  HARDTACK
+{Confused} At one point I did.  It might have rolled...
+1023)  TRENCHFOOT
+{Stern} Fine, we will dig under coconut.
+1024)  GUYBRUSH
+{incredulous}Almost done here? I need to tell you Elaine's plan...
+1025)  LECHUCK
+{exasperated}As long as these pirates think I have the Sea Turtle artifact,{shocked} I'm stuck here!
+1026)  HARDTACK
+{Sad} It must have rolled...
+1027)  PIRATEA
+{stern}Come on, give us the golden sea turtle!  We saw you pry it outta that altar!
+1028)  LECHUCK
+{stern}You'll have to pry it from my no longer cold, dead hand!
+1029)  GUYBRUSH
+{confused}LeChuck?
+1030)  LECHUCK
+{worried}Guybrush, get out of here!  These guys think I still have the artifact, and they are willing to kill to get it back!
+1031)  GUYBRUSH
+{confused}Okay, but, Elaine wants me to tell you something...
+1032)  GUYBRUSH
+You could try again where the coconut is. {Sarcastic} Was.
+1033)  TRENCHFOOT
+{Confused} At this point I'm will to try just about anything.
+1034)  GUYBRUSH
+{embarrassed}Elaine told me that she want's YOU to go out to the beach and use the cannon provide a distraction for the blockade while I sail out and rescue the Mer-Leader!
+1035)  LECHUCK
+{worried}[skeptcal]Really?  Are you sure that's what she said?
+1036)  GUYBRUSH
+{happy}Positive!  We're buddies now right?  I wouldn't lie to you!
+1037)  LECHUCK
+{happy}Ha, I suppose your right, Guybrush!  I'll get right on it!  Good luck, lad!
+1038)  TRENCHFOOT
+{Stern} What possible use could anyone have for one of those?
+1039)  GUYBRUSH
+{Confused} Try under the coconut again?
+1040)  TRENCHFOOT
+{Stern} No, we've dug there enough.  We would have seen the treasure by now if it were there.
+1041)  GUYBRUSH
+I'll leave you guys to it.
+1042)  TRENCHFOOT
+[grunts]
+1043)  TRENCHFOOT
+Woah, woah, where do you think you are going?
+1044)  GUYBRUSH
+{Embarrassed} Long walk along the beach?
+1045)  TRENCHFOOT
+{Suspicious}Hrmph. Fine.  {Stern} Just stay where I can see ya, and don't even think of DIGGING out here.  That treasure is OURS!
+1046)  GUYBRUSH
+{Default} Of course, {Cocky} I'd never stand in the way of a pirate and his treasure!
+1047)  GUYBRUSH
+That's a pretty big rock for such a tiny little island. {Happy}Maybe this is the tip of a giant underwater pyramid from a highly advanced ancient civilization. {Incredulous}Or maybe it's just a rock.
+1048)  GUYBRUSH
+One of nature's bludgeons.
+1049)  LECHUCK
+{stern}It'll have to wait, Guybrush.  I don't think these guys are gonna let me leave without giving them the Artifact first!
+1050)  GUYBRUSH
+{Happy} Timmmm-boing? [as in TIMBER]
+1051)  GUYBRUSH
+{happy}Hey, perfect fit!  {cocky}And they said that heating and air conditioning certificate I earned at pirate night school would never come in handy.
+1052)  GUYBRUSH
+{suspicious}Hmm... it looks like it opens somehow. {confused} I wonder if there is anything inside?
+1053)  GUYBRUSH
+{suspicious}Hmmm... it didn't get hotter at all.  {confused}Maybe I need to get it started with a heat source first.
+1054)  GUYBRUSH
+{surprised}Woah! {happy} Now that's a barbecue!
+1055)  GUYBRUSH
+More Vaycalian ruins.  {confused}This look like some kind of old furnace.  Or maybe a barbecue?
+1056)  GUYBRUSH
+More clamshell locks.  I remember these things from Flotsam Island.
+1057)  GUYBRUSH
+{scared}Boy, that's a long way down!  {surprised}I can see the broken altar down there! {suspicious}I guess I'm lucky I landed on top of it instead of the other way around.
+1058)  GUYBRUSH
+[reading] Fishing Well. [commenting] {confused}Fishing well?  {suspicious}They probably meant "wishing well," I'm sure it's just a typo.
+1059)  GUYBRUSH
+[reading] Free Bait!  Good for one order of Fish Eggs.  Coupon valid at most participating Jerkbait Island locations.
+1060)  GUYBRUSH
+{happy}Neat!
+1061)  GUYBRUSH
+[reading] Free Bait!  Large Oysters.
+1062)  GUYBRUSH
+{happy}Tasty!  ...{embarrassed}For the fish I mean.  I try not to eat bait anymore.
+1063)  GUYBRUSH
+{happy}Hey, not bad!  {default}Good enough to fool the undiscerning pirate eye anyway!
+1064)  GUYBRUSH
+The altar's got a couple of cracks now, but it survived the fall pretty well!
+1065)  GUYBRUSH
+{suspicious}[joking to himslef] That golden sea turtle left quite an impression on this stone!
+1066)  GUYBRUSH
+{cocky}Thank you, thank you.  I'll be here all week.
+1067)  GUYBRUSH
+{stern}Aww, man!  {worried}The melted pyrite must have cooled and hardened before I could get here!
+1068)  GUYBRUSH
+Let's try this again.
+1072)  GUYBRUSH
+Let's try this again.
+1069)  GUYBRUSH
+Over the edge you go!
+1070)  GUYBRUSH
+{happy}...Bullseye!
+1071)  GUYBRUSH
+Oops.  I guess I took too long getting here, the Pyrite cooled and hardened into a lump!  I need to get here more quickly next time.
+1073)  MCGILLICUTTY
+{angry}Give me the Summoning Artifacts!
+1074)  MCGILLICUTTY
+{evil}I want them all!
+1075)  MCGILLICUTTY
+{stern}Enough of this, just tell me where they are!
+1076)  MCGILLICUTTY
+{angry}Aaarrrrr!!!
+1077)  MCGILLICUTTY
+{angry}This is pointless!
+1078)  MCGILLICUTTY
+{evil}Both of you shut up!
+1079)  MCGILLICUTTY
+{stern}We need La Esponja Grande more than you!
+1080)  ELAINE
+{serious}Let's forget about the artifacts for a moment...
+1081)  ELAINE
+{stern}Please, let's be reasonable...
+1082)  ELAINE
+{babying}How about a compromise?
+1083)  ELAINE
+{babying}Can we agree to disagree?
+1084)  ELAINE
+{serious}Ok, let's start over...
+1085)  ELAINE
+{stern}You are both being unreasonable.
+1086)  ELAINE
+{babying}Can I just say something here?
+1087)  MERLEADER
+{serious}The artifacts are sacred, {stern}I will not let them fall into the wrong hands.
+1088)  MERLEADER
+{stern}La Esponja Grande will not be given to these vile pirates.
+1089)  MERLEADER
+{stern}I will not reveal the location of the artifacts!
+1090)  MERLEADER
+{stern}You shall never have them!
+1091)  MERLEADER
+{serious}WE will choose who may have the artifacts, not you!
+1092)  MERLEADER
+{serious}Our people will not give in.
+1093)  GUYBRUSH
+[shouting across ships]{Cocky} Hey, ugly...
+1094)  MCGILLICUTTY
+[shouting across ships]{Angry} Arrrrrr!!!
+1095)  GUYBRUSH
+[shouting across ships]{Cocky} Hey, McGillicutty!
+1096)  MCGILLICUTTY
+[shouting across ships] {Angry} Threepwood!
+1097)  GUYBRUSH
+[shouting across ships]{Cocky} Yo, Captain!
+1098)  MCGILLICUTTY
+[shouting across ships] {Angry} Why do ya keep botherin' me?
+1099)  MCGILLICUTTY
+[shouting across ships] {Stern} I don't think so, boy! The Chieftain is going to tell me exactly where to find the artifacts so I can get to  Esponge Grande, or end up as sea gull pickings among the rocks when I run aground!
+1100)  MERLEADER
+[shouting across ships] {Excited} You must keep the summoning artifacts safe, Guybrush!
+1101)  GUYBRUSH
+[shouting across ships] {Incredulous} Rue?  HA! [to himself] {Whiney} I really gotta look up that word.
+1102)  GUYBRUSH
+[shouting across ships] {Worried} Look, I'm sure the sponge is big enough for all of us! Let the MerLeader go, I'll get the sponge, come back and cure us all!
+1103)  MCGILLICUTTY
+[shouting across ships] {Sarcastic} Ha ha ha ha ha!  We aren't lookin' for a cure, boy!  We want to destroy La Esponja Grande forever!
+1104)  GUYBRUSH
+[in disbelief] {Confused} What?
+1105)  MCGILLICUTTY
+[shouting across ships] {Cocky} Aye!  We like being this way!  The pox makes us fearsome .. and powerful!  And will make us RICH!  It's what every pirate strives to become, Guybrush! {Angry} And I won't leave that cursed sea sponge out there just waiting to take that away.
+1106)  GUYBRUSH
+[shouting between ships]The pox is just making you cranky.  You'll feel better after a cure and a hot bath.
+1107)  GUYBRUSH
+[shouting between ships]You're mad!  Mad I say!
+1108)  GUYBRUSH
+[shouting between ships] {Incredulous} Please don't destroy the La Esponja Grande! My wife really needs a new loofa!
+1109)  MCGILLICUTTY
+[shouting between ships] La Esponja Grande is a weapon against the evolution of piracy!  I must find it!  I must destroy it!
+1110)  GUYBRUSH
+[shouting between ships] {Angry} Let Beluga go!  I have all of the summoning items!
+1111)  MCGILLICUTTY
+[shouting between ships] {Enthused} Good!  Then I'll know where to find them after the MerLeader tells me the ceremonial ritual words!
+1112)  GUYBRUSH
+{embarrassed}So, where did ya end up burying the treasure?
+1113)  HARDTACK
+[somewhat distractedly] Way out there, on one of those little islands...
+1114)  GUYBRUSH
+{surprised}[suprised] Oh, thanks.  I didn't expect you to actually tell me.
+1115)  GUYBRUSH
+{cocky}There's nothing better than a life at sea! Every day is a new adventure and all your friends are fish.{default}
+1116)  GUYBRUSH
+{cocky}Yep, it's the ocean.{default}
+1117)  GUYBRUSH
+{confused}Looks like McGillicutty and his men have the island surrounded!{default}
+1118)  GUYBRUSH
+{cocky}Wet.{default}
+1119)  MERLEADER
+{proud}So it has been written.
+1120)  GUYBRUSH
+{confused}Well, here goes nothing...Here boys, come and get it...
+1121)  GUYBRUSH
+{stern}[frustrated]Shoot!
+1122)  GUYBRUSH
+{surprised}[Startled] Ahh!{default}
+1123)  WINSLOW
+{suspicious}I see the ocean beasties have been summoned, {happy}are we ready to go then?
+1124)  GUYBRUSH
+{confused}Actually, there is something...
+1125)  
+I need to find La Esponja Grande.
+1126)  GUYBRUSH
+{confused}Can I have a cookie?
+1127)  MERLEADER
+{serious}You cannot.
+1128)  GUYBRUSH
+{incredulous}I'm sorry, MAY I have a cookie.
+1129)  MERLEADER
+{serious}You may not.
+1130)  GUYBRUSH
+{confused}Cookie?
+1131)  MERLEADER
+{serious}No.
+1132)  GUYBRUSH
+{confused}You wouldn't happen to know what the secret of Monkey Island is, would you?
+1133)  MERLEADER
+{proud}I know what the secret of Donkey Island is, if that helps.
+1134)  MERLEADER
+*whisper ...whisper*
+1135)  GUYBRUSH
+{disgust}Eeew, no!{default}
+1136)  MERLEADER
+{Stern} I'll never tell you!
+1137)  MCGILLICUTTY
+{Angry} Either you'll spill your guts or I will!
+1138)  MCGILLICUTTY
+[shouting across ships]{Angry} Ya best be watching your tongue, Guybrush Threepwood!
+1139)  MCGILLICUTTY
+[shouting across ships]Arrr shut that thing up!
+1140)  ELAINE
+{surprised}[guybrush just said something stupid/playful] Great idea.  {sarcastic}That way your BRAIN will be protected.
+1141)  GUYBRUSH
+{incredulous}[he's just been zinged] Oo.  Good one.
+1142)  WINSLOW
+{Scared} The Mast!!
+1143)  MCGILLICUTTY
+[shouting across ships] {Enthused} Good riddance, Threepwood!  Har ha ha ha har!!!
+1144)  GUYBRUSH
+[shouting across ships] {Worried} I'll be back for you, Chieftain Beluga!
+1145)  WINSLOW
+{worried} We'll need to get the mast repaired again before we can catch up to McGillicuttys's ship.
+1146)  GUYBRUSH
+[as if he's been told 100 times already] {Stern} I know.  ... I'll use the map.
+1147)  WINSLOW
+{Angry} Not again!
+1148)  MCGILLICUTTY
+{Happy} Ha ha haha haarr!!!
+1149)  GUYBRUSH
+{Angry} Shoot.
+1150)  MCGILLICUTTY
+[shouting across ships]{Angry} Shut yer hole, hook boy!
+1151)  MCGILLICUTTY
+[shouting across ships] {Angry} How dare you insult me!
+1152)  MCGILLICUTTY
+[shouting across ships]Oh, so that's how you want to play, eh?
+1153)  MCGILLICUTTY
+[shouting across ships]That really hurt my feelings!
+1154)  GUYBRUSH
+{Cocky} The poxes on my rear look better than your face.
+1155)  GUYBRUSH
+{Cocky} You are so ugly your father wished you were the son of the milkman.
+1156)  GUYBRUSH
+{Cocky} Ya feelin' funny, punk?  Well, are ya?  ARE YA?
+1157)  GUYBRUSH
+{Cocky} McGillicutty?  You're so weak it's more like McGilli-PUTTY!
+1158)  GUYBRUSH
+{Cocky} Is that supposed to be a cannon, I thought it was your chamber pot!
+1159)  ELAINE
+{stern}I can handle things here, but YOU'VE got to get your hands-- {surprised}er... sorry, I mean, {serious}you've got to get hold of those summoning artifacts, they're the key to everything.
+1160)  ELAINE
+{stern}McGillicutty's men have got one of them stashed somewhere.  {serious}Before you turned up I was about to go to Roe Island to follow up on a lead, and I've got LeChuck looking for the third one on Spoon Isle.
+1161)  GUYBRUSH
+{Cocky} Come on you Pox patterned poser, you couldn't hit me even though I'm standing still.
+1162)  GUYBRUSH
+{scared}LeChuck?!!  You let him go?!  {surprised}You sent him on a mission?!
+1163)  GUYBRUSH
+{incredulous}I'm sorry, I thought I just heard you describe LECHUCK, {suspicious}fearsome voodoo ghostly demonic PURE EVIL INCARNATE pirate LeChuck, {stern}as "harmless."
+1164)  GUYBRUSH
+{confused}I wonder when I started hallucinating?
+1165)  GUYBRUSH
+[shouting across ships] {Angry} Prepare to meet your maker, McGillicutty!
+1166)  MCGILLICUTTY
+{Angry} Aaarrrrrrrr!!!!
+1168)  MCGILLICUTTY
+{Angry} Aaarrrrrrrr!!!!
+1167)  GUYBRUSH
+[In awe] {Surprised} Wow, nice shot!
+1169)  GUYBRUSH
+[frustrated grunt] {Whiney} Hrrmmmp.
+1170)  GUYBRUSH
+The mast is broken again.
+1171)  WINSLOW
+We'll need it repaired again if we want to catch up to McGillicutty!
+1172)  GUYBRUSH
+{confused}[hopeful] So, tell me - when LeChuck handed you that flower on the ship deck, that was, {suspicious}what, some kind of a voodoo trap or something, right?
+1173)  ELAINE
+{surprised}No, that-- {suspicious}hey, how did you even know about that? {serious}Have you been spying on me?
+1174)  GUYBRUSH
+Set sail for the Jerkbait Islands, Mr. Winslow!
+1175)  WINSLOW
+Yes sir, Cap'n Threepwood!
+1176)  GUYBRUSH
+Lets head back to Flotsam Island!
+1177)  WINSLOW
+I'll get us as close as I can, but with the winds blowin' out now, we won't be able to reach land!
+1178)  GUYBRUSH
+Isle of Ewe.
+1179)  WINSLOW
+I... errr, think we should discuss that sort of thing AFTER we've reached our destination...
+1180)  GUYBRUSH
+What?  Oh... Isle..of..Ewe...Ha, pretty good joke!
+1181)  WINSLOW
+[wistful] Yes, sir... a "joke...."
+1182)  WINSLOW
+Aye aye, sir!
+1183)  GUYBRUSH
+{surprised}Of course not, {embarrassed}but I'd been away from you all this time and I was worried and I was looking through the spyglass and--
+1184)  ELAINE
+{sarcastic}That is so like you.
+1185)  ELAINE
+{babying}[reasuring] Listen, after the explosion--
+1186)  GUYBRUSH
+{surprised}--which I want to stress was NOT my fault--
+1187)  ELAINE
+--after the explosion, it was LeChuck who single-handedly...{surprised}[looks at guybrush's hook] sorry... {babying}who recovered your ship and rescued both me and a cargo hold full of innocent monkeys.
+1188)  GUYBRUSH
+Set sail for Boulder Beach!
+1189)  WINSLOW
+Yes sir, captain!
+1190)  GUYBRUSH
+Straight on to McGillicutty's ship!
+1191)  WINSLOW
+Yes, sir!
+1192)  GUYBRUSH
+Onward, to Brillig Island
+1193)  GUYBRUSH
+{stern}Hmph.
+1194)  GUYBRUSH
+{cocky}Double-jointed Traction-Spewer.  Got it.
+1195)  ELAINE
+{serious}I'm going to get my ship out of hiding and provide a distraction on the east side.  Your job is to get to the Spoon Isle beach and distract them on the west.
+1196)  GUYBRUSH
+{confused}Elaine, I really think you should take your ring back...{default}
+1197)  ELAINE
+{happy}No, I want you to keep it.  {sarcastic}And not lose it!
+1198)  MCGILLICUTTY
+{stern}Then maybe we'll move on to yer innards and tear THOSE to pieces lookin', {evil}ya overgrown tadpole!
+1199)  GUYBRUSH
+{happy}Glowy.{default}
+1200)  GUYBRUSH
+{confused}Wow, that place looks important!{default}
+1201)  GUYBRUSH
+The Voodoo Lady gave me this locket and told me to show it to DeCava.  He's supposed to be here on the Jerkbait Islands somewhere.
+1202)  GUYBRUSH
+It's an all-purpose tool used by the Vaycalian Mer-People to activate their mysterious machines.
+1203)  GUYBRUSH
+It's made of pure pyrite, also known as "fool's gold."  I wonder who the "fool" is?
+1204)  GUYBRUSH
+Morgan's grappling hook sure comes in HAND-y!
+1205)  GUYBRUSH
+It's baited with fish eggs.
+1206)  GUYBRUSH
+It's baited with "gusanos de destino," whatever that is.
+1207)  GUYBRUSH
+[reading] Jerkbait Island Transit Pass, good for 24 hours.
+1208)  GUYBRUSH
+[reading] Free Bait!  Gusanos de Destino.  Good while supplies last!
+1209)  GUYBRUSH
+They're all slimy and gross.
+1210)  GUYBRUSH
+They look like...fat glowing worms.
+1211)  GUYBRUSH
+Let me just crack this sucker open.... rreenngghh... Hey look, a pearl!  A BIG pearl!
+1212)  GUYBRUSH
+{happy}Hey, Elaine, I got you something!{default}
+1213)  ELAINE
+{happy}Aw, Guybrush, that's sweet, {worried}But I can't take that... I feel like I'm stealing from the oyster.  {happy}Sorry, dear.{default}
+1214)  GUYBRUSH
+That's a really big pearl.
+1215)  GUYBRUSH
+Looks like some kind of primitive crow bar.
+1216)  GUYBRUSH
+One hundred and one fish jokes.  Hey, there's a coupon in here!  I wonder if it's still good?
+1217)  GUYBRUSH
+[mumbles as if reading to himeslf] *mumble mumble*.....
+1218)  GUYBRUSH
+Heh.
+1219)  GUYBRUSH
+Huh, I don't get it.
+1220)  GUYBRUSH
+The "Cranky Fish" Summoning Artifact.
+1221)  GUYBRUSH
+It's a golden Summoning Artifact in the shape of a Sea Turtle.
+1222)  GUYBRUSH
+A Golden Seahorse Summoning Artifact.
+1223)  GUYBRUSH
+The MerLeader smooshed all the artifacts into a ball.  I'm supposed to throw it into the ocean to call the Legendary Sea Creatures.
+1224)  GUYBRUSH
+There's a hole in the bucket, dear Liza, dear Liza, There's a hole in the bucket, dear Liza,  a hole... Nah, that's not true,  it's just a bucket.
+1225)  GUYBRUSH
+Yep, hot coals still in the bucket!
+1226)  GUYBRUSH
+Cheap heat controls didn't look like they were built for that hot tub anyway.
+1227)  GUYBRUSH
+The bowl is full of pyrite.  It's cooled down to a solid mass now.
+1228)  GUYBRUSH
+A bowl of hot melted pyrite.  Which I imagine is a lot less tasty than a bowl of hot nacho cheese, despite their similar appearance.
+1229)  GUYBRUSH
+A stone bowl I use to carry around melted Pyrite.  It's empty.
+1230)  ELAINE
+{surprised}Guybrush, don't leave me!
+1231)  GUYBRUSH
+{cocky}Never, my sweet!{default}
+1232)  GUYBRUSH
+One counterfeit Sea Turtle Artifact, made from fool's gold!
+1233)  MORGAN
+{fierce}I don't need wit to carve a bloody hole in your chest!
+1234)  GUYBRUSH
+{cocky}The MerFolk weather vane looks good up there!  {suspicious}Doesn't do anything useful, {happy}but it looks cool!{default}
+1235)  GUYBRUSH
+{stern}Take that, weak point of the blockade!
+1236)  HARDTACK
+[Process: far in the distance]Oh no!  Someone is shooting at me! It's coming from the beach!
+1237)  GUYBRUSH
+{happy}Fun!
+1238)  GUYBRUSH
+I wonder what it's like to see through the eyes of a fish? Whoa!  Everything is all magnified and bulgy!  Awesome!
+1239)  GUYBRUSH
+I used this to see the hidden writing on a blank map back on Flotsam Island.  I think it might have been a prize in a cereal box at one point.
+1240)  GUYBRUSH
+Woah, trippy!  Everything looks really close up through this thing!
+1241)  GUYBRUSH
+There IS something written here! But it's too tiny to make it out.
+1242)  GUYBRUSH
+Ah ha!  Looks like DeCava wrote down the name of a book... "101 Fish Jokes."  I wonder if it's a biography?
+1243)  GUYBRUSH
+Oooh, now it's like a big, red magnifying glass!
+1244)  GUYBRUSH
+{suspicious}Hey, this fishy looking guy still has one glass eye!
+1245)  GUYBRUSH
+Shoot!  {confused}Why do I have this uncontrollable urge to poke at fish eyes?{default}
+1246)  GUYBRUSH
+[alt - incase it doesnt read] What?  Oh... Isle - of - Ewe... sounds like I - Love - You!  Ha, pretty good joke!
+1247)  GUYBRUSH
+I can't just dig randomly.
+1248)  GUYBRUSH
+{Sarcastic} I think I've grown past the need to carry rubber trees in my pants. I'll just leave it here.
+1249)  GUYBRUSH
+[flatly]He doesn't need it, and I don't wanna give it to him.
+1250)  GUYBRUSH
+I think it only works on MerFolk clamshell thingies.
+1251)  PARROT
+*Squawk* It's me, Guybrush Threepwood, Mighty Pirate!
+1252)  GUYBRUSH
+I'm not grabbing THAT with my hook. It'll tarnish it.
+1253)  GUYBRUSH
+According to the official Hook Hand manual, that is a completely inappropriate way to use my hook.
+1254)  GUYBRUSH
+Give away my free bait coupon? No way! I'd rather use this myself.
+1255)  GUYBRUSH
+That's not a good way to use fish bait.
+1256)  GUYBRUSH
+I've learned that people aren't as receptive to randomly being handed cold, slimy shellfish as you'd think.
+1257)  GUYBRUSH
+I don't think they need a big pearl.
+1258)  GUYBRUSH
+I've got no reason to pry that.
+1259)  GUYBRUSH
+These summoning Artifacts are too important to mess around with.  I better just keep them safe.
+1260)  GUYBRUSH
+That won't fit in the bucket.
+1261)  GUYBRUSH
+If those coals were hot enough, they might melt my parrot.  But they aren't, so I won't do that.
+1262)  GUYBRUSH
+I can't turn up the heat on that!
+1263)  GUYBRUSH
+I don't want to pour melted pyrite on that.
+1264)  GUYBRUSH
+This is no place for a counterfeit Summoning Artifact.
+1265)  GUYBRUSH
+[looking through a fish eye lens]Woah!  Everything looks all big and warped!  Other than that, this was entirely pointless.
+1266)  GUYBRUSH
+Nope, no secret writing on that!
+1267)  GUYBRUSH
+I don't need to see that all warped and enlarged in manatee-vision.
+1268)  GUYBRUSH
+Mind if I sail on through here without you shooting me?
+1269)  GUYBRUSH
+Looks like that ship's adequately distracted!
+1270)  GUYBRUSH
+I can't sneak by this ship until that guy up there has his cannons pointed somewhere else.
+1271)  GUYBRUSH
+I don't want to use my bucket on that.
+1272)  TRENCHFOOT
+I figure as long as we are dead anyway, we may as well dig up the golden artifact and run! {Stern} Of course, now we can't find the blasted thing!
+1273)  GUYBRUSH
+I'm back!  {Sarcastic} Find that treasure yet?
+1274)  TRENCHFOOT
+{Stern} Oh, we will, don't you worry your little pirate head about it!
+1275)  TRENCHFOOT
+{Confused}[trying to remember]Hmmm...
+1280)  HARDTACK
+{Confused}[trying to remember]Hmmm...
+1276)  TRENCHFOOT
+{Confused}[trying to remember]Let's see...
+1277)  TRENCHFOOT
+{Confused}[trying to remember]Was it over there?
+1278)  TRENCHFOOT
+{Confused}[trying to remember]Was it six paces or five?
+1279)  TRENCHFOOT
+{Confused}[trying to remember]I know it's here somewhere...
+1281)  HARDTACK
+{Confused}[trying to remember]Where did we put it?
+1282)  HARDTACK
+{Confused}[trying to remember]It was next to.... something...
+1283)  HARDTACK
+{Confused}[trying to remember]*sigh*
+1284)  HARDTACK
+{Confused}[trying to remember]Maybe.... nahh...
+1285)  GUYBRUSH
+Oo, bendy.
+1286)  TRENCHFOOT
+{Stern} Hey!  Don't be sneakin' around trying to get our treasure!
+1287)  GUYBRUSH
+It's just a rock.
+1288)  GUYBRUSH
+Big rock!
+1289)  HARDTACK
+{Suspicious}...I've got my eye on you...
+1290)  GUYBRUSH
+Junky.
+1291)  GUYBRUSH
+I'm not touching it, it looks slimy.
+1292)  GUYBRUSH
+Yep, it's stuff.
+1293)  TRENCHFOOT
+{Stern} Hey, get away from there!
+1294)  TRENCHFOOT
+{Stern} Don't touch that!
+1295)  TRENCHFOOT
+{Stern} Do ya mind?  We're trying to do some pirating here!
+1296)  HARDTACK
+{Stern} Hey, no digging!
+1297)  HARDTACK
+{Stern} I don't like the way yer snooping around...
+1298)  HARDTACK
+{Stern} What are ya doing over there?
+1299)  GUYBRUSH
+Gruesome.
+1300)  GUYBRUSH
+Murray?
+1301)  GUYBRUSH
+{Stern} Ennngghh!!
+1302)  GUYBRUSH
+{Worried} Well, that's not gonna work.
+1303)  
+Still looking for his wife, our hero Guybrush Threepwood was suddenly accosted by the notorious pirate hunter, Morgan LeFlay.  Before he could even get in a good insult, she chopped off his hand, and now threatens to chop off even more.
+1304)  GUYBRUSH
+Hi!
+1305)  TRENCHFOOT
+{Angry}[annoyed]Oh boy.
+1306)  
+Guybrush arrived at Spinner Cay looking for his wife, Elaine, and La Esponja Grande, a powerful voodoo-cleansing relic.
+1307)  
+He discovered McGillicutty's men trying to bury the Golden Seahorse, but cleverly found a way to locate the chest and dig it back up.
+1308)  
+Although he had to fall off a cliff to do it, Guybrush managed to pry up the Golden Turtle with the help of a suspiciously nice LeChuck.
+1309)  
+After a trip to the abandoned home of Coronado DeCava, Guybrush found just the right bait and successfully snared the Golden Fish.
+1310)  
+Demanding the sponge for himself, Captain McGillicutty kidnapped the leader of the Merfolk and began a siege of the city.
+1311)  
+Elaine told Guybrush that she would distract one side of the blockade, but Guybrush would have to work with LeChuck to distract the other side and sail through to McGillicutty's ship.
+1312)  
+After getting through the blockade, Guybrush confronted McGillicutty on the high seas.  It became apparent that McGillicutty wouldn't be going down without a fight...
+1313)  
+With the Merleader rescued, the three summoning artifacts were finally used to summon the legendary sea creatures.  Guybrush's next stop, La Esponja Grande.
+1314)  TRENCHFOOT
+{Stern} [dejectedly]Rock.  We found rock.
+1315)  TRENCHFOOT
+{Sad} We found a rock.
+1316)  HARDTACK
+{Enthused} No, we found a petrified potato!
+1317)  HARDTACK
+{Enthused} Well, I'm keeping it!
+1318)  GUYBRUSH
+I think I see a bit of the chest poking out by the tree.
+1319)  GUYBRUSH
+{Happy} That makes it the ideal place to bury a treasure.  {Sarcastic} If you were a smart pirate, that's exactly where you would have buried it!
+1320)  TRENCHFOOT
+{Angry} Gah!  There ain't nothin' here!
+1321)  TRENCHFOOT
+{Stern} Hey, what'd you do that for? Yer messin up our hole!
+1322)  GUYBRUSH
+{Confused} Sorry.
+1323)  HARDTACK
+[whistful]{Happy} *Sigh* I always wanted to be a lumberjack...
+1324)  GUYBRUSH
+Well, I'm out of ideas, guys.  Good luck with the treasure!
+1325)  GUYBRUSH
+There is probably a better way to this manatee's stomach.
+1326)  GUYBRUSH
+{Default} So you got on my ship while it was moving?  {Cocky} What are you, some sort of pirate ninja?
+1327)  MORGAN
+{Dismissive} I hooked on to your railing and climbed aboard.  {Sarcastic} Surely a mighty pirate such as yourself must have expected as much.  {Fierce} Now, quit with the yappin' and fight me!
+1328)  GUYBRUSH
+Let's get McGillicutty!
+1329)  WINSLOW
+I'll try Captain, but with our mast still broken we'll never catch up to him!
+1330)  GUYBRUSH
+[while swordfighting] {Confused} Why would Winslow keep the barrel tied down up there?  {cocky} If you love something, set it free!
+1331)  GUYBRUSH
+[while swordfighting]I've seen seesaws that were better secured than this plank.
+1332)  GUYBRUSH
+[shouting between ships/ continuing the list]You must give it to me!
+1333)  MCGILLICUTTY
+Nice try , boy.
+1334)  GUYBRUSH
+[shouting across ships] {Incredulous} Oh, I don't intend on losing this time, kelp sucker!  Give me your best shot!
+1335)  MCGILLICUTTY
+Shut up!  SHUT UP! [going under water] SHUT Uuubbp  pbb bpb!!!
+1336)  GUYBRUSH
+{Sarcastic} As funny as it would be, I'd hate for someone to trip on this coconut and get hurt. {Default} I should probably get rid of it.
+1337)  GUYBRUSH
+{Whiney} On second thought, maybe I'll just leave it there.
+1338)  GUYBRUSH
+You know, someone should invent a device that makes noise whenever you get close to treasure.  I bet DeSinge could make one, but I don't want any "treasure" that he would look for.
+1339)  GUYBRUSH
+{happy}Want some?
+1340)  MERLEADER
+{proud}Yes, thank you.
+1341)  MERLEADER
+*Slurp*   Ahhhh!
+1342)  GUYBRUSH
+{disgust}*Shudder*{default}
+1343)  MERLEADER
+{thinking}No thank you, It's not mating season.{proud}
+1344)  GUYBRUSH
+{cocky}I'd better follow Elaine's advice and keep it to myself.{default}
+1345)  GUYBRUSH
+I don't think that counts as a "Participating location"
+1346)  ANEMONE
+{happy}Great!  hang on to that and give it to me down by the raft!
+1347)  GUYBRUSH
+{proud}101 fish jokes!
+1348)  GUYBRUSH
+[shudder]I can't believe that the Voodoo Lady and DeCava dated.  Even just carrying around her locket makes me feel like I need a long shower.
+1349)  GUYBRUSH
+{surprised}Don't worry.  I'll make sure to go to the bathroom {cocky}BEFORE we start the long trip home this time.
+1350)  GUYBRUSH
+{surprised}[hushed] Why?  Does someone have a cannon to your head? {stern}Blink twice if the answer is "yes."
+1351)  GUYBRUSH
+That's the wedding ring I gave Elaine. The..uhh... uncursed one.
+1352)  GUYBRUSH
+{confused}Can I get some bait?{default}
+1353)  ANEMONE
+{happy}Sure, but not down here. {thinking}Those coupons are only good at the bait shop upstairs.
+1354)  GUYBRUSH
+No way am I doing ANYTHING with this ring!  Elaine would kill me if anything happened to it!
+1355)  GUYBRUSH
+{cocky}I'm not returning this book until I've memorized every last fish joke!{default}
+1356)  GUYBRUSH
+{cocky}All the statues match now.  {suspicious}I don't want to ruin the aesthetics.{default}
+1357)  GUYBRUSH
+{incredulous}It's a hot tub, not a sauna.{default}
+1358)  ELAINE
+{stern}Eerrrnnn...
+1359)  ELAINE
+{angry}Eerrff!!
+1360)  ELAINE
+{stern}Geerrff...
+1361)  ELAINE
+{exasperated}*sigh*
+1362)  ELAINE
+{serious}[relieved that Guybrush is here!] Guybrush, put that thing away and help lift this statue off of me!
+1363)  GUYBRUSH
+{cocky}Prepare to set sail, Mr. Winslow!{default}
+1364)  GUYBRUSH
+{confused}With the mast cracked, I'm not taking any chances sliding across that thing again.{default}
+1365)  GUYBRUSH
+[while swordfighting] I'm a little too busy for that right now.
+1366)  GUYBRUSH
+[while swordfighting] The hook is great for grabbing things, not so great in a sword fight!
+1367)  GUYBRUSH
+{Confused} Can't we talk this out instead?
+1368)  MORGAN
+{Fierce} Nope!
+1369)  GUYBRUSH
+{Whiny} Shoot. {Default} I thought that'd work.
+1370)  LECHUCK
+{seriousThinking}[thinking to himself]If I take this claw thingy, and attach it to a clam... then all I'd need to do is procure a horse....
+1371)  LECHUCK
+{seriousThinking}[thinking to himself]hmm, if I take this thing and combine it with this doohickey... it almost looks like a cow.  {confused}Do I need a cow?
+1372)  LECHUCK
+{seriousThinking}[thinking to himself]maybe I need to rethink this...
+1373)  LECHUCK
+{seriousThinking}[thinking to himself]...if only there were a jeweler around here...
+1374)  LECHUCK
+{seriousThinking}[thinking to himself]... but where am I going to find a duck wearing burlap chaps...
+1375)  LECHUCK
+{whiney}[thinking to himself]...this would be much easier if I had a cast iron skillet...
+1376)  LECHUCK
+{embarrassed}Pardon me Guybrush, {confused}but do you know how to copy keys?
+1377)  GUYBRUSH
+How did LeChuck find all of the cool stuff?  I'd better see if I can find anything else lying around before he finds them first.
+1378)  GUYBRUSH
+{surprised}[shouting up to his ship/paniced]Winslow, wait!  {stern}I have to get Elaine! I'll be right back.{default}
+1379)  WINSLOW
+{surprised}[shouting down from the ship]No time sir!  {concerned}You'll have to find a way to slip past the blockade!  {stern}I'll be waiting to pick you up!
+1380)  ELAINE
+[shouting in the distance/trapped under a statue] Is someone there?{concerned}  I need some help!
+1381)  WINSLOW
+[from the ships's wheel] {Enthused} Good to see you again Captain Threepwood!  I knew you'd find a way past the blockade!  Surely you have a wondrous story to share about the ordeal!
+1382)  GUYBRUSH
+{Proud}  Good to see you too, Mr. Winslow, but there's no time for stories now!  We've got to take down McGillicutty and save the MerLeader!
+1383)  WINSLOW
+Fantastic sir!  Just point out his location on the map and we'll be on our way!
+1384)  HARDTACK
+{Sarcastic} Excuse me, what do you think you're doing?
+1385)  GUYBRUSH
+{Worried} I... uh...
+1386)  HARDTACK
+Look, I'm under strict orders to shoot on sight anyone that comes through here, and that includes pirates like yourself!
+1387)  GUYBRUSH
+Then why haven't you shot me?
+1388)  HARDTACK
+Why haven't I shot you?  What kind of question is that?  When someone says they are going to shoot you if you don't leave, its generally a good idea to turn around and scram, not hang around and start a conversation about action versus intention!
+1389)  GUYBRUSH
+{Cocky} Maybe...
+1390)  HARDTACK
+{Angry} Ain't no maybe about it, matey!  I may just be a lowly potato peeling pirate, but at least I have enough sense to run when the guy pointing a cannon at my mug gives me the opportunity!
+1391)  HARDTACK
+NOW BEAT IT!
+1392)  GUYBRUSH
+Ah ha!  There you are, little parrot!  I'll have ya dug up in a second!
+1393)  GUYBRUSH
+{Cocky} That'll teach you to mess with Guybru- [realizing/panic] {Scared} Oh no!  The Mer-Leader!!
+1394)  MERLEADER
+[shouting across ships] {Proud} Nicely done, Guybrush!  Once underwater, I was easily able to escape! The Vacaylians are in your debt.  Now, lets's go home!
+1395)  ANEMONE
+{frightened}I'm headed for higher ground!  I'll be at the shop if you need me!
+1396)  GUYBRUSH
+[straining]Ennngghh-ahh!
+1397)  MCGILLICUTTY
+{angry}Aye!  Turn it all the way up to a boil!
+1398)  ELAINE
+Let's just leave the heat alone, okay?
+1399)  HARDTACK
+{sarcastic}You know, I can see you reaching for our chest! {enthused} I'm staring right at it!
+1400)  GUYBRUSH
+{embarrassed}But it's empty.  Sorry, I'm just fascinated by your chest.
+1401)  HARDTACK
+{stern}I can still see you, ya know.
+1402)  MCGILLICUTTY
+{Angry} Listen here, fish breath, me and my men have been runnin' the sweet trade on these waters for decades.  We've suffered everything from scurvy to man eating shark attacks, but we ain't never seen anything like this...Pox!  It rots our flesh, melts our teeth, and makes our eyeballs bleed!  It's turned us into terrifyingly hideous monsters of the sea... {Cocky} and life has never been better!  Ha ha ha ha haarr!!
+1403)  GUYBRUSH
+[shouting across ships]  {Surprised} You can't be serious?!
+1404)  MORGAN
+[screaming for her life] Aaaaaahhhhhhhhhhhhh!!!!!
+1405)  WINSLOW
+[screaming for his life] Aaaaaahhhhhhhhhhhhh!!!!!
+1406)  TETRA
+{proud}It's about an old man who describes everything he sees, in detail, to a blind seagull while lost at sea!
+1407)  GUYBRUSH
+Oh, sounds... exciting.  {suspicious}I think I'll wait for the movie.
+1408)  GUYBRUSH
+{happy}Maybe some light-hearted fiction.
+1409)  GUYBRUSH
+{cocky}How about a trashy romance novel?
+1410)  TETRA
+{proud}I knew you would!  {happy}What can I get for you?
+1411)  TETRA
+{excited}Sure, what are you looking for?
+1412)  TETRA
+{excited}Of course!  {proud}Looking for anything in particular?
+1413)  GUYBRUSH
+{incredulous}How about something historical, {cocky}ripe with political intrigue!
+1414)  GUYBRUSH
+Yep!
+1415)  TETRA
+{disappointed}*sigh* Fine.
+1416)  GUYBRUSH
+{happy}That's perfect!  [snickering] Now just{embarrassed} hold that pose while I get my camera...
+1417)  LECHUCK
+{frustrated}[frustrated] *huff* Guybrush!  I thought you we're going to help me!
+1418)  GUYBRUSH
+[amused] Ok, ok.  Sorry.
+1419)  GUYBRUSH
+{incredulous}...breath mints...
+1420)  GUYBRUSH
+{incredulous}...breath mints.
+1421)  LECHUCK
+{seriousThinking}A refreshing blend of thirty mint flavors, for the pirate who "forgot" his toothbrush.
+1422)  LECHUCK
+{frustrated}Is this helping?
+1423)  GUYBRUSH
+{incredulous}Yes, trust me, it's helping!
+1424)  LECHUCK
+{worried}I don't see how making it minty can help.
+1425)  GUYBRUSH
+{embarrassed}You're right. {Proud} See, now you're learning.
+1426)  LECHUCK
+{frustrated}Okay,  I got it all minty,{confused} now what?
+1427)  GUYBRUSH
+{embarrassed}[snickering] Nothing.  I just wanted to see if you'd actually do it!
+1428)  LECHUCK
+{frustrated}[annoyed] *Huff*
+1429)  LECHUCK
+{awe}Wow, these mints really work! {excited}  It's breath is amazing!
+1430)  LECHUCK
+{concerned}Offering it breath mints doesn't seem to make it open.
+1431)  GUYBRUSH
+{incredulous}[snickering] It was worth a shot.
+1432)  GUYBRUSH
+{confused}Maybe we should try a different approach.
+1433)  GUYBRUSH
+{suspicious}[alt] I had an aunt who looked a lot like that.{default}
+1434)  GUYBRUSH
+{Sarcastic} Did you find the treasure?
+1435)  TRENCHFOOT
+{worried}Yeah... I think so... {angry}aw, now you got me paranoid!
+1436)  TRENCHFOOT
+{stern}Cause it's bad luck to move treasure without bringing it back to where you started!  And we certainly don't need no more bad luck!
+1437)  GUYBRUSH
+I'd like to contribute to the treasure pile!
+1438)  TRENCHFOOT
+{stern}This ain't no community pot luck, pal!  Get lost!
+1439)  TRENCHFOOT
+{stern}NO!
+1440)  GUYBRUSH
+You could try guessing a number.  Whoever answers right gets to bury it!
+1441)  TRENCHFOOT
+{stern}That sounds reasonable. {enthused} I'll start, pick what number I'm thinking of...
+1442)  HARDTACK
+{stern}27?
+1443)  TRENCHFOOT
+{cocky}Nope.
+1495)  TRENCHFOOT
+{cocky}Nope.
+1444)  HARDTACK
+{default}Ok, now you pick a number.
+1445)  TRENCHFOOT
+{enthused}42!
+1446)  HARDTACK
+{cocky}Wrong!
+1447)  TRENCHFOOT
+{suspicious}Wait a minute, how do I know you ain't lying?
+1448)  HARDTACK
+{stern}Me?!  What about you?
+1449)  TRENCHFOOT
+{stern}Okay, this ain't gonna work.  Forget it!
+1450)  GUYBRUSH
+{confused}How about a staring contest?  {default}First one to blink loses!
+1451)  HARDTACK
+{enthused}Hey, I like that idea.
+1452)  TRENCHFOOT
+{enthused}Yeah, it's so simple!
+1453)  GUYBRUSH
+{confused}Maybe there is a fair way for you two to determine who gets to bury the artifact.
+1454)  HARDTACK
+{suspicious}Yeah, maybe.
+1455)  TRENCHFOOT
+{suspicious}Oh yeah, well what do you suggest?
+1456)  GUYBRUSH
+{embarrassed}Maybe you guys should try cooperating again?
+1457)  TRENCHFOOT
+{stern}Fine, got any more bright ideas?
+1458)  GUYBRUSH
+{confused}How about a breath holding contest?   {default}First one to breathe for air loses.
+1459)  TRENCHFOOT
+{suspicious}I like where you're going with that, but no.  {worried}With me asthma it wouldn't be a fair contest!
+1460)  HARDTACK
+{happy}Then I win by default!
+1461)  TRENCHFOOT
+{stern}No, cause I still have the sea horse, that makes you a loser by default!
+1462)  GUYBRUSH
+{confused}Why don't you do it together?
+1463)  HARDTACK
+{confused}What do you mean?
+1613)  TRENCHFOOT
+{confused}What do you mean?
+1464)  GUYBRUSH
+{suspicious}You know, both of you hold one end of the artifact and place it in the chest together.  Then you can BOTH set out together and BOTH dig and burry the treasure!
+1465)  TRENCHFOOT
+{Stern}No!  We ain't doin' this all sweetheart like!  What, would you have us hold hands and skipalong the beach too?
+1466)  HARDTACK
+{sarcastic}Yeah, I ain't holding his hand!  I've seen where it's been!
+1467)  TRENCHFOOT
+{stern}Ain't gonna happen.  I'll just do this myself!
+1468)  GUYBRUSH
+{suspicious}I think that staring contest was working, you should try again.
+1469)  TRENCHFOOT
+{enthused}Yeah, good idea!
+1470)  GUYBRUSH
+{worried}You look like your eyes are gonna dry out.  Maybe you should stop.
+1471)  TRENCHFOOT
+{worried}Yeah, yeah, maybe we should.  Not that I was gonna blink or anything...
+1472)  HARDTACK
+{worried}Right, it's just, you know, medically unsafe.  Probably.
+1473)  GUYBRUSH
+{worried}Maybe this isn't such a good idea.
+1474)  TRENCHFOOT
+{worried}Yeah, I'm sure it ain't good for the eyes.
+1475)  GUYBRUSH
+BOO!
+1476)  TRENCHFOOT
+{stern}What'd you do that for?!  I was winning!
+1477)  HARDTACK
+{Stern}No you weren't.  You were just about to blink!
+1478)  GUYBRUSH
+{embarrassed}Sorry guys, I couldn't resist.
+1479)  TRENCHFOOT
+{stern}Bah, this is pointless!
+1480)  TRENCHFOOT
+{surprised}Gahh!  {angry}Quit doin' that!
+1481)  TRENCHFOOT
+{stern}Yeah, I long for that too!
+1482)  GUYBRUSH
+{confused}What are you guys arguing about?
+1483)  HARDTACK
+{worried}Oh, Captain McGillicutty ordered us to hide the Summoning Artifact we found far away from the Jerkbait Islands until he's able to secure the rest of them.  {stern}Only HE won't give me the artifact back!
+1484)  TRENCHFOOT
+{angry}[annoyed] Hey, shut yer trap, I'm working here.
+1485)  HARDTACK
+{worried}Look, I'm sorry Murkel, but McGillicutty clearly gave the idol to me.  It is my duty, so I want to make sure this gets done right. {stern} I wan't to be the one who decided where to bury it!
+1486)  TRENCHFOOT
+{sarcastic}Sorry Killick, but if it meant that much to you, {suspicious}you shouldn't have left it sitting out in the open while you took a nap!
+1487)  HARDTACK
+{sarcastic}And by "out in the open" you mean placed in a small box, wrapped in wool and stuffed down my pants?
+1488)  TRENCHFOOT
+{worried}Well if ya didn' want pirates rummaging through yer trousers while you were sleeping, you should have said so!  {stern}I have it now, I'll decide where to bury it!
+1489)  GUYBRUSH
+{confused}What are you guys arguing about again?
+1490)  HARDTACK
+{Stern}Murkel wont give me the artifact so I can decide where to bury it.
+1491)  GUYBRUSH
+{incredulous}Murkel, is this true?
+1492)  TRENCHFOOT
+{stern}Of course it is, now buzz off!
+1493)  GUYBRUSH
+{happy}Hey guys, I'm back!
+1494)  TRENCHFOOT
+{sarcastic}[flat/sarcastic]Oh goody.
+1496)  HARDTACK
+{worried}But McGillicutty gave it to me!  I get to be the one who picks where to hide it!
+1497)  TRENCHFOOT
+Sorry, I have it now.
+1498)  HARDTACK
+Will you at least look at me so we can work this out?
+1500)  TRENCHFOOT
+{angry}Shut up.
+1501)  TRENCHFOOT
+{stern}Nope.
+1502)  TRENCHFOOT
+{angry}Quiet, I'm thinkin!
+1503)  TRENCHFOOT
+{stern}No.
+1504)  TRENCHFOOT
+{angry}I said no.
+1505)  TRENCHFOOT
+{Stern}I'm not giving it to you.
+1506)  HARDTACK
+{stern}Come on, let me have it!
+1507)  HARDTACK
+{stern}Give it back!
+1508)  HARDTACK
+{stern}Let me have that sea horse!
+1509)  HARDTACK
+{worried}Come on!
+1510)  HARDTACK
+{Stern}I'm not gonna ask again!
+1511)  HARDTACK
+{worried}Murkel!
+1512)  HARDTACK
+{Stern}I want that golden artifact!
+1513)  HARDTACK
+{angry}Give me back the artifact!
+1514)  GUYBRUSH
+According to Elaine's plan, I still need someone to distract the blockade from the Spoon Isle beach.
+1515)  WINSLOW
+{Angry} Blast and bother!
+1516)  WINSLOW
+{Sarcastic} You know sir, I don't mind handling the bill for replacing the mast over and over again, I really don't.  But I feel it would be more... productive if we could stop the mast from breaking in the first place.  Just my two pieces of eight sir.
+1517)  GUYBRUSH
+[slightly sarcastic] {Incredulous} Yes, thank you Winslow.  Duly noted.  *sigh* I'll get the map.
+1518)  GUYBRUSH
+No, no, no!
+1519)  WINSLOW
+It's a matter of "give" sir.  Something that rigid simply cannot withstand an impact of that force.  We need some more flexibility if we are really going to give him what-for.  But cheer up sir! At least we get to see that lovely Anemone person again!
+1520)  GUYBRUSH
+*sigh*
+1521)  GUYBRUSH
+{embarrassed}I don't suppose you have any {confused}sturdier masts lying around, do you?
+1522)  ANEMONE
+{flirty}Sorry Sunshine, I've just got the trees on the beach. {sarcastic}Where else would I get free trees that make a good mast?
+1523)  GUYBRUSH
+I still don't get why someone would hide a blank piece of paper in a manatee toy.  [over dramatic]What does the manatee know that I don't?!
+1524)  GUYBRUSH
+[excited]Hey, now I can see an extreme close-up of a blank piece of paper! That's... not as useful as I had hoped.
+1525)  GUYBRUSH
+I'm going to need better eyes to read this fine print.
+1526)  GUYBRUSH
+{cocky}I really want to turn the heat up on that hot tub.  {happy}It's just not a good soak until it feels like your arms are going to melt off.{default}
+1527)  GUYBRUSH
+{confused}No way am I going to try carrying those in my bare hands...{suspicious}  again.{default}
+1528)  GUYBRUSH
+{incredulous}Never mind.  {suspicious}Give my best to McGillicutty and be sure not to look at his left pinky!
+1529)  HARDTACK
+{surprised}Oh boy, he's right!  {scared}I don't care who buries it, let's just go!
+1530)  TRENCHFOOT
+Come on!  keep up!
+1531)  GUYBRUSH
+Bon voyage!
+1532)  TRENCHFOOT
+{confused}Did you say something?
+1533)  GUYBRUSH
+{surprised}Not me.  Maybe it was Captain McGillicutty!
+1534)  HARDTACK
+{Scared}Neptune's beard!  If he sees that we haven't buried this chest yet he might just burry US instead!  {Stern}Come on, we need to go NOW!
+1535)  TRENCHFOOT
+{scared}[nervous] Yeah, that might be a good idea!
+1536)  TRENCHFOOT
+{default}Well, that's that!
+1537)  HARDTACK
+{default}Done and buried!
+1538)  GUYBRUSH
+{confused}Hmmm, maybe I'll just cook up a little bit...
+1539)  GUYBRUSH
+{surprised}Wow!  That's a HOT grill!
+1540)  GUYBRUSH
+Mmmmm.... grilled parrot!  Too bad this thing isn't hot!
+1541)  GUYBRUSH
+I don't want to throw it off the edge of a cliff!
+1542)  GUYBRUSH
+Well, I kinda do, but I won't.
+1543)  GUYBRUSH
+[alt]Geronimo!!
+1544)  GUYBRUSH
+{confused}I don't want to cook that!
+1545)  GUYBRUSH
+That won't do anything.  It's not even on.
+1546)  GUYBRUSH
+Nah, that's the same way I broke the toaster.
+1547)  
+Close Inventory
+1548)  
+Combine Items
+1549)  
+Examine Mode Off
+1550)  
+Examine Mode On
+1551)  
+No Inventory Selected
+1552)  BILL
+{Stern}The cap'n'll want to know about this!
+1553)  GUYBRUSH
+{suspicious}[sarcastic] How reassuring.  I completely trust you now.
+1554)  LECHUCK
+{happy}Great!  We'll put the past in the past and agree to work together for a change.
+1555)  GUYBRUSH
+{angry}[angry]LeChuck! I was right! I knew I couldn't trust him!
+1556)  TRENCHFOOT
+{stern}Hey!  What are you doing, trying to loot our treasure chest?
+1557)  GUYBRUSH
+{suspicious}Of course not! It's hard to loot a chest full of nothing.
+1558)  TRENCHFOOT
+{angry}You just keep your hands off my chest.
+1559)  GUYBRUSH
+Not a problem.  In fact, I can guarantee I won't be touching a single part of your body!
+1560)  TRENCHFOOT
+{stern}Hey!
+1561)  GUYBRUSH
+{Embarrassed}[caught doing something, quickly retreating] Sorry, sorry.
+1562)  GUYBRUSH
+{stern}No how, no way am I letting LeChuck get his greasy fingers on the genuine artifact again!
+1563)  GUYBRUSH
+{cocky}Hey, ya filthy sea scum!  Look what I've got!
+1564)  TED
+{stern}That one ain't even real!
+1565)  BILL
+{stern}Yeah, we saw THIS guy get the artifact! And we ain't leavin' until we take it from him!
+1566)  GUYBRUSH
+{cocky}Tell ya what, if you act now I'll throw in a second magical golden artifact absolutely free!
+1567)  BILL
+Forget it!  Then I'll get roped into buying a new artifact every month{worried} and I ain't falling into that financial trap again!
+1568)  GUYBRUSH
+{Stern}They think it's a fake.  {default}They aren't gonna take it unless they get it from LeChuck.
+1569)  GUYBRUSH
+{happy}Hey Look!  Over here!  A completely REAL golden sea turtle artifact!
+1570)  BILL
+{Stern}That's impossible!  I saw THIS guy take the artifact, and we ain't goin' nowhere 'til he hands it over {happy}or we take it from him!
+1571)  GUYBRUSH
+{worried}Man, these guys are a tough sell!  {suspicious}I'm glad I went into pirating instead of becoming a {incredulous} traveling salesman like my guidance counselor suggested!
+1572)  GUYBRUSH
+{stern}Back off, or I'll hook ya to death!
+1573)  BILL
+{happy}[laughing]  With that?  It looks like a lady's grapple!
+1574)  BILL
+{happy}[laughing] Ha ha ha ha!
+1575)  TED
+{happy}[laughing] Ha ha ha ha!
+1576)  BILL
+{happy}[alt/take-laughing] Ha ha ha ha!
+1577)  TED
+{happy}[alt/take-laughing] Ha ha ha ha!
+1578)  GUYBRUSH
+{embarassed}[embarassed] No it's not.  Men wear these.
+1579)  GUYBRUSH
+{incredulous}I don't think that singing their arm hair with these small coals is going to deter them much.
+1580)  GUYBRUSH
+{cocky}Ah ha! Look!  It's a golden summing artifact!
+1581)  BILL
+{suspicious}[flatly] That's a gold parrot.
+1582)  GUYBRUSH
+Wrong!  It's a Pyrite Parrot!  It only looks gold... fool!
+1583)  GUYBRUSH
+{whiney}[to the parrot]Why must you ruin everything.`
+1584)  GUYBRUSH
+{whiney}Can you guys please go away.  {worried}I need to distract a blockade and this guy needs to help.
+1585)  BILL
+{stern}Shove off, pipsqueak!
+1586)  GUYBRUSH
+I guess these guys really want to fight LeChuck for that artifact!
+1587)  LECHUCK
+Guybrush, please stop.  I'm trying to figure this thing out.
+1588)  GUYBRUSH
+{worried}But all you have to do is-
+1589)  LECHUCK
+{seriousThinking}[interupting] No, no, no.  I can figure it out on my own.
+1590)  GUYBRUSH
+{incredulous}That's exactly what I'm afraid of.  But thank you.
+1591)  LECHUCK
+[while fighting]You'll never!
+1592)  LECHUCK
+I'll take you all on!
+1593)  LECHUCK
+{disappointed}[stunned]I don't know what happened. I used to be able to take on armies without blinking an eye. {exasperated} Now, a hand full of pox stricken pirates can wrestle away the artifact?
+1594)  GUYBRUSH
+{cocky}Ah, don't beat yourself up, LeChuck. [under his breath]{suspicious} These guys did a good enough job. [normal voice] {proud}Besides, that turtle artifact they took was a fake.  I still have the real one nice and safe.
+1595)  GUYBRUSH
+{cocky}No problem, all we need is another--
+1596)  LECHUCK
+{pleading}Maybe just a little...
+1597)  LECHUCK
+{excited}Right!  {confused}So I should look at...?
+1598)  LECHUCK
+{seriousthinking}I'm looking at...?
+1599)  LECHUCK
+{seriousTHinking}Yes.  It's a big white pearl.
+1600)  GUYBRUSH
+{proud}Yep, and where have you seen something like this before?
+1601)  LECHUCK
+{humble}[remembering fondly] In the ornate bed chambers of a particularly buxom wench I once visited off the coast of -
+1602)  GUYBRUSH
+{worried}[interrupting] Ahh- no.  More recently.
+1603)  LECHUCK
+{seriousthinking}Hmmm... maybe... {shocked}that thing you brought out earlier...{awe} the bottom of it...
+1604)  GUYBRUSH
+{incredulous}[encouraging] ...come on, almost there...
+1605)  LECHUCK
+{frustrated}[frustrated] Ah, forget it!  This is pointless.
+1606)  GUYBRUSH
+{worried}[frustrated sigh] *sigh*
+1607)  LECHUCK
+{seriousthinking}I've seen one of these recently somewhere... {frustrated}I think on something you have, Guybrush.
+1608)  GUYBRUSH
+{stern}...Jerk.
+1609)  LECHUCK
+{seriousTHinking}It's like that claw-thing you have, but without the big round white part.
+1610)  TRENCHFOOT
+{confused}Hey, what's this?
+1611)  GUYBRUSH
+{embarrassed}Oh that's where that went!
+1612)  GUYBRUSH
+{suspicious}You know, I hear that 9 times out of 10, the first place you burry a treasure is the spot where it'll most likely be found.
+1614)  GUYBRUSH
+{proud}Well, if you picked out that spot so easily, other pirates will probably pick that spot to go digging for treasure too,
+1615)  TRENCHFOOT
+{stern}He right!  We need to bring the treasure back and think of somewhere else to hide it!
+1616)  TRENCHFOOT
+{happy}Good thinkin' Hooky!
+1617)  TRENCHFOOT
+{stern}Too late!  I still have the artifact!
+1618)  TRENCHFOOT
+{worried}Oh, you know about that too?!
+1619)  GUYBRUSH
+{happy}See you later. {suspicious} Count a few grains of sand for me while I'm gone.
+1620)  GUYBRUSH
+{cocky}Hi, I'm Guybrush Threepwood and... [realizing mid sentance that somecalled him pudgy]{disgust}pudgy?
+1621)  TETRA
+{happy}Have you come to our library to read up on the {proud}rich cultural history of the Vacaylian race?
+1622)  ANEMONE
+{flirty}Sure, how would you like to pay for it?
+1623)  GUYBRUSH
+{cocky}I'll trade you a pyrite parrot.
+1624)  ANEMONE
+{proud}Sorry, we don't take those.
+1625)  GUYBRUSH
+{suspicious}Oh.
+1626)  ANEMONE
+We also don't accept personal checks, traveler's checks, credit, barter, foreign currency or local currency.
+1627)  GUYBRUSH
+You don't even take local currency?  {confused}What DO you accept?
+1628)  ANEMONE
+{happy}Coupons.
+1629)  GUYBRUSH
+{confused}About those coupons...
+1630)  ANEMONE
+{proud}Ah, do you have one?
+1631)  GUYBRUSH
+{confused}Do you know where I can get my mast repaired?
+1632)  ANEMONE
+{happy}I sure do, there is a shop right inside our town.  {thinking}Just follow the cave path and it'll take you right there!
+1633)  PARROT
+[muffled as if underground] *Squawk* It's me, Guybrush Threepwood, Mighty Pirate!
+1634)  GUYBRUSH
+{Surprised} Hey, I just snuck past you guys!  {Confused} How'd you get here so fast?
+1635)  HARDTACK
+{Cocky} It amazing how fast you can jump in a row boat and flee when your boss is gonna come looking to rip yer guts out for botching the job!
+1636)  GUYBRUSH
+Try the tree again?
+1637)  TRENCHFOOT
+{Stern} Nah, those roots are too thick.  There ain't no treasure chest down there.
+1638)  GUYBRUSH
+Maybe I should go talk to LeChuck.
+1639)  GUYBRUSH
+I need to find a way to free LeChuck from those artifact hungry pirates!
+1640)  HARDTACK
+{Default} Nah.  Sorry, mate. You come through here and I'll have to replace you head with a cannon ball.
+1641)  HARDTACK
+{Sarcastic} Yeah, sure, come on through!
+1642)  GUYBRUSH
+{Happy} Really?
+1643)  GUYBRUSH
+{Whiney} That's ugly.
+1644)  HARDTACK
+If it'll make you feel better, I can put a little eye shadow and lipstick on it first.
+1645)  GUYBRUSH
+{Default} No thanks, I'll just stay here for now.
+1646)  GUYBRUSH
+I don't think I can poke enough holes in the ship to sink it.
+1647)  GUYBRUSH
+{Cocky} How about a bribe?  Let me through and I'll give you some of my stuff!
+1648)  HARDTACK
+Ah, no.  There's nothing you have that I could still enjoy after Captain McGillicutty has torn my limbs from my body one by one.
+1649)  WINSLOW
+{happy}Ah, yes.  {sarcastic}Nice to see you are finally taking an interest in your nautical mistress, Captain.
+1650)  GUYBRUSH
+{confused}My what now?
+1651)  WINSLOW
+{stern}You must treat your ship as if it were your lover!  {surprised}Attend to her every need.  {cocky}Cater to her every whim.  {suspicious}And should something be amiss, like say, a large crack in her mast, {cocky}you must see to it that she immediately gets the attention she needs.
+1652)  GUYBRUSH
+{incredulous}You're talking about the Screaming Narwhal.
+1653)  WINSLOW
+{concerned}Your maiden ship is injured, Captain Threepwood.  {stern}She needs immediate attention.
+1654)  WINSLOW
+Embrace her, Captain!  {cocky}Let the Screaming Narwhal know how much you care!
+1655)  GUYBRUSH
+{stern}I'm not hugging the mast.
+1656)  WINSLOW
+{enthused}Ah, {cocky}in time you will come to love her as your second wife!
+1657)  GUYBRUSH
+{confused}Ummm... I don't think Elaine is into that.
+1658)  GUYBRUSH
+{surprised}[hastily interupting] Ah, {disgust}thank you Mr. Winslow.{default}
+1659)  WINSLOW
+{suspicious}[sly]You'll never know unless you ask.
+1660)  GUYBRUSH
+{disgust}[trying to get Wnslow to shut up] Thank you, Mr. Winslow!{default}
+1661)  LECHUCK
+{shocked}Guybrush?
+1662)  BILL
+{suspicious}Hmm...  That big guy has the artifact...  {stern}If I run up and take it from him, McGillicutty would probably {surprised}make me first in command!  Heck, {suspicious}he might even let me eat this week!
+1663)  BILL
+{worried}Then again, he is pretty big... {stern}I better gather some men.
+1664)  VOODOO
+{Happy} [chuckels softly/ominously to herself ]
+1665)  WINSLOW
+{Happy} I'll steer while you navigate!  I mounted the map outside your quarters for your convenience.
+1666)  GUYBRUSH
+{Surprised} Boy, you're fast!
+1667)  GUYBRUSH
+Looks like those bits of rope are securing that barrel in place.
+1668)  MORGAN
+{Dismissive} No.
+1669)  GUYBRUSH
+{Stern} Dang.
+1670)  WINSLOW
+[process: Behind a closed door]Is someone messing with my barrel?  I put that up there for a reason you know!
+1671)  GUYBRUSH
+See, that wasn't witty at all!
+1672)  GUYBRUSH
+{whiney}Yeah, but she never lets me do any looting or pillaging either.
+1673)  GUYBRUSH
+And you think the Marquis will pay you for bringing in my lifeless corpse?  Believe me, this dead body is totally worthless!
+1674)  MORGAN
+[terrified] Is that a...
+1675)  GUYBRUSH
+{Cocky} Can I offer you a bribe?
+1676)  HARDTACK
+Sure, just don't expect me to take it.
+1677)  GUYBRUSH
+{Incredulous} Wanna hear a great joke?
+1678)  HARDTACK
+{Suspicious} Long as it's not a fish joke, I hate those.
+1679)  GUYBRUSH
+{Default} Never mind, then.
+1680)  GUYBRUSH
+He's too far away.  Besides, hookings are really messy... and my hook is still so clean and shiny.
+1681)  GUYBRUSH
+These coals aren't really hot enough to do any damage to the ship.
+1682)  GUYBRUSH
+I suppose I could use this to pry the barnacles off the side of the ship, but I'm no cleaning boy!  Let them scrape off their own barnacles!
+1683)  GUYBRUSH
+I'm not giving these summoning items to ANYONE!  They're the key to getting to Esponja Grande!
+1684)  MCGILLICUTTY
+{Angry}Tell me the ritual summoning words or I'll plunge ya into the icy blue!
+1685)  MERLEADER
+{Serious} I will not let you summon the Legendary Sea Creatures.  You will not have Esponja Grande.
+1686)  MCGILLICUTTY
+{Evil} Fine!  Let's see how long it takes you to drown with your HEAD submerged in the sea!  Ha ha ha ha!
+1687)  MERLEADER
+It'll be a while.  I can breathe underwater too, you know.
+1688)  MCGILLICUTTY
+[angry/un able to reason]Don't tell me what I know, ya oversized anchovy!  I don't need to know stuff...I've got THE POX!
+1689)  MERLEADER
+[shouting across ships] {Serious} Don't worry about me.  The Captain has lost the ability to reason.  He thinks he's going to drown me...a MER-person.
+1690)  MCGILLICUTTY
+{Angry}I'll deal with you later, Stinkwood! {Cocky} I think old fin face here wants another dip in the drink! HA ha ha ha harr!
+1691)  MERLEADER
+[bored] {stern} Here we go again.
+1692)  MCGILLICUTTY
+{Angry} Tell me the ritual words or I'll you'll be sleeping with the fishes!
+1693)  MERLEADER
+{Stern} That's where I sleep anyway!
+1694)  MCGILLICUTTY
+{Angry} Tell me or I'll send ya to the bottom of the ocean!
+1695)  MERLEADER
+{Stern} Oh that'd be great, I need to pick up a few things for dinner.
+1696)  MCGILLICUTTY
+{Angry} What are those ritual summoning words!?
+1697)  MERLEADER
+{Stern} You'll never get me to tell!
+1698)  MCGILLICUTTY
+{Angry} If you don't tell me, I'll drown ya in the briny deep!
+1699)  MERLEADER
+{Stern} Perfect.  My gills were getting a little dry.
+1700)  MCGILLICUTTY
+{Angry} Arrrr!  Yer testin' me nerves, fish lips!
+1701)  MCGILLICUTTY
+{Angry} Quit yer squirmin and tell me!
+1702)  MCGILLICUTTY
+{Angry} I must find Esponja Grande!
+1703)  MERLEADER
+{Stern} This isn't going to work.
+1704)  MERLEADER
+{Stern} The Vacaylians will give you nothing!
+1705)  MERLEADER
+[shouting] {Stern} Guybrush, sink the ship!
+1706)  MCGILLICUTTY
+If I ever find the crewmen who let you through the blockade, I'm gonna maroon them on one of those deserted islands in the middle of the ocean!
+1707)  GUYBRUSH
+{Disgust} Okay, this clearly isn't going to work.
+1708)  GUYBRUSH
+That broke really easily. Maybe the wood Amembahme is using for repairs is too old and brittle.
+1709)  GUYBRUSH
+If McGillicutty keeps breaking my masts, Spoon Island's gonna run out of replacements!
+1710)  GUYBRUSH
+Maybe there's a better place to find mast replacement trees than Spoon Island.
+1711)  GUYBRUSH
+Nah, that'd make terrible ammo.  But I'll have to remember this idea for Skeet shooting later!
+1712)  GUYBRUSH
+I don't think I can do anything useful to the mast with this.
+1713)  GUYBRUSH
+Hmm, the mast LOOKS all warped and bendy now, but just looking that way isn't going to help.
+1714)  GUYBRUSH
+Maybe later I'll profess my love for Elaine through the art of initials carved in tree bark, but right now I had better deal with McGillicutty!
+1715)  GUYBRUSH
+You'll be sorry when I get my hook on you!
+1716)  MCGILLICUTTY
+Oh, is that a hook?  It's so small and dainty!  I thought it was your toothpick!
+1717)  GUYBRUSH
+[awkward]Yeah... well... then I'll poke it at your cavities!  That's really gonna hurt!
+1718)  GUYBRUSH
+[shouting across ships] {Worried} What should I do?
+1719)  MERLEADER
+[shouting across ships] {Stern} Find some way to sink his ship!  I'll be able to escape once I'm underwater!
+1720)  GUYBRUSH
+Mr. Winslow.
+1721)  WINSLOW
+Aye, Captain?
+1722)  GUYBRUSH
+Got any tactical suggestions for taking down McGillicutty?
+1723)  WINSLOW
+Well, the best solution would be if he sank his own vessel!
+1724)  GUYBRUSH
+You weren't a tactition on your pervious ship, were you?
+1725)  WINSLOW
+[proudly]No sir.
+1726)  GUYBRUSH
+What should we do about the mast?
+1755)  
+What should we do about the mast?
+1727)  WINSLOW
+It'll need repairs of course.  I'm thinking of going for a different color this time... what do you think of light oak?  ...Or anything other than drab palm, really.
+1728)  GUYBRUSH
+You think the MerLeader is okay?
+1756)  
+You think the MerLeader is okay?
+1729)  WINSLOW
+Seems fine, as long as McGillicutty thinks drowning is an effective torture, the MerLeader is perfectly safe.
+1730)  GUYBRUSH
+Keep up the good work!
+1758)  
+Keep up the good work!
+1731)  WINSLOW
+{happy}Welcome back, sir!{default}
+1732)  WINSLOW
+{cocky}Good to have ya back, Captain!{default}
+1733)  WINSLOW
+{cocky}Captain on deck!{default}
+1734)  ANEMONE
+{flirty}Hi sailor.
+1735)  ANEMONE
+{flirty}Look at those legs!{default}
+1736)  ANEMONE
+{flirty}Lookin' for a ride?{default}
+1737)  ANEMONE
+{proud}Fresh bait!{default}
+1738)  ANEMONE
+{proud}Ship repair!{default}
+1739)  ANEMONE
+{proud}Now accepting coupons only!{default}
+1740)  ANEMONE
+{proud}*gargling a tune*{default}
+1741)  
+Grandmothers house?
+1742)  
+To kill McGuillicutty!
+1743)  
+Out to sea.
+1744)  
+Cabo San Lucas?
+1745)  
+Are you a mer-man?
+1747)  
+Can I have a cookie?
+1748)  
+MAY I have a cookie?
+1749)  
+Cookie?
+1750)  
+What's the secret of Monkey Island?
+1751)  
+The pox is just making you cranky.
+1752)  
+You're mad!
+1753)  
+Please don't destroy La Esponja Grande!
+1754)  
+Got any tactical suggestions?
+1757)  
+Keep up the good work.
+1759)  GUYBRUSH
+{confused}I guess that's all I have to say.{default}
+1760)  
+But, I've got a new ship!
+1761)  
+Don't worry, I'll pee first.
+1762)  
+Does someone have a cannon to your head?
+1763)  
+No!
+1764)  
+...Fine.
+1765)  GUYBRUSH
+{Happy} Hey, neat!  It's a mounted singing manatee toy!
+1766)  GUYBRUSH
+It's a toy manatee with a funkey shaped lumpy hole in its belly.
+1767)  GUYBRUSH
+I still can't...quite...reach it!
+1768)  GUYBRUSH
+[while swordfighting] I'm not giving it back!  I found it, I'm keeping it!
+1769)  GUYBRUSH
+[while swordfighting] This thing is great for operating ancient machinery, but too flimsy for swordfighting!
+1770)  GUYBRUSH
+[while swordfighting] How about if I give you jewelry, will you go away?
+1771)  MORGAN
+[while swordfighting] {Confused} A bribe?  {Cocky} I know you better than that, Guybrush!
+1772)  GUYBRUSH
+[while swordfighting] {Confused} No you don't!  {Default} I'm a new man!  {Worried} Go on, take it!
+1773)  MORGAN
+[while swordfighting] {Fierce} Shut up and fight me!
+1774)  GUYBRUSH
+I don't think I can repair the mast with this.  I should leave it to the experts.
+1775)  
+Apply
+1776)  GUYBRUSH
+{cocky}There, now they won't singe everything in my pockets.{default}
+1777)  GUYBRUSH
+I think, for now, I'll put this back in the stone bowl it came out of.
+1778)  GUYBRUSH
+{stern}No dice. {confused} There must be some trick to opening it.
+1779)  GUYBRUSH
+I think it's a Vacaylian Barbecue.
+1780)  GUYBRUSH
+{scared}Ouch!  {stern}Even the controls are too hot to touch now!
+1781)  GUYBRUSH
+I used my weird Sea Horse key thingy on these locks back on Flotsam.{confused} I wonder if DeSinge had a spare made?
+1782)  GUYBRUSH
+A Fishing Well.
+1783)  GUYBRUSH
+{confused}Hmm... maybe I can mold this pyrite parrot into the shape of this Sea Turtle to fool the pirates!
+1784)  GUYBRUSH
+Ennnghhh...
+1785)  GUYBRUSH
+{stern}Nope.  This pyrite much too solid.
+1786)  GUYBRUSH
+{whiney}[alt] I'm not melting this Pyrite Sea Turtle! It's a work or art!  {happy}And if it doesn't fool the pirates, I can always wear it as a hat!
+1787)  WINSLOW
+[pickup1] Not with that blockade out there, Captain!  They'd sink us for sure!
+1788)  GUYBRUSH
+Maybe when I'm ready for some fishing, otherwise it'll just gross up my hook.
+1789)  GUYBRUSH
+[reading] No Fishing.
+1790)  GUYBRUSH
+{embarrassed}Oh, sorry.{default}
+1791)  GUYBRUSH
+{confused}I better not. I'm still afraid Anemonlly might see me.{default}
+1792)  GUYBRUSH
+{confused}I don't think I should bait my hook while in the MerPeople town. {suspicious}Somehow I don't think they'd be amused.{default}
+1793)  GUYBRUSH
+Just an empty bucket.
+1794)  GUYBRUSH
+I'm gonna need this to use the raft.  I better hold on to it.
+1795)  
+Roe Island
+1810)  
+Roe Island
+1796)  
+Spinner Cay
+2121)  
+Spinner Cay
+1797)  
+Isle of Ewe
+1808)  
+Isle of Ewe
+1798)  
+Flotsam Island
+1799)  
+Jerkbait Islands
+1800)  
+Rock of Gelato
+1801)  
+Brillig Island
+1807)  
+Brillig Island
+1802)  
+Spoon Isle
+2122)  
+Spoon Isle
+1803)  
+Boulder Beach
+1804)  
+Blockade
+1805)  
+Boulder Beach Island
+1806)  
+Finale
+1809)  
+Prologue
+1811)  ELAINE
+[WORRIED] {Worried} Guybrush! Thank goodness you're all right!  I've been worried sick about you! First the explosion, then that big cloud of voodoo pox you released from LeChuck started infecting pirates all over the Caribbean...
+1812)  ELAINE
+[SURPRISED] {Surprised}Oh my god!  Your hand!
+1813)  ELAINE
+[PLEADING]{Worried} Guybrush, don't leave me!
+1814)  ELAINE
+[PLEADING  (Then Serious)] {Pleading}Just take it! [serious]{Stern}Trust me!
+1815)  ELAINE
+[EVIL] {Evil}I said quit yer whimpering and grow some barnacles, for Black Beard's sake!  I'm makin' the plans here, fancy pants!
+1816)  ELAINE
+[SAD]{Sad}Guybrush, I'm not coming with you.
+1817)  ELAINE
+[Serious]{Serious}Guybrush, go get Esponja Grande.  You don't need me for that. [SUSPICIOUS] {Stern}Besides, I really think I should keep an eye on LeChuck.
+1818)  ELAINE
+[SUSPICIOUS]{Default} No, that-- hey,{Suspicious} how did you even know about that? Have you been spying on me?
+1819)  ELAINE
+[ CONCERNED] {Serious}Exactly!  {Worried}What happened to your hand?!  [ANGRY]{Angry} And where is your wedding ring?!!
+1820)  ELAINE
+[EXASPERATED?] {Exhasperated}Uh oh. I better get back there before they kill each other!
+1821)  ELAINE
+[EXASPERATED?]{Dismissive}Oh, not like that!  You know, he hasn't even tried to marry me once since then!
+1822)  ELAINE
+[SARCASTIC]{Sarcastic}I've seen you scratch your behind in the morning, you're very talented.
+1823)  ELAINE
+[embarrased] {Embarrassed}Not in fron't of company, dear.
+1824)  ELAINE
+[cutesy] {Cutesy}Pretty please with marshmallows?
+1825)  ELAINE
+[cutesy]So you'll be my personal pirate paladin and get those summoning items {Happy} while I stall these guys?
+1826)  
+Never mind.
+2145)  
+Never mind.
+2146)  GUYBRUSH
+Never mind.
+1827)  
+Well, I gotta go.
+1828)  GUYBRUSH
+[pickup1]Well, this is really between you and the fish people.  I hope you guys get things worked out.  Nice chatting with you. Come on, Elaine, let's go.
+1829)  
+Bye.
+1830)  
+Elaine wants YOU to save the MerLeader.
+1831)  LECHUCK
+[Frustrated]I can't use those two things together! This is hopeless.
+1832)  LECHUCK
+[Happy]Don't worry boy, I'll take good care of her while you're gone!
+1833)  LECHUCK
+[Serious]Guybrush, get out of here!  These guys think I still have the artifact, and they are willing to kill to get it back!
+1834)  LECHUCK
+[thinking]hmm, if I take this thing and combine it with this doohickey... it almost looks like a cow.  Do I need a cow?
+1835)  LECHUCK
+[Confused]Am I supposed to see anything special about it?
+1837)  LECHUCK
+[Concerned]Guybrush!  Thank goodness you're safe!    Elaine and I were so worried!
+1838)  LECHUCK
+[frustrated]I'm so close, I can feel it!  Arrrgh!  I'm just... not so good with this whole puzzle solving thing!  It was so much easier to just ...kill people until someone did things for you![ EMBARRASSED]...Maybe you could just give me a hint?
+1839)  LECHUCK
+[Stern]It'll have to wait, Guybrush.  I don't think these guys are gonna let me leave without giving them the Artifact first!
+1840)  LECHUCK
+[Whiney]I still don't see anything special about it.
+1841)  LECHUCK
+[Exasperated] *huff* Guybrush!  I thought you we're going to help me!
+1842)  LECHUCK
+[Awe]Just look at it!  Pure gold. A treasure fit for any respectable pirate hold...
+1843)  LECHUCK
+[Proud]Well, I am rather handsome now that I'm free of the voodoo curses, but I don't see how that is going to help.
+1844)  LECHUCK
+[Disappointed]That was totally useless.
+1845)  LECHUCK
+[Humble]Ah yes.  Self reflection is a humbling beast.
+1846)  LECHUCK
+[stunned]I don't know what happened. I used to be able to take on armies without blinking an eye. [ANGRY] Now, a hand full so pox stricken pirates can wrestle way the artifact?
+1847)  LECHUCK
+[Worried]Guybrush?
+1848)  
+Return to Jungle Entrance
+1849)  MORGAN
+[Excited]{Questioning}Have I heard of you?  [Excited and gushing a bit]{Sarcastic}Guybrush Threepwood, the pirate who destroyed the Ghost Pirate LeChuck single handedly!?  {Happy}Who discovered the mythical treasure of Big Whoop!?  {Excited} Who escaped the inescapable Carnival of the damned!? I've been following you my whole life!
+1850)  MORGAN
+[Sarcastic]{Sarcastic}With your breath, I'm sure they all suffocated.
+1851)  MORGAN
+[Fierce] {Fierce}Oh, this is gonna be good!  Pick up your sword and face me like a man!
+1852)  MORGAN
+[Serious]{Serious}Don't be too flattered, I'm here for the job.  The Marquee DeSinge wants that hand of yours so I'm bringing you in!  {Stern}And don't even try your Insult Sword Fighting technique on me, that's something only farm boys use these days.
+1853)  MORGAN
+[Cocky]{Sarcastic}Well,  allow me to introduce myself.  I am Morgan LeFlay,{Excited} Mighty Pirate Hunter ™!  My name is feared across the seven seas!  {Serious}I've taken down some of the most hardened grog guzzling scumbags from here to Zanzibar. It's an honor to finally face off against the legendary{Excited} Guybrush Threepwood!
+1854)  MORGAN
+[Happy]{Default}Here you go.  {Excited} Ah, and what a glorious battle it was!  Guybrush was amazing! You should have seen the way he-
+1855)  MORGAN
+[Dismissive]{Dismissive}He's right, I'm afraid.  Part of the Pirate Hunter's code... don't kill anyone you aren't getting paid to. {Serious} So, I'll just kill you, Guybrush.
+1856)  MORGAN
+[Strained]{Fierce}Come on!
+1857)  MORGAN
+[Strained]You can do better than that!
+1858)  MORGAN
+[Strained]{Strained} ...enggh...
+1859)  MORGAN
+[Stern]{Fierce}I don't need wit to carve a bloody hole in your chest!
+1860)  MORGAN
+[Questioning]{Questioning}That was not our agreement. [growing suspicious] {Serious}I think you'd better give me my gold now.
+1861)  MORGAN
+[Terrified!]{Terrified} I don't believe it...
+1862)  MORGAN
+[Terrified!] Is that a...
+1863)  MORGAN
+[Terrified] Aaaaaahhhhhhhhhhhhh!!!!!
+1864)  GUYBRUSH
+[pickup1] The blockade is too well fortified here.
+1865)  GUYBRUSH
+[pickup1] I'm not getting out of here this way!  The blockade is too tight!
+1866)  GUYBRUSH
+[pickup] Hmmm... looks like I might be able to sneak through the blockade here.
+1867)  ANEMONE
+{stern}Hey!{default}
+1868)  GUYBRUSH
+[pickup1]Huh?  Oh, right... no fishing.  Sorry
+1869)  GUYBRUSH
+[pickup1] No way am I letting go of these summoning artifacts!
+1870)  GUYBRUSH
+[pickup1] That's too big to fit in the chest.
+1871)  MUSIC
+A triumphant/mystical stinger as the altar opens.
+1872)  KEVIN
+[pickup1]Who is stupid enough to think we'd confuse a parrot with a sea turtle?
+1873)  GUYBRUSH
+{confused}[pickup1][clearly uncomfortable, quickly changes the subject] Eerrr... How about a reward instead?
+1874)  GUYBRUSH
+[pickup1] Hmm... I guess the fish aren't biting.
+1875)  GUYBRUSH
+[pickup1] Looks like its locked up now.
+1876)  ELAINE
+{Default} Oh, the usual.   Mayhem.   Swashbuckling. {Sarcastic} A troubling encounter with an enchanted aardvark. {Serious} Now my hold's full of monkeys, and Captain Personality over there thinks {Surprised} he's gonna marry me.
+1877)  
+Deep in the Caribbean
+1878)  
+The Rock of Gelato
+1879)  
+Written & Directed By
+1880)  
+Mark Darin
+1881)  
+Programmed By
+1882)  
+Randy Tudor
+1883)  
+Music By
+1884)  
+Michael Land
+1885)  
+Choreography By
+1886)  
+Daniel Herrera
+1887)  
+Art Direction
+1888)  
+Derek Sakai
+David Bogan
+1889)  
+Story By
+1890)  
+Mark Darin
+Mike Stemmle
+Dave Grossman
+1891)  
+Based on Characters
+Created By
+1892)  
+Ron Gilbert
+1893)  
+To Be Continued in 
+
+Chapter 3
+
+LAIR OF THE LEVIATHAN
+1894)  MERLEADER
+[proud]Our prophecies speak of three golden idols that have been hidden throughout these Islands.  They are in the form of the ancient gods of the ocean, the wise turtle, noble Sea Horse, and the cranky fish.
+1895)  MERLEADER
+[Stern]We'll never give  you the summoning items, "captain" McGillicutty!  Not after the years of polluting our sacred waters!
+1896)  MERLEADER
+[Embarrassed] Err... the prophesies are very old.  Some of the translations may be a bit off.
+1897)  MERLEADER
+[Serious]You, Guybrush, are the holder of the summoning items.  You must be the one to use them.  Come give me the artifacts, I will teach you the ritual words.
+1898)  MERLEADER
+[Excited]Take this and throw it with all your might into the ocean, then speak these words... "Oh great Legendary Creatures of the Sea....
+1899)  MERLEADER
+[Thinking] I do remember this man.  He too was obsessed with finding La Esponja Grande, but I have not seen him around Spinner Cay for some time.  Perhaps he gave up, or died in the pursuit.
+1900)  TETRA
+[Default (hands front)] The library was built during the era of terra firma, but when we as a race returned to the sea, we felt our knowledge should do the same.
+1901)  TETRA
+[_Sarcastic_] Here, this ought to enrich your understanding of Vaycalian literature.
+1902)  TETRA
+[Happy]Well, did you know that centuries ago, we MerFolk bypassed evolution and used Vacaylian science to obtain legs on which to walk on land?
+1903)  ANEMONE
+[Frightened]It's McGillicutty!  He's moving his ships in and creating a blockade around the island! He's gonna tear this place apart if he doesn't get those summoning artifacts!
+1904)  ANEMONE
+[Excited (hands front)] Our leader's life is at stake!  Now get out there and do your thing!
+1905)  TETRA
+[Angry]I hate you now.
+1906)  ANEMONE
+[Disgusted]What are you doing? Are you flirting?
+1907)  TETRA
+[ _disapointed_] ...101 fish jokes?  Really?  My ancestors have worked for centuries to gather these treasures of knowledge and preserve them within these walls so that our race will long be respected for our intellectual achievements, and you want fish jokes?
+1908)  ANEMONE
+[Proud]That's right!  I'm 100% proud Vacaylian Merfolk! [kinda flirty] Tail kinda gave it away, huh?  So, what brings you to Spinner Cay?
+1909)  ANEMONE
+[Thinking] You mean Crazy Sponge Guy?  Yeah, I remember him.  Last time I saw him he was putting together a crew to go after some mystical sea urchin or something.  Haven't seen him in a while though.  He used to have a little shelter out on Roe Island.
+1910)  TETRA
+[Flirty]Go get em', Swashbuckler!
+1911)  ANEMONE
+[Serious] See, that's how they getcha!  A patch job is basically the same amount of work as a full replacement, but it's certain to go bad on you a lot faster!  I'll give you a full mast replacement!  Be right back!
+1912)  NOTGUYBRUSH
+this is a test to make sure I can edit dialog.  This is only a test
+1913)  GUYBRUSH
+[pickup1]Actually, I've changed my mind already.  I don't feel like reading.
+1914)  GUYBRUSH
+[pickup1] Hmmm... not even a nibble.  Which is probably a good thing.  I don't wanna know what the Mer-Leader left behind in there.
+1915)  
+Open Inventory
+1916)  GUYBRUSH
+[pickup1] Hmmm, nice plot of land.  I wonder if Elaine would let me build a summer home here.
+1917)  GUYBRUSH
+[pickup1] I like this place, it's relaxing.
+1918)  GUYBRUSH
+[pickup1] Hello? Anyone here?
+1919)  GUYBRUSH
+[pickup1] Nice rock.
+1920)  GUYBRUSH
+[pickup1] Hiya, rocky.
+1921)  GUYBRUSH
+[pickup1] What's new in rock news?
+1922)  GUYBRUSH
+[pickup1] How's the wife and pebbles?
+1923)  GUYBRUSH
+[pickup1] Okay, I'm done talking to the rock.
+1924)  GUYBRUSH
+[pickup1] Well, I'm done here.  Back to the Narwhal!
+1925)  GUYBRUSH
+[pickup1] Hey, guess what, it's a palm tree.
+1926)  GUYBRUSH
+[pickup1] Nice palm tree.
+1927)  GUYBRUSH
+[pickup1]{Surprised} Woah! {Happy} It's a rare petrified deciduous from the Jurassic era thought to be extinct! {Sarcastic} No wait, it's just a palm tree.
+1928)  GUYBRUSH
+[pickup1]{Worried} Geez, what a horrible way to die.  Stranded on a deserted island and stung to death by scorpions.
+1929)  GUYBRUSH
+[pickup1]{Confused}[pause, then pondering] Where have I seen that before?
+1930)  
+LucasArts and the LucasArts logo are trademarks of Lucasfilm Ltd. in the United
+States and/or other countries. © 1990-2009 Lucasfilm Entertainment Company Ltd.
+Telltale and the Telltale Games logo are trademarks of Telltale, Inc.
+1931)  GUYBRUSH
+[pickup1][While swordfighting]{Cocky} See if you can parry THIS!
+1932)  GUYBRUSH
+[pickup1] [Attempting to use the cannon against Morgan while swordfighting; deliver with some projection and mild breathlessness] The cannon isn't pointed at her, besides, aiming at things actually ON my ship is probably not a good idea.
+1933)  GUYBRUSH
+[pickup1][Guybrush talks about the pyrite Skeleton to Morgan while swordfighting] {default} I've got a golden parrot in my coat! {Whiney} I'll give it to you if you go away!
+1934)  MORGAN
+[pickup1][Looking at Guybrush's pyrite parrot while swordfighting] {Happy} Aww, that is so cute!  {Cocky} I'm gonna keep him as a souvenir {Fierce}when I kill you.
+1935)  GUYBRUSH
+[pickup1][frightened gulp] {Worried} *Gulp!*
+1936)  GUYBRUSH
+[pickup1][Can't reach things while swordfighting]I'd need another hand to be able to do that.  My good one is busy keeping me from dying!
+1937)  GUYBRUSH
+[pickup1][trying to scare away a seagull] {Angry} Hey!  Shoo!  Get away.
+1938)  GUYBRUSH
+[pickup1][trying to scare away a seagull up close] Hey, Get off my hand, stupid bird!
+1939)  GUYBRUSH
+[pickup1][trying to scare away a seagull up close] {Angry} Get out of here!  Go on!  Shoo!
+1940)  GUYBRUSH
+[pickup1]Oh man, if that barrel breaks, Winslow is gonna be MAD!
+1941)  MORGAN
+[pickup1][confused by the fact that Guybrush has put away his sword while swordfighting and is now being cocky]  {Questioning} What?
+1942)  MORGAN
+[pickup1][noticeing that she is about to spring a trap; softly to herself] {Serious} uh oh.
+1943)  GUYBRUSH
+[pickup1][responding to winslow's saying the mast is cracked] {Confused} It is?
+1944)  WINSLOW
+[pickup1][responding to guybrush who cant tell that the mast is cracked]{Stern}  It is indeed!  {Default}It may be just a hairline fracture, {Suspicious} but I can tell!  {Default} We'll have to take it easy until we can get her fixed.
+1945)  GUYBRUSH
+[pickup1]It's filled with fish and just barely hanging on up there!
+1946)  GUYBRUSH
+[pickup1][Guybrush tries to use his hook on a knott while swordfighting] I better not, If I get my hook stuck on it, Morgan'll shiskabob me!
+1947)  GUYBRUSH
+[pickup1][while swordfighting]I think Winslow put that  barrel up there to keep it from rolling around on deck.  Or to keep me from breaking it.
+1948)  GUYBRUSH
+[pickup1]{Sarcastic} Hmmm...
+1949)  WINSLOW
+[pickup1] Yes sir!  Looks like your friends have driven back the Blockade!  It should be safe now.
+1950)  GUYBRUSH
+[pickup1]  Shoot, he's getting away!
+1951)  MCGILLICUTTY
+[pickup1] Ha ha ha!  Too slow, pointy beard!
+1952)  MCGILLICUTTY
+[pickup1] Ha ha ha!
+1953)  GUYBRUSH
+[pickup1]  He's getting away, Mr. Winslow!
+1954)  WINSLOW
+[pickup1] We can't catch him while our mast is broken sir!
+1955)  GUYBRUSH
+{cocky}[pickup1] [absently after being told and mis-hearing that they need the "mast repaired"] Right, right... we need a plastic pear.  Got it. {happy}[giddy, to himself] Hee hee... mermaids.{default}
+1956)  GUYBRUSH
+[pickup1] Onward to Flotsam Island!
+1957)  WINSLOW
+[pickup1] I'm as close as I can get, Cap'n!  The winds won't let us in any further.
+1958)  GUYBRUSH
+[pickup1] [cheerful]Thank you, Mr. Winslow!
+1959)  WINSLOW
+[pickup1] Where to, Captain?
+1960)  WINSLOW
+[pickup1] Where will we be heading next, Captain?
+1961)  WINSLOW
+[pickup1][Calling down to Guybrush from the upper deck of the ship]And don't forget, before we can set out to sea again we'll need our mast repaired!
+1962)  GUYBRUSH
+[pickup1][concerned] You saw Elaine with some other guy? [getting angry]Who was he, some big jerk?!  I could probably take him! [back tracking a bit] You know, If I HAD to.  But Elaine is usually okay, right?
+1963)  GUYBRUSH
+[pickup1][after being told where Elaine is]Royal Chamber, got it.  [To himself, through gritting teeth] I'll deal with the monkey smuggler later!
+1964)  MCGILLICUTTY
+[pickup1] [shouting loudly to crew members below deck] {Angry} LOWER THE MER LEADER!!
+1965)  KEVIN
+[pickup1][This is Pirate C (Jared)][Process: muffled below deck] Aye aye, Captain!  Lowering the Mer Leader!
+1966)  MCGILLICUTTY
+[pickup1][shouting across ships]Gaarrrr!!! You be test' on me nerves, Threepwood!  Don't ya ever get tired of losing?
+1967)  MCGILLICUTTY
+[pickup1][shouting across ships] {Angry} Shove off, scruffy!
+1968)  GUYBRUSH
+[pickup1][shouting across ships] {Increduloous} Scruffy?  You know how long it took me to grow this beard this way?!
+1969)  MCGILLICUTTY
+[pickup1][shouting across ships] {Angry} You best mind yer own business if ya know what's good for ya!
+1970)  GUYBRUSH
+[pickup1][shouting across ships] {Cocky} Do I LOOK like a guy who knows what's good me?
+1971)  MERLEADER
+{Stern}  Guybrush, sink his ship!
+1972)  GUYBRUSH
+{cocky}[pickup1][looking at a no eyed statue] Justice is blind.  {confused}Well, now it is.  {suspicious}...And kind of fishy smelling.{default}
+1973)  GUYBRUSH
+[pickup1] Looks like everybody is gone.
+1974)  GUYBRUSH
+[pickup1] I hope they didn't go out for ice cream and not invite me.
+1975)  ELAINE
+[pickup1] [calm, but pleading - making sure she has the attention of the people arguing.  Should be spoken somewhat slowly. (As if talking to children)]Please, calm down!  I'm sure we can find a solution that works for everyone!
+1976)  GUYBRUSH
+{embarrassed}[pickup1] [playful] Aw, come on.  Who's absent minded enough to lose TWO wedding rings?
+1977)  
+Elaine, you got a second?
+1978)  GUYBRUSH
+[pickup1][attmpting to use the bucket with various points with water]Hey, it looks like the bucket has a lot of TINY holes in it.  Water would leak right out!
+1979)  GUYBRUSH
+[pickup1] I know that seems like a good idea, but it's not.
+1980)  GUYBRUSH
+[pickup1] I can't move it.
+1981)  GUYBRUSH
+[pickup1]It's too heavy.
+1982)  GUYBRUSH
+[pickup1][flatly]Uh.. no.
+1983)  GUYBRUSH
+[pickup1] [speaking like a delighted child after seeing the toy manatee sing]{Happy} Again, again!
+1984)  GUYBRUSH
+[pickup1]{Cocky} Nice cans.
+1985)  GUYBRUSH
+[pickup1]{Worried}[hurried and awkward] Uh, I mean.... Nice cans!
+1986)  GUYBRUSH
+[pickup1] Okay, Rafty.  Where should we go next?
+1987)  TRENCHFOOT
+[pickup1]Hey!  Get yer grubby mits away from our chest!
+1988)  TRENCHFOOT
+[pickup1][thinks guybrush may have been hitting on him] Excuse me?! Do I have to get out the Pirate Harassment handbook?!
+1989)  GUYBRUSH
+[pickup1][backing down] Maybe I'll just leave you alone.
+1990)  GUYBRUSH
+[pickup] Well, the ship seems distracted WHILE I'm shooting at them,
+1991)  TRENCHFOOT
+[pickup1] Good and buried!  Now we wait for McGillicutty to pick us up!
+1992)  GUYBRUSH
+[pickup1] That was fast.
+1993)  GUYBRUSH
+[pickup1] Hey, I think I hear McGillicutty!
+1994)  TRENCHFOOT
+[pickup1][frightened yelp] Ahhh!! Let's go!  Hurry!
+1995)  TRENCHFOOT
+[pickup] Good and buried!
+1996)  GUYBRUSH
+[pickup1][pirates are stealing his raft] Hey, my raft!
+1997)  GUYBRUSH
+[pickup1] You guys have already buried the treasure, why come back here?
+1998)  TRENCHFOOT
+[pickup1] Cause this is where McGillicutty dropped us off.  He'll sail round soon enough to pick us up.  I wouldn't want to have him come lookin for us!
+1999)  GUYBRUSH
+[pickup1] Just throwing bait into the water is a good way to feed the fish, but not particularly effective in catching them.
+2000)  GUYBRUSH
+[pickup1]I can't trade in my coupon for bait here.
+2001)  GUYBRUSH
+{confused} I wonder if there is a way to turn up the heat?
+2002)  GUYBRUSH
+{suspicious}Well, they are in there, but they really aren't hot enough to do anything.
+2003)  LECHUCK
+[process: needs to sound reasonably far away][Pickup1][Indiscernible] [LeChuck is MUBMLING something to a monkey.  His voice is too quite to actually make out what he's saying.  It might be:] Go and write with the shingle, the clam has almost grown feet.
+2004)  MONKEY
+Ekk ekk oop.
+2005)  GUYBRUSH
+[pickup1][curiously looking at a clam shell lock]This looks familiar...
+2006)  LECHUCK
+[pickup1] I believe this... thing... might have something to do with opening the altar.  I just need to figure it out.
+2007)  
+Hook
+2008)  
+Hand
+2009)  
+Barrel o' Fish
+2010)  
+Cable
+2011)  
+Rope
+2012)  
+Seagull
+2013)  
+Morgan LeFlay
+2014)  WINSLOW
+[pickup1]Impossible!
+2015)  LECHUCK
+[pickup1][alt][friendly]All you need to know is where to apply pressure!
+2016)  GUYBRUSH
+[pickup1][giving reasons why he shouldnt go tothe Rock of Gelato anymore] Actually, the Rock of Gelato has been pretty unlucky for me.  First the whole LeChuck and ship exploding thing.  Then Morgan cut off my hand when I went back.
+2017)  GUYBRUSH
+[pickup1] Mr. Winslow, Let's avoid the Rock of Gelato from now on!
+2018)  GUYBRUSH
+[pickup1]Nah, I'm avoiding that place.
+2019)  GUYBRUSH
+[pickup1] [entering the beach and noticing that Hardtack and Trenchfoot are gone]Looks like those two pirates finally got picked up! I'll miss those guys.  Maybe I can send them a fruit basket for the holidays?
+2020)  
+Rowboat
+2021)  
+Palm Tree
+2116)  
+Palm Tree
+2022)  
+Rock
+2023)  
+Rock Cluster
+2024)  
+Sand
+2025)  
+Trenchfoot
+2026)  
+Hardtack
+2027)  GUYBRUSH
+[pickup1][telling LeChuck that he wont help him solve a puzzle] Sorry, nothing I can do. [sarcastic] I'm sure you'll figure it out eventually.[snickers]
+2028)  GUYBRUSH
+[pickup] [backing out of a conversation after telling leChuck to use...]Actually, I can't think of anything. [chipper] I guess we're done here.
+2029)  GUYBRUSH
+[pickup1][backing out of the conversation with LeChuck after having told him to sue something with something else]Yeah, I'm at a loss... [chipper] Well, good luck with it!
+2031)  
+Junk
+2032)  
+Seaweed
+2033)  
+Skeleton
+2034)  
+Fish Eggs
+2035)  
+Glowy Bait
+2036)  
+Oyster
+2037)  
+101 Fish Jokes
+2038)  
+Bowl of Hardened Pyrite
+2039)  
+Bowl of Melted Pyrite
+2040)  
+Bucket
+2041)  
+Bucket o' Coals
+2042)  
+Hot Tub Controls
+2043)  
+Fish Eggs Coupon
+2044)  
+Oyster Coupon
+2045)  
+Special Coupon
+2046)  
+Transit Pass
+2047)  
+Fish Eye
+2048)  
+Fish Eye of the Manatee
+2049)  
+Paper
+2050)  
+Pearl
+2051)  
+Elaine's Ring
+2052)  
+Summoning Ball Artifact
+2053)  
+Summoning Fish Artifact
+2054)  
+Summoning Seahorse Artifact
+2055)  
+Summoning Turtle Artifact
+2056)  
+Fake Turtle Artifact
+2057)  
+Prying Tool
+2058)  GUYBRUSH
+[pickup1][tried to pour melted Pyrite, but a cold lump fell out instead]Hey, what happened?
+2059)  GUYBRUSH
+[pickup1][giving LeChuck the pry tool again]  He doesn't need it anymore. [defiantly] I'm keeping it for myself!
+2060)  GUYBRUSH
+[pickup1] Boy!  That thing is REALLY stuck in there!
+2061)  GUYBRUSH
+{embarrassed}[pickup1] I can't get that Turtle Artifact out of there.  Any ideas?
+2062)  LECHUCK
+{happy}[pickup1] [friendly]Why not just let me do it?!  {humble}Elaine seems to think I have the strength of ten men!  In fact, when --[gets cut off]
+2063)  GUYBRUSH
+{stern}[pickup1] [highly annoyed, cutting LeChuck off] Yeah yeah!  Forget it!  I'll do it myself!
+2064)  GUYBRUSH
+It's fancy looking all right, but I could probably make one from a few spare parts and an afternoon. Some secret technology.
+2065)  GUYBRUSH
+[pickup] You know the Voodoo Lady's locket looks awfully worn around the edges.  I wonder if it has another use...  [kinda creeped out]I hope it has another use.
+2066)  GUYBRUSH
+[pickup][annoyed]I wonder how hard it would be to melt him into a pyrite paperweight...
+2067)  GUYBRUSH
+[pickup] I am NOT leaving LeChuck here alone with that artifact!
+2068)  GUYBRUSH
+[pickup] What if he licks it while I'm gone and gets his germs all over it! [afterthought]... Or maybe he'll STEAL IT!!
+2069)  GUYBRUSH
+[pickup]I wonder where the local fishing hole is around here... [optimistic]maybe some grogged up fishermerman left his free bait coupon.
+2070)  GUYBRUSH
+[pickup]I think I'm going to have to [shudder]help LeChuck. The guy can't even put together your basic skeleton key of an ancient and highly advanced civilization. Now to just find the materials...
+2071)  GUYBRUSH
+[pickup]So if LeChuck has the claw thingy for the key, all he really needs is a big ol' pearl.  And with a city of fish people, someone has to have a lot of oysters.
+2072)  GUYBRUSH
+[pickup]If they won't just give me the sea horse, I'll have to find the treasure after they've buried it.  [emphasizing the Guybrush Threepwood line like the parrot]That should be no trouble for me, Guybrush Threepwood, Mighty Pirate (tm)!
+2073)  GUYBRUSH
+They won't let me get near that chest! One of them is always staring at it. [frustrated]Turn around, darn you!
+2074)  GUYBRUSH
+[pickup]If I could sneak inside the treasure chest then I'd know where it's buried.  Because I'd be in it. Buried. Alive.  Ok, bad plan.
+2075)  GUYBRUSH
+[pickup]I wonder what kind of fish you get out of a fishing well?  Probably silverfish.  Or if you are really lucky, maybe you get a goldfish!
+2076)  GUYBRUSH
+[pickup]Do you think fish in a wishing well hate it when people throw money at them all the time?  Or maybe they worship and hoard the [bit of a golem like emphasis on shineies, but not much]shinies as falling stars from the gods!
+2077)  GUYBRUSH
+[pickup]These are some persnickety pirates.  I don't think they're gonna leave until they get a sea turtle from LeChuck.
+2078)  GUYBRUSH
+[pickup]I need LeChuck to give those pirates a summoning turtle, but no way am I giving him THE summoning turtle.
+2079)  GUYBRUSH
+[pickup][annoyed]How would you like to be a roasted pirate impersonator? If I turn the barbeque up, you'll cook to a nice golden brown.
+2080)  GUYBRUSH
+[pickup]The bowl is full of pyrite.  It's hard as a rock.  Doesn't look like I can walk very far with it in liquid form.
+2081)  GUYBRUSH
+[pickup]Aww, my pyrite hardened again.  I can't move very far if I want to be able to pour it.
+2082)  GUYBRUSH
+[pickup]I wonder how the Sea Turtle got stuck in that rock in the first place. Maybe the rock was the mould they used to make the turtle and then they couldn't get it out.
+2083)  GUYBRUSH
+[pickup][cutable joke]Not everyone has the artifact extraction skills of Guybrush Threepwood, Mighty Metalurgist!
+2084)  GUYBRUSH
+[pickup1] [shouting across ships] {Cocky} Your mama's so fat, it's probably a serious health risk for her. She might want to visit a physician about that.
+2085)  GUYBRUSH
+[pickup1] [shouting across ships]  {Cocky} Hey, is that your face or did... oh. Oh, I see. It is your face. Awkward.
+2086)  GUYBRUSH
+[pickup1] [shouting across ships] {Cocky} My assessment of your cannon operating skills, not to mention your personal appearance, odor and intelligence, is that you are unmistakably inferior in each of those criteria.
+2087)  GUYBRUSH
+[pickup1] [shouting across ships] {Cocky} My possibly dead mother could shoot a cannon better than you can!
+2088)  GUYBRUSH
+[pickup1] [shouting across ships] {Cocky} I've seen a lot of pirates missing a lot of body parts, but you're the first one I've met with a peg brain.
+2089)  GUYBRUSH
+[pickup1] [shouting across ships] {Cocky} Are you usually that green or did your mother cook dinner tonight?
+2090)  
+Cot
+2091)  
+Chart
+2092)  
+Journals
+2093)  
+Photograph
+2094)  
+Scribbles?
+2095)  
+Sketch
+2096)  
+Totally Useless Stuff
+2097)  
+Hot Coals
+2098)  
+Statue
+2107)  
+Statue
+2108)  
+Statue
+2099)  
+Royal Hot Tub
+2100)  
+Lamp
+2101)  
+Ocean
+2102)  
+Plaque
+2103)  
+Library Sign
+2104)  
+Bait Shop Sign
+2105)  
+No Fishing Sign
+2106)  
+Fallen Statue
+2109)  
+Royal Chamber
+2110)  
+Le What?!!
+2111)  
+Le Huh?!!
+2112)  
+Anemone
+2113)  
+MerLeader
+2114)  
+Tetra
+2115)  
+McGillicutty
+2117)  
+Coconut
+2118)  
+Pirate Ship
+2119)  
+Sail out to the Screaming Narwhal
+2120)  
+Ship Battle
+2123)  
+Raft
+2124)  
+Cliff Edge
+2125)  
+Familiar Clamshell
+2126)  
+Coupon?
+2127)  
+Pyrite Turtle Artifact
+2128)  
+Where is Winslow, you salty sea witch?
+2129)  
+Why are you taking orders from that DeSinge guy anyway?
+2130)  
+How did you get on my ship?
+2131)  
+I'm looking for my wife, Elaine.
+2132)  
+You saw Elaine with some other guy?
+2133)  
+Ever hear of a man named DeCava?
+2134)  
+I gotta run.
+2135)  
+About those trees on Spoon Isle...
+2136)  
+How about if I take you to lunch?
+2137)  
+You're too pretty for coupons.
+2138)  
+Hastily Repaired Hot Tub Controls
+2139)  
+Royal Throne
+2140)  
+I think I've taken up enough of your time.
+2141)  
+How about a breath holding contest?
+2142)  
+You could try guessing a number.
+2143)  
+You look like your eyes are gonna dry out.
+2144)  
+Tell that lady behind you to button up her blouse!
+2147)  
+Maybe there's a fair way to settle your argument.
+2148)  
+You say you're human now, huh?
+2149)  
+You better not have hurt Elaine!
+2150)  
+Maybe you should give me what you have.
+2151)  
+Sorry, nothing I can do.
+2152)  
+Are you sure you dont want me to do this?
+2153)  
+Sealed Vacaylian Display Altar
+2154)  
+Golden Turtle Artifact
+2155)  
+Empty Treasure Chest
+2156)  
+Stationary Cannon
+2157)  
+Pile of Fallen Logs
+2158)  
+I'll be a distraction while YOU get to be a hero.
+2159)  
+That you're better than me in every way.
+2161)  
+Maybe you guys should try cooperating again?
+2162)  
+Broken Merfolk Display
+2163)  
+Books
+2164)  
+Bottles
+2165)  
+Cans
+2166)  
+Manatee
+2167)  
+What was up with you and LeChuck back on the ship?
+2168)  
+You wouldn't believe what I've had to go through to find you!
+2169)  
+You said you came here partly for the monkeys?
+2170)  WINSLOW
+{confused}Nowhere yet, sir.
+2171)  
+Exit
+2172)  
+Hardened Pyrite
+2173)  
+Were you really worried about me?
+2174)  
+Are you sure the treasure is safe?
+2175)  
+You know your treasue is likely to be found.
+2176)  
+Nevermind
+2177)  
+See you later.
+2178)  
+Waterfall
+2179)  
+McGillicutty's Ship
+2180)  
+Im sure the sponge is big enough for all of us!
+2181)  
+You're so weak it's more like McGilli-PUTTY!
+2182)  
+You couldn't hit me even though I'm standing still.
+2183)  
+Your mama's so fat...
+2184)  
+Hey, is that your face...?
+2185)  
+You suck!
+2186)  
+My mother could shoot a cannon better than you!
+2187)  
+You're the first pirate I've met with a peg BRAIN!
+2188)  
+Are you usually that green...?
+2189)  
+Pox-Ridden Pirates
+2191)  PARROT
+*Squawk* It's me,[Process: starts to melt] Guybrush Threepwood, Mighty Pirate!
+2192)  
+Empty Bowl
+2193)  
+Did you try digging by the rock?
+2194)  
+Is that you cannon or your chamber pot?
+2195)  
+I found a tree you can use to repair my mast!
+2196)  
+You really should bury the artifact before McGillicutty gets back.
+2197)  
+Bury the treasure, I think I hear McGillicutty!
+2198)  
+Okay, try this...
+2199)  
+Worthless Junk
+2200)  
+Animal matchmaking books
+2201)  
+"Path of the Mouth"
+2202)  
+Disgusting cot
+2203)  
+Poems no one wants to read
+2204)  
+Manatee with a hole in the middle
+2205)  
+Manatee with a familiar shaped hole in the middle
+2206)  
+Almost kinda sweet photo of DeCava and the Voodoo Lady
+2207)  
+Disturbing sketch of a young Voodoo Lady
+2208)  
+Submarine Schematics?
+2209)  
+Small mammal footwear designs?
+2210)  
+Plans for an under water bank heist?
+2211)  
+Furniture assembly instructions?
+2212)  
+Rubber Tree
+2213)  
+Why did the fish need an aspirin?
+
+He had a haddock.
+2214)  
+Why didn't the fish cross the road? 
+
+To prove he was no chicken.
+2215)  
+"Knock knock"
+
+"Who's there?"
+
+"A fish with a five second memory."
+
+"A fish with a five second memory who?"
+
+"Where am I?"
+2216)  
+What did the sign on the empty nuclear reactor say?
+
+Gone Fission.
+2217)  
+What's a fish with no eye? 
+
+Fsh.
+2218)  
+How do fish get so smart?
+
+They live their whole life in schools!
+2219)  
+Coupon
+2220)  
+Fishing Well
+2221)  
+Vacaylian Ruins?
+2222)  
+Vacaylian Barbecue
+2223)  
+Pirate with Seahorse Artifact
+2224)  
+Arguing Pirate
+2225)  
+Killick Hardtack
+2226)  
+Murkel Trenchfoot
+2227)  
+He found Elaine mediating a dispute between the leader of the Merfolk and a poxed pirate named McGillicutty.  Elaine urged Guybrush to resolve the dispute by retrieving the three mystical summoning artifacts that would allow him to find the sponge.
+2228)  
+What do you get when you cross a killer whale with a cow?
+
+I don't know, but don't try to milk it!
+2229)  
+Where do fish keep their money?
+
+In a river bank!
+2230)  
+Why do manatees have so many wrinkles?
+
+You try ironing one!
+2231)  
+What's green and has 3,000 teeth?
+
+A great white pickle.
+2232)  
+How do you stop a fish from smelling?
+
+Plug up it's nose!
+2233)  
+Where can you find a shrimp with no legs?
+
+Right where you left it.
+2234)  
+What should you do if you find a shark in your bed?
+
+Sleep somewhere else.
+2235)  
+What did the fish say when he ran into a wall?
+
+Dam!
+2236)  
+What are you, some sort of pirate ninja?
+2237)  
+I could have sworn it would be next to the rock.
+2238)  
+You could try again where the coconut is.
+2239)  GUYBRUSH
+[pickup1] I feel the urge to do some exploring!
+2240)  GUYBRUSH
+{Happy} I think I should look around for more stuff to plunder, arrr!
+2241)  
+Blind Statue
+2242)  
+To Be Continued in
+
+Chapter 3
+
+LAIR OF THE LEVIATHAN
+2243)  
+Open Sea
+2244)  
+I need my mast repaired again.

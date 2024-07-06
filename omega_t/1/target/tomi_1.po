@@ -1575,8 +1575,8 @@ msgid "{whiney}Hot! hot! hot!  Ow!"
 msgstr "Parzy! Parzy! Parzy!  Auu!"
 
 msgctxt "356_0_WINSLOW"
-msgid "You'll have to do better than that. Lad!"
-msgstr "Oj, chyba nie wyszło tak ja trzeba. Chłopcze!"
+msgid "You'll have to do better than that, lad"
+msgstr "Oj, chyba nie wyszło tak jak trzeba, chłopcze!"
 
 msgctxt "357_0_WINSLOW"
 msgid "{cocky}Ahem."
