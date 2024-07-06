@@ -766,11 +766,11 @@ Nothing more pirate-y than the ol' "climbing up the anchor" trick...
 355)  GUYBRUSH
 {whiney}Hot! hot! hot!  Ow!
 356)  WINSLOW
-You'll have to do better than that, lad!
+You'll have to do better than that, lad
 357)  WINSLOW
 {cocky}Ahem.
 358)  GUYBRUSH
-{stern}[Annoyed] And now the dock is smoldering.  Perfect.
+{stern}[Annoyed] And now the dock is smoldering. Perfect.
 359)  GUYBRUSH
 {confused}I don't know why I keep doing that.
 360)  DESINGE
@@ -4966,5 +4966,3 @@ Now...
 "The Demon Pirate LeChuck,"
 2451)  
 and "That Big Jerk LeChuck."
-2452)  
-Welcome to Tales of Monkey Island! To join Guybrush on the first chapter of his adventures, select New Game.
