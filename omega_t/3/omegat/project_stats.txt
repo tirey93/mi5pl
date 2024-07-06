@@ -1,0 +1,14 @@
+7/6/24 7:20 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	    3491	24030	                     120757	                       140092	     1	
+Remaining:       	    1792	12320	                      60600	                        70617	     1	
+Unique:          	    3391	23564	                     118324	                       137309	     1	
+Unique Remaining:	    1737	12024	                      59049	                        68829	     1	
+
+
+Individual File Statistics:
+
+File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+tomi_3.po	          3491	              1792	           3391	                     1737	      24030	          12320	       23564	                 12024	                           120757	                                60600	                            118324	                                       59049	                             140092	                                  70617	                              137309	                                         68829	
