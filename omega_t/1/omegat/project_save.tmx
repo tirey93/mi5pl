@@ -3520,8 +3520,8 @@
       <tuv lang="en-US">
         <seg>I should probably come back after he's done with his patient.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Powinienem tu zajrzeć, kiedy skończy ze swoim pacjentem.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240706T085424Z">
+        <seg>Zajrzę tu, jak skończy ze swoim pacjentem.</seg>
       </tuv>
     </tu>
     <tu>

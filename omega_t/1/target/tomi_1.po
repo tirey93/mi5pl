@@ -1632,7 +1632,7 @@ msgstr "Wrócę tu później."
 
 msgctxt "370_0_GUYBRUSH"
 msgid "I should probably come back after he's done with his patient."
-msgstr "Powinienem tu zajrzeć, kiedy skończy ze swoim pacjentem."
+msgstr "Zajrzę tu, jak skończy ze swoim pacjentem."
 
 msgctxt "371_0_GUYBRUSH"
 msgid "{incredulous}Yeah, I think I'll try again later."
