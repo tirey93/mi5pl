@@ -38,8 +38,17 @@ namespace po2tomi_converter.Commands
             var poResult = new StringBuilder();
             foreach (var line in lines)
             {
-                var markup = $"{line[0].Number}_{line[0].Author}";
-                poResult.Append(ToPo(markup, line[0].Content, line[1].Content));
+
+                var splittedEng = line[0].Content.Split('\n');
+                var splittedPl = line[1].Content.Split('\n');
+                int i = 0;
+                foreach(var splittedLine in splittedEng)
+                {
+                    var markup = $"{line[0].Number}_{i}_{line[0].Author}";
+
+                    poResult.Append(ToPo(markup, splittedEng[i], splittedPl[i]));
+                    i = i + 1;
+                }
             }
             
             File.WriteAllText(_settings.PoFileLocation, poResult.ToString());

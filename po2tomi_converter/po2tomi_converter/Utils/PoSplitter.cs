@@ -50,7 +50,7 @@ namespace po2tab_converter.Utils
         {
             FullString = fullString;
             FullString = FullString.Replace("\\", "");
-            var splitted = FullString.Split('\n');
+            var splitted = FullString.Split("\n");
             IsValid = false;
             if (splitted.Any(x => x.Contains(_plStatic)))
             {
