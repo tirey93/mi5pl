@@ -697,7 +697,7 @@ msgstr ""
 
 msgctxt "159_GUYBRUSH"
 msgid "[pickup1][read with urgency] Set a course for here!"
-msgstr "Obierz ten kurs!"
+msgstr "Tu se obierz kurs!"
 
 msgctxt "160_GUYBRUSH"
 msgid "[getting decked] Whoah!"

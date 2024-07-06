@@ -7440,8 +7440,8 @@
       <tuv lang="en-US">
         <seg>[pickup1][read with urgency] Set a course for here!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Obierz ten kurs!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240706T052601Z">
+        <seg>Tu se obierz kurs!</seg>
       </tuv>
     </tu>
     <tu>
