@@ -6040,8 +6040,8 @@
       <tuv lang="en-US">
         <seg>What's that, sir?</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240706T052818Z">
-        <seg>Słucham?</seg>
+      <tuv lang="pl">
+        <seg>Słucham, sir?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7456,8 +7456,8 @@
       <tuv lang="en-US">
         <seg>[pickup1][read with urgency]Mr. Van Winslow, set sail for the [hand covers mouth] mpph mph mph mph-mph!</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240706T052814Z">
-        <seg>Panie Van Winslow, kurs na...</seg>
+      <tuv lang="pl">
+        <seg>Panie Van Winslow, kurs na mppf mpf mpf mpf-mpf!</seg>
       </tuv>
     </tu>
     <tu>
