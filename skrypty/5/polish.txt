@@ -19,8 +19,6 @@ Czy na pewno
 chcesz ju¿ wyjœæ?
 10)  
 Muzyka
-88)  
-Muzyka
 11)  
 DŸwiêki
 12)  
@@ -57,7 +55,6 @@ Rozdzielczoœæ
 Wskazówki
 28)  
 Gotów, by zacz¹æ
-now¹ przygodê?
 29)  
 A jak¿e!
 30)  
@@ -97,8 +94,6 @@ Zamkniête.
 {stern}Nie.
 44)  GUYBRUSH
 Nie.
-160)  FERRYMAN
-Nie.
 1038)  GUYBRUSH
 Nie.
 45)  GUYBRUSH
@@ -106,21 +101,7 @@ Eee, nie.
 46)  GUYBRUSH
 {stern}Eee, Nie chcê tej czêœci teraz.
 47)  GUYBRUSH
- 
-304)  GUYBRUSH
- 
-800)  GUYBRUSH
- 
-808)  GUYBRUSH
- 
-1060)  DOG
- 
-1136)  VOODOOLADY
- 
-1427)  GUYBRUSH
- 
-2311)  GUBYRUSH
- 
+
 48)  GUYBRUSH
 W¹tpiê.
 49)  
@@ -150,10 +131,6 @@ Elaine
 61)  
 Ko³o
 62)  
-Maszt
-2080)  
-Maszt
-2081)  
 Maszt
 63)  
 Kontynuuj
@@ -206,6 +183,8 @@ Mark Darin
 Programowanie
 87)  
 Randy Tudor
+88)  
+Muzyka
 89)  
 Michael Land
 90)  
@@ -358,13 +337,13 @@ Menu Uczty dla Zmys³ów
 {Default}Aj.
 159)  GUYBRUSH
 {Cocky} Czy jest szansa, ¿e zabierzesz mnie z powrotem do œwiata ¿ywych?
+160)  FERRYMAN
+Nie.
 161)  GUYBRUSH
 {Confused} Gdzie p³ywasz t¹ ³odzi¹?
 162)  FERRYMAN
 Do Rozdro¿y.
 163)  GUYBRUSH
-{Confused} Ile to kosztuje?
-685)  GUYBRUSH
 {Confused} Ile to kosztuje?
 164)  FERRYMAN
 {Default}Z³ote oczy wiecznego snu.
@@ -605,7 +584,7 @@ Dobre czasy, dobre czasy!
 281)  THIEF
 {cocky}Nie, jeœli jesteœ dobry!  Mogê ukraœæ portfel zêbami, {shifty}roz³upaæ sejf palcami u nóg {happy}i z³upiæ ca³y skarb u¿ywaj¹c mojego... tupetu.
 282)  GUYBRUSH
-[quick and flat] {disgusted} 
+[quick and flat] {disgusted}
 283)  GUYBRUSH
 Czy móg³byœ otworzyæ dla mnie ca³kowicie niecenn¹ skrzyniê?  W œrodku jest bezwartoœciowy kawa³ek papieru, który potrzebujê.  W zamian pozwolê zatrzymaæ ci skrzyniê!
 284)  THIEF
@@ -648,6 +627,8 @@ Dobrze. [dramatic pause]{stern} Dziêkujê.
 [breaking the tension]  {Sarcastic} Có¿, nie stój tak, dawaj z tym zaklêciem.
 303)  GUYBRUSH
 {surprised} Oczywiœcie, zaklêcie!  {Confused} Czekaj. Nie wiem, co jeszcze-
+304)  GUYBRUSH
+
 305)  LECHUCKDEMON
 {Surprised} Co to by³o?
 306)  GUYBRUSH
@@ -675,7 +656,7 @@ Dobrze. [dramatic pause]{stern} Dziêkujê.
 317)  GUYBRUSH
 {Scared} Och!  {Surprised} TAAAA!!!!
 318)  GUYBRUSH
-   Mówi¹ce kraby!
+Mówi¹ce kraby!
 319)  GUYBRUSH
 {scared} Halo, jest tam kto?
 320)  GUYBRUSH
@@ -723,7 +704,7 @@ Musisz wykombinowaæ to sam. IdŸ, znajdŸ swoje cia³o. ZnajdŸ sposób, by twój duch
 341)  GUYBRUSH
 {Whiney} Brrrr!  Nie pamiêtam, aby moje cia³o by³o tak zimne!
 342)  GRINDSTUMP
-   Na Wielkie Skacz¹ce ¯elki!  To ¯YJE!!!
+Na Wielkie Skacz¹ce ¯elki!  To ¯YJE!!!
 343)  BUGEYE
 {Angry} To nie ¿yje, to jakieœ zombi voodoo!
 344)  GRINDSTUMP
@@ -773,7 +754,7 @@ Szybko, odetnij mu g³owê!
 366)  GUYBRUSH
 [takes a breath to begins talking, but stops]{Embarrassed}
 367)  BUGEYE
-[glares]{Angry} 
+[glares]{Angry}
 368)  GUYBRUSH
 {Confused} Co sta³o siê z medalionem, który mia³ DeCava?
 369)  BUGEYE
@@ -902,7 +883,7 @@ Klub 41
 430)  GRINDSTUMP
 [Reuse from previous ep, w/ added processing]Spokój! Spokój! Niniejszym domagam siê zwolnienia Guybrusha Threepwooda i natychmiastowego uwiêzienia LeChucka i Lady Voodoo!  Do aresztu z nimi!
 431)  PIRATECROWD
-Ospa! Kl¹twa zosta³a zniesiona!  
+Ospa! Kl¹twa zosta³a zniesiona!
 432)  LECHUCK
 [re-use line from 104 w/ processing] "Grzeszne" to!
 433)  GUYBRUSH
@@ -1008,7 +989,7 @@ Pa.
 481)  GUYBRUSH
 {Confused} Nie jestem w wiêkszoœci martwy?
 482)  FERRYMAN
-Dobra, s³uchaj. Wci¹¿ trzymasz tamten maleñki strzêp ¿ycia, ale dla œwiêtego spokoju nazwijmy to po prostu œmierci¹! 
+Dobra, s³uchaj. Wci¹¿ trzymasz tamten maleñki strzêp ¿ycia, ale dla œwiêtego spokoju nazwijmy to po prostu œmierci¹!
 483)  GUYBRUSH
 {Confused} Nie widujesz tego codziennie.
 484)  GUYBRUSH
@@ -1284,7 +1265,7 @@ Najpierw muszê zebraæ parê ska³dników,{Confused} ale mam problemy ze znalezienie
 620)  GUYBRUSH
 {Angry}Jeszcze nie skoñczyliœmy, LeChuck!
 621)  GUYBRUSH
-[emotes while jumping]  
+[emotes while jumping]
 622)  GUYBRUSH
 {Confused} I dlaczego stojê w ten sposób?
 623)  GRINDSTUMP
@@ -1348,7 +1329,7 @@ Najpierw muszê zebraæ parê ska³dników,{Confused} ale mam problemy ze znalezienie
 652)  WINSLOW
 {CockY} Ach tak. To wyjaœnia³oby dziewczêcy krzyk, panie!
 653)  GUYBRUSH
-{Surprised}  
+{Surprised}
 654)  WINSLOW
 {Cocky} Szybko wróci³eœ, panie?
 655)  GUYBRUSH
@@ -1411,6 +1392,8 @@ Mo¿e.
 Na razie, Galeb.
 684)  GALEB
 {Happy} Pewnie.  Wszystko jest mo¿liwe.
+685)  GUYBRUSH
+{Confused} Ile to kosztuje?
 686)  GALEB
 {Happy} Tyle powinno wystarczyæ.  Ciesz siê wspomnieniami!
 687)  GUYBRUSH
@@ -1432,7 +1415,7 @@ Na razie, Galeb.
 695)  GUYBRUSH
 [deep breath] {embarrassed}Dobra.  Nie mogê uwierzyæ, ¿e rzeczywiœcie mam to zrobiæ...
 696)  GUYBRUSH
-[chewing sounds]   
+[chewing sounds]
 697)  GUYBRUSH
 [evaluating the taste]{cocky} Hmm... kurz... œlina... i odrobina lawendy. W innym razie, by³aby bez smaku.
 698)  GUYBRUSH
@@ -1450,7 +1433,7 @@ Na razie, Galeb.
 704)  GUYBRUSH
 {disgust}Hmmm... smak zgni³ej ma³¿y!  Nie ma tu Duchowej Gumy.
 705)  GUYBRUSH
-   W tej by³ z¹b!  Nigdy nie znajdê Duchowej Gumy w ten sposób!
+W tej by³ z¹b!  Nigdy nie znajdê Duchowej Gumy w ten sposób!
 706)  GUYBRUSH
 {disgust}To nie jest duchowa guma.  Smakuje jak ¿wirek dla kota!
 707)  GUYBRUSH
@@ -1458,7 +1441,7 @@ Na razie, Galeb.
 708)  GUYBRUSH
 {surprised}Borówka. [pause] {stern} Nie interesuje mnie borówka. Nie jest Duchow¹ Gum¹.
 709)  GUYBRUSH
-{surprised}Myœlê, ¿e jest to... czekolada i... pikle. [pause, then spits] {disgust} 
+{surprised}Myœlê, ¿e jest to... czekolada i... pikle. [pause, then spits] {disgust}
 710)  GUYBRUSH
 {disgust}B³e!  Indyk i puree ziemniaczane... przepyszne!  {cocky}W formie gumy, nie tak bardzo.
 711)  GUYBRUSH
@@ -1620,7 +1603,7 @@ Odrzucasz moje strza³ki!
 789)  GUYBRUSH
 {Happy}Czeœæ, dywanik.
 790)  GUYBRUSH
-[Talking like Murray]{Stern} Jam MURRAY!{Evil} Demoniczny kandelabr! Dr¿yj przed moim zakrzepniêtym woskiem na czole!  
+[Talking like Murray]{Stern} Jam MURRAY!{Evil} Demoniczny kandelabr! Dr¿yj przed moim zakrzepniêtym woskiem na czole!
 791)  GUYBRUSH
 La Esponja Grande wysysa energiê Voodoo z Rozdro¿y i przesy³a j¹ do LeChucka.
 792)  GUYBRUSH
@@ -1639,6 +1622,8 @@ Walka z odorem i potem dla aktywnego pirata... i g¹bki.
 Masz, g¹bko.  Po¿uj to.
 799)  GUYBRUSH
 {Worried} Och.  Mam nadziejê, ¿e nie ma niestrawnoœci...
+800)  GUYBRUSH
+
 801)  GUYBRUSH
 {Whiney} On te¿!
 802)  ELAINE
@@ -1653,6 +1638,8 @@ Masz, g¹bko.  Po¿uj to.
 {surprised}[cries out in pain] Arrghh!!!
 807)  LECHUCKPRIME
 {default}Wybacz nam na chwilê Guybrush.  {devilish}¯oneczka i ja musimy mieæ ma³¹ prywatn¹ rozmowê.
+808)  GUYBRUSH
+
 809)  LECHUCKPRIME
 {default}Daremny, {devilish}jeœli niezwykle podstêpny gest, mój jaskierku.  Nawet bez pomocy La Esponja, wsysam tak du¿o mocy,{happy} ¿e mogê po prostu wejœæ do Rozdro¿y i wzi¹æ, tyle Energii Voodoo ile pragnê.
 810)  LECHUCKPRIME
@@ -1784,7 +1771,7 @@ Jest rzadki. Jak doskonale uformowana per³a w ustach ma³¿a.
 873)  GUYBRUSH
 {Embarrassed} Z niezdrowej ciekawoœci, on wchodzi do wody, czy ty wychodzisz na l¹d?
 874)  ANEMONE
-[Offended]   
+[Offended]
 875)  GUYBRUSH
 {Surprised} Zapomnij!
 876)  ANEMONE
@@ -1806,11 +1793,11 @@ Nawet taka nas nie rozdzieli.
 884)  ANEMONE
 Tylko jego zdolnoœæ wstrzymywania oddechu!
 885)  GUYBRUSH
-{Disgust}[TMI!]  
+{Disgust}[TMI!]
 886)  GUYBRUSH
 {Happy} Kolejna notatka od Winslowa?
 887)  ANEMONE
-I kolejny piêkny poemat. Siedemnaœcie soczystych sylab.  
+I kolejny piêkny poemat. Siedemnaœcie soczystych sylab.
 888)  GUYBRUSH
 {Happy} Zawilcy! Winslow zrzuci³ tê notatkê dla ciebie! Jest tam.
 889)  ANEMONE
@@ -1948,7 +1935,7 @@ Panie Winslow,{Cocky} czy móg³byœ nacisn¹æ przycisk na medalionie dla starego ka
 955)  SWORDFIGHTER
 {Incredulous} To najlepsze co masz?
 956)  MORGAN
-{Sad}  
+{Sad}
 957)  GUYBRUSH
 {Happy} To wszystko, panie Winslow.
 958)  WINSLOW
@@ -1958,7 +1945,7 @@ Panie Winslow,{Cocky} czy móg³byœ nacisn¹æ przycisk na medalionie dla starego ka
 960)  WINSLOW
 {Happy} Kapitanie Threepwood! Moja ukochana wys³a³a mi znak! Najlepiej przygotujê siê na nasze spotkanie!
 961)  WINSLOW
-  {Surprised}Na bezanmaszt!{Concerned} Nie pachnia³em tak zgnile od czasu przebywania we w³asnym brudzie, w ³adowni statku kupieckiego kapitana W¹tróbska!
+{Surprised}Na bezanmaszt!{Concerned} Nie pachnia³em tak zgnile od czasu przebywania we w³asnym brudzie, w ³adowni statku kupieckiego kapitana W¹tróbska!
 962)  GUYBRUSH
 {Confused} Co to?
 963)  WINSLOW
@@ -2124,13 +2111,13 @@ Koœci gigantycznego manata. Któ¿ by pomyœla³, ¿e moja walka z romantycznym Cyran
 1045)  GUYBRUSH
 Znalaz³em psa. Nale¿y do ciebie?
 1046)  DOG
-[angry] 
+[angry]
 1047)  GUYBRUSH
 {Scared}   Mo¿e najpierw powinienem siê z nim zaprzyjaŸniæ.
 1048)  GUYBRUSH
 {Happy} Hej.  Wygl¹dasz na g³odnego.  Chcesz koœæ?
 1049)  DOG
-[happy]  
+[happy]
 1050)  GUYBRUSH
 {Happy} Masz. {Incredulous} Biedactwo.  Powinieneœ pójœæ ze mn¹.
 1051)  GUYBRUSH
@@ -2151,6 +2138,8 @@ Wci¹¿ potrzebujê kilku rzeczy do mojego czaru Ucieczki z Rozdro¿y!
 {Happy} Taki uroczy piesek.  Jest twój?
 1059)  GUYBRUSH
 {Confused} Uch, nie.
+1060)  DOG
+
 1061)  GALEB
 {Disgust} Co? W ¿yciu.
 1062)  GUYBRUSH
@@ -2269,10 +2258,8 @@ Taaa!
 {cocky}"Stary Bruta"l. Dezodorant. Dobry wieczór œmierdz¹ce pachy!
 1119)  GUYBRUSH
 {stern}To sekret.
-1323)  THIEF
-{stern}To sekret.
 1120)  GUYBRUSH
-{default}[introverted] Odwaga, Kotwica, Kierunek, Ofiara.  Umieœæ te rzeczy {cocky}w Krêgu w centrum Rozdro¿y. [amused]  
+{default}[introverted] Odwaga, Kotwica, Kierunek, Ofiara.  Umieœæ te rzeczy {cocky}w Krêgu w centrum Rozdro¿y. [amused]
 1121)  GUYBRUSH
 {default}Nie potrzebujê dla siebie napiwku.
 1122)  GUYBRUSH
@@ -2290,7 +2277,7 @@ Taaa!
 1128)  GUYBRUSH
 {incredulous}Och, dostaniesz za to!
 1129)  ELAINE
-   Ha ha ha ha ha!!
+Ha ha ha ha ha!!
 1130)  GUYBRUSH
 {happy}[tickling] Ha ha ha ha!
 1131)  WINSLOW
@@ -2303,6 +2290,8 @@ Taaa!
 {cocky}[She tries the name on] Duchowa £owczyni Piratów, Morgan LeFlay.
 1135)  GUYBRUSH
 {stern}To ostatnia pozosta³oœæ mojego fizycznego siebie. Nie powinienem siê z tym wyg³upiaæ.
+1136)  VOODOOLADY
+
 1137)  GUYBRUSH
 {embarrassed} Och tak, jesteœ jednym z facetów{surprised} próbuj¹cych pobiæ LeChucka!  {sarcastic} Uda³o ci siê?
 1138)  GUYBRUSH
@@ -2673,6 +2662,8 @@ Obiecujê.
 Ciiiiii!
 1322)  GUYBRUSH
 {confused}Co?
+1323)  THIEF
+{stern}To sekret.
 1324)  GUYBRUSH
 {sarcastic} Och, myœla³em, ¿e byæ mo¿e u¿yjesz go, by znaleŸæ zakopany skarb?
 1325)  TREASUREHUNTER
@@ -2808,7 +2799,7 @@ Dodatkowy rum!  {happy} Kolejny worek z³ota!  Mówiê ci, {enthused} nigdy mi siê 
 1390)  GUYBRUSH
 [whispering] {embarrassed}Uwolniæ Guybrusha Threepwooda!  Uwolniæ Guybrusha Threepwooda!
 1391)  GUYBRUSH
- {hurt} To nie to samo.
+{hurt} To nie to samo.
 1392)  GUYBRUSH
 {Whiney} Jestem wielki, z³y Ga³a!  I trzymam dziewczêcy pamiêtnik!  Chcia³bym mieæ w³osy, wiêc u³o¿y³em je w loki!
 1393)  GUYBRUSH
@@ -2879,6 +2870,8 @@ Och, taki dzielny!  Czekam na jego triumfalny powrót!
 {beaten}[Injured] LeChuck, {default} porywa³eœ Elaine, wci¹ga³eœ mnie w mizerne pu³apki, u¿y³eœ na mnie lalki voodoo, próbowa³eœ {stern}zmusiæ mnie do bycia twoim nieumar³ym niewolnikiem... ale nigdy nie{angry} próbowa³eœ zabiæ mnie tak... bezwstydnie.
 1426)  LECHUCKPRIME
 {angry}To najwiêkszy b³¹d jaki pope³ni³em!
+1427)  GUYBRUSH
+
 1428)  GUYBRUSH
 {scared}  [Being grabbed by the neck by LeChuck]
 1429)  LECHUCKPRIME
@@ -2900,7 +2893,7 @@ Och, taki dzielny!  Czekam na jego triumfalny powrót!
 1437)  LECHUCKPRIME
 {happy}Hahaha! Elaine, nawet ty i twój marny mieczyk mnie teraz nie zatrzymacie.
 1438)  ELAINE
-{angry}To patrz!   
+{angry}To patrz!
 1439)  LECHUCKPRIME
 {devilish}Arrr, cieszymy siê nasz¹ ma³¹ k¹piel¹?
 1440)  GUYBRUSH
@@ -2930,7 +2923,7 @@ Och, taki dzielny!  Czekam na jego triumfalny powrót!
 1452)  LECHUCKPRIME
 {surprised}HAR! {devilish}Za kogo ty siê uwa¿asz?? Za Czarnobrodego?
 1453)  GUYBRUSH
-{cocky}Jam GUYBRUSH THREEPWOOD, potê¿ny pi--{surprised}   {beaten}  
+{cocky}Jam GUYBRUSH THREEPWOOD, potê¿ny pi--{surprised}   {beaten}
 1454)  GUYBRUSH
 {default}[Hurt] Myœlê, ¿e mam dosyæ na jeden dzieñ.
 1455)  LECHUCKPRIME
@@ -3014,7 +3007,7 @@ Arrrrg! [Big stomp of the ground]
 1494)  ELAINE
 [eyeing the blade suspiciously] {Suspicious} Hmmm...
 1495)  LECHUCKPRIME
-{Default} To broñ, która zosta³a stworzona, aby zniszczyæ mnie ostatecznie,{Devilish} uwolni mnie, kiedy u¿yjê jej, by zabiæ kobietê, która {Angry}zamknê³a nas w tej wiecznej pêtli losu! 
+{Default} To broñ, która zosta³a stworzona, aby zniszczyæ mnie ostatecznie,{Devilish} uwolni mnie, kiedy u¿yjê jej, by zabiæ kobietê, która {Angry}zamknê³a nas w tej wiecznej pêtli losu!
 1496)  GUYBRUSH
 {Worried} Co?!?
 1497)  ELAINE
@@ -3112,7 +3105,7 @@ Arrrrg! [Big stomp of the ground]
 1543)  GALEB
 {disgusted}Jakbym zosta³ UDERZONY w g³owê! Ale to nie mog³o siê nigdy zdarzyæ.
 1544)  GUYBRUSH
-{angry}  
+{angry}
 1545)  GUYBRUSH
 {suspicious}Gdzie by³eœ, kiedy ostatni raz widzia³eœ LeChucka?
 1546)  GALEB
@@ -3188,7 +3181,7 @@ Wykopa³eœ moje zaklêcie do tej sterty!
 1581)  THIEF
 Naprawdê nie wiem, o czym mówisz.
 1582)  GUYBRUSH
-   Przekonamy siê!
+Przekonamy siê!
 1583)  GUYBRUSH
 Gliniane urny.  Dziwne, mam dokuczliwe pragnienie ich rozbicia.
 1584)  THIEF
@@ -3298,7 +3291,7 @@ Tak, wiem. To przez ca³y czas mnie niepokoi³o.  Mówiê ci to, poniewa¿ {cutesy}ni
 1636)  GUYBRUSH
 {Whiney} Nie ukrywam siê!
 1637)  GUYBRUSH
-{Worried}  
+{Worried}
 1638)  GUYBRUSH
 {worried} Aaachhhhh!!!
 1639)  LECHUCKPRIME
@@ -3636,7 +3629,7 @@ Wiêc j¹ odzyskaj, Guybrush. Jesteœ Potê¿nym Piratem™, czy nie jesteœ?
 1804)  GUYBRUSH
 {cocky}Mia³em trochê staræ z LeChuckem.
 1805)  LECHUCKPRIME
-Arrr! {devilish} Mo¿e siê razem przytulicie, kiedy {angry} skoñczê zadawaæ Threepwoodowi ból i na sta³e po¿egnam go z ¿yciem pozagrobowym!   
+Arrr! {devilish} Mo¿e siê razem przytulicie, kiedy {angry} skoñczê zadawaæ Threepwoodowi ból i na sta³e po¿egnam go z ¿yciem pozagrobowym!
 1806)  MORGAN
 {stern}Musimy go uwiêziæ, Guybrush!
 1807)  GUYBRUSH
@@ -3646,7 +3639,7 @@ Arrr! {devilish} Mo¿e siê razem przytulicie, kiedy {angry} skoñczê zadawaæ Three
 1809)  LECHUCKPRIME
 {surprised}ARRR!
 1810)  LECHUCKPRIME
-{surprised} 
+{surprised}
 1811)  GUYBRUSH
 {beaten}Nie zniosê tego wiêcej.
 1812)  MORGAN
@@ -3810,7 +3803,7 @@ Popytaj.
 1891)  ELAINE
 {sarcastic}Nie s¹dzê, ¿e jesteœ oficjalnie zombi, kochanie.
 1892)  GUYBRUSH
-{beaten}[pickup1][delirious with pain]    
+{beaten}[pickup1][delirious with pain]
 1893)  GUYBRUSH
 {confused}[pickup1][sudden moment of clarity] Hej, to dziwne, ale myœla³em, ¿e bêdziesz nieco seksowniejsza, maj¹c ospê.
 1894)  ELAINE
@@ -3880,7 +3873,7 @@ No. Czy to oznacza, ¿e w ukryciu podkochiwa³em siê w LeChucku?
 1926)  GUYBRUSH
 [pickup2][an awkward moment after Morgan pep talks Guybrush, but she is still in a bad spot][genuinely concerned]{Confused}Wiêc... co zrobisz?
 1927)  MORGAN
-[depressed]{Dismissive}Zamierzam nadziaæ kilka ¿a³osnych duchów,{Serious} mo¿e popraktykujê kradzie¿ kieszonkow¹, jeszcze nie wiem.     
+[depressed]{Dismissive}Zamierzam nadziaæ kilka ¿a³osnych duchów,{Serious} mo¿e popraktykujê kradzie¿ kieszonkow¹, jeszcze nie wiem.
 1928)  GUYBRUSH
 {confused} [pickup2]Nie uwa¿asz, ¿e to dziwne, ¿e LeChuck zostawi³ tê rzecz na widoku?  {cocky} Pomyœla³bym, ¿e chce siê tego pozbyæ.
 1929)  VOODOOLADYSEAGULL
@@ -4043,8 +4036,6 @@ Obrzydliwa Skarpeta LeChucka
 Sekret
 2009)  
 Duchowy Miecz
-2061)  
-Duchowy Miecz
 2010)  
 Wysadzana Klejnotami Kotwica
 2011)  
@@ -4097,12 +4088,6 @@ Galeb
 Grogomat
 2034)  
 Nagrobek
-2272)  
-Nagrobek
-2362)  
-Nagrobek
-2364)  
-Nagrobek
 2035)  
 Woda
 2036)  
@@ -4118,7 +4103,7 @@ Dietetyczny Grog
 2041)  
 Grog XD
 2042)  
-Rozdarcie 
+Rozdarcie
 2043)  
 Ziemia
 2045)  
@@ -4155,6 +4140,8 @@ Ca³y dolar
 Znalaz³em Zaklêcie!
 2060)  
 Szermierz
+2061)  
+Duchowy Miecz
 2062)  
 Wystarczy, dziêki.
 2063)  
@@ -4191,6 +4178,10 @@ Z³odziej
 [pickup2]{happy}[proud, putting the ring on Elaine's finger]Zawsze wywo³ujesz u mnie ciarki na plecach.
 2079)  GUYBRUSH
 [pickup2]{confused}[ putting the ring on Elaine's finger]To by³ twój mistrzowski plan?!  {suspicious}Masz wiêcej wiary we mnie, ni¿ myœla³em!
+2080)  
+Maszt
+2081)  
+Maszt
 2082)  GUYBRUSH
 [pickup2]{cocky}[ putting the ring on Elaine's finger]To brzmi jak coœ, co mo¿na powiedzieæ MÊ¯OWI.
 2083)  GUYBRUSH
@@ -4208,7 +4199,7 @@ Szukaj wokó³ siebie i w sobie, aby znaleŸæ te rzeczy,
 i w CENTRUM ROZDRO¯Y, podaruj je pierœcieniu.
 Podró¿ mo¿e dezorientowaæ, coœ musi ciê przeprowadziæ,
 i musisz mieæ KOTWICÊ, aby upewniæ siê, ciê zatrzyma.
-Co daje ci ODWAGÊ by stan¹æ przed niebezpieczeñstwami, 
+Co daje ci ODWAGÊ by stan¹æ przed niebezpieczeñstwami,
 które maj¹ nadejœæ i OFIARÊ w twoim imieniu, której nie cofniesz.
 2088)  
 Jak g¹bka, jesteœ nadêty w biodrach i udach,
@@ -4217,7 +4208,7 @@ Najmniejsze przek¹ski, jak nik³o wyszeptane s³owo,
 brzmi tak nisko, ¿e ledwie s³yszalnie.
 Lekki DOTYK na przystawkê, pozostaje wierny i roœnie,
 jak delikatne piórko, wyrwane z pó³ ¿ywego ptaka!
-Twój SZÓSTY ZMYS£ jest nadêty na los jeszcze nie rozdany, 
+Twój SZÓSTY ZMYS£ jest nadêty na los jeszcze nie rozdany,
 znajdŸ Sekret, który pomo¿e zacisn¹æ ci pasa.
 Walka z ZAPACHEM po przyjemnym obiedzie,
 eliminacja odoru i pragnienia jedzenia.
@@ -4379,7 +4370,7 @@ Potrzebujê jakichœ sk³adników Voodoo...
 2168)  
 Zamkniête Wrota
 2169)  
-Zepsute Drzwi 
+Zepsute Drzwi
 2170)  
 Przeci¹gniête pod Kilem Zw³oki
 2171)  
@@ -4423,7 +4414,7 @@ Móg³byœ nacisn¹æ przycisk na medalionie?
 2190)  GUYBRUSH
 [pickup2] [starting to sing...examining a bone] Koœæ nogi po³¹czona z...  cholibka, nigdy nie mogê zapamiêtaæ tej piosenki.
 2191)  GUYBRUSH
-[pickup2][inside joke to player when using the bone on various things] Nie mogê u¿yæ koœci szkieletu na tym!  
+[pickup2][inside joke to player when using the bone on various things] Nie mogê u¿yæ koœci szkieletu na tym!
 2192)  GUYBRUSH
 [pickup2][looking at keys] [hurt]Zastanawiam siê, czy jeden z tych kluczy otworzy szufladê biurka, które Elaine kupi³a na wyprzeda¿y?  Nie, pewnie nie.
 2193)  GUYBRUSH
@@ -4477,7 +4468,7 @@ Zbyt tchórzliwy, by zdobyæ samemu G¹bkê od Lewiatana?
 2218)  GUYBRUSH
 [pickup2] [just talking to himself, pondrous] Zawsze zastanawia³em siê, jak to jest po œmierci. S¹dzi³em, ¿e bêdzie bardziej ceremonialnie.  Ale jakby siê zastanowiæ...  Rozdro¿a s¹ œwietne, ale wiecie, salwa z 21 muszkietów tu nie zaboli. Rydwan. Ooch, piracki rydwan.  Chór syren s³awi moje imiê.  Wiecie, drobiazgi.
 2219)  GUYBRUSH
-[pickup2] [Sigh'd sort of, just thinkin about stuff] 
+[pickup2] [Sigh'd sort of, just thinkin about stuff]
 2220)  
 He³m
 2221)  GUYBRUSH
@@ -4569,7 +4560,7 @@ He³m
 2264)  GUYBRUSH
 [pickup3][guybrush is hurt, but tries to be a smart ass] Bêd¹c szczerym...[he's interrupted by LeChuck Punching him in the face]
 2265)  GUYBRUSH
-[pickup3][really hurt after being punched in the face] 
+[pickup3][really hurt after being punched in the face]
 2266)  VOODOOLADY
 [pickup2][create this line from # 134771456 & 136788992] Byæ mo¿e.  Wybra³aœ swój los.  Teraz idŸ!  Jest wiele do zrobienia zanim przeznaczenie ponownie odmieni siê...
 2267)  GUYBRUSH
@@ -4582,6 +4573,10 @@ Rycz¹ca Ma³pa
 Szkielet
 2271)  
 Bramka
+2272)  
+Nagrobek
+2364)  
+Nagrobek
 2273)  GUYBRUSH
 Auæ! {Whiney} To piecze!
 2275)  
@@ -4646,12 +4641,14 @@ Ten goœæ zaczyna dzia³aæ mi na nerwy.
 {Devilish}Tylko ty by³eœ ¿yj¹c¹ dusz¹, która mog³a to zrobiæ... {Surprised}wiesz co?
 2310)  
 Chcesz siê podzieliæ "Sekretem" ze mn¹?
+2311)  GUBYRUSH
+
 2312)  ELAINE
 {Happy} I zabijemy j¹ razem.
 2313)  ELAINE
 {Devilish} Uczyñ mnie sw¹ demoniczn¹ narzeczon¹.
 2314)  GUYBRUSH
-{happy}[happy excited] Hej!  Moja rêka wróci³a. [in retrospect, he's kinda sad about that]  {whiney}   
+{happy}[happy excited] Hej!  Moja rêka wróci³a. [in retrospect, he's kinda sad about that]  {whiney}
 2315)  
 ¯egnaj.
 2316)  GUYBRUSH
@@ -4707,13 +4704,13 @@ Beczki
 2341)  
 G³owa Manata
 2342)  
-Ma³pa Jacques 
+Ma³pa Jacques
 2343)  
 Kufel Pe³ny Duchowego Rozpuszczonego Piwa Korzennego
 2344)  
 Ca³kowicie Pozbawiony Smaku Gumowy Stalaktyt
 2345)  
-Medalion Voodoo 
+Medalion Voodoo
 2346)  
 Opaska na Oczy Klubu 41
 2347)  
@@ -4744,6 +4741,8 @@ Popêkany Nagrobek
 Wyblak³y Napis na Mogile
 2361)  
 Wypolerowany Cenotaf
+2362)  
+Nagrobek
 2363)  
 Grób
 2365)  
@@ -4757,5 +4756,3 @@ Morgan przekonuje Guybrusha, ¿e najwy¿szy czas odzyskaæ jego cia³o i skopaæ ty³e
 Dlaczego nie kaza³eœ zdobyæ Trytonom Esponja Grande?
 2369)  
 Dlaczego sam nie zdoby³eœ La Esponja Grande?
-2370)  WINSLOW
-Rzucajcie w tego starego Zacofanego Morskiego Œlimaka!

@@ -2787,57 +2787,57 @@ Open Inventory
 [whale sounds - Short] [Whispering] This is a bad idea.
 1383)  MANATEE
 [whale sounds - Short] [Whispering] Stop saying that.
-1384)  FEMALE MANATEE
+1384)  FEMALEMANATEE
 [whale sounds - Short] Who is there? Who has decided it is their turn to die?!
 1385)  MANATEE
 [whale sounds - Short]  [Whispering] Uh..uh...go little plankton.  You're on!
-1386)  FEMALE MANATEE
+1386)  FEMALEMANATEE
 [whale sounds - Medium] You dare to disturb me!  Would you like me to dye the ocean depths with your blood!?
-1387)  FEMALE MANATEE
+1387)  FEMALEMANATEE
 [whale sounds - Medium] Hmm.  Polite in the face of certain doom. Interesting.
-1388)  FEMALE MANATEE
+1388)  FEMALEMANATEE
 [whale sounds - Medium] Oh, a funny guy, hm? We'll see about that.
-1389)  FEMALE MANATEE
+1389)  FEMALEMANATEE
 [whale sounds - Medium] I'm not going to let some lummox buy my love with clever words.
-1390)  FEMALE MANATEE
+1390)  FEMALEMANATEE
 [whale sounds - Short] Haha, touché, sir.
-1391)  FEMALE MANATEE
+1391)  FEMALEMANATEE
 [whale sounds - Medium] Why should I give you the time of day?
-1392)  FEMALE MANATEE
+1392)  FEMALEMANATEE
 [whale sounds - Medium] Ha, there is something endearing about a man without a sense of time.
-1393)  FEMALE MANATEE
+1393)  FEMALEMANATEE
 [whale sounds - Medium] Let's say I let you keep your pathetic life and I take a swim with you, where will we go?
-1394)  FEMALE MANATEE
+1394)  FEMALEMANATEE
 [whale sounds - Medium] Hmm.  It's been so long since I've paddled the open ocean. That might actually be nice.
-1395)  FEMALE MANATEE
+1395)  FEMALEMANATEE
 [whale sounds - short] You're not nervous, are you?
-1396)  FEMALE MANATEE
+1396)  FEMALEMANATEE
 [whale sounds - Medium] Ha, I appreciate your honesty, even if you are sniveling little shrimp.  You don't find many men with such candor.
-1397)  FEMALE MANATEE
+1397)  FEMALEMANATEE
 [whale sounds - Medium] You think your words can sway me. What will you say when I rip off your head for my collection?
-1398)  FEMALE MANATEE
+1398)  FEMALEMANATEE
 [whale sounds - Short] Haha, that's a new one.
-1399)  FEMALE MANATEE
+1399)  FEMALEMANATEE
 [whale sounds - short] I can't stand you insecure males!  I don't want anyone with a lot of baggage.
-1400)  FEMALE MANATEE
+1400)  FEMALEMANATEE
 [whale sounds - Medium] That is such a relief to hear.  So many manatees float up to my cave and before I know it they're in a heap of tears and I've gone and disemboweled them.
-1401)  FEMALE MANATEE
+1401)  FEMALEMANATEE
 [whale sounds - Medium] All of you male manatees are imbeciles.  Why do I even bother?
-1402)  FEMALE MANATEE
+1402)  FEMALEMANATEE
 [whale sounds - Medium] You're right.  Entertainment.  Life would be boring without you.  But it is so painful WITH you...
-1403)  FEMALE MANATEE
+1403)  FEMALEMANATEE
 [whale sounds - Medium] This mating ground is as dead as my victims.  You males are a bunch of cold fish.
-1404)  FEMALE MANATEE
+1404)  FEMALEMANATEE
 [whale sounds - Short] Mmm.  I like your style.
-1405)  FEMALE MANATEE
+1405)  FEMALEMANATEE
 [whale sounds - Medium] Watch where you swim.  Nobody knows the way to my heart.
-1406)  FEMALE MANATEE
+1406)  FEMALEMANATEE
 [whale sounds - Short] So straightforward... I like your assertiveness.
-1407)  FEMALE MANATEE
+1407)  FEMALEMANATEE
 [whale sounds - Medium] You know what I'll say after I devour your bloody heart!?
-1408)  FEMALE MANATEE
+1408)  FEMALEMANATEE
 [whale sounds - Short] Hahaha, yes, something quite like that.
-1409)  FEMALE MANATEE
+1409)  FEMALEMANATEE
 [Unintelligible whale sounds - short] Enough!  I'm finished with you!
 1410)  MANATEE
 [Unintelligibile whale sounds - SHORT] Ahhh! Move it little buddy!
@@ -2847,17 +2847,17 @@ Open Inventory
 {suspicious}[underwater][To himself] Not my finest wooing.{default}
 1413)  GUYBRUSH
 {suspicious}[underwater][To himself] Huh. Women.{default}
-1414)  FEMALE MANATEE
+1414)  FEMALEMANATEE
 [Unintelligible "female" whale sounds - short] I think I might like that swim now.
 1415)  MANATEE
 [Unintelligibile "male" whale sounds - Short] Uhh.....really?
-1416)  FEMALE MANATEE
+1416)  FEMALEMANATEE
 [Unintelligibile "female" whale sounds - Medium] Yes. I think you're funny. And you had the courage to swim here and talk to me.
 1417)  MANATEE
 [Unintelligibile "male" whale sounds - Short] I'm a pretty tough guy.
-1418)  FEMALE MANATEE
+1418)  FEMALEMANATEE
 [Unintelligibile "female" whale sounds - short] Then let's go, hot shot.  Mama's been lonely.
-1419)  FEMALE MANATEE
+1419)  FEMALEMANATEE
 [whale sounds - Short] You've returned?!? Prepare to meet Poseidon!
 1420)  MANATEE
 [whale sounds - Short] No! Wait! Give me another chance!
@@ -4075,7 +4075,7 @@ I can't give it up; I need it to cure Elaine!
 I can't throw it all the way there!
 2024)  GUYBRUSH
 I didn't seize a screaming narwhal, sacrifice a trio of legendary sea creatures, and help a couple giant manatees find love for nothing!
-2025)  FEMALE MANATEE
+2025)  FEMALEMANATEE
 [whale sounds - Short] Heh. More than you can afford.
 2026)  GUYBRUSH
 {Incredulous} I've got some mighty fine treasure here... {Happy} and it could all be yours if you just tell me where the Tongue of the Manatee is.
@@ -4353,13 +4353,13 @@ Camera shakes.
 {scared}[pickup1] [underwater] [to himself, breathless, freaked out] I think she'd {worried}rather chat with someone her own size!{default}
 2174)  
 > Return to Categories
-2175)  FEMALE MANATEE
+2175)  FEMALEMANATEE
 [whale sounds - Short] You think you're clever, don't you?  You should know that I detest know-it-alls.
-2176)  FEMALE MANATEE
+2176)  FEMALEMANATEE
 [whale sounds - Short] Ha!  Smart enough to be stupid, eh?
-2177)  FEMALE MANATEE
+2177)  FEMALEMANATEE
 [whale sounds - Medium] What are you, a glutton for punishment?  Haven't you had enough?
-2178)  FEMALE MANATEE
+2178)  FEMALEMANATEE
 [whale sounds - Short] You're persistent, I'll give you that.
 2179)  GUYBRUSH
 [In Manatee] Please repeat that.
@@ -4367,13 +4367,13 @@ Camera shakes.
 {incredulous}[pickup1] [underwater] I guess she likes 'em big and dumb.{default}
 2181)  GUYBRUSH
 {cocky}[pickup1] [underwater] [responding to "haven't you had enough?"] Heck no.  Bring it on!{default}
-2182)  FEMALE MANATEE
+2182)  FEMALEMANATEE
 [whale sounds - Short] That made no sense.
-2183)  FEMALE MANATEE
+2183)  FEMALEMANATEE
 [Unintelligible whale sounds - medium]  Enough nonsense.  You have exactly three seconds before I tug out your trachea with my tusks!
-2184)  FEMALE MANATEE
+2184)  FEMALEMANATEE
 [whale sounds - Short] Great, another guy with a death wish.
-2185)  FEMALE MANATEE
+2185)  FEMALEMANATEE
 [whale sounds - short] You're bold, I'll give you that.  But that made no sense at all.
 2186)  GUYBRUSH
 {confused}[pickup1] I hope I don't end up like De Cava.  He sees the world through lunatic-colored glasses.{default}
@@ -4955,37 +4955,37 @@ Odd Protuberance
 Bizarre Camp
 2463)  
 Scruffy Man
-2466)  FEMALE MANATEE
+2466)  FEMALEMANATEE
 [whale sounds - Short] Haha, touché, shrimp.
 2473)  GUYBRUSH
 It's a picture Morgan clipped of me. I think this was taken right after I saved the village of Kafloo from a lava slide whilst constructing the cutlass. Or it's from a wanted poster. It's hard to say.
 2482)  MURRAY
 {evil}HAHA!  Your contorted cast couldn't {angry}scare a schoolgirl! In my day I could {evil}turn a man to stone with a smirk!  {angry}I could make blood boil with a scowl!  {evil}All I need is a reason!  [Uncomfortable pause.]{sad} And lips.
-2483)  FEMALE MANATEE
+2483)  FEMALEMANATEE
 [whale sounds - long] Oblivious to your certain demise are you? Normally I'd disembowel a man with such naiveté, but you've caught me on a good day.
-2484)  FEMALE MANATEE
+2484)  FEMALEMANATEE
 [whale sounds - short] I'm afraid it does.  A VERY steep tax.
-2485)  FEMALE MANATEE
+2485)  FEMALEMANATEE
 [whale sounds - med] You're less entertaining than some dancing dogfish on the blubber tube? Great, I think I'll pass.
-2486)  FEMALE MANATEE
+2486)  FEMALEMANATEE
 [whale sounds - short] How lazy -- taking me out and letting someone else entertain me. Hmmph.
-2487)  FEMALE MANATEE
+2487)  FEMALEMANATEE
 [whale sounds - short] I once dated a bookworm. I used him for bait.
-2488)  FEMALE MANATEE
+2488)  FEMALEMANATEE
 [whale sounds - med] What do you take me for? Some sort of flotsam floozy?!
-2489)  MALE MANATEE
+2489)  MALEMANATEE
 [whale sounds - short] Uhh...
-2490)  FEMALE MANATEE
+2490)  FEMALEMANATEE
 [whale sounds - med] But... Did you say THREE nights? My my...
-2491)  FEMALE MANATEE
+2491)  FEMALEMANATEE
 [whale sounds - med] That's what I thought. A sniveling little coward. Call your own taxi.
-2492)  FEMALE MANATEE
+2492)  FEMALEMANATEE
 [whale sounds - med] A man with a weak stomach? I don't think we'll get along.
-2493)  FEMALE MANATEE
+2493)  FEMALEMANATEE
 [Whale sounds - med] I'm going to need a man tougher than you, I'm afraid.
-2494)  FEMALE MANATEE
+2494)  FEMALEMANATEE
 So you admit that you are a big hearted blowfish?
-2495)  FEMALE MANATEE
+2495)  FEMALEMANATEE
 I would say so! You're not as dull as you look.
 2496)  GUYBRUSH
 I know that seems like a good idea, but it's not.
@@ -5065,5 +5065,3 @@ Directed By
 Joe Pinney
 2534)  
 Co-Directed By
-2535)  
-Jake Rodkin

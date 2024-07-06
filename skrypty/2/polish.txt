@@ -1,6 +1,5 @@
 1)  
-Zapisz  
-Wczytaj
+Zapisz
 2)  
 Wy³.
 3)  
@@ -19,8 +18,6 @@ Ustawienia
 Czy na pewno
 chcesz ju¿ wyjœæ?
 10)  
-Muzyka
-1883)  
 Muzyka
 11)  
 DŸwiêki
@@ -58,7 +55,6 @@ Rozdzielczoœæ
 Wskazówki
 28)  
 Gotów, by zacz¹æ
-now¹ przygodê?
 29)  
 A jak¿e!
 30)  
@@ -94,6 +90,8 @@ Czy na pewno chcesz wczytaæ tê grê?
 Utracisz niezapisany postêp w aktualnej grze.
 41)  GUYBRUSH
 SCUMM Bar! Prawdziwe niebo dla wszystkich pijanych zbójów z ca³ego œwiata!
+59)  GUYBRUSH
+{Default} The SCUMM Bar! Prawdziwe niebo dla wszystkich pijanych zbójów z ca³ego œwiata!
 42)  GUYBRUSH
 Witam, niechlujnie wygl¹daj¹cy piracie! Jam Guybrush Threepwood, potê¿ny pirat! Jak siê nazywasz?
 43)  GUYBRUSH
@@ -128,8 +126,6 @@ That is one {Surprised}FAT BIRD!
 {Disgust}I...uh...left it in my other pants.
 58)  GUYBRUSH
 {Happy}Yeah! Busy makin' holes in the wall.
-59)  GUYBRUSH
-{Default} The SCUMM Bar! Prawdziwe niebo dla wszystkich pijanych zbójów z ca³ego œwiata!
 60)  PIRATEA
 {Default} Cheese, Ignatius Cheese.
 118)  DESINGE
@@ -176,6 +172,8 @@ No Problem!
 Nah.
 80)  GUYBRUSH
 Nope.
+1499)  TRENCHFOOT
+Nie.
 81)  GUYBRUSH
 Um, no.
 82)  GUYBRUSH
@@ -270,8 +268,6 @@ Aye! {Amazed} It could be a pleasure to sail with a refined wit such as yourself
 {Confused}What was it I was supposed to be doing? {Voodoo Mystical}
 129)  
 Oko Manata
-2048)  
-Oko Manata
 130)  
 Medalion
 131)  
@@ -297,7 +293,7 @@ Fascynuj¹ce.
 141)  DESINGE
 Monsieur Threepwood, ma pan s³owo, by³ego lekarza dworskiego Króla Ludwika, ¿e w mojej obecnoœci pana mizantropijna rêka nic ju¿ panu nie zrobi!  Jednak aby móc stwierdziæ poprawn¹ diagnozê, muszê poœwiêciæ kilka minut badaj¹c próbkê pana skóry pod okiem mojego nowego wynalazku - Powiêkszatora.
 142)  DESINGE
-Ach, mon ami, to d³uga historia pe³na sukcesów i pora¿ek.  Wiele lat temu by³em m³ody, osobistym lekarzem dworu Króla Ludwika.  Te dni przemija³y tak szybko... zajmowa³em siê wieloma chorobami arystokracji oraz rozwi¹zywa³em skandale i intrygi wewn¹trz œcian pa³aców... Jam by³ wznosz¹c¹ siê gwiazd¹ w naukowym œwiecie. 
+Ach, mon ami, to d³uga historia pe³na sukcesów i pora¿ek.  Wiele lat temu by³em m³ody, osobistym lekarzem dworu Króla Ludwika.  Te dni przemija³y tak szybko... zajmowa³em siê wieloma chorobami arystokracji oraz rozwi¹zywa³em skandale i intrygi wewn¹trz œcian pa³aców... Jam by³ wznosz¹c¹ siê gwiazd¹ w naukowym œwiecie.
 143)  DESINGE
 Zazdroœni naukowcy uknuli spisek oskar¿aj¹c mnie o nieetyczne krzy¿owanie ze sob¹ królewskich pudli!
 144)  DESINGE
@@ -358,8 +354,6 @@ W sensie, kto tu jest mê¿czyzn¹?
 {Fierce} ENGARDE!
 172)  GUYBRUSH
 Jak siê dosta³aœ na mój statek?
-2130)  
-Jak siê dosta³aœ na mój statek?
 173)  MORGAN
 Po prostu wspiê³am siê na pok³ad, kiedy ty by³eœ zajêty... gapieniem siê w s³oñce.  Nie jesteœ zbyt spostrzegawczy.  Tak a propos, podczas wspinania wygi¹³ mi siê mój hak wiêc wisisz mi nowy!
 174)  GUYBRUSH
@@ -391,10 +385,6 @@ Ja? S³awny? Nie mia³em o tym pojêcia!
 187)  GUYBRUSH
 Cofnij siê, kobieto!
 188)  MORGAN
-Nigdy!
-828)  GUYBRUSH
-Nigdy!
-1591)  LECHUCK
 Nigdy!
 189)  GUYBRUSH
 A mo¿e pogodzimy siê z niezgod¹?
@@ -569,8 +559,6 @@ Och, przymknij swoj¹ rybi¹ jadaczkê!
 Panowie, proszê o spokój! Jestem pewna, ¿e ty i Wódz jakoœ dojdziecie do porozumienia...
 274)  GUYBRUSH
 Witam ponownie!
-1731)  WINSLOW
-Witam ponownie!
 275)  
 O co biega z tym lekarstwem?
 276)  GUYBRUSH
@@ -588,7 +576,7 @@ Mówi³eœ o "Artefaktach Wezwania..."
 282)  GUYBRUSH
 Mówi³eœ o "Artefaktach Wezwania" - fajna nazwa.
 283)  MERLEADER
-Nasi prorocy mówi¹ o trzech z³otych Artefaktach, ukrytych gdzieœ na tych wyspach.  Maj¹ one kszta³t naszych staro¿ytnych morskich bóstw - M¹dry ¯ó³w, Szlachetny Koñ Morski i Burkliwa Rybka. 
+Nasi prorocy mówi¹ o trzech z³otych Artefaktach, ukrytych gdzieœ na tych wyspach.  Maj¹ one kszta³t naszych staro¿ytnych morskich bóstw - M¹dry ¯ó³w, Szlachetny Koñ Morski i Burkliwa Rybka.
 284)  GUYBRUSH
 Burkliwa?
 285)  MERLEADER
@@ -633,8 +621,6 @@ Guybrushu, on siê zmieni³ a ja nie mam czasu ci tego wyjaœniaæ.  Potrzebuje twoj
 Eh... no dobra.
 305)  ELAINE
 Wiêc bêdziesz moim mê¿nym rycerzem w pirackiej zbroi i zdobêdziesz te Artefakty Wezwania, kiedy ja bêdê godziæ tych ludzi?
-1825)  ELAINE
-Wiêc bêdziesz moim mê¿nym rycerzem w pirackiej zbroi i zdobêdziesz te Artefakty Wezwania, kiedy ja bêdê godziæ tych ludzi?
 306)  GUYBRUSH
 ... okej.
 307)  ELAINE
@@ -666,10 +652,6 @@ Przyp³yn¹³um.
 320)  ANEMONE
 Wiêc powiedz, czego ci trzeba?
 321)  TETRA
-Witaj, marynarzu!
-587)  ANEMONE
-Witaj, marynarzu!
-659)  ANEMONE
 Witaj, marynarzu!
 322)  GUYBRUSH
 A zamknij siê tam!
@@ -745,10 +727,6 @@ Jak sobie ¿yczysz.
 [pondering, where did I hear that name?] {Confused} Guybrush...? [shouting across ships/realizing in anger] {Surprised} THREEPWOOD!!  Ty by³eœ tym, który wetkn¹³ mojemu cz³owiekowi tani¹ podróbkê Artefaktu Wezwania!
 358)  GUYBRUSH
 Och.
-498)  GUYBRUSH
-Och.
-542)  GUYBRUSH
-Och.
 359)  MCGILLICUTTY
 [shouting across ships] {Angry} Arrr!!!  Bêdzie ci ¿al dnia, w którym nasze drogi siê zesz³y!
 360)  MCGILLICUTTY
@@ -765,12 +743,8 @@ Dziêkujê, panie Winslow.  A teraz powrót na wyspê Sharpnêta, zanim Ospa ogarnie 
 Ekhem... u¿yj mapy, kapitanie.
 366)  GUYBRUSH
 Co?
-399)  GUYBRUSH
-Co?
-1941)  MORGAN
-Co?
 367)  WINSLOW
-  Wolê, jak pan wskazuje mi na mapie.
+Wolê, jak pan wskazuje mi na mapie.
 368)  GUYBRUSH
 Oczywiœcie, panie Winslow.
 369)  MERLEADER
@@ -821,27 +795,7 @@ Tak naprawdê, to wcale.  Ani trochê.
 {suspicious}No mo¿e...minutê, czy dwie, panie Winslow.
 392)  
 Tak!
-1414)  GUYBRUSH
-Tak!
 393)  
-Nie.
-1013)  TRENCHFOOT
-Nie.
-1131)  MERLEADER
-Nie.
-1443)  TRENCHFOOT
-Nie.
-1495)  TRENCHFOOT
-Nie.
-1499)  TRENCHFOOT
-Nie.
-1501)  TRENCHFOOT
-Nie.
-1503)  TRENCHFOOT
-Nie.
-1668)  MORGAN
-Nie.
-1725)  WINSLOW
 Nie.
 394)  
 Mo¿e.
@@ -853,6 +807,8 @@ Ci¹gle czekam na przybycie Elaine i na... por¹banego  LeChucka. Sam nie wiem, co
 Elaine, tu jesteœ!  OK, wyp³ywamy! LeChuck, jak dobrze ciê znowu widzieæ!  Ale czas ju¿ na krótkie po¿egnanie.  Mam ¿onê, któr¹ muszê zawieœæ do domu, by mi³o spêdziæ z ni¹ chwile.  ¯egnam!
 398)  ELAINE
 Guybrushu, ja z tob¹ nie p³yn¹.
+399)  GUYBRUSH
+Co?
 400)  LECHUCK
 To przez te ma³pki!  Chcemy pomóc im w odbudowaniu domów, które utraci³y!
 401)  ELAINE
@@ -862,8 +818,6 @@ Zaufaj mi, kochanie.
 403)  GUYBRUSH
 No... dobra.
 404)  LECHUCK
-Nie bój siê o ni¹! Zaopiekuje siê Elaine podczas twojej nieobecnoœci!
-1832)  LECHUCK
 Nie bój siê o ni¹! Zaopiekuje siê Elaine podczas twojej nieobecnoœci!
 405)  GUYBRUSH
 Elaine, wrócê po ciebie w mgnieniu rybiego oka!
@@ -966,7 +920,7 @@ Tak, to jest DeCava. Widocznie, to jest jego... obozowisko.  Wygl¹da jakby nie b
 454)  GUYBRUSH
 Pamiêtnik DeCava.  "Te notatki zapisa³em podczas poszukiwañ La Esponja Grande:"  Wow, tu jest 36 tomików!  Wygl¹da na to, ¿e szuka³ jej naprawdê D£UGO!
 455)  GUYBRUSH
-"Œcie¿ka Ust"... okej... 
+"Œcie¿ka Ust"... okej...
 456)  GUYBRUSH
 "Zmierzch na Wierzchu, czyli jak dobrze zeswataæ parê dwóch zwierz¹t tej samej rasy."
 457)  GUYBRUSH
@@ -1044,13 +998,15 @@ Proszê bardzo.  Rozumiem, ¿e chcesz mieæ zas³ugi.  To wa¿ne, ¿eby móc "b³yszczeæ
 493)  GUYBRUSH
 Nie o to chodzi, ja tylko--
 494)  LECHUCK
-A teraz muszê ciê przeprosiæ, bo jestem zajêty zwracaniem dziczy ma³p, które wczeœniej uprowadzi³em. Nie uwierzy³byœ, ilu ma³p potrzeba do wype³nienia kl¹twy voodoo! Co ja sobie kiedyœ ubzdura³em?! 
+A teraz muszê ciê przeprosiæ, bo jestem zajêty zwracaniem dziczy ma³p, które wczeœniej uprowadzi³em. Nie uwierzy³byœ, ilu ma³p potrzeba do wype³nienia kl¹twy voodoo! Co ja sobie kiedyœ ubzdura³em?!
 495)  GUYBRUSH
 ChodŸ tu do mnie, ma³a rybko...
 496)  GUYBRUSH
 Hej, chyba bierze...
 497)  GUYBRUSH
 Podp³yñ trochê bli¿ej... MAM CIÊ!
+498)  GUYBRUSH
+Och.
 499)  GUYBRUSH
 [struggling partly underwater with a big fish] £aa!!
 500)  GUYBRUSH
@@ -1137,13 +1093,14 @@ Tak, a jeœli nie dasz nam tego Artefaktu, mój cz³owiek dopilnuje, ¿eby ¿adna z t
 Jesteœ pewny, ¿e nie mo¿na podkrêcaæ temperatury?
 541)  GUYBRUSH
 Dodam tylko kilka stopni...
+542)  GUYBRUSH
+Och.
 543)  GUYBRUSH
 Czego oczy nie widz¹, tego sercu nie ¿al!
 544)  GUYBRUSH
 Ochrona zabytków historycznych.  "¯adna z konstrukcji nie mo¿e zostaæ w ¿aden sposób zniszczona ani oszpecona."  Rozporz¹dzenie Wodza Belugi
 545)  GUYBRUSH
 Sklep z przynêtami. I Naprawa Statków.
-Porêczne.
 546)  GUYBRUSH
 Nienawidzi³bym siebie za TAK¥ fuchê.
 547)  GUYBRUSH
@@ -1178,8 +1135,6 @@ WeŸ to, s³onko.  W³aœnie naby³am ca³odniow¹ przejœciówkê na tratwê.  Oczywiœcie 
 No dobra!  Dziêki, mój przytulasku!
 562)  ELAINE
 Nie przy ludziach, skarbie.
-1823)  ELAINE
-Nie przy ludziach, skarbie.
 563)  GUYBRUSH
 Ups, no tak... Mój przytulasku.
 564)  ELAINE
@@ -1199,8 +1154,6 @@ St¹d tego nie siêgnê.
 571)  GUYBRUSH
 Panie Winslow...
 572)  WINSLOW
-Tak, kapitanie?
-1721)  WINSLOW
 Tak, kapitanie?
 573)  GUYBRUSH
 Niech pan tak trzyma.
@@ -1230,6 +1183,8 @@ Sam nie wiem. Nie umiem odró¿niæ samców Trytonów od samic.
 Fiksatowski to prawdziwa zmora dla mojego masztu!
 586)  WINSLOW
 No.  Mo¿e czas zainwestowaæ w nieco bardziej wytrzyma³e drewno!
+587)  ANEMONE
+Witaj, marynarzu!
 588)  GUYBRUSH
 Nie mów tak.
 589)  ANEMONE
@@ -1316,8 +1271,6 @@ Ju¿ siê robi!
 Ca³y zestaw!
 630)  GUYBRUSH
 Dziêki!
-1009)  GUYBRUSH
-Dziêki!
 631)  GUYBRUSH
 Potrzebny mi nowy maszt do wymiany.  I jestem prawie pewny, ¿e w³aœciwe drzewo znajduje siê na ma³ej wyspie na pó³noc od Ska³y Gelato!
 632)  ANEMONE
@@ -1343,8 +1296,6 @@ Poproszê trochê ikry.
 642)  ANEMONE
 Proszê bardzo.
 643)  GUYBRUSH
-Dziêki.
-738)  GUYBRUSH
 Dziêki.
 644)  ANEMONE
 Nie ma problemu, samu je wysiadywa³um.
@@ -1376,6 +1327,8 @@ To ja!
 Widzê, widzê.  Co podaæ?
 658)  GUYBRUSH
 {happy}Hej, [tongue tied] {confused}Zalelelewilcu...
+659)  ANEMONE
+Witaj, marynarzu!
 660)  GUYBRUSH
 {suspicious}[awkwardly, not sure if he's talking to a mer-man or mer-maid] Wiêc...{confused} twoja p³eæ to...?
 661)  ANEMONE
@@ -1448,10 +1401,6 @@ Bia³a flaga do góry, wy zawszawia³e psy morskie!  Wyprujê wam flaki temu, który 
 Oni we mnie strzelaj¹!  Czemu oni we mnie strzelaj¹?!
 695)  GUYBRUSH
 Tak?
-942)  LECHUCK
-Tak?
-1943)  GUYBRUSH
-Tak?
 696)  HARDTACK
 Dok¹d ty chcesz dotrzeæ?
 697)  GUYBRUSH
@@ -1502,8 +1451,6 @@ No, no! Przek¹ska!
 {surprised}£oo!  Ale du¿a!
 720)  GUYBRUSH
 Ale rzut...
-1121)  GUYBRUSH
-Ale rzut...
 721)  GUYBRUSH
 Mam ciê!
 722)  GUYBRUSH
@@ -1538,6 +1485,8 @@ O tak!  Czêsto bywa³ w bibliotece. Lubi³ czytaæ o morskich g¹bkach, wodnych ssak
 O g¹bkach mówisz?  Od jak dawna siê tu nie pojawi³?
 737)  TETRA
 Och, minê³y lata, odk¹d ostatni siê tu napatoczy³.  Powodzenia w jego poszukiwaniach.
+738)  GUYBRUSH
+Dziêki.
 739)  GUYBRUSH
 Wiesz co? Chcia³bym wypo¿yczyæ ksi¹¿kê.
 740)  TETRA
@@ -1595,8 +1544,7 @@ Za tob¹! Trójg³owy z³oty konik!
 766)  TRENCHFOOT
 Uuh, gdzie?
 767)  TRENCHFOOT
-Eh, tam jest od cholery tych ma³ych wysepek. Wiêc jeœli skarb sam ciê nie zawo³a, bêdziesz tam siedzia³ równie d³ugo, co byœ wypatrywa³ lataj¹cej krowy. 
-
+Eh, tam jest od cholery tych ma³ych wysepek. Wiêc jeœli skarb sam ciê nie zawo³a, bêdziesz tam siedzia³ równie d³ugo, co byœ wypatrywa³ lataj¹cej krowy.
 768)  GUYBRUSH
 Co wy tutaj jeszcze robicie?
 769)  TRENCHFOOT
@@ -1661,8 +1609,6 @@ Patrz!  Bezbronne dzieci z fur¹ z³ota!
 Gdzie, gdzie?
 799)  GUYBRUSH
 Móg³byœ powiedzieæ tej pani za tob¹, ¿eby w koñcu siê ubra³a?
-2144)  
-Móg³byœ powiedzieæ tej pani za tob¹, ¿eby w koñcu siê ubra³a?
 800)  GUYBRUSH
 Patrz! Atrakcje!
 801)  TRENCHFOOT
@@ -1696,16 +1642,10 @@ Zapewniam, ¿e jesteœmy w stanie wymyœliæ coœ nieco mniej makabrycznego.
 815)  ELAINE
 To mo¿e wyjawisz kapitanowi Fiksatowskiemu pewn¹ CZÊŒÆ rytualnych mod³ów, a on ust¹pi nam przynajmniej po³owê G¹bki.
 816)  MCGILLICUTTY
-Jeœli oddasz mu te Przedmioty Wezwania zarêczam, ¿e wypatroszê was wszystkich ¿ywcem! 
+Jeœli oddasz mu te Przedmioty Wezwania zarêczam, ¿e wypatroszê was wszystkich ¿ywcem!
 817)  ELAINE
 Nikt nikogo nie wypatroszy!  Na pewno da siê to jakoœ pokojowo za³atwiæ!
 818)  GUYBRUSH
-Nie!
-824)  GUYBRUSH
-Nie!
-1368)  MORGAN
-Nie!
-1763)  
 Nie!
 819)  GUYBRUSH
 Nie wyobra¿am sobie przekopywania ca³ej, nawet TAK ma³ej wyspy, na czuja.  To zajê³oby wieki.
@@ -1717,12 +1657,16 @@ Hmm, gdybym by³ pochowan¹ papug¹, to gdzie bym siê schowa³?
 Nie i nie!
 823)  ELAINE
 Proszunio?
+824)  GUYBRUSH
+Nie!
 825)  ELAINE
 Proszê ciê, s³odziusiu?
 826)  GUYBRUSH
 Odmawiam!
 827)  ELAINE
 No weŸ...
+828)  GUYBRUSH
+Nigdy!
 829)  ELAINE
 Dla mnie?
 830)  GUYBRUSH
@@ -1738,8 +1682,6 @@ Za ¿adne skarby!
 835)  ELAINE
 Jesteœmy ma³¿eñstwem...
 836)  
-Le Kto?!!
-2110)  
 Le Kto?!!
 837)  GUYBRUSH
 Hej, skarbie... Mo¿emy chwilkê porozmawiaæ?
@@ -1819,10 +1761,6 @@ Och tak?  Sk¹d niby wiesz?
 Doœæ tego.
 875)  GUYBRUSH
 Przepraszam.
-1322)  GUYBRUSH
-Przepraszam.
-1561)  GUYBRUSH
-Przepraszam.
 876)  GUYBRUSH
 A wiêc... ty te¿ mnie szuka³aœ?
 877)  ELAINE
@@ -1836,8 +1774,6 @@ Tych bidulek, na które LeChuck rzuci³ zaklêcie na moim statku.  Musimy je wszyst
 881)  GUYBRUSH
 Mam wra¿enie, ¿e wiêcej czasu poœwiêcasz ratowaniu ma³p ni¿ mi.  Potrafiê zrobiæ wszystko, co te ma³py!
 882)  ELAINE
-Tak, ka¿dego ranka widzia³am jak zrêcznie siê drapiesz po ty³ku, masz talent.
-1822)  ELAINE
 Tak, ka¿dego ranka widzia³am jak zrêcznie siê drapiesz po ty³ku, masz talent.
 883)  GUYBRUSH
 Naprawdê siê o mnie martwi³aœ?  Bo widzia³em, ¿e nawet przerwa³aœ rozmowê z tymi ludorybami.
@@ -1881,8 +1817,6 @@ Nie mogê po³¹czyæ tych dwóch rzeczy! To bez sensu!
 To nic nie wskóra³o!
 903)  LECHUCK
 Na nic mi siê to nie zda³o.
-1844)  LECHUCK
-Na nic mi siê to nie zda³o.
 904)  GUYBRUSH
 OK, co to za ostatnia rzecz, któr¹ mi pokaza³eœ?
 905)  LECHUCK
@@ -1902,8 +1836,6 @@ Absolutnie! Jestem pewny, ¿e w koñcu mi siê uda. Daj mi jeszcze tylko chwilkê...
 912)  GUYBRUSH
 Jak chcesz.
 913)  GUYBRUSH
-OK, mo¿e tak...
-2198)  
 OK, mo¿e tak...
 914)  GUYBRUSH
 U¿yj...
@@ -1961,6 +1893,8 @@ Powodzenia, LeChuck. Ja ju¿ idê.
 Ale nie za daleko, bo mogê potrzebowaæ twojej pomocy.
 941)  LECHUCK
 Hmmm... to nic nie da³o.
+942)  LECHUCK
+Tak?
 943)  GUYBRUSH
 O tak!  Teraz jesteœ najfajniejszy ze wszystkich!
 944)  LECHUCK
@@ -1983,6 +1917,8 @@ To dzia³a, Guybrush!
 Wiêc pozwól, ¿e teraz u¿yjê Klucza--
 953)  LECHUCK
 Chwila!  Chyba to rozgryz³em!  Teraz kiedy mój Klucz jest na swoim miejscu, u¿yj swojego na INNYM zatrzasku!
+1836)  LECHUCK
+Czekaj!  Chyba to rozgryz³em!  Teraz kiedy mój Klucz jest na swoim miejscu, u¿yj swojego na INNYM zatrzasku!
 954)  GUYBRUSH
 Tak... sprytne!
 955)  LECHUCK
@@ -1998,8 +1934,6 @@ No weŸcie! Myœla³em, ¿e siê przyjaŸnimy!  Szczególnie po tym, jak wam pomog³em.
 960)  LECHUCK
 Artefakt jest w œrodku... gdybym tylko wiedzia³, jak go wydostaæ...
 961)  LECHUCK
-Jestem teraz wolny od kl¹tw voodoo... a jednak nie wiem jak to mi mog³oby pomóc.
-1843)  LECHUCK
 Jestem teraz wolny od kl¹tw voodoo... a jednak nie wiem jak to mi mog³oby pomóc.
 962)  GUYBRUSH
 To nie tak. Po prostu chcia³em, byœ zrozumia³ jakim palantem by³eœ przez te ostatnie lata.
@@ -2095,12 +2029,16 @@ Tak myœla³em!
 Hm?
 1008)  ANEMONE
 Dziœ masz j¹ do swojej dyspozycji!  Wskakuj na pok³ad i p³ywaj wszêdzie, gdzie chcesz wokó³ Wysp Sharpnêta!
+1009)  GUYBRUSH
+Dziêki!
 1010)  HARDTACK
 Chyba coœ mam!
 1011)  GUYBRUSH
 ¯e co?  Co znaleŸliœcie?
 1012)  GUYBRUSH
 Próbowaliœcie pod kamieniem?
+1013)  TRENCHFOOT
+Nie.
 1014)  GUYBRUSH
 NieŸle!
 1015)  GUYBRUSH
@@ -2134,8 +2072,6 @@ Musia³byœ go wyrwaæ z mojej ju¿ nie-zimnej i nie-martwej rêki!
 1029)  GUYBRUSH
 {confused}LeChuck?
 1030)  LECHUCK
-Guybrushu, uciekaj st¹d!  Ci kolesie myœl¹, ¿e wci¹¿ mam Artefakt. S¹ gotowi mnie zabiæ, by go odzyskaæ!
-1833)  LECHUCK
 Guybrushu, uciekaj st¹d!  Ci kolesie myœl¹, ¿e wci¹¿ mam Artefakt. S¹ gotowi mnie zabiæ, by go odzyskaæ!
 1031)  GUYBRUSH
 Dobra, ale Elaine chce, ¿ebym ci coœ przekaza³...
@@ -2174,8 +2110,6 @@ To trochê za du¿y kamieñ jak na tak ma³¹ wysepkê. Byæ mo¿e to wejœcie do ogromne
 1048)  GUYBRUSH
 Jeden z cudów natury.
 1049)  LECHUCK
-To musi poczekaæ, Guybrush.  W¹tpiê, ¿eby ci goœcie pozwolili mi odejœæ bez odebrania Artefaktu!
-1839)  LECHUCK
 To musi poczekaæ, Guybrush.  W¹tpiê, ¿eby ci goœcie pozwolili mi odejœæ bez odebrania Artefaktu!
 1050)  GUYBRUSH
 *DŸwiêk wyginaj¹cego siê kauczukowca* [as in TIMBER]
@@ -2319,6 +2253,8 @@ Ale mokre.
 Tak by³o pisane.
 1120)  GUYBRUSH
 To idiotyczne... Dalej ch³opcy! WeŸcie j¹ sobie...
+1121)  GUYBRUSH
+Ale rzut...
 1122)  GUYBRUSH
 {surprised}[Startled] Achh!{default}
 1123)  WINSLOW
@@ -2329,8 +2265,6 @@ W sumie mam jedn¹ proœbê...
 Muszê odnaleŸæ La Esponja Grande.
 1126)  GUYBRUSH
 Dostanê ciasteczko?
-1747)  
-Dostanê ciasteczko?
 1127)  MERLEADER
 Nie dostaniesz.
 1128)  GUYBRUSH
@@ -2339,6 +2273,8 @@ Nie tak... Czy MÓG£BYM dostaæ ciasteczko?
 Nie móg³byœ.
 1130)  GUYBRUSH
 Mogê?
+1131)  MERLEADER
+Nie.
 1132)  GUYBRUSH
 Na pewno nie wiesz, jaka jest tajemnica Wyspy Ma³p, prawda?
 1133)  MERLEADER
@@ -2368,7 +2304,7 @@ Wrócê po ciebie, Wodzu Beluga!
 1145)  WINSLOW
 Jeœli chcemy dogoniæ okrêt Fiksatowskiego musimy mieæ znowu ca³y maszt.
 1146)  GUYBRUSH
-Wiem.  Idê do mapy.  
+Wiem.  Idê do mapy.
 1147)  WINSLOW
 Nie znowu!
 1148)  MCGILLICUTTY
@@ -2392,8 +2328,6 @@ Ty coœ czujesz?  Czujesz?  CZUJESZ?
 1157)  GUYBRUSH
 Fiksatowski?  Nie dziwie siê, ¿e zw¹ ciê FIKSAT-owski.
 1158)  GUYBRUSH
-To jest armata? Bo bardziej przypomina nocnik!
-2194)  
 To jest armata? Bo bardziej przypomina nocnik!
 1159)  ELAINE
 Mog³abym to zrobiæ, ale ty MUSISZ odzyskaæ swoj¹ rêkê... eee, znaczy siê: musisz zdobyæ Artefakty Wezwania, bo s¹ one kluczem do wszystkiego.
@@ -2721,6 +2655,8 @@ To idealne miejsce na ukrycie skarbu.  Gdybyœ by³ bystrym piratem sam byœ tam go
 Rety!  Tam nic nie ma!
 1321)  TRENCHFOOT
 Hej, co ty tam wyprawiasz? Grzebiesz w naszej dziurze!
+1322)  GUYBRUSH
+Przepraszam.
 1323)  HARDTACK
 *Wzdycha* Zawsze chcia³em byæ drwalem...
 1324)  GUYBRUSH
@@ -2811,6 +2747,8 @@ W tej chwili jestem nieco zajêty.
 Haki s¹ œwietne do wyrywania i chwytania, ale nie do walki na miecze!
 1367)  GUYBRUSH
 Mo¿e omówimy to na spokojnie?
+1368)  MORGAN
+Nie!
 1369)  GUYBRUSH
 Rany. Myœla³em, ¿e zadzia³a.
 1370)  LECHUCK
@@ -2890,7 +2828,7 @@ Jest o starym cz³owieku, który przedstawia ca³¹ historiê swojego ¿ycia œlepej, z
 1407)  GUYBRUSH
 Brzmi... ciekawie.  Chyba poczekam na ekranizacjê.
 1408)  GUYBRUSH
-A mo¿e jak¹œ weso³¹ fikcjê? 
+A mo¿e jak¹œ weso³¹ fikcjê?
 1409)  GUYBRUSH
 Masz jakieœ lipne romansid³a?
 1410)  TETRA
@@ -2901,6 +2839,8 @@ Jasne, czego szukasz?
 Oczywiœcie!  Szukasz czegoœ konkretnego?
 1413)  GUYBRUSH
 Coœ nieco historycznego... najlepiej z polityczn¹ intryg¹.
+1414)  GUYBRUSH
+Tak!
 1415)  TETRA
 {disappointed}*Wzdycha* Zgoda.
 1416)  GUYBRUSH
@@ -2957,6 +2897,10 @@ Mo¿ecie zgadywaæ liczby.  Ten, kto zgadnie bêdzie zakopywa³!
 To brzmi rozs¹dnie. Ja pierwszy. Powiedz, o jakiej liczbie teraz myœlê...?
 1442)  HARDTACK
 {stern}27?
+1443)  TRENCHFOOT
+Nie.
+1495)  TRENCHFOOT
+Nie.
 1444)  HARDTACK
 Dobra, teraz ty zgadujesz.
 1445)  TRENCHFOOT
@@ -2983,8 +2927,6 @@ Byæ mo¿e.
 No to co sugerujesz?
 1456)  GUYBRUSH
 Mo¿e powinniœcie znowu ze sob¹ wspó³pracowaæ?
-2161)  
-Mo¿e powinniœcie znowu ze sob¹ wspó³pracowaæ?
 1457)  TRENCHFOOT
 Zgoda. Masz jakieœ dobre pomys³y?
 1458)  GUYBRUSH
@@ -2999,6 +2941,8 @@ Nie, bo wci¹¿ ja trzymam konika, dziêki któremu to ja wygrywam walkowerem!
 No to mo¿e zróbcie to wspólnie?
 1463)  HARDTACK
 To znaczy co?
+1613)  TRENCHFOOT
+Co masz na myœli?
 1464)  GUYBRUSH
 Po prostu obaj trzymajcie koñce Artefaktu, umieszczaj¹c go razem w skrzyni.  Mo¿ecie WSPÓLNIE go w³o¿yæ i WSPÓLNIE zakopaæ skarb!
 1465)  TRENCHFOOT
@@ -3069,8 +3013,12 @@ Nie, teraz ja go mam.
 Spójrz chocia¿ na mnie, mo¿e siê jakoœ dogadamy?
 1500)  TRENCHFOOT
 Stul pysk.
+1501)  TRENCHFOOT
+Nie.
 1502)  TRENCHFOOT
 Cicho, myœlê!
+1503)  TRENCHFOOT
+Nie.
 1504)  TRENCHFOOT
 Powiedzia³em coœ.
 1505)  TRENCHFOOT
@@ -3185,6 +3133,8 @@ Lepiej trzymaj swoje ³apy z daleka od "mojego skarbu".
 ¯aden problem.  Obiecujê, ¿e nie dotknê ¿adnej czêœci twojego cia³a!
 1560)  TRENCHFOOT
 {stern}Hej!
+1561)  GUYBRUSH
+Przepraszam.
 1562)  GUYBRUSH
 Wolê, ¿eby LeChuck ju¿ nigdy w ¿yciu nie maca³ swoimi obœlizg³ymi ³apami tego prawdziwego Artefaktu!
 1563)  GUYBRUSH
@@ -3243,11 +3193,11 @@ Ale jedyne, co trzeba zrobiæ, to...
 Nie, nie, nie.  Sam chcê to obczaiæ.
 1590)  GUYBRUSH
 I w³aœnie tego siê obawiam.  Ale rozumiem.
+1591)  LECHUCK
+Nigdy!
 1592)  LECHUCK
 Ju¿ po tobie!
 1593)  LECHUCK
-Nie wiem, co siê sta³o. Kiedyœ potrafi³em roznieœæ ca³e armie bez zmru¿enia oka. A teraz? Garstka chorych piratów wyrywa mi Artefakt z rêki jak cukierka dziecku?
-1846)  LECHUCK
 Nie wiem, co siê sta³o. Kiedyœ potrafi³em roznieœæ ca³e armie bez zmru¿enia oka. A teraz? Garstka chorych piratów wyrywa mi Artefakt z rêki jak cukierka dziecku?
 1594)  GUYBRUSH
 Nie obwiniaj siebie, LeChuck. Ci piraci doœæ ju¿ nabroili. Poza tym, ten Artefakt by³ fa³szywy.  Autentyk jest teraz ca³kowicie bezpieczny.
@@ -3287,8 +3237,6 @@ Hej, co to jest?
 Musia³o do tego dojœæ!
 1612)  GUYBRUSH
 Nie wiecie, ¿e w 9 na 10 przypadkach, miejsce pierwszego zakopania skarbu to punkt o najwiêkszych szansach na jego znalezienie?
-1613)  TRENCHFOOT
-Co masz na myœli?
 1614)  GUYBRUSH
 No, jeœli wybraliœcie to miejsce tak ³atwo to wszyscy inni piraci maj¹ wiêksze szanse na to, ¿eby samemu wybraæ to miejsce do odkopania.
 1615)  TRENCHFOOT
@@ -3397,6 +3345,8 @@ Ja sterujê, ty nawigujesz!  Dla wygody umieœci³em mapê na twojej kajucie.
 Szybki jesteœ!
 1667)  GUYBRUSH
 Zdajê siê, ¿e ta postrzêpiona lina utrzymuje beczkê w miejscu.
+1668)  MORGAN
+Nie.
 1669)  GUYBRUSH
 Kurczê.
 1670)  WINSLOW
@@ -3471,8 +3421,6 @@ Tak nic nie zdzia³asz.
 Wakacjanie nic ci nie dadz¹!
 1705)  MERLEADER
 Guybrushu, zatop statek!
-1971)  MERLEADER
-Guybrushu, zatop statek!
 1706)  MCGILLICUTTY
 Jeœli kiedyœ znajdê tych, którzy przepuœcili ciê przez blokadê, to porzucê ich na jednej z tych ma³ych, opuszczonych wysepek na œrodku oceanu!
 1707)  GUYBRUSH
@@ -3490,7 +3438,7 @@ Nie mo¿na zrobiæ nic po¿ytecznego u¿ywaj¹c tego z masztem.
 1713)  GUYBRUSH
 Hmm, maszt wygl¹da teraz na zupe³nie zniekszta³cony, jednak to w niczym nie pomaga.
 1714)  GUYBRUSH
-Mo¿e kiedyœ wyg³oszê swoj¹ mi³oœæ do Elaine przez wyrzeŸbienie serduszek w korze tego drzewa, jednak teraz lepiej zaj¹æ siê Fiksatowskim! 
+Mo¿e kiedyœ wyg³oszê swoj¹ mi³oœæ do Elaine przez wyrzeŸbienie serduszek w korze tego drzewa, jednak teraz lepiej zaj¹æ siê Fiksatowskim!
 1715)  GUYBRUSH
 Bêdzie ci przykro, kiedy przebijê ciê tym hakiem!
 1716)  MCGILLICUTTY
@@ -3503,12 +3451,16 @@ Co ja mam zrobiæ?
 ZnajdŸ sposób, by zatopiæ jego statek.  Kiedy ju¿ bêdê pod wod¹, poradzê sobie!
 1720)  GUYBRUSH
 Panie Winslow.
+1721)  WINSLOW
+Tak, kapitanie?
 1722)  GUYBRUSH
 Ma pan jakiœ pomys³, ¿eby sprz¹tn¹æ Fiksatowskiego?
 1723)  WINSLOW
 Có¿, naj³atwiej by by³o gdyby sam zatopi³ swój okrêt!
 1724)  GUYBRUSH
 Nie by³ pan taktykiem na swoim poprzednim statku, prawda?
+1725)  WINSLOW
+Nie.
 1726)  GUYBRUSH
 Co zrobimy z tym masztem?
 1755)  
@@ -3525,6 +3477,8 @@ Tak. Dopóki Fiksatowski myœli, ¿e bycie podtapianym to skuteczna tortura, Wódz j
 Tak trzymaj!
 1758)  
 Tak trzymaj!
+1731)  WINSLOW
+Witam ponownie!
 1732)  WINSLOW
 Dobrze pana widzieæ, kapitanie!
 1733)  WINSLOW
@@ -3553,6 +3507,8 @@ Na morzu.
 Cabo San Lucas?
 1745)  
 Jesteœ Trytonem?
+1747)  
+Dostanê ciasteczko?
 1748)  
 Czy MÓG£BYM dostaæ ciasteczko?
 1749)  
@@ -3577,6 +3533,8 @@ Ale ja mam nowy statek!
 Nie martw siê, sikam pierwszy.
 1762)  
 Ktoœ trzyma ciê na muszce armaty?
+1763)  
+Nie!
 1764)  
 ... Dobra.
 1765)  GUYBRUSH
@@ -3614,8 +3572,6 @@ Auæ!  Teraz, to nawet ten kurek jest za gor¹cy by go dotykaæ!
 1781)  GUYBRUSH
 U¿y³em mojego dziwnego Klucza Konia Morskiego na tych zamkach. Ciekawe, czy DeSinge ma zapasowy?
 1782)  GUYBRUSH
-Studnia ¯yczeñ
-2220)  
 Studnia ¯yczeñ
 1783)  GUYBRUSH
 Hmm... mo¿e móg³bym oszukaæ piratów przetapiaj¹c t¹ piraci¹ papugê na coœ o kszta³cie tego Morskiego ¯ó³wia.
@@ -3659,8 +3615,6 @@ Wyspa Rozbitków
 Wyspy Sharpnêta
 1800)  
 Ska³a Gelato
-1878)  
-Ska³a Gelato
 1801)  
 Wyspa Przystawki
 1807)  
@@ -3701,8 +3655,14 @@ Dok³adnie!  Co ci siê sta³o z rêk¹?  I gdzie twoja obr¹czka?!!
 Och. Lepiej tam wrócê, zanim siê nawzajem pozarzynaj¹!
 1821)  ELAINE
 Och, nie w tym sensie!  Odk¹d siê zmieni³ ani razu nie wspomnia³ o chêci o¿enienia siê ze mn¹!
+1822)  ELAINE
+Tak, ka¿dego ranka widzia³am jak zrêcznie siê drapiesz po ty³ku, masz talent.
+1823)  ELAINE
+Nie przy ludziach, skarbie.
 1824)  ELAINE
 Proszê tak s³odko jak cukierek?
+1825)  ELAINE
+Wiêc bêdziesz moim mê¿nym rycerzem w pirackiej zbroi i zdobêdziesz te Artefakty Wezwania, kiedy ja bêdê godziæ tych ludzi?
 1826)  
 Niewa¿ne.
 2145)  
@@ -3719,24 +3679,34 @@ Pa.
 Elaine chce, ¿ebyœ to TY ocali³ Wodza.
 1831)  LECHUCK
 Nie mogê po³¹czyæ tych dwóch rzeczy! To nie ma sensu.
+1832)  LECHUCK
+Nie bój siê o ni¹! Zaopiekuje siê Elaine podczas twojej nieobecnoœci!
+1833)  LECHUCK
+Guybrushu, uciekaj st¹d!  Ci kolesie myœl¹, ¿e wci¹¿ mam Artefakt. S¹ gotowi mnie zabiæ, by go odzyskaæ!
 1834)  LECHUCK
 hmm, gdybym po³¹czy³ to coœ z tym, jak to tam siê nazywa... to bym prawie stworzy³ krowê.  Tylko czy potrzebne mi byd³o?
 1835)  LECHUCK
 A mo¿e w tym jest coœ, czego nie widzê?
-1836)  LECHUCK
-Czekaj!  Chyba to rozgryz³em!  Teraz kiedy mój Klucz jest na swoim miejscu, u¿yj swojego na INNYM zatrzasku!
 1837)  LECHUCK
 [Concerned]Guybrush!  Dziêki Bogu, ¿e nic ci nie jest!    Razem z Elaine tak siê baliœmy!
 1838)  LECHUCK
 Jestem ju¿ blisko... Czujê to!  Arrrgh!  Ja nigdy... nie by³em zbyt dobry w takie ³amig³ówki!  Kiedyœ ³atwiej by³o... zabijaæ ludzi do momentu, a¿ ktoœ ciê wyrêczy!... A mo¿e udzielisz mi ma³ej wskazówki?
+1839)  LECHUCK
+To musi poczekaæ, Guybrush.  W¹tpiê, ¿eby ci goœcie pozwolili mi odejœæ bez odebrania Artefaktu!
 1840)  LECHUCK
 Wci¹¿ nie widzê tego, co mo¿e byæ tu kluczowe.
 1841)  LECHUCK
 [Exasperated] *grzmi* Guybrush!  Myœla³em, ¿e mi pomo¿esz!
 1842)  LECHUCK
 Spójrz tylko!  Czyste z³oto. Skarb po¿¹dany przez ka¿dego szanuj¹cego siê pirata...
+1843)  LECHUCK
+Jestem teraz wolny od kl¹tw voodoo... a jednak nie wiem jak to mi mog³oby pomóc.
+1844)  LECHUCK
+Na nic mi siê to nie zda³o.
 1845)  LECHUCK
 Ach, tak.  Zrozumienie swoich b³êdów to wa¿na rzecz.
+1846)  LECHUCK
+Nie wiem, co siê sta³o. Kiedyœ potrafi³em roznieœæ ca³e armie bez zmru¿enia oka. A teraz? Garstka chorych piratów wyrywa mi Artefakt z rêki jak cukierka dziecku?
 1847)  LECHUCK
 [Worried]Guybrush?
 1848)  
@@ -3799,6 +3769,8 @@ Wygl¹da na zamkniêty.
 To normalne.   Chaos.   Zawadiackoœæ. K³opotliwe spotkanie z magicznym mrównikiem. Moja ³adownia jest ca³a zama³piona a tamten kapitan Osobowoœæ ma chêæ mnie poœlubiæ.
 1877)  
 Gdzieœ na Karaibach
+1878)  
+Ska³a Gelato
 1879)  
 Scenariusz i re¿yseria
 1880)  
@@ -3807,6 +3779,8 @@ Mark Darin
 Programowanie
 1882)  
 Randy Tudor
+1883)  
+Muzyka
 1884)  
 Michael Land
 1885)  
@@ -3910,8 +3884,7 @@ Gdzie ja to wczeœniej widzia³em?
 1930)  
 LucasArts oraz logo LucasArts s¹ znakami handlowymi Lucasfilm Ltd. w U.S.A i/lub
 w innych krajach. © 1990-2009 Lucasfilm Entertainment Company Ltd.
-Telltale oraz logo Telltale Games s¹ znakami handlowymi Telltale, Inc. 
-* Wersja PL: tirey93 * Podziêkowania dla GrajPoPolsku.pl *
+Telltale oraz logo Telltale Games s¹ znakami handlowymi Telltale, Inc.
 1931)  GUYBRUSH
 Zobaczymy, czy to odeprzesz!
 1932)  GUYBRUSH
@@ -3932,8 +3905,12 @@ Hej, odczep siê od mojej rêki, g³upi ptaku!
 Zmiataj st¹d!  IdŸ sobie!  Sioo!
 1940)  GUYBRUSH
 Och! Jeœli zniszczê tê beczkê, Winslow mnie ZABIJE!
+1941)  MORGAN
+Co?
 1942)  MORGAN
 [pickup1][noticeing that she is about to spring a trap; softly to herself] {Serious} Och.
+1943)  GUYBRUSH
+Tak?
 1944)  WINSLOW
 Oczywiœcie!  To mo¿e byæ cokolwiek, ale ja siê nie znam.  Jednak trzymajmy nerwy na wodzy, naprawimy j¹.
 1945)  GUYBRUSH
@@ -3988,6 +3965,8 @@ Niechlujo?  Wiesz ile w³o¿y³em w uk³adanie mojej bródki?
 Lepiej pilnuj swojego nosa, jeœli wiesz co dla ciebie dobre!
 1970)  GUYBRUSH
 A czy wygl¹dam na takiego co WIE co dla niego dobre?
+1971)  MERLEADER
+Guybrushu, zatop statek!
 1972)  GUYBRUSH
 Sprawiedliwoœæ jest œlepa.  Teraz jest...  i œmierdzi rybami.
 1973)  GUYBRUSH
@@ -4140,6 +4119,8 @@ Kupon Specjalny
 Przepustka Przep³ywu
 2047)  
 Rybie Oko
+2048)  
+Oko Manata
 2049)  
 Papier
 2050)  
@@ -4236,8 +4217,6 @@ Gryzmo³y?
 Szkic
 2096)  
 Bezu¿yteczne Graty
-2199)  
-Bezu¿yteczne Graty
 2097)  
 Gor¹ce wêgielki
 2098)  
@@ -4264,6 +4243,8 @@ Znak: Zakaz £owienia
 Upad³a Statua
 2109)  
 Komnata Królewska
+2110)  
+Le Kto?!!
 2111)  
 Le Co?!!
 2112)  
@@ -4296,6 +4277,8 @@ Piryci Artefakt ¯ó³wia
 Gdzie Winslow, ty s³onowodna wiedŸmo?
 2129)  
 Czemu zgodzi³aœ siê na pracê dla DeSigne'a?
+2130)  
+Jak siê dosta³aœ na mój statek?
 2131)  
 Szukam swojej ¿ony, Elaine.
 2132)  
@@ -4322,6 +4305,8 @@ A mo¿e konkurs wstrzymywania oddechu?
 Mo¿ecie zgadywaæ liczby.
 2143)  
 Wasze oczy chyba zaraz wyparuj¹.
+2144)  
+Móg³byœ powiedzieæ tej pani za tob¹, ¿eby w koñcu siê ubra³a?
 2147)  
 Mo¿e jest jakiœ sposób by rozstrzygn¹æ wasz¹ sprzeczkê.
 2148)  
@@ -4348,6 +4333,8 @@ Starta K³ód
 Ja bêdê odwracaæ uwagê, a TY zostaniesz bohaterem.
 2159)  
 To, ¿e jesteœ ode mnie we wszystkim lepszy.
+2161)  
+Mo¿e powinniœcie znowu ze sob¹ wspó³pracowaæ?
 2162)  
 Oderwana Kawa³ek O³tarza
 2163)  
@@ -4410,12 +4397,18 @@ Ow³adniêci Osp¹ Piraci
 Pusta Miska
 2193)  
 Czy próbowaliœcie kopaæ pod kamieniem?
+2194)  
+To jest armata? Bo bardziej przypomina nocnik!
 2195)  
 Znalaz³em coœ, czym mo¿esz naprawiæ mój maszt!
 2196)  
 Naprawdê powinniœcie zakopaæ ten Artefakt przed powrotem Fiksatowskiego.
 2197)  
 Zakopujcie. Chyba s³yszê Fiksatowskiego!
+2198)  
+OK, mo¿e tak...
+2199)  
+Bezu¿yteczne Graty
 2200)  
 Ksi¹¿ki-Swatki dla Zwierz¹t
 2201)  
@@ -4474,6 +4467,8 @@ Ile ¿yje d¿d¿ownica z³apana przez wêdkarza?
 Dwa dni z hakiem!
 2219)  
 Kupon
+2220)  
+Studnia ¯yczeñ
 2221)  
 Ruiny Wakacjan?
 2222)  
@@ -4540,5 +4535,3 @@ Rozdziale 3:
 SIEDLISKO LEWIATANA
 2243)  
 Otwarte Morze
-2244)  
-Znowu muszê naprawiæ maszt.
