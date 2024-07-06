@@ -73,10 +73,6 @@ namespace po2tomi_converter.Commands
             for (int i = 1; i < lines.Length; i++)
             {
                 var strLine = lines[i];
-                if (string.IsNullOrEmpty(strLine))
-                {
-                    continue;
-                }
 
                 if (_regex.Match(strLine).Success)
                 {

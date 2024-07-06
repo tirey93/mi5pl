@@ -41,14 +41,22 @@ namespace po2tomi_converter.Commands
 
                     var splittedMarkup = splitter.Markup.Split("_");
                     var number = splittedMarkup[0];
-                    var author = splittedMarkup[1];
+                    var sublineNumber = splittedMarkup[1];
+                    var author = splittedMarkup[2];
 
-                    if (number == "11")
+
+                    var toAppendPl = "";
+                    var toAppendOrg = "";
+                    if (sublineNumber == "0")
                     {
-
+                        toAppendPl = $"{number})  {author}\n{plText}\n";
+                        toAppendOrg = $"{number})  {author}\n{orgText}\n";
                     }
-                    var toAppendPl = $"{number})  {author}\n{plText}\n";
-                    var toAppendOrg = $"{number})  {author}\n{orgText}\n";
+                    else
+                    {
+                        toAppendPl = $"{plText}\n";
+                        toAppendOrg = $"{orgText}\n";
+                    }
 
                     resultPl.Append(toAppendPl);
                     resultOrg.Append(toAppendOrg);

@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"DEADLINE"</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>"KRYSKA"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Deadline"</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>"Kryska"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"Eat, Sleep and Rot: A Path to Illumination"</seg>
       </tuv>
       <tuv lang="pl">
@@ -114,6 +130,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>"Morze++ Dla Początkujących"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"THE SIEGE OF SPINNER CAY"</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>"OBLĘŻENIE RAFY ZAWIROWAŃ"</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,8 +496,8 @@
       <tuv lang="en-US">
         <seg>And get me some grog for this hand!</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240706T052329Z">
-        <seg>I daj mi jakiś grog na tę rękę!</seg>
+      <tuv lang="pl">
+        <seg>I jakiś grog dla tej dłoni!</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,10 +566,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you sure</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Czy na pewno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you sure you can't help me get off the island?</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Czy na pewno nie możesz mi pomóc się stąd wydostać?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Are you sure you want to load this game?</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Czy na pewno chcesz wczytać tę grę?</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on Characters</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Na Podstawie Postaci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Be well, Threepwood.</seg>
       </tuv>
       <tuv lang="pl">
@@ -870,6 +918,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CHAPTER 1</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>ROZDZIAŁ 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cage</seg>
       </tuv>
       <tuv lang="pl">
@@ -994,6 +1050,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Odpuść sobie swoje kombinacje i oddaj mi tę rękę!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chapter 2</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Rozdziale 2:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1178,6 +1242,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Korba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Created By</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Autorstwa</seg>
       </tuv>
     </tu>
     <tu>
@@ -1470,6 +1542,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E-E-S-N-E</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>W-W-Pd.-Pn.-W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E-W-E</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>W-Z-W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E-W-N-E-S</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>W-Z-Pn.-W-Pd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E-W-N-E-S-W-S-N-E</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>W-Z-Pn.-W-Pd.-Z-Pd.-Pn.-W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E-W-S-W</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>W-Z-Pd.-Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E-W-W-E-E</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>W-Z-Z-W-W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ELAAAAAAAAAAAAAAAaaaaaaaaanie!!!</seg>
       </tuv>
       <tuv lang="pl">
@@ -1754,6 +1874,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Pełny ekran: Graj w trybie pełnego ekranu lub okienkowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Grę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Paused</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Pauza</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,10 +2318,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>His mortal enemy is a horrifyingly</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Jego śmiertelnym wrogiem jest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>His name is Guybrush Threepwood, Mighty Pirate™</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Nazywa się Guybrush Threepwood, Potężny Pirat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>His stories are so epic that they</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Jego przygody są tak epickie, że</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>His three loves are Elaine, swashbuckling,</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Jego trzy ukochane to Elaine, Zawadiackość</seg>
       </tuv>
     </tu>
     <tu>
@@ -2318,6 +2478,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How can LeChuck</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Jak powstrzymać LeChucka,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How can LeChuck be stopped, now that he's... human?!</seg>
       </tuv>
       <tuv lang="pl">
@@ -2402,6 +2570,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Co?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hunt</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Skarbu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3566,6 +3742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LAUNCH OF THE SCREAMING NARWHAL</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>ZRYW WYJĄCEJ NARWALI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let 'em get their OWN flier.</seg>
       </tuv>
       <tuv lang="pl">
@@ -3902,6 +4086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>N-S-N-S</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Pn.-Pd.-Pn.-Pd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NO!</seg>
       </tuv>
       <tuv lang="pl">
@@ -4058,6 +4250,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Nie tak szybko, błahy piracie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note to self -</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Notka głosi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note: Your game will shut down and you'll be connected to MonkeyIslandTreasures.com automatically.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Uwaga: Twoja gra zostanie wyłączona i będziesz łączony automatycznie z MonkeyIslandTreasures.com.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4262,6 +4470,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Perfect.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="dapyt" changedate="20240706T064746Z" creationid="dapyt" creationdate="20240706T064746Z">
+        <seg>Idealnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Periodic</seg>
       </tuv>
       <tuv lang="pl">
@@ -4398,6 +4614,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press Space to Continue</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Naciśnij klawisz Spacja, by kontynuować</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press the 2 button to continue</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Naciśnij przycisk 2, by kontynuować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Printer's ink... the life blood of the newspaper industry, lovingly harvested from squid udders.</seg>
       </tuv>
       <tuv lang="pl">
@@ -4502,6 +4734,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ready to start</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Gotów, by zacząć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Red Carpet</seg>
       </tuv>
       <tuv lang="pl">
@@ -4514,6 +4754,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Rozdzielczość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resume</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Wznów</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,10 +4830,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>S-E-S-W-W-W</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Pd.-W-Pd.-Z-Z-Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>S-N-E-E</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Pd.-Pn.-W-W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SCIENCE!{default}</seg>
       </tuv>
       <tuv lang="pl">
         <seg>DLA NAUKI!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sam &amp; Max tutorial...</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>samouczek Sama &amp; Maksa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4610,6 +4882,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Zapisy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving and loading are</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Zapisywanie i wczytywanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -4806,6 +5086,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sorry!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Niestety!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sorry, I seem to be having some trouble with my hand...[hearing the growling]... today.</seg>
       </tuv>
       <tuv lang="pl">
@@ -4866,6 +5154,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Schody</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start playing</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Zacznij grać w</seg>
       </tuv>
     </tu>
     <tu>
@@ -4958,6 +5254,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TALES OF MONKEY ISLAND</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>OPOWIEŚCI WYSPY MAŁP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TEMP MAP TEXT</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>TYMCZ. TEKST MAPY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>TEMPORARY MAP TEXT</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>TYMCZASOWY TEKST MAPY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tales of Monkey Island</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Opowieści z Wyspy Małp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tantalizing Rope</seg>
       </tuv>
       <tuv lang="pl">
@@ -4994,6 +5322,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Powiedz coś więcej o medalionie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Telltale and the Telltale Games logo are trademarks of Telltale, Inc.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Telltale oraz logo Telltale Games są znakami handlowymi Telltale, Inc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5254,6 +5590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The answers to these and</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Odpowiedzi na te oraz inne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cards have foretold that you seek direction.</seg>
       </tuv>
       <tuv lang="pl">
@@ -5358,6 +5702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This additional mini-game is separate from the Tales of Monkey Island story.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Ta dodatkowa minigra jest oddzielona od fabuły Opowieści z Wyspy Małp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This idol looks like it's missing something.</seg>
       </tuv>
       <tuv lang="pl">
@@ -5454,6 +5806,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To Be Continued in</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Ciąg Dalszy Nastąpi w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To combine items, place an item in each of the two large circles on the left, then select the plus sign or press the 1 Button to combine them.</seg>
       </tuv>
       <tuv lang="pl">
@@ -5474,6 +5834,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>By odkryć, które skarby strzeże ten bóg i odkryć więcej map skarbów, wyłącz grę i odwiedź MonkeyIslandTreasures.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Treasure</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Szukanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -5590,6 +5958,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use map on altar</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Użyj mapy na ołtarzyku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use map on bombs</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Użyj mapy na bombach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use map on calendar</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Użyj mapy na kalendarzu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use map on shack</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Użyj mapie na chacie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use map on well</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Użyj mapy na studni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Useless Hand Lotion</seg>
       </tuv>
       <tuv lang="pl">
@@ -5658,6 +6066,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Bardzo rzadko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visit MonkeyIslandTreasures.com now?</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Chcesz teraz odwiedzić MonkeyIslandTreasures.com?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visit MonkeyIslandTreasures.com to check on the status of your treasure hunts, redeem your prizes, and get more maps!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Odwiedź MonkeyIslandTreasures.com, by sprawdzić status swoich pirackich poszukiwań, dostawać nagrody oraz zupełnie nowe mapy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5750,6 +6174,62 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>W-E-E-S</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Z-W-W-Pd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>W-N-N-N</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Z-Pn.-Pn.-Pn.-Pn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>W-S-E-E-E</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Z-Pd.-W-W-W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>W-W-E-S-E</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Z-Z-W-Pd.-W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>W-W-N</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Z-Z-Pł.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>W-W-N-E-W</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Z-Z-Pn.-W-Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>W-W-W-W-N-E-N</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Z-Z-Z-Z-Pn.-W-Pn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wait!</seg>
       </tuv>
       <tuv lang="pl">
@@ -5802,6 +6282,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Dziwne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Welcome to the Tales of Monkey</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Witamy na Poszukiwaniu Skarbów</seg>
       </tuv>
     </tu>
     <tu>
@@ -6046,6 +6534,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What's the deal</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>O co chodzi z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What's the deal with Guybrush's feisty hand?</seg>
       </tuv>
       <tuv lang="pl">
@@ -6174,6 +6670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Will the Mighty Pirate</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Czy Potężny Pirat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Will the Mighty Pirate reunite with his beloved wife?</seg>
       </tuv>
       <tuv lang="pl">
@@ -6226,6 +6730,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Chcesz kwiatka?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Would you like to start a new</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Zacząć nową grę,</seg>
       </tuv>
     </tu>
     <tu>
@@ -6338,6 +6850,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Joink!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are a Mighty Pirate™!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Jesteś Potężnym Piratem™!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can also extend your pirate experience by joining Guybrush's Treasure Hunt.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Możesz poszerzyć swe pirackie doświadczenia grając w Poszukiwanie Skarbu Guybrusha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7440,8 +7968,8 @@
       <tuv lang="en-US">
         <seg>[pickup1][read with urgency] Set a course for here!</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240706T052601Z">
-        <seg>Tu se obierz kurs!</seg>
+      <tuv lang="pl">
+        <seg>Obierz ten kurs!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7822,10 +8350,98 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>a new game?</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>nową przygodę?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>and "That Big Jerk LeChuck."</seg>
       </tuv>
       <tuv lang="pl">
         <seg>i "Ogromny Palant LeChuck"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>and a chilled grogatini</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>i schłodzone grogatini</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>be stopped, now that</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>szczególnie, że jest teraz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>beloved wife?</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>swoją ukochaną</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>can't be contained in a single game</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>niemożliwe jest je zawrzeć w jednej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>depraved pirate named LeChuck</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>przerażająco zdeprawowany pirat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>disabled in trial mode!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>niesprawne w trybie próbnym!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>feisty hand?</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Guybrusha?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>found all of the treasure.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>wszystkie skarby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>game, or play the tutorial?</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>czy samouczek?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>he's... human?!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>człowiekiem?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7846,10 +8462,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>in the 5 episode series!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>w 5 epizodach serii!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>low</seg>
       </tuv>
       <tuv lang="pl">
         <seg>niska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>maps to find buried treasure!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>by odnaleźć zakopany skarb!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>other questions await</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>pytania czekają na was</seg>
       </tuv>
     </tu>
     <tu>
@@ -7862,10 +8502,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>reunite with his</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>zjednoczy się ze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>rifle</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Karabin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>today!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>już dziś!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>treasure hunting?</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>poszukiwania?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>with Guybrush's</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>zadziorną ręką</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>you FIVE epic chapters of pirate goodness!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>PIĘĆ epickich rozdziałów dobroci pirata!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>you want to quit?</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>chcesz wyjść z gry?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13247,7 +13935,17 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2058_</prop>
+      <prop type="path">74_1_</prop>
+      <tuv lang="en-US">
+        <seg>Any unsaved progress in your current game will be lost.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Utracisz niezapisany postęp w aktualnej grze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">tomi_1.po</prop>
+      <prop type="path">2058_0_</prop>
       <tuv lang="en-US">
         <seg>Audio Settings</seg>
       </tuv>
@@ -13257,7 +13955,17 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2057_</prop>
+      <prop type="path">2397_2_</prop>
+      <tuv lang="en-US">
+        <seg>CHAPTER 1</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>ROZDZIAŁ 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">tomi_1.po</prop>
+      <prop type="path">2057_0_</prop>
       <tuv lang="en-US">
         <seg>Gameplay Settings</seg>
       </tuv>
@@ -13267,7 +13975,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2059_</prop>
+      <prop type="path">2059_0_</prop>
       <tuv lang="en-US">
         <seg>Graphics Settings</seg>
       </tuv>
@@ -13277,7 +13985,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">441_GUYBRUSH</prop>
+      <prop type="path">441_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>Ow!</seg>
       </tuv>
@@ -13287,7 +13995,27 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">1855_</prop>
+      <prop type="path">2312_0_</prop>
+      <tuv lang="en-US">
+        <seg>Ready to start</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Gotowy, by zacząć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">tomi_1.po</prop>
+      <prop type="path">2397_0_</prop>
+      <tuv lang="en-US">
+        <seg>TALES OF MONKEY ISLAND</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>OPOWIEŚCI Z WYSPY MAŁP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">tomi_1.po</prop>
+      <prop type="path">1855_0_</prop>
       <tuv lang="en-US">
         <seg>What can you tell me about this bottle?</seg>
       </tuv>
@@ -13297,7 +14025,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2433_GUYBRUSH</prop>
+      <prop type="path">2433_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>[read like “Is that you, plunder bunny?”] Plunder bunny?</seg>
       </tuv>
@@ -13307,7 +14035,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">1533_GUYBRUSH</prop>
+      <prop type="path">1533_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>{confused}What?</seg>
       </tuv>
@@ -13317,7 +14045,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">732_GUYBRUSH</prop>
+      <prop type="path">732_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>{confused}What?</seg>
       </tuv>
@@ -13327,7 +14055,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2219_GUYBRUSH</prop>
+      <prop type="path">2219_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>{default}I wonder if there's anything useful down there...</seg>
       </tuv>

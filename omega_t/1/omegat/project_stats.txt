@@ -1,14 +1,14 @@
-7/6/24 8:24 AM
+7/6/24 8:47 AM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
-Total:           	    3127	24146	                     123139	                       142977	     1	
-Remaining:       	    1389	10648	                      54351	                        63138	     1	
-Unique:          	    2998	23722	                     120849	                       140414	     1	
-Unique Remaining:	    1343	10489	                      53484	                        62162	     1	
+Total:           	    3267	24726	                     125926	                       146216	     1	
+Remaining:       	    1423	10829	                      55186	                        64130	     1	
+Unique:          	    3110	24183	                     123117	                       143043	     1	
+Unique Remaining:	    1369	10635	                      54143	                        62951	     1	
 
 
 Individual File Statistics:
 
 File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-tomi_1.po	          3127	              1389	           2998	                     1343	      24146	          10648	       23722	                 10489	                           123139	                                54351	                            120849	                                       53484	                             142977	                                  63138	                              140414	                                         62162	
+tomi_1.po	          3267	              1423	           3110	                     1369	      24726	          10829	       24183	                 10635	                           125926	                                55186	                            123117	                                       54143	                             146216	                                  64130	                              143043	                                         62951	
