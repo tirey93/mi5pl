@@ -1575,16 +1575,16 @@ msgid "{whiney}Hot! hot! hot!  Ow!"
 msgstr "Parzy! Parzy! Parzy!  Auu!"
 
 msgctxt "356_0_WINSLOW"
-msgid "You'll have to do better than that, lad!"
-msgstr "Oj, chyba nie wyszło tak ja trzeba!"
+msgid "You'll have to do better than that. Lad!"
+msgstr "Oj, chyba nie wyszło tak ja trzeba. Chłopcze!"
 
 msgctxt "357_0_WINSLOW"
 msgid "{cocky}Ahem."
 msgstr "{cocky}Ekhem."
 
 msgctxt "358_0_GUYBRUSH"
-msgid "{stern}[Annoyed] And now the dock is smoldering.  Perfect."
-msgstr "Teraz dok się tli.  Idealnie."
+msgid "{stern}[Annoyed] And now the dock is smoldering. Perfect."
+msgstr "Teraz dok się tli. Idealnie."
 
 msgctxt "359_0_GUYBRUSH"
 msgid "{confused}I don't know why I keep doing that."

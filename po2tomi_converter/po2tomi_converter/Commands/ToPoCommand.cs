@@ -42,6 +42,7 @@ namespace po2tomi_converter.Commands
                 var splittedEng = line[0].Content.Split('\n');
                 var splittedPl = line[1].Content.Split('\n');
                 int i = 0;
+
                 foreach(var splittedLine in splittedEng)
                 {
                     var markup = $"{line[0].Number}_{i}_{line[0].Author}";
