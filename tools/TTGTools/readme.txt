@@ -1,4 +1,4 @@
-Narzędzia zostały wgrane w formie releasu.
+Narzędzie zostało wgrane w formie releasu.
 Link do releasu:
 https://github.com/tirey93/mi5pl/releases/tag/TTGTools
 
@@ -6,17 +6,16 @@ Link do oryginalnego releasu:
 https://gitflic.ru/project/pashok6798/ttg-tools
 
 Moje wskazówki
-Komenda dla eksportu(gdzie NN to numer gry):
-.\ttarchext.exe NN "C:\..\0.ttarch" "C:\..\0"
+Na początku należy ustawić config. Wskazujemy ścieżki do katalogów input, output, temp. Na końcu wskazujemy dokładną ścieżkę do programu ttarchext.exe.
 
-Komenda dla importu(gdzie NN to numer gry):
-.\ttarchext.exe -b -x -V 7 NN "C:\..\0_.ttarch" "C:\..\0"
+Odszyfrowanie pliku langdb 
+1. Wstawiamy oryginalny plik .langdb to katalogu input
+2. Wybieramy Auto (De)Packer -> Decrypt,Export
+3. Odszyfrowany plik .txt pojawia się w katalogu output
 
-W imporcie spore znaczenie ma flaga -x. W zależności od zainstalowanej wersji musi ona wystąpić lub nie. Np w moim przypadku(GOG) dla 1. epizodu ona nie może wystąpić a dla pozostałych musi. Zły wybór flagi spowoduje, że gra się w ogóle nie uruchomi.
-
-Numery gry(NN):
- 24  Tales of Monkey Island 101: Launch of the Screaming Narwhal
- 26  Tales of Monkey Island 102: The Siege of Spinner Cay
- 27  Tales of Monkey Island 103: Lair of the Leviathan
- 29  Tales of Monkey Island 104: The Trial and Execution of Guybrush Threepwood
- 31  Tales of Monkey Island 105: Rise of the Pirate God
+Zaszyfrowywanie do pliku langdb
+Po zakończeniu tłumaczenia mamy plik .po w katalogu OmegaT/target. 
+1. Należy go konwertować do plik .txt za pomocą narzędzia po2tomi_converter
+2. Plik .txt wraz z oryginalnym plikim .langdb umieszczamy w input
+3. Wybieramy Auto (De)Packer -> Encrypt, Pack, Import
+4. Zaszyfrowany plik .langdb z naszym tłumaczeniem znajduje się w katalogu output
