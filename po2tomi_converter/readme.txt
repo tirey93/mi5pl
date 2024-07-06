@@ -1,4 +1,5 @@
 Program ma za zadanie dokonać konwersji pliku .po, obsługiwanego przez OmegaT, do odszyfrowanych plików .txt niezbędnych do wgrania przetłumaczonego tekstu do gry.
+Link do releasu: https://github.com/tirey93/mi5pl/releases/tag/po2tomi_converter
 Pliki .txt należy zaszyfrować do formatu .langdb za pomocą narzędzia TTGTools, a następnie spakować do archiwum ttarch za pomocą narzędzia ttarchext.
 
 Konfiguracja programu
