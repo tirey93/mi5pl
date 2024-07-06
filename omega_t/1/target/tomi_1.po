@@ -244,7 +244,7 @@ msgstr "Tryb retro:"
 
 msgctxt "45_0_"
 msgid "(Standard)"
-msgstr ""
+msgstr "(Standard)"
 
 msgctxt "46_0_"
 msgid "(Widescreen)"
@@ -456,7 +456,7 @@ msgstr "Wielofunkcyjny przyrząd dawnych tubylców Rozbitków do aktywacji ich t
 
 msgctxt "91_0_GUYBRUSH"
 msgid "Hmm."
-msgstr ""
+msgstr "Hmm."
 
 msgctxt "92_0_GUYBRUSH"
 msgid "Interesting."
@@ -700,7 +700,7 @@ msgstr "I jakiś grog dla tej dłoni!"
 
 msgctxt "149_0_GUYBRUSH"
 msgid "Winslow!"
-msgstr ""
+msgstr "Winslow!"
 
 msgctxt "150_0_WINSLOW"
 msgid "Captain?"
@@ -736,7 +736,7 @@ msgstr "Co, do...?"
 
 msgctxt "158_0_WINSLOW"
 msgid "Sir?"
-msgstr ""
+msgstr "Sir?"
 
 msgctxt "159_0_GUYBRUSH"
 msgid "[pickup1][read with urgency] Set a course for here!"
@@ -912,7 +912,7 @@ msgstr "Grabiący króliczek?"
 
 msgctxt "197_0_MORGAN"
 msgid "Guybrush Threepwood!"
-msgstr ""
+msgstr "Guybrush Threepwood!"
 
 msgctxt "198_0_MORGAN"
 msgid "I've been waiting a long time for this!"
@@ -1200,7 +1200,7 @@ msgstr "Chodź do Guybrusha, ty upiorny przepisie voodoo, ty."
 
 msgctxt "266_0_GUYBRUSH"
 msgid "{cocky}Elaine thought I was an idiot for buying the "auto-navigation" option, but who's the idiot now, huh?{default}"
-msgstr "Elaine wyzwała mnie od matołów za zakup \"autonawigacji\". I kto jest teraz matołem, co?"
+msgstr "Elaine wyzwała mnie od matołów za zakup opcji z autonawigacją. I kto jest teraz matołem, co?"
 
 msgctxt "267_0_GUYBRUSH"
 msgid "{default}That's unnecessary... {happy}those monkeys have surprisingly good breath!{default}"
@@ -1608,7 +1608,7 @@ msgstr "MOJE OKO!  CO ŻEŚ ZROBIŁ Z MOIM OKIEM?!"
 
 msgctxt "364_0_DESINGE"
 msgid "[cheery][filter: through a tube] Bonjour!"
-msgstr ""
+msgstr "[cheery][filter: through a tube] Bonjour!"
 
 msgctxt "365_0_MCGEE"
 msgid "[screaming][filter: through a tube]  HEY!  WHAT HAPPENED TO ME OTHER LEG!?"
@@ -1652,7 +1652,7 @@ msgstr "Tłuszcz na bekonie.  Najśliższa substancja na świecie."
 
 msgctxt "375_0_GUYBRUSH"
 msgid "{angry}Grrrr..."
-msgstr ""
+msgstr "{angry}Grrrr..."
 
 msgctxt "376_0_GUYBRUSH"
 msgid "{scared}[sliding down the gangplank]  Ahhhhhh!"
@@ -1668,7 +1668,7 @@ msgstr "Spróbujmy raz jeszcze."
 
 msgctxt "379_0_GUYBRUSH"
 msgid "{stern}Grrrr..."
-msgstr ""
+msgstr "{stern}Grrrr..."
 
 msgctxt "380_0_GUYBRUSH"
 msgid "[sliding backwards on the gangplank]  Ahhhhhh!"
@@ -1760,7 +1760,7 @@ msgstr "Jeszcze nie wiem, ale przyjdzie taki czas, że wydmucham taką grubą bu
 
 msgctxt "400_0_CRIMPDIGIT"
 msgid "[angry] Arrgh!"
-msgstr ""
+msgstr "[angry] Arrgh!"
 
 msgctxt "401_0_GUYBRUSH"
 msgid "{worried}What's a "fundament"?"
@@ -1844,7 +1844,7 @@ msgstr "Ciekawe, jak to otworzyć..."
 
 msgctxt "421_0_GUYBRUSH"
 msgid "Aha!"
-msgstr ""
+msgstr "Aha!"
 
 msgctxt "422_0_GUYBRUSH"
 msgid "A seltzer bottle full of root beer!  I haven't seen one of these since before I had a beard!"
@@ -1936,7 +1936,7 @@ msgstr "No, coś w tym może być..."
 
 msgctxt "444_0_DESINGE"
 msgid "Au revoir!{default}"
-msgstr ""
+msgstr "Au revoir!{default}"
 
 msgctxt "445_0_GUYBRUSH"
 msgid "What a loon.  {confused}But at least my hand seems under control for a while."
@@ -2040,7 +2040,7 @@ msgstr "Zgaduję, że to jeden z byłych pacjentów DeSinge'a... pewnie bidulek 
 
 msgctxt "470_0_GUYBRUSH"
 msgid "{suspicious}Murray?{default}"
-msgstr ""
+msgstr "{suspicious}Murray?{default}"
 
 msgctxt "471_0_GUYBRUSH"
 msgid "It's a cute little baby bell.  I can't reach it from this position."
@@ -2148,7 +2148,7 @@ msgstr "Mam cię!  Teraz wsadź klucz w... zamek..."
 
 msgctxt "496_0_GUYBRUSH"
 msgid "{surprised}Ta-daaaa!"
-msgstr ""
+msgstr "{surprised}Ta-daaaa!"
 
 msgctxt "497_0_DESINGE"
 msgid "{angry}Monsieur Threepwood!  What do you think you're doing?  {stern}Get back on that table at once!"
@@ -2204,7 +2204,7 @@ msgstr "Hmmm... pioruny i małpki... cóż za połączenie?"
 
 msgctxt "510_0_GUYBRUSH"
 msgid "Hmmm..."
-msgstr ""
+msgstr "Hmmm..."
 
 msgctxt "511_0_GUYBRUSH"
 msgid "It's a beautiful rendering of the classic "Pirate Da Vinci.""
@@ -2336,7 +2336,7 @@ msgstr "No świetnie.  Mój nowiutki statek cały jest w smole.  A to wszystko t
 
 msgctxt "543_0_GUYBRUSH"
 msgid "Ow."
-msgstr ""
+msgstr "Ow."
 
 msgctxt "544_0_CRIMPDIGIT"
 msgid "[from a great distance]  Me unicorns!  Me beautiful unicorns!"
@@ -2544,7 +2544,7 @@ msgstr "Eee..."
 
 msgctxt "597_0_GUYBRUSH"
 msgid "[trying to get a word in edgewise] {Worried} Er..."
-msgstr ""
+msgstr "[trying to get a word in edgewise] {Worried} Er..."
 
 msgctxt "598_0_GUYBRUSH"
 msgid "[exasperated] {Angry} Hey!"
@@ -2836,7 +2836,7 @@ msgstr "To paskudna chmura niepowstrzymanego zła, roznosząca zakumulowaną ohy
 
 msgctxt "670_0_GUYBRUSH"
 msgid "{disgust}Ugh!"
-msgstr ""
+msgstr "{disgust}Ugh!"
 
 msgctxt "671_0_VOODOO"
 msgid "{default}Even now, I can sense the Pox wending its way to this very island!"
@@ -3104,7 +3104,7 @@ msgstr "Kto jest najpotężniejszym piratem wszech czasów?"
 
 msgctxt "738_0_GUYBRUSH"
 msgid "Heh.{default}"
-msgstr ""
+msgstr "Heh.{default}"
 
 msgctxt "739_0_GUYBRUSH"
 msgid "That really puts the "die" in "diorama.""
@@ -3128,7 +3128,7 @@ msgstr "Zostaw to!  Tam trzymam swoją... {mystical}bieliznę.{default}"
 
 msgctxt "744_0_GUYBRUSH"
 msgid "{disgust}[shuddering] Gewghh...{default}"
-msgstr ""
+msgstr "{disgust}[shuddering] Gewghh...{default}"
 
 msgctxt "745_0_GUYBRUSH"
 msgid "{confused}What's this?{default}"
@@ -3160,7 +3160,7 @@ msgstr "Uważaj na ręce!"
 
 msgctxt "751_0_MEMBER2"
 msgid "Ieee!"
-msgstr ""
+msgstr "Ieee!"
 
 msgctxt "752_0_GUYBRUSH"
 msgid "Sorry!  Ow!"
@@ -3332,11 +3332,11 @@ msgstr "Dzięki.  Czekaj, ale jak to?"
 
 msgctxt "794_0_MCGEE"
 msgid "Arrr!"
-msgstr ""
+msgstr "Arrr!"
 
 msgctxt "2392_0_MCGEE"
 msgid "Arrr!"
-msgstr ""
+msgstr "Arrr!"
 
 msgctxt "795_0_GUYBRUSH"
 msgid "{Happy} Hey there-"
@@ -3732,7 +3732,7 @@ msgstr "Żartujesz sobie?"
 
 msgctxt "891_0_GUYBRUSH"
 msgid "{Incredulous} Moi?"
-msgstr ""
+msgstr "{Incredulous} Moi?"
 
 msgctxt "892_0_GUYBRUSH"
 msgid "I better put this cheese back in my pants before a wandering capybara gobbles it up."
@@ -3748,7 +3748,7 @@ msgstr "Co tu się dzieje?"
 
 msgctxt "895_0_GUYBRUSH"
 msgid "{Stern} Shh!"
-msgstr ""
+msgstr "{Stern} Shh!"
 
 msgctxt "896_0_GUYBRUSH"
 msgid "{Happy} [enthusiastic] All right!!!"
@@ -3800,7 +3800,7 @@ msgstr "Nie tak szybko, błahy piracie!"
 
 msgctxt "908_0_DESINGE"
 msgid "Sacre merde!"
-msgstr ""
+msgstr "Sacre merde!"
 
 msgctxt "909_0_GUYBRUSH"
 msgid "{Suspicious} Hmm, guess I didn't do whatever I was supposed to do."
@@ -3840,15 +3840,15 @@ msgstr "Ach, więc to Bóg musiał być tym, który namówił cię na założeni
 
 msgctxt "919_0_DESINGE"
 msgid "Threepwood!"
-msgstr ""
+msgstr "Threepwood!"
 
 msgctxt "926_0_DESINGE"
 msgid "Threepwood!"
-msgstr ""
+msgstr "Threepwood!"
 
 msgctxt "929_0_DESINGE"
 msgid "Threepwood!"
-msgstr ""
+msgstr "Threepwood!"
 
 msgctxt "920_0_DESINGE"
 msgid "Cease your ham-fisted fumblings, and surrender that hand!"
@@ -3952,7 +3952,7 @@ msgstr "Kurczę!  To król Ludwik Trzynasty!"
 
 msgctxt "946_0_DESINGE"
 msgid "{Amazed} Mon dieu!"
-msgstr ""
+msgstr "{Amazed} Mon dieu!"
 
 msgctxt "947_0_GUYBRUSH"
 msgid "{Surprised} Holy moses! It's King Louis the Fourteenth!"
@@ -4044,7 +4044,7 @@ msgstr "Może otworzę te wrota poprzez naciśnięcie tego wielkiego, kryształo
 
 msgctxt "970_0_GUYBRUSH"
 msgid "[straining] {Angry} Grrrrr..."
-msgstr ""
+msgstr "[straining] {Angry} Grrrrr..."
 
 msgctxt "971_0_GUYBRUSH"
 msgid "{Default} Nope."
@@ -4052,7 +4052,7 @@ msgstr "Nic."
 
 msgctxt "972_0_GUYBRUSH"
 msgid "{Angry} [straining] Grrrrr..."
-msgstr ""
+msgstr "{Angry} [straining] Grrrrr..."
 
 msgctxt "973_0_GUYBRUSH"
 msgid "{Default} Nothin'.  And I'm starting to get cuts on my hands.  What's this thing made of anyway?"
@@ -4084,7 +4084,7 @@ msgstr "Dziwne... czy większość wiatrowskazów nie ma przypadkiem CZTERECH ki
 
 msgctxt "980_0_GUYBRUSH"
 msgid "{surprised}[shouting] Elaine!{default}"
-msgstr ""
+msgstr "{surprised}[shouting] Elaine!{default}"
 
 msgctxt "981_0_ELAINE"
 msgid "{surprised}[shouting] What?{default}"
@@ -4232,19 +4232,19 @@ msgstr "Zamachnij się nią na LeChucka, SZYBKO!"
 
 msgctxt "1017_0_GUYBRUSH"
 msgid "{happy}Elaine!{default}"
-msgstr ""
+msgstr "{happy}Elaine!{default}"
 
 msgctxt "1018_0_ELAINE"
 msgid "Guybrush?"
-msgstr ""
+msgstr "Guybrush?"
 
 msgctxt "2259_0_LECHUCK"
 msgid "Guybrush?"
-msgstr ""
+msgstr "Guybrush?"
 
 msgctxt "1019_0_GUYBRUSH"
 msgid "{cocky}LeChuck!"
-msgstr ""
+msgstr "{cocky}LeChuck!"
 
 msgctxt "1020_0_LECHUCKDEMON"
 msgid "[annoyed] What?"
@@ -4260,7 +4260,7 @@ msgstr "Nie, teraz zmierzam do bardziej mrocznych tajemnic. Tajemnic pogrzebanyc
 
 msgctxt "1023_0_LECHUCKDEMON"
 msgid "{devilish}Bwah-ha-harrrrrrr!"
-msgstr ""
+msgstr "{devilish}Bwah-ha-harrrrrrr!"
 
 msgctxt "1024_0_GUYBRUSH"
 msgid "{confused}What kind of secrets do these monkeys hold?"
@@ -4336,7 +4336,7 @@ msgstr "Hej!"
 
 msgctxt "1042_0_DORO"
 msgid "{Surprised} Ack!"
-msgstr ""
+msgstr "{Surprised} Ack!"
 
 msgctxt "1043_0_DORO"
 msgid "{Suspicious} Who're you?"
@@ -4356,7 +4356,7 @@ msgstr "Witam znowu!"
 
 msgctxt "1047_0_DORO"
 msgid "{Surprised} Eep!"
-msgstr ""
+msgstr "{Surprised} Eep!"
 
 msgctxt "1048_0_DORO"
 msgid "{Stern} Stop doing that!"
@@ -4488,7 +4488,7 @@ msgstr "Pa."
 
 msgctxt "1080_0_DORO"
 msgid "{Stern} Kep'lah!"
-msgstr ""
+msgstr "{Stern} Kep'lah!"
 
 msgctxt "1081_0_BARTENDER"
 msgid "Arr, what'll it be, laddie?"
@@ -4808,7 +4808,7 @@ msgstr "Uważaj!"
 
 msgctxt "1157_0_MCGEE"
 msgid "Ieeee!"
-msgstr ""
+msgstr "Ieeee!"
 
 msgctxt "1158_0_MCGEE"
 msgid "Oooh, me leg!"
@@ -4920,11 +4920,11 @@ msgstr "Ser, Ignacy Ser."
 
 msgctxt "1184_0_PIRATEA"
 msgid "{Confused} And what, pray tell, might I be findin' myself doin' if I joined {Sarcastic} this crew of mighty pirates?"
-msgstr ""
+msgstr "{Confused} And what, pray tell, might I be findin' myself doin' if I joined {Sarcastic} this crew of mighty pirates?"
 
 msgctxt "1185_0_PIRATEA"
 msgid "{Default} I'm open to persuasion, {Suspicious} what do you have in mind?"
-msgstr ""
+msgstr "{Default} I'm open to persuasion, {Suspicious} what do you have in mind?"
 
 msgctxt "1186_0_PIRATEA"
 msgid "{Angry} Are you outta your grog-addled mind?!? No!"
@@ -4944,55 +4944,55 @@ msgstr "{Happy}The better to insult arm wrestle with Mr. Threepwoodem!"
 
 msgctxt "1189_0_PIRATEA"
 msgid "{Default} Well nowadays you can't throw a dart or...or play a game of checkers without bein' expected to toss in a witherin' bon mot."
-msgstr ""
+msgstr "{Default} Well nowadays you can't throw a dart or...or play a game of checkers without bein' expected to toss in a witherin' bon mot."
 
 msgctxt "1190_0_PIRATEA"
 msgid "{Sad} A greedy Australian is making a grab for my bar!"
-msgstr ""
+msgstr "{Sad} A greedy Australian is making a grab for my bar!"
 
 msgctxt "1191_0_PIRATEA"
 msgid "{Enthused} My particular speciality is insult arm-wrestlin' {Default} which I use to defend my bar {Stern}from hostile takeovers."
-msgstr ""
+msgstr "{Enthused} My particular speciality is insult arm-wrestlin' {Default} which I use to defend my bar {Stern}from hostile takeovers."
 
 msgctxt "1192_0_PIRATEA"
 msgid "Aye! {Sarcastic}It could be a pleasure to sail with a refined wit such as yourself."
-msgstr ""
+msgstr "Aye! {Sarcastic}It could be a pleasure to sail with a refined wit such as yourself."
 
 msgctxt "1193_0_PIRATEB"
 msgid "{Default} Right now, we're in a dead tie."
-msgstr ""
+msgstr "{Default} Right now, we're in a dead tie."
 
 msgctxt "1194_0_PIRATEB"
 msgid "{Happy} Yeah! We never miss a shot!"
-msgstr ""
+msgstr "{Happy} Yeah! We never miss a shot!"
 
 msgctxt "1195_0_PIRATEB"
 msgid "{Default} I would, but once I win the Melee championship, I'm gonna have to go on tour to win the tri-island dart thrower's championship."
-msgstr ""
+msgstr "{Default} I would, but once I win the Melee championship, I'm gonna have to go on tour to win the tri-island dart thrower's championship."
 
 msgctxt "1196_0_PIRATEB"
 msgid "No Problem!"
-msgstr ""
+msgstr "No Problem!"
 
 msgctxt "1197_0_PIRATEB"
 msgid "{Sarcastic} Yeah! And unless you're good enough to compete"
-msgstr ""
+msgstr "{Sarcastic} Yeah! And unless you're good enough to compete"
 
 msgctxt "1198_0_PIRATEB"
 msgid "{Stern} We'd advise that you take a long walk off a short pier!"
-msgstr ""
+msgstr "{Stern} We'd advise that you take a long walk off a short pier!"
 
 msgctxt "1199_0_PIRATEB"
 msgid "{Angry} Yeah! Can't you see we're busy here!"
-msgstr ""
+msgstr "{Angry} Yeah! Can't you see we're busy here!"
 
 msgctxt "1200_0_PIRATEB"
 msgid "{Confused}Really?"
-msgstr ""
+msgstr "{Confused}Really?"
 
 msgctxt "1201_0_PIRATEB"
 msgid "{Stern} Sez you, swabbie!"
-msgstr ""
+msgstr "{Stern} Sez you, swabbie!"
 
 msgctxt "1202_0_"
 msgid "I'm Guybrush Threepwood, Mighty Pirate!™"
@@ -5296,7 +5296,7 @@ msgstr "Tu się tego nie wkłada."
 
 msgctxt "1279_0_GUYBRUSH"
 msgid "{Incredulous} Hmmm."
-msgstr ""
+msgstr "{Incredulous} Hmmm."
 
 msgctxt "1280_0_GUYBRUSH"
 msgid "{Happy} Much better.  {Suspicious} Well, better, anyway."
@@ -5316,23 +5316,23 @@ msgstr "Dziwne."
 
 msgctxt "1286_0_GUYBRUSH"
 msgid "Hmmm."
-msgstr ""
+msgstr "Hmmm."
 
 msgctxt "1421_0_GUYBRUSH"
 msgid "Hmmm."
-msgstr ""
+msgstr "Hmmm."
 
 msgctxt "1287_0_GUYBRUSH"
 msgid "Ah."
-msgstr ""
+msgstr "Ah."
 
 msgctxt "1289_0_GUYBRUSH"
 msgid "Oh."
-msgstr ""
+msgstr "Oh."
 
 msgctxt "1290_0_GUYBRUSH"
 msgid "{Happy} Aha!"
-msgstr ""
+msgstr "{Happy} Aha!"
 
 msgctxt "1291_0_GUYBRUSH"
 msgid "Hmm. Curious."
@@ -5412,7 +5412,7 @@ msgstr "[flummoxed] {Confused} Co?  Jak on...?"
 
 msgctxt "1310_0_DESINGE"
 msgid "{Angry} Grrr."
-msgstr ""
+msgstr "{Angry} Grrr."
 
 msgctxt "1311_0_GUYBRUSH"
 msgid "{Cocky} I can't believe he fell for that."
@@ -5780,7 +5780,7 @@ msgstr "Oho."
 
 msgctxt "1403_0_GUYBRUSH"
 msgid "{disgust}[quick and disgusted]  Ew."
-msgstr ""
+msgstr "{disgust}[quick and disgusted]  Ew."
 
 msgctxt "1404_0_NIPPERKIN"
 msgid "{default}- Why don't you take a walk with me back to the Keelhauler and tell me a little bit more about yourself..."
@@ -6076,23 +6076,23 @@ msgstr "To źle się orientujesz...Australia, co to za dziwne przezwisko?"
 
 msgctxt "1479_0_DESINGE"
 msgid "Eek!"
-msgstr ""
+msgstr "Eek!"
 
 msgctxt "1624_0_JACQUES"
 msgid "Eek!"
-msgstr ""
+msgstr "Eek!"
 
 msgctxt "1720_0_JACQUES"
 msgid "Eek!"
-msgstr ""
+msgstr "Eek!"
 
 msgctxt "1828_0_MONKEY"
 msgid "Eek!"
-msgstr ""
+msgstr "Eek!"
 
 msgctxt "1480_0_DESINGE"
 msgid "[in pain]Agh!"
-msgstr ""
+msgstr "[in pain]Agh!"
 
 msgctxt "1481_0_PIRATEB"
 msgid "{Concerned} Ok...you've appealed to my sense of generosity."
@@ -6112,7 +6112,7 @@ msgstr "Ja przygnębiony? Przez Pongo? Nie bądź śmieszny!"
 
 msgctxt "1485_0_DESINGE"
 msgid "[as though unexpectedly tickled or physically pleasured] Oooooh."
-msgstr ""
+msgstr "[as though unexpectedly tickled or physically pleasured] Oooooh."
 
 msgctxt "1486_0_DESINGE"
 msgid "[as though unexpectedly tickled or physically pleasured] Ahhhh."
@@ -6120,7 +6120,7 @@ msgstr "[as though unexpectedly tickled or physically pleasured] Aaaa."
 
 msgctxt "1487_0_DESINGE"
 msgid "[as though unexpectedly tickled or physically pleasured] Ohhhh."
-msgstr ""
+msgstr "[as though unexpectedly tickled or physically pleasured] Ohhhh."
 
 msgctxt "1488_0_GUYBRUSH"
 msgid "Nothing happened.  Guess it's broken."
@@ -6128,7 +6128,7 @@ msgstr "Nic się nie dzieje.  Pewnie popsute."
 
 msgctxt "1489_0_DESINGE"
 msgid "[in pain]  Ieeee!"
-msgstr ""
+msgstr "[in pain]  Ieeee!"
 
 msgctxt "1490_0_PIRATEB"
 msgid "{Confused} What? Where'd you get a weird idea like that?"
@@ -6156,7 +6156,7 @@ msgstr "Chwilka... co się dzieje?"
 
 msgctxt "1496_0_LECHUCKDEMON"
 msgid "{devilish}Harr-harr-harrrr!"
-msgstr ""
+msgstr "{devilish}Harr-harr-harrrr!"
 
 msgctxt "1497_0_GUYBRUSH"
 msgid "{suspicious}[sarcastic, to himself] Right, because everyone keeps their magic root beer in a tiny monkey coffin.{default}"
@@ -6228,7 +6228,7 @@ msgstr "Nie dosięgnę tego stąd."
 
 msgctxt "1514_0_GUYBRUSH"
 msgid "{stern}[making light sabre noises] Vooom, vooom!{default}"
-msgstr ""
+msgstr "{stern}[making light sabre noises] Vooom, vooom!{default}"
 
 msgctxt "1515_0_GUYBRUSH"
 msgid "{scared}Sorry it took so long to catch up with you, but I've been busy digging up arcane voodoo items.  {cocky}Did you miss me?"
@@ -6636,35 +6636,35 @@ msgstr "Uwielbiam zapach skarbów o poranku..."
 
 msgctxt "1618_0_GUYBRUSH"
 msgid "[happy] Arrrrr!"
-msgstr ""
+msgstr "[happy] Arrrrr!"
 
 msgctxt "1619_0_JACQUES"
 msgid "[dazed] Ook."
-msgstr ""
+msgstr "[dazed] Ook."
 
 msgctxt "1620_0_JACQUES"
 msgid "Eek."
-msgstr ""
+msgstr "Eek."
 
 msgctxt "1621_0_JACQUES"
 msgid "[excited] Eek-eek-eek!"
-msgstr ""
+msgstr "[excited] Eek-eek-eek!"
 
 msgctxt "1629_0_JACQUES"
 msgid "[excited] Eek-eek-eek!"
-msgstr ""
+msgstr "[excited] Eek-eek-eek!"
 
 msgctxt "1622_0_JACQUES"
 msgid "[interested] ook-ook-ook!"
-msgstr ""
+msgstr "[interested] ook-ook-ook!"
 
 msgctxt "1825_0_MONKEY"
 msgid "[interested] ook-ook-ook!"
-msgstr ""
+msgstr "[interested] ook-ook-ook!"
 
 msgctxt "1623_0_JACQUES"
 msgid "[scared][ Eeeeeek!]"
-msgstr ""
+msgstr "[scared][ Eeeeeek!]"
 
 msgctxt "1625_0_GUYBRUSH"
 msgid "{cocky}Your parrot is looking a little peaked[pronounced pea-kid] there.{default}"
@@ -6748,7 +6748,7 @@ msgstr "Niech ci piractwo sprzyja, młody!  Trzymam za ciebie kciuki!"
 
 msgctxt "1648_0_GUYBRUSH"
 msgid "{Default} Davey."
-msgstr ""
+msgstr "{Default} Davey."
 
 msgctxt "1649_0_NIPPERKIN"
 msgid "{Sarcastic} Whaddaya got for me, Sleepgood?"
@@ -6764,7 +6764,7 @@ msgstr "Jakieś wieści?"
 
 msgctxt "1652_0_MCGEE"
 msgid "[mumbling]... grrr..."
-msgstr ""
+msgstr "[mumbling]... grrr..."
 
 msgctxt "1653_0_MCGEE"
 msgid "[mumbling]... stupid club ..."
@@ -6784,11 +6784,11 @@ msgstr "[playing with action figures] Fiu! Fiu! Fiu!"
 
 msgctxt "1657_0_DORO"
 msgid "[playing with action figures] En garde!"
-msgstr ""
+msgstr "[playing with action figures] En garde!"
 
 msgctxt "1658_0_DORO"
 msgid "[playing with action figures] Arrgh!"
-msgstr ""
+msgstr "[playing with action figures] Arrgh!"
 
 msgctxt "1659_0_DORO"
 msgid "[playing with action figures] What Dark Ninja Dave DIDN'T know was that Pierre was his long lost twin BROTHER!  Duhn-dun-duuun!"
@@ -6836,11 +6836,11 @@ msgstr "Ta statuetka ma puste kołowe otwory tam, gdzie pewnie powinny być oczy
 
 msgctxt "1671_0_GUYBRUSH"
 msgid "[sneezing] Ah-choo!"
-msgstr ""
+msgstr "[sneezing] Ah-choo!"
 
 msgctxt "1706_0_GUYBRUSH"
 msgid "[sneezing] Ah-choo!"
-msgstr ""
+msgstr "[sneezing] Ah-choo!"
 
 msgctxt "1672_0_GUYBRUSH"
 msgid "I better not be allergic to one of these plants..."
@@ -7048,7 +7048,7 @@ msgstr "Szkrabród"
 
 msgctxt "1726_0_"
 msgid "Marshall"
-msgstr ""
+msgstr "Marshall"
 
 msgctxt "1727_0_"
 msgid "Sign"
@@ -7296,7 +7296,7 @@ msgstr "Forma"
 
 msgctxt "1786_0_"
 msgid "Winslow"
-msgstr ""
+msgstr "Winslow"
 
 msgctxt "1787_0_"
 msgid "De Singe"
@@ -7304,7 +7304,7 @@ msgstr "DeSinge"
 
 msgctxt "1788_0_"
 msgid "Guybrush"
-msgstr ""
+msgstr "Guybrush"
 
 msgctxt "1789_0_"
 msgid "Bookshelf"
@@ -7380,7 +7380,7 @@ msgstr "Czaszka"
 
 msgctxt "1805_0_"
 msgid "Diorama"
-msgstr ""
+msgstr "Diorama"
 
 msgctxt "1806_0_"
 msgid "Skull Candle"
@@ -7448,15 +7448,15 @@ msgstr "Klatka"
 
 msgctxt "1824_0_MONKEY"
 msgid "{Default}[excited] Eek-eek-eek!"
-msgstr ""
+msgstr "{Default}[excited] Eek-eek-eek!"
 
 msgctxt "1826_0_MONKEY"
 msgid "{Frustrated}[scared] Eeeeeek!"
-msgstr ""
+msgstr "{Frustrated}[scared] Eeeeeek!"
 
 msgctxt "1827_0_MONKEY"
 msgid "{Disappointed}[dazed] Ook."
-msgstr ""
+msgstr "{Disappointed}[dazed] Ook."
 
 msgctxt "1829_0_DESINGE"
 msgid "{Arrogant}Hmmm... very interesting... {Sarcastic}and you say your sick little hand has a mind of its own?"
@@ -7528,7 +7528,7 @@ msgstr "Probówki"
 
 msgctxt "1848_0_"
 msgid "Jacques"
-msgstr ""
+msgstr "Jacques"
 
 msgctxt "1849_0_GUYBRUSH"
 msgid "I can't reach it from this position."
@@ -7736,7 +7736,7 @@ msgstr "Bezużyteczne, Niepojęte Karty Tarota"
 
 msgctxt "1903_0_"
 msgid "Joaquin D'Oro"
-msgstr ""
+msgstr "Joaquin D'Oro"
 
 msgctxt "1904_0_"
 msgid "Pile of "Action Figurines""
@@ -7876,7 +7876,7 @@ msgstr "Znak X"
 
 msgctxt "1938_0_"
 msgid "LeChuck"
-msgstr ""
+msgstr "LeChuck"
 
 msgctxt "1939_0_"
 msgid "Can you tell me where LeChuck is?"
@@ -7956,7 +7956,7 @@ msgstr "Drzwi Kajuty"
 
 msgctxt "1958_0_"
 msgid "Elaine"
-msgstr ""
+msgstr "Elaine"
 
 msgctxt "1959_0_"
 msgid "Gun Powder"
@@ -8420,7 +8420,7 @@ msgstr "Zapaskudzony Bożek"
 
 msgctxt "2065_0_"
 msgid "????"
-msgstr ""
+msgstr "????"
 
 msgctxt "2066_0_"
 msgid "Grease Smear"
@@ -8472,7 +8472,7 @@ msgstr "Nie łudziłbym się na brawurowe popisy na ostatnią chwilę, najdrożs
 
 msgctxt "2078_0_ELAINE"
 msgid "[pickup1] Guybrush!"
-msgstr ""
+msgstr "[pickup1] Guybrush!"
 
 msgctxt "2079_0_ELAINE"
 msgid "[pickup1][loudly across ships] Stop LeChuck from tormenting those monkeys!"
@@ -8920,7 +8920,7 @@ msgstr "Nie włożę tej biednej małpki do trumny, póki nie stwierdzę, że je
 
 msgctxt "2174_0_GUYBRUSH"
 msgid "[pickup1][read with urgency] Winslow!"
-msgstr ""
+msgstr "[pickup1][read with urgency] Winslow!"
 
 msgctxt "2175_0_GUYBRUSH"
 msgid "[pickup1] Well I had to sail six of the seven major seas to find the ingredients, but I've finally finished the cutlass.  Almost."
@@ -9024,7 +9024,7 @@ msgstr "Skończ ze swoimi piekielnymi szarpaninami, albo posiekam cię na kawał
 
 msgctxt "2201_0_LECHUCKDEMON"
 msgid "[pickup1] Har-har-harrrr!"
-msgstr ""
+msgstr "[pickup1] Har-har-harrrr!"
 
 msgctxt "2202_0_"
 msgid "Close Inventory"
@@ -9064,7 +9064,7 @@ msgstr "Zatwierdź"
 
 msgctxt "2211_0_"
 msgid "DeSinge"
-msgstr ""
+msgstr "DeSinge"
 
 msgctxt "2212_0_"
 msgid "The Legendary Rock of Gelato"
@@ -9416,7 +9416,7 @@ msgstr "Mapa Skarbowych Dobroci Świńskiego Whittertona"
 
 msgctxt "2307_0_"
 msgid "ESK'RGOH"
-msgstr ""
+msgstr "ESK'RGOH"
 
 msgctxt "2308_0_"
 msgid "Quit Treasure Hunting?"
@@ -9448,59 +9448,59 @@ msgstr "poszukiwania?"
 
 msgctxt "2313_0_"
 msgid "SHUTTLEMOC"
-msgstr ""
+msgstr "SHUTTLEMOC"
 
 msgctxt "2314_0_"
 msgid "THINKIKAN"
-msgstr ""
+msgstr "THINKIKAN"
 
 msgctxt "2315_0_"
 msgid "DSHRAHG"
-msgstr ""
+msgstr "DSHRAHG"
 
 msgctxt "2316_0_"
 msgid "VRUM"
-msgstr ""
+msgstr "VRUM"
 
 msgctxt "2317_0_"
 msgid "OWCHEE"
-msgstr ""
+msgstr "OWCHEE"
 
 msgctxt "2318_0_"
 msgid "IKKPTOO"
-msgstr ""
+msgstr "IKKPTOO"
 
 msgctxt "2319_0_"
 msgid "HAIGHNO"
-msgstr ""
+msgstr "HAIGHNO"
 
 msgctxt "2320_0_"
 msgid "MAPLACIEA"
-msgstr ""
+msgstr "MAPLACIEA"
 
 msgctxt "2321_0_"
 msgid "FALHALA"
-msgstr ""
+msgstr "FALHALA"
 
 msgctxt "2322_0_"
 msgid "CLAMPAXIA"
-msgstr ""
+msgstr "CLAMPAXIA"
 
 msgctxt "2323_0_"
 msgid "NOSTLAGUHH"
-msgstr ""
+msgstr "NOSTLAGUHH"
 
 msgctxt "2324_0_"
 msgid "GOODGREEFIA"
-msgstr ""
+msgstr "GOODGREEFIA"
 
 msgctxt "2325_0_"
 msgid "POLLYGONUS"
-msgstr ""
+msgstr "POLLYGONUS"
 
 msgctxt "2326_0_"
 msgid "MEMLEST"
-msgstr ""
+msgstr "MEMLEST"
 
 msgctxt "2327_0_"
 msgid "Congratulations, you've dug up"
@@ -9692,7 +9692,7 @@ msgstr "By zaznaczać obiekty, kliknij lewym przyciskiem myszki.  Spróbuj zazna
 
 msgctxt "2372_0_"
 msgid "A B C"
-msgstr ""
+msgstr "A B C"
 
 msgctxt "2373_0_MCGEE"
 msgid "It's Hemlock.  Hemlock McGee."
@@ -9728,7 +9728,7 @@ msgstr "Scenariusz i Reżyseria"
 
 msgctxt "2381_0_"
 msgid "Mike Stemmle"
-msgstr ""
+msgstr "Mike Stemmle"
 
 msgctxt "2382_0_"
 msgid "Programmed By"
@@ -9736,7 +9736,7 @@ msgstr "Programowanie:"
 
 msgctxt "2383_0_"
 msgid "Randy Tudor"
-msgstr ""
+msgstr "Randy Tudor"
 
 msgctxt "2384_0_"
 msgid "Music By"
@@ -9744,7 +9744,7 @@ msgstr "Muzyka"
 
 msgctxt "2385_0_"
 msgid "Michael Land"
-msgstr ""
+msgstr "Michael Land"
 
 msgctxt "2386_0_"
 msgid "Choreography By"
@@ -9752,7 +9752,7 @@ msgstr "Choreografia:"
 
 msgctxt "2387_0_"
 msgid "Daniel Herrera"
-msgstr ""
+msgstr "Daniel Herrera"
 
 msgctxt "2388_0_"
 msgid "Art Direction"
@@ -9760,11 +9760,11 @@ msgstr "Kierownik Artystyczny"
 
 msgctxt "2389_0_"
 msgid "Derek Sakai"
-msgstr ""
+msgstr "Derek Sakai"
 
 msgctxt "2389_1_"
 msgid "David Bogan"
-msgstr ""
+msgstr "David Bogan"
 
 msgctxt "2390_0_"
 msgid "Story By"
@@ -9772,15 +9772,15 @@ msgstr "Historia:"
 
 msgctxt "2391_0_"
 msgid "Mark Darin"
-msgstr ""
+msgstr "Mark Darin"
 
 msgctxt "2391_1_"
 msgid "Mike Stemmle"
-msgstr ""
+msgstr "Mike Stemmle"
 
 msgctxt "2391_2_"
 msgid "Dave Grossman"
-msgstr ""
+msgstr "Dave Grossman"
 
 msgctxt "2393_0_"
 msgid "Based on Characters"
@@ -9792,7 +9792,7 @@ msgstr "Autorstwa"
 
 msgctxt "2394_0_"
 msgid "Ron Gilbert"
-msgstr ""
+msgstr "Ron Gilbert"
 
 msgctxt "2395_0_"
 msgid "Can you help me with these crazy winds?"
@@ -9912,7 +9912,7 @@ msgstr "By wyświetlić ekwipunek, naciśnij Przycisk - na swoim Wii Remote.  By
 
 msgctxt "2417_0_"
 msgid "Marketing text goes here."
-msgstr ""
+msgstr "Marketing text goes here."
 
 msgctxt "2418_0_"
 msgid "His name is Guybrush Threepwood, Mighty Pirate™"

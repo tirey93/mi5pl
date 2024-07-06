@@ -107,7 +107,7 @@ Naciúnij klawisz Spacja, by kontynuowaÊ
 44)  
 Tryb retro:
 45)  
-
+(Standard)
 46)  
 (Szeroki ekran)
 47)  
@@ -206,7 +206,7 @@ DeSinge otworzy≥ tym dinksem olbrzymie kamienne wrota. Moøe otworzÍ tym coú jesz
 90)  GUYBRUSH
 Wielofunkcyjny przyrzπd dawnych tubylcÛw RozbitkÛw do aktywacji ich tajemnych machin.
 91)  GUYBRUSH
-
+Hmm.
 92)  GUYBRUSH
 Ciekawe.
 1285)  GUYBRUSH
@@ -328,7 +328,7 @@ Tak jest, kapitanie!
 148)  GUYBRUSH
 I jakiú grog dla tej d≥oni!
 149)  GUYBRUSH
-
+Winslow!
 150)  WINSLOW
 Kapitanie?
 151)  GUYBRUSH
@@ -346,7 +346,7 @@ Durna... d≥oÒ... z ospπ...
 157)  GUYBRUSH
 Co, do...?
 158)  WINSLOW
-
+Sir?
 159)  GUYBRUSH
 Obierz ten kurs!
 160)  GUYBRUSH
@@ -434,7 +434,7 @@ Grabieøczy krÛliczku?
 2433)  GUYBRUSH
 Grabiπcy krÛliczek?
 197)  MORGAN
-
+Guybrush Threepwood!
 198)  MORGAN
 D≥ugo czeka≥am na tÍ chwilÍ!
 199)  GUYBRUSH
@@ -578,7 +578,7 @@ Ach, legendarna Ma≥pia Trumna Kauai! W øyciu nie zapomnÍ tego hula w Hadesie, by
 265)  GUYBRUSH
 Chodü do Guybrusha, ty upiorny przepisie voodoo, ty.
 266)  GUYBRUSH
-Elaine wyzwa≥a mnie od mato≥Ûw za zakup "autonawigacji". I kto jest teraz mato≥em, co?
+Elaine wyzwa≥a mnie od mato≥Ûw za zakup opcji z autonawigacjπ. I kto jest teraz mato≥em, co?
 267)  GUYBRUSH
 To zbÍdne... te ma≥py majπ zaskakujπco úwieøy oddech!
 268)  GUYBRUSH
@@ -782,7 +782,7 @@ Nie wiem, po co jeszcze to robiÍ.
 363)  DORO
 MOJE OKO!  CO ØEå ZROBI£ Z MOIM OKIEM?!
 364)  DESINGE
-
+[cheery][filter: through a tube] Bonjour!
 365)  MCGEE
 HEJ!  CO SI  STA£O Z MOJ• DRUG• NOG•?!
 366)  DESINGE
@@ -804,7 +804,7 @@ Co do...?
 374)  WINSLOW
 T≥uszcz na bekonie.  Najúliøsza substancja na úwiecie.
 375)  GUYBRUSH
-
+{angry}Grrrr...
 376)  GUYBRUSH
 {scared}[sliding down the gangplank]  Aaaaa!
 377)  GUYBRUSH
@@ -812,7 +812,7 @@ O nie! Ta kurtka by≥a prezentem z okazji rocznicy, a teraz jest ca≥a w t≥uszczu!
 378)  GUYBRUSH
 SprÛbujmy raz jeszcze.
 379)  GUYBRUSH
-
+{stern}Grrrr...
 380)  GUYBRUSH
 [sliding backwards on the gangplank]  Aaaaa!
 381)  GUYBRUSH
@@ -858,7 +858,7 @@ Jaki palant mÛg≥by siÍ do czegoú takiego przychyliÊ?
 399)  CRIMPDIGIT
 Jeszcze nie wiem, ale przyjdzie taki czas, øe wydmucham takπ grubπ butlÍ i wsadzÍ mu jπ g≥Íboko.
 400)  CRIMPDIGIT
-
+[angry] Arrgh!
 401)  GUYBRUSH
 G≥Íboko w co?
 402)  CRIMPDIGIT
@@ -900,7 +900,7 @@ To butelka pe≥na korzennego piwa.  Chyba jest zwietrza≥e.
 420)  GUYBRUSH
 Ciekawe, jak to otworzyÊ...
 421)  GUYBRUSH
-
+Aha!
 422)  GUYBRUSH
 To butelka pe≥na korzennego piwa!  Mog≥em takie skosztowaÊ dopiero po zapuszczeniu brÛdki!
 423)  GUYBRUSH
@@ -946,7 +946,7 @@ A teraz poczekaj tutaj na mnie grzecznie, a ja pÛjdÍ naostrzyÊ klingÍ mojej ma≥e
 443)  GUYBRUSH
 No, coú w tym moøe byÊ...
 444)  DESINGE
-
+Au revoir!{default}
 445)  GUYBRUSH
 Co za úwir.  Ale teraz przynajmniej ta rÍka jest pod mojπ kontrolπ.
 446)  GUYBRUSH
@@ -998,7 +998,7 @@ To w≥aúnie tego klucza DeSinge uøywa≥, by mnie skrÍpowaÊ! Gdyby tylko by≥ trochÍ
 469)  GUYBRUSH
 ZgadujÍ, øe to jeden z by≥ych pacjentÛw DeSinge'a... pewnie bidulek przyszed≥ do niego ze zwisajπcym paznokciem.
 470)  GUYBRUSH
-
+{suspicious}Murray?{default}
 471)  GUYBRUSH
 To s≥odki, malutki dzwoneczek.  Nie siÍgnÍ go z tej pozycji.
 472)  GUYBRUSH
@@ -1052,7 +1052,7 @@ Tak... chodü tu, ty wspania≥a magnetyczna ma≥pko...
 495)  GUYBRUSH
 Mam ciÍ!  Teraz wsadü klucz w... zamek...
 496)  GUYBRUSH
-
+{surprised}Ta-daaaa!
 497)  DESINGE
 {angry}Monsieur Threepwood!  Co pan robi?  Wracaj migiem na ten stÛ≥!
 498)  GUYBRUSH
@@ -1080,7 +1080,7 @@ Chora ma≥peczka.
 509)  GUYBRUSH
 Hmmm... pioruny i ma≥pki... cÛø za po≥πczenie?
 510)  GUYBRUSH
-
+Hmmm...
 511)  GUYBRUSH
 To piÍkny przek≥ad klasycznego "Pirata Da Vinci."
 512)  GUYBRUSH
@@ -1146,7 +1146,7 @@ Ale nawet gdybym mÛg≥ je siÍgnπÊ, to i tak jako pirat wiedzÍ zdobywam tylko prze
 542)  GUYBRUSH
 No úwietnie.  MÛj nowiutki statek ca≥y jest w smole.  A to wszystko twoja wina.
 543)  GUYBRUSH
-
+Ow.
 544)  CRIMPDIGIT
 Moje jednoroøce!  Moje piÍkne jednoroøce!
 545)  CRIMPDIGIT
@@ -1250,7 +1250,7 @@ Pirat, tak?  CÛø, uwierzÍ jak zobaczÍ.  Mi≥o by≥oby znÛw mieÊ autentycznego pira
 596)  GUYBRUSH
 Eee...
 597)  GUYBRUSH
-
+[trying to get a word in edgewise] {Worried} Er...
 598)  GUYBRUSH
 Hej!
 599)  NIPPERKIN
@@ -1396,7 +1396,7 @@ Jak mÛwi≥am, tajemnica tych wiatrÛw jest poza moimi mocami.  Pytaj innych o pomo
 669)  VOODOO
 To paskudna chmura niepowstrzymanego z≥a, roznoszπca zakumulowanπ ohydnoúÊ LeChucka, niczym choroba, po wszystkich morzach!
 670)  GUYBRUSH
-
+{disgust}Ugh!
 671)  VOODOO
 Nawet teraz wyczuwam ospÍ powolnie wÍdrujπcπ swojπ drogπ na tÍ wyspÍ!
 672)  GUYBRUSH
@@ -1530,7 +1530,7 @@ Zgoda.  Juø nie ma dla mnie dla poøytku.
 737)  GUYBRUSH
 Kto jest najpotÍøniejszym piratem wszech czasÛw?
 738)  GUYBRUSH
-
+Heh.{default}
 739)  GUYBRUSH
 To prawdziwie oddaje "úmierÊ dioramie".
 740)  GUYBRUSH
@@ -1542,7 +1542,7 @@ Ciekawe, co jest w úrodku...
 743)  VOODOO
 Zostaw to!  Tam trzymam swojπ... {mystical}bieliznÍ.{default}
 744)  GUYBRUSH
-
+{disgust}[shuddering] Gewghh...{default}
 745)  GUYBRUSH
 A to co?
 1524)  GUYBRUSH
@@ -1558,7 +1558,7 @@ Przepraszam, mam chyba ma≥e problemy ze swojπ rÍkπ... tylko dzisiaj.
 750)  MEMBER1
 Uwaøaj na rÍce!
 751)  MEMBER2
-
+Ieee!
 752)  GUYBRUSH
 Przepraszam!  Auu!
 753)  MEMBER1
@@ -1644,9 +1644,9 @@ Nie, Guybrushu.  Klπtwa Piraciej Papugi bÍdzie z tobπ na zawsze.
 793)  GUYBRUSH
 DziÍki.  Czekaj, ale jak to?
 794)  MCGEE
-
+Arrr!
 2392)  MCGEE
-
+Arrr!
 795)  GUYBRUSH
 {Happy} Witam...
 1661)  GUYBRUSH
@@ -1844,7 +1844,7 @@ A niech to, przegapi≥eú to.
 890)  DORO
 Øartujesz sobie?
 891)  GUYBRUSH
-
+{Incredulous} Moi?
 892)  GUYBRUSH
 Lepiej jeøeli schowam ten ser w spodniach, zanim przechodzπce kapibary mi go zeørπ.
 893)  ELAINE
@@ -1852,7 +1852,7 @@ SkoÒcz z popisami i zamocz ten miecz, Guybrush.
 894)  DESINGE
 Co tu siÍ dzieje?
 895)  GUYBRUSH
-
+{Stern} Shh!
 896)  GUYBRUSH
 åwietnie!!!
 897)  GUYBRUSH
@@ -1878,7 +1878,7 @@ A ja wiem?  Czy mÛg≥byú przestaÊ machaÊ mi tπ strzelbπ przed nosem? Mam tu wiatr
 907)  DESINGE
 Nie tak szybko, b≥ahy piracie!
 908)  DESINGE
-
+Sacre merde!
 909)  GUYBRUSH
 Hmm, chyba nie zrobi≥em tego, co mia≥em zamiar zrobiÊ.
 910)  GUYBRUSH
@@ -1898,11 +1898,11 @@ Santa Maria Conchita Alonso!  WIEDZIA£EM, øeby dzisiaj w≥oøyÊ moje chino!
 918)  GUYBRUSH
 Ach, wiÍc to BÛg musia≥ byÊ tym, ktÛry namÛwi≥ ciÍ na za≥oøenie spodenek.
 919)  DESINGE
-
+Threepwood!
 926)  DESINGE
-
+Threepwood!
 929)  DESINGE
-
+Threepwood!
 920)  DESINGE
 OdpuúÊ sobie swoje kombinacje i oddaj mi tÍ rÍkÍ!
 921)  GUYBRUSH
@@ -1954,7 +1954,7 @@ MÛj panie!  Myúla≥em, øe umar≥eú!
 945)  GUYBRUSH
 KurczÍ!  To krÛl Ludwik Trzynasty!
 946)  DESINGE
-
+{Amazed} Mon dieu!
 947)  GUYBRUSH
 Do licha! To krÛl Ludwik Czternasty!
 948)  DESINGE
@@ -2000,11 +2000,11 @@ Brzmisz dziwnie znajomo...
 969)  GUYBRUSH
 Moøe otworzÍ te wrota poprzez naciúniÍcie tego wielkiego, kryszta≥owego nosa....
 970)  GUYBRUSH
-
+[straining] {Angry} Grrrrr...
 971)  GUYBRUSH
 Nic.
 972)  GUYBRUSH
-
+{Angry} [straining] Grrrrr...
 973)  GUYBRUSH
 Nic.  I zaczynam mieÊ rany na rÍkach.  Z czego to coú jest w ogÛle zrobione?
 974)  GUYBRUSH
@@ -2020,7 +2020,7 @@ Powinienem czÍúciej siÍ wydzieraÊ.
 979)  GUYBRUSH
 Dziwne... czy wiÍkszoúÊ wiatrowskazÛw nie ma przypadkiem CZTERECH kierunkÛw?
 980)  GUYBRUSH
-
+{surprised}[shouting] Elaine!{default}
 981)  ELAINE
 Co?
 982)  GUYBRUSH
@@ -2094,13 +2094,13 @@ Hej, ta szabla ca≥a úwieci!
 1016)  ELAINE
 Zamachnij siÍ niπ na LeChucka, SZYBKO!
 1017)  GUYBRUSH
-
+{happy}Elaine!{default}
 1018)  ELAINE
-
+Guybrush?
 2259)  LECHUCK
-
+Guybrush?
 1019)  GUYBRUSH
-
+{cocky}LeChuck!
 1020)  LECHUCKDEMON
 Co?
 1021)  GUYBRUSH
@@ -2108,7 +2108,7 @@ Co z tymi ma≥pkami?  Znowu chcia≥eú poznaÊ TajemnicÍ Wyspy Ma≥p?
 1022)  LECHUCKDEMON
 Nie, teraz zmierzam do bardziej mrocznych tajemnic. Tajemnic pogrzebanych g≥Íboko w trzewiach Ma≥p Montevideo!!!
 1023)  LECHUCKDEMON
-
+{devilish}Bwah-ha-harrrrrrr!
 1024)  GUYBRUSH
 Jakie tajemnice kryjπ te ma≥py?
 1025)  LECHUCKDEMON
@@ -2146,7 +2146,7 @@ PrzesiπkniÍty na szpiku koúci przez voodoo... ciekawe, co wysiπknie po tym, jak 
 1041)  GUYBRUSH
 Hej!
 1042)  DORO
-
+{Surprised} Ack!
 1043)  DORO
 Kim jesteú?
 1044)  GUYBRUSH
@@ -2156,7 +2156,7 @@ Jam Guybrush Threepwood, PotÍøny Piratô!  A ty?
 1046)  GUYBRUSH
 Witam znowu!
 1047)  DORO
-
+{Surprised} Eep!
 1048)  DORO
 Nie rÛb tak!
 1049)  GUYBRUSH
@@ -2222,7 +2222,7 @@ To NIE S• lalki!
 1079)  GUYBRUSH
 Pa.
 1080)  DORO
-
+{Stern} Kep'lah!
 1081)  BARTENDER
 Arr, co ma byÊ?
 1082)  GUYBRUSH
@@ -2382,7 +2382,7 @@ Zabieraj ode mnie swojπ ospiπ rÍkÍ!
 1156)  BARTENDER
 Uwaøaj!
 1157)  MCGEE
-
+Ieeee!
 1158)  MCGEE
 Moja noga!
 1159)  NIPPERKIN
@@ -2438,9 +2438,9 @@ Ser, Ignacy Ser.
 1741)  DESINGE
 Ser, Ignacy Ser.
 1184)  PIRATEA
-
+{Confused} And what, pray tell, might I be findin' myself doin' if I joined {Sarcastic} this crew of mighty pirates?
 1185)  PIRATEA
-
+{Default} I'm open to persuasion, {Suspicious} what do you have in mind?
 1186)  PIRATEA
 {Angry} Are you outta your grog-addled mind?!? Nie!
 1744)  DESINGE
@@ -2450,31 +2450,31 @@ Postrada≥eú swÛj przepe≥niony grogiem rozum?! Nie!
 1188)  PIRATEA
 {Happy}The better to insult arm wrestle with Mr. Threepwoodem!
 1189)  PIRATEA
-
+{Default} Well nowadays you can't throw a dart or...or play a game of checkers without bein' expected to toss in a witherin' bon mot.
 1190)  PIRATEA
-
+{Sad} A greedy Australian is making a grab for my bar!
 1191)  PIRATEA
-
+{Enthused} My particular speciality is insult arm-wrestlin' {Default} which I use to defend my bar {Stern}from hostile takeovers.
 1192)  PIRATEA
-
+Aye! {Sarcastic}It could be a pleasure to sail with a refined wit such as yourself.
 1193)  PIRATEB
-
+{Default} Right now, we're in a dead tie.
 1194)  PIRATEB
-
+{Happy} Yeah! We never miss a shot!
 1195)  PIRATEB
-
+{Default} I would, but once I win the Melee championship, I'm gonna have to go on tour to win the tri-island dart thrower's championship.
 1196)  PIRATEB
-
+No Problem!
 1197)  PIRATEB
-
+{Sarcastic} Yeah! And unless you're good enough to compete
 1198)  PIRATEB
-
+{Stern} We'd advise that you take a long walk off a short pier!
 1199)  PIRATEB
-
+{Angry} Yeah! Can't you see we're busy here!
 1200)  PIRATEB
-
+{Confused}Really?
 1201)  PIRATEB
-
+{Stern} Sez you, swabbie!
 1202)  
 Jam Guybrush Threepwood, PotÍøny Piratô!
 1203)  
@@ -2626,7 +2626,7 @@ Nie, dziÍki.  Mam uczulenie.
 1278)  GUYBRUSH
 Tu siÍ tego nie wk≥ada.
 1279)  GUYBRUSH
-
+{Incredulous} Hmmm.
 1280)  GUYBRUSH
 Teraz lepiej.  To znaczy, trochÍ lepiej.
 1281)  GUYBRUSH
@@ -2636,15 +2636,15 @@ Teraz lepiej.  To znaczy, trochÍ lepiej.
 1284)  GUYBRUSH
 Dziwne.
 1286)  GUYBRUSH
-
+Hmmm.
 1421)  GUYBRUSH
-
+Hmmm.
 1287)  GUYBRUSH
-
+Ah.
 1289)  GUYBRUSH
-
+Oh.
 1290)  GUYBRUSH
-
+{Happy} Aha!
 1291)  GUYBRUSH
 Hmm. Ciekawe.
 1292)  GUYBRUSH
@@ -2684,7 +2684,7 @@ Czy ktoú tu jest?
 1309)  DESINGE
 [flummoxed] {Confused} Co?  Jak on...?
 1310)  DESINGE
-
+{Angry} Grrr.
 1311)  GUYBRUSH
 Nie wierzÍ, øe da≥ siÍ nabraÊ.
 1312)  GUYBRUSH
@@ -2868,7 +2868,7 @@ To nie ja, to moja rÍka!  Nie mogÍ...
 1402)  GUYBRUSH
 Oho.
 1403)  GUYBRUSH
-
+{disgust}[quick and disgusted]  Ew.
 1404)  NIPPERKIN
 Chodü ze mnπ do "Ciπgnij-kila" i opowiedz mi nieco wiÍcej o sobie...
 1405)  GUYBRUSH
@@ -3016,15 +3016,15 @@ CzeúÊ, niechlujnie wyglπdajπcy piracie! Jam Guybrush Threepwood, potÍøny pirat! 
 1477)  PIRATEB
 To üle siÍ orientujesz...Australia, co to za dziwne przezwisko?
 1479)  DESINGE
-
+Eek!
 1624)  JACQUES
-
+Eek!
 1720)  JACQUES
-
+Eek!
 1828)  MONKEY
-
+Eek!
 1480)  DESINGE
-
+[in pain]Agh!
 1481)  PIRATEB
 Dobrze...zaapelowa≥eú do mojego poczucia hojnoúci.
 1482)  PIRATEB
@@ -3034,15 +3034,15 @@ Ma≥pa mnie zostawi≥a.
 1484)  PIRATEB
 Ja przygnÍbiony? Przez Pongo? Nie bπdü úmieszny!
 1485)  DESINGE
-
+[as though unexpectedly tickled or physically pleasured] Oooooh.
 1486)  DESINGE
 [as though unexpectedly tickled or physically pleasured] Aaaa.
 1487)  DESINGE
-
+[as though unexpectedly tickled or physically pleasured] Ohhhh.
 1488)  GUYBRUSH
 Nic siÍ nie dzieje.  Pewnie popsute.
 1489)  DESINGE
-
+[in pain]  Ieeee!
 1490)  PIRATEB
 {Confused} Co? Gdzie øeú wymyúli≥ taki dziwny pomys≥?
 1491)  GUYBRUSH
@@ -3056,7 +3056,7 @@ MyúlÍ, øe powinieneú wiedzieÊ, øe w≥aúnie wracam do døungli, gdzie moøe uda mi s
 1495)  LECHUCKDEMON
 Chwilka... co siÍ dzieje?
 1496)  LECHUCKDEMON
-
+{devilish}Harr-harr-harrrr!
 1497)  GUYBRUSH
 No tak, bo w dzisiejszych czasach kaødy trzyma piwa korzenne w ma≥pich trumnie.
 1498)  GUYBRUSH
@@ -3092,7 +3092,7 @@ Te korzonki moøna by podciπÊ.
 1513)  GUYBRUSH
 Nie dosiÍgnÍ tego stπd.
 1514)  GUYBRUSH
-
+{stern}[making light sabre noises] Vooom, vooom!{default}
 1515)  GUYBRUSH
 Przepraszam, øe tyle mi to zajÍ≥o, ale by≥em zajÍty odkopywaniem magicznych voodoo-przedmiotÛw.  StÍskni≥aú siÍ?
 1516)  ELAINE
@@ -3296,21 +3296,21 @@ Jaaa! WiÍcej skarbÛw!
 1617)  GUYBRUSH
 Uwielbiam zapach skarbÛw o poranku...
 1618)  GUYBRUSH
-
+[happy] Arrrrr!
 1619)  JACQUES
-
+[dazed] Ook.
 1620)  JACQUES
-
+Eek.
 1621)  JACQUES
-
+[excited] Eek-eek-eek!
 1629)  JACQUES
-
+[excited] Eek-eek-eek!
 1622)  JACQUES
-
+[interested] ook-ook-ook!
 1825)  MONKEY
-
+[interested] ook-ook-ook!
 1623)  JACQUES
-
+[scared][ Eeeeeek!]
 1625)  GUYBRUSH
 Twoja papuga wyglπda tam doúÊ mizernie.
 1626)  VOODOO
@@ -3352,7 +3352,7 @@ Co ty tutaj robisz?  Nie szukasz G≥Íbokiego Flaka?
 1647)  NIPPERKIN
 Niech ci piractwo sprzyja, m≥ody!  Trzymam za ciebie kciuki!
 1648)  GUYBRUSH
-
+{Default} Davey.
 1649)  NIPPERKIN
 Co tam masz dla mnie, åpigood?
 1650)  NIPPERKIN
@@ -3360,7 +3360,7 @@ Co tam masz dla mnie, åpigood?
 1651)  NIPPERKIN
 Jakieú wieúci?
 1652)  MCGEE
-
+[mumbling]... grrr...
 1653)  MCGEE
 [mumbling]... parszywy klub...
 1654)  GUYBRUSH
@@ -3370,9 +3370,9 @@ Jeúli pragnÍ jeszcze kiedykolwiek ujrzeÊ Elaine, muszÍ znaleüÊ jakiú sposÛb na t
 1656)  DORO
 [playing with action figures] Fiu! Fiu! Fiu!
 1657)  DORO
-
+[playing with action figures] En garde!
 1658)  DORO
-
+[playing with action figures] Arrgh!
 1659)  DORO
 Rzeczπ, ktÛrπ Mroczny Ninja Dave NIGDY nie wiedzia≥ to fakt, øe Pierre to jego dawno zaginiony brat BLIèNIAK!  Duhn-dun-duuun!
 1660)  PARROT
@@ -3396,9 +3396,9 @@ Chcia≥bym nakierowaÊ tÍ broÒ na DeSinge'a... ciekawe, jak mu siÍ to spodoba!
 1670)  GUYBRUSH
 Ta statuetka ma puste ko≥owe otwory tam, gdzie pewnie powinny byÊ oczy.
 1671)  GUYBRUSH
-
+[sneezing] Ah-choo!
 1706)  GUYBRUSH
-
+[sneezing] Ah-choo!
 1672)  GUYBRUSH
 Lepiej øebym nie kicha≥ w obecnoúci tych roúlinek...
 1673)  GUYBRUSH
@@ -3502,7 +3502,7 @@ Nie chcia≥bym mieÊ jakiegoú krÛtkiego spiÍcia z cz≥owiekiem tak przyjaznym jak W
 1725)  
 SzkrabrÛd
 1726)  
-
+Marshall
 1727)  
 Znak
 1777)  
@@ -3626,11 +3626,11 @@ Filar
 1785)  
 Forma
 1786)  
-
+Winslow
 1787)  
 DeSinge
 1788)  
-
+Guybrush
 1789)  
 PÛ≥ka na Ksiπøki
 1816)  
@@ -3668,7 +3668,7 @@ Voodoo-Kaplica
 1804)  
 Czaszka
 1805)  
-
+Diorama
 1806)  
 Czaszkoúwieczka
 1807)  
@@ -3702,11 +3702,11 @@ Klucz
 1823)  
 Klatka
 1824)  MONKEY
-
+{Default}[excited] Eek-eek-eek!
 1826)  MONKEY
-
+{Frustrated}[scared] Eeeeeek!
 1827)  MONKEY
-
+{Disappointed}[dazed] Ook.
 1829)  DESINGE
 Hmmm... to ciekawe... wiÍc twierdzisz, øe twoja ma≥a, chora rπczka ma w≥asnπ úwiadomoúÊ?
 1831)  DESINGE
@@ -3742,7 +3742,7 @@ Schody
 1847)  
 ProbÛwki
 1848)  
-
+Jacques
 1849)  GUYBRUSH
 Nie siÍgnÍ tego w tej pozycji.
 1850)  
@@ -3846,7 +3846,7 @@ Skrzynia Zwiastowania
 1902)  
 Bezuøyteczne, NiepojÍte Karty Tarota
 1903)  
-
+Joaquin D'Oro
 1904)  
 Sterta Figurek
 1905)  
@@ -3916,7 +3916,7 @@ Pozbawiona Nosa RzeübÍ
 1937)  
 Znak X
 1938)  
-
+LeChuck
 1939)  
 Powiesz mi, gdzie znajdÍ LeChucka?
 1940)  
@@ -3956,7 +3956,7 @@ Luk
 1957)  
 Drzwi Kajuty
 1958)  
-
+Elaine
 1959)  
 Proch Strzelniczy
 1960)  
@@ -4179,7 +4179,7 @@ Zapaskudzony Boøek
 2437)  
 Zapaskudzony Boøek
 2065)  
-
+????
 2066)  
 T≥usty Smar
 2067)  
@@ -4205,7 +4205,7 @@ Ani w po≥owie nie tak, jak Guybrush, gdy wybebeszy twe zaraøone cia≥o voodoo-sza
 2077)  LECHUCKDEMON
 Nie ≥udzi≥bym siÍ na brawurowe popisy na ostatniπ chwilÍ, najdroøsza.  Ostatnim razem, twego "PotÍønego Pirata" mÍøa, rozrywa≥o moje stadko nienasyconych pudli-piranii...
 2078)  ELAINE
-
+[pickup1] Guybrush!
 2079)  ELAINE
 Powstrzymaj LeChucka od znÍcania siÍ nad tymi ma≥pami!
 2080)  ELAINE
@@ -4414,7 +4414,7 @@ WπtpiÍ, øeby SzkrabrÛd zaliczy≥ to jako "skarb", jeøeli nie bÍdzie widzia≥, jak 
 2173)  GUYBRUSH
 Nie w≥oøÍ tej biednej ma≥pki do trumny, pÛki nie stwierdzÍ, øe jest martwa... chociaø, jakby siÍ przyjrzeÊ, to powinno siÍ staÊ za jakieú dziesiÍÊ minut.
 2174)  GUYBRUSH
-
+[pickup1][read with urgency] Winslow!
 2175)  GUYBRUSH
 Musia≥em przep≥ynπÊ szeúÊ najwiÍkszych mÛrz, by odnaleüÊ sk≥adniki. Szabla  jest juø gotowa.  Prawie.
 2176)  GUYBRUSH
@@ -4466,7 +4466,7 @@ Tak... tak!
 2200)  LECHUCKDEMON
 SkoÒcz ze swoimi piekielnymi szarpaninami, albo posiekam ciÍ na kawa≥ki!
 2201)  LECHUCKDEMON
-
+[pickup1] Har-har-harrrr!
 2202)  
 Zamknij Ekwipunek
 2203)  
@@ -4486,7 +4486,7 @@ Kiedy pozbÍdÍ siÍ LeChucka, lepiej jeúli usunÍ i spalÍ te rzeczy, zanim przeørπ 
 2210)  
 Zatwierdü
 2211)  
-
+DeSinge
 2212)  
 Legendarna Ska≥a Gelato
 2213)  
@@ -4661,7 +4661,7 @@ Przedostatnia Mapa Stebastiona Gashaghera
 2306)  
 Mapa Skarbowych Dobroci åwiÒskiego Whittertona
 2307)  
-
+ESK'RGOH
 2308)  
 ZakoÒczyÊ Poszukiwania?
 2309)  
@@ -4675,33 +4675,33 @@ Skarbu
 Gotowy, by zaczπÊ
 poszukiwania?
 2313)  
-
+SHUTTLEMOC
 2314)  
-
+THINKIKAN
 2315)  
-
+DSHRAHG
 2316)  
-
+VRUM
 2317)  
-
+OWCHEE
 2318)  
-
+IKKPTOO
 2319)  
-
+HAIGHNO
 2320)  
-
+MAPLACIEA
 2321)  
-
+FALHALA
 2322)  
-
+CLAMPAXIA
 2323)  
-
+NOSTLAGUHH
 2324)  
-
+GOODGREEFIA
 2325)  
-
+POLLYGONUS
 2326)  
-
+MEMLEST
 2327)  
 Gratulacje, odkopa≥eú
 2328)  
@@ -4793,7 +4793,7 @@ by odnaleüÊ zakopany skarb!
 2371)  
 By zaznaczaÊ obiekty, kliknij lewym przyciskiem myszki.  SprÛbuj zaznaczyÊ instrukcje voodoo na maszcie.
 2372)  
-
+A B C
 2373)  MCGEE
 Tu Blekot.  Blekot McGee.
 2374)  
@@ -4811,35 +4811,35 @@ Ska≥a Gelato
 2380)  
 Scenariusz i Reøyseria
 2381)  
-
+Mike Stemmle
 2382)  
 Programowanie:
 2383)  
-
+Randy Tudor
 2384)  
 Muzyka
 2385)  
-
+Michael Land
 2386)  
 Choreografia:
 2387)  
-
+Daniel Herrera
 2388)  
 Kierownik Artystyczny
 2389)  
-
-
+Derek Sakai
+David Bogan
 2390)  
 Historia:
 2391)  
-
-
-
+Mark Darin
+Mike Stemmle
+Dave Grossman
 2393)  
 Na Podstawie Postaci
 Autorstwa
 2394)  
-
+Ron Gilbert
 2395)  
 Czy pomoøesz mi z tymi szalonymi wiatrami?
 2396)  
@@ -4889,7 +4889,7 @@ Fotel operacyjny DeSinge'a moøna obracaÊ oraz nachylaÊ w gÛrÍ i w dÛ≥ uøywajπc +
 2415)  
 By wyúwietliÊ ekwipunek, naciúnij Przycisk - na swoim Wii Remote.  By zbadaÊ trumnÍ, zaznacz szk≥o powiÍkszajπce lub naciúnij przycisk 2, po czym zaznacz trumnÍ.
 2417)  
-
+Marketing text goes here.
 2418)  
 Nazywa siÍ Guybrush Threepwood, PotÍøny Pirat.
 2419)  

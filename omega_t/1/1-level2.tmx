@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>(Standard)</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>(Standard)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>(Widescreen)</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -390,6 +398,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>????</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>????</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A B C</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>A B C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A big statue that looks like someone playing a musical salamander.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -514,6 +538,22 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Ach, więc to Bóg musiał być tym, który namówił cię na założenie spodenek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ah.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Ah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aha!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Aha!</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +806,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Arrr!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Arrr!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Arrr, keep yur poxy hand out of me grog!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -814,6 +862,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Au revoir!{default}</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Au revoir!{default}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Audio Settings</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -834,6 +890,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Aj! To była by dla mnie przyjemność żeglować z kimś tak dowcipnym, jak ty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Aye! {Sarcastic}It could be a pleasure to sail with a refined wit such as yourself.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Aye! {Sarcastic}It could be a pleasure to sail with a refined wit such as yourself.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1146,6 +1210,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>ROZDZIAŁ 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>CLAMPAXIA</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>CLAMPAXIA</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,6 +1646,38 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>DSHRAHG</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>DSHRAHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Daniel Herrera</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Daniel Herrera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Dave Grossman</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Dave Grossman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>David Bogan</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>David Bogan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>De Singe</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -1594,6 +1698,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Laboratorium DeSinge'a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>DeSinge</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>DeSinge</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,6 +1806,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Derek Sakai</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Derek Sakai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Desingeograph of Guybrush's Hand</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -1730,6 +1850,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>A nie byłeś duchem?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Diorama</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Diorama</seg>
       </tuv>
     </tu>
     <tu>
@@ -1894,10 +2022,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>ESK'RGOH</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>ESK'RGOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Eek!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Eek!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Eek.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Eek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Effects: Adjust the volume of sound effects.</seg>
       </tuv>
       <tuv xml:lang="pl">
         <seg>Efekty: Reguluje głośność efektów dźwiękowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Elaine</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Elaine</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2170,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Lepiej będę na nią uważał.  Aj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>FALHALA</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>FALHALA</seg>
       </tuv>
     </tu>
     <tu>
@@ -2218,6 +2386,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Pełny ekran: Graj w trybie pełnego ekranu lub okienkowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>GOODGREEFIA</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>GOODGREEFIA</seg>
       </tuv>
     </tu>
     <tu>
@@ -2518,6 +2694,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Guybrush</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Guybrush</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Guybrush Threepwood!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Guybrush Threepwood!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Guybrush finally managed to reverse Flotsam's winds, allowing him to set sail for Elaine.  His hand, however, has other plans... or maybe it's just being a jerk.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -2546,6 +2738,22 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Guybrush wylądował na plaży Wyspy Rozbitków z ręką zainfekowaną voodoo-chorobą. Nie wie też gdzie jest jego piękna i ukochana żona, Elaine.  Powitał go redaktor naczelny Davey Szkrabród, który wyjaśnił mu, że jedyną osobą, która może pomóc mu wydać się z wyspy jest Głęboki Flak.  Szkrabród obiecał wyjawić lokację Głębokiego Flaka pod warunkiem, że Guybrush stworzy jakieś ciekawe pirackie newsy. Guybrush przystępuje do działania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Guybrush?</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Guybrush?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>HAIGHNO</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>HAIGHNO</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,6 +2850,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Za stary jestem na niego.  Ale z tego, co mówią tutejsi ludzie, można by pomyśleć, że to diabeł wcielony!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Heh.{default}</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Heh.{default}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2862,6 +3078,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Hmm.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Hmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Hmm.  Looks like I've only got a couple of steps left.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -2922,6 +3146,22 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Hmmm, gdzie ja wcześniej widziałem te twarze?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hmmm.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Hmmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Hmmm...</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Hmmm...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3822,6 +4062,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>IKKPTOO</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>IKKPTOO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Ick, this cheese wheel's starting to go soft.  Maybe I shouldn't be storing it in my pants.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -3834,6 +4082,22 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Bożek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ieee!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Ieee!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ieeee!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Ieeee!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4246,6 +4510,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Jacques</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Jacques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Jail</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -4258,6 +4530,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Rzeźby w Więzieniu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Joaquin D'Oro</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Joaquin D'Oro</seg>
       </tuv>
     </tu>
     <tu>
@@ -4478,6 +4758,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>LeChuck</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>LeChuck</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>LeChuck?!  What kind of Voodoo trickery is this?!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -4606,6 +4894,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>MAPLACIEA</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>MAPLACIEA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>MEMLEST</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>MEMLEST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Machine</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -4642,6 +4946,30 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Mapa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mark Darin</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Mark Darin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marketing text goes here.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Marketing text goes here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Marshall</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Marshall</seg>
       </tuv>
     </tu>
     <tu>
@@ -4726,6 +5054,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Michael Land</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Michael Land</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Microscope</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -4738,6 +5074,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Szczęśliwa Mapa Mike'a Ironbutta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Mike Stemmle</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Mike Stemmle</seg>
       </tuv>
     </tu>
     <tu>
@@ -4862,6 +5206,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>NOSTLAGUHH</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>NOSTLAGUHH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Nah.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -4938,6 +5290,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Brak Zaznaczonych Przedmiotów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>No Problem!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>No Problem!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5158,6 +5518,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>OWCHEE</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>OWCHEE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Of course not.  YOU may be silly, but I'm not!  Ha!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -5210,6 +5578,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Och, na miłość boską.  Ruszaj na niego z tą szablą, to będziemy mogli spokojnie wrócić do domu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Oh.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Oh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5298,6 +5674,22 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Au!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Ow.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Ow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>POLLYGONUS</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>POLLYGONUS</seg>
       </tuv>
     </tu>
     <tu>
@@ -5606,6 +5998,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Randy Tudor</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Randy Tudor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Rare</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -5702,6 +6102,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Ron Gilbert</seg>
+      </tuv>
+      <tuv xml:lang="pl" changeid="damia" changedate="20240706T102615Z" creationid="damia" creationdate="20240706T102615Z">
+        <seg>Ron Gilbert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Root Beer</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -5746,6 +6154,22 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>DLA NAUKI!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>SHUTTLEMOC</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>SHUTTLEMOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sacre merde!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Sacre merde!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5922,6 +6346,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Znak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sir?</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Sir?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6262,6 +6694,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>THINKIKAN</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>THINKIKAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Tales of Monkey Island</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -6312,7 +6752,7 @@
       <tuv xml:lang="en-US">
         <seg>Telltale and the Telltale Games logo are trademarks of Telltale, Inc.</seg>
       </tuv>
-      <tuv xml:lang="pl">
+      <tuv xml:lang="pl" changeid="damia" changedate="20240706T102655Z">
         <seg>Telltale oraz logo Telltale Games są znakami handlowymi Telltale, Inc.</seg>
       </tuv>
     </tu>
@@ -6886,6 +7326,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Threepwood!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Threepwood!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Throw me the rope!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -7202,6 +7650,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Praktycznie Nienaprawialna Łódź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>VRUM</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>VRUM</seg>
       </tuv>
     </tu>
     <tu>
@@ -7966,6 +8422,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Winslow</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Winslow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Winslow!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>Winslow!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Winslow! [trying to speak quickly]  Setacoursefor [hand covers mouth] mpphmphmphmph-mph!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -8430,6 +8902,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>[angry] Arrgh!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[angry] Arrgh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>[angry] I don't know, but when I find the scupperscraper, I'll shove one of me bottles so deep up his fundament....</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -8526,6 +9006,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>[as though unexpectedly tickled or physically pleasured] Ohhhh.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[as though unexpectedly tickled or physically pleasured] Ohhhh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[as though unexpectedly tickled or physically pleasured] Oooooh.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[as though unexpectedly tickled or physically pleasured] Oooooh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>[awestruck]{Surprised} Whoah.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -8543,6 +9039,14 @@
     <tu>
       <tuv xml:lang="en-US">
         <seg>[cheery][filter: through a tube] Bon jour!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[cheery][filter: through a tube] Bonjour!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[cheery][filter: through a tube] Bonjour!</seg>
       </tuv>
       <tuv xml:lang="pl">
         <seg>[cheery][filter: through a tube] Bonjour!</seg>
@@ -8598,6 +9102,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>[dazed] Ook.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[dazed] Ook.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>[despondent] My ship!  {worried}My booty!  {whiney}My collection of autographed sextants!{default}</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -8634,6 +9146,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Hej!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[excited] Eek-eek-eek!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[excited] Eek-eek-eek!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8774,6 +9294,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>[happy] Arrrrr!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[happy] Arrrrr!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>[happy] {Happy} Okay, let's figure out the final wind idol thingie, and get the heck--</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -8830,6 +9358,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>[in pain]  Ieeee!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[in pain]  Ieeee!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[in pain]Agh!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[in pain]Agh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>[in pain][filter: through a tube]Argh, my spleen!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -8858,6 +9402,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Niby jak takie szelki mogą działać?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[interested] ook-ook-ook!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[interested] ook-ook-ook!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9038,6 +9590,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>[mumbling]... grrr...</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[mumbling]... grrr...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>[mumbling]... stupid club ...</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -9154,6 +9714,22 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Ostatni raz mówię: LeChuck, nie jestem w tobie zakochana!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[pickup1] Guybrush!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[pickup1] Guybrush!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[pickup1] Har-har-harrrr!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[pickup1] Har-har-harrrr!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9662,6 +10238,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>[pickup1][read with urgency] Winslow!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[pickup1][read with urgency] Winslow!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>[pickup1][read with urgency]I said, make way to the [hand covers mouth] mph mph mphmph!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -9714,6 +10298,22 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Cokolwiek zrobisz, beczka grogu nigdy nie będzie piwem korzennym.  Zaraz odnajdę korzenie tego problemu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[playing with action figures] Arrgh!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[playing with action figures] Arrgh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[playing with action figures] En garde!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[playing with action figures] En garde!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9902,6 +10502,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>[scared][ Eeeeeek!]</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[scared][ Eeeeeek!]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>[scheming] Hmmm.  A pirate hunter, eh?</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -10046,6 +10654,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>[sneezing] Ah-choo!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[sneezing] Ah-choo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>[snooty] {Confused} Hmph.  How silly of me. {Arrogant} Threepwood would never be clever enough to get through that door.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -10074,6 +10690,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Err</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[straining] {Angry} Grrrrr...</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[straining] {Angry} Grrrrr...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10138,6 +10762,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Eee...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>[trying to get a word in edgewise] {Worried} Er...</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>[trying to get a word in edgewise] {Worried} Er...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10406,6 +11038,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Amazed} Mon dieu!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Amazed} Mon dieu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Amazed} My particular speciality is insult arm-wrestlin' {Default} which I use to defend my bar from hostile takeovers.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -10430,6 +11070,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Angry} Grrr.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Angry} Grrr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Angry} ID?!? I don't got to show you no stinkin' ID!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -10446,10 +11094,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Angry} Yeah! Can't you see we're busy here!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Angry} Yeah! Can't you see we're busy here!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Angry} [angry] The thing with the seahorse on it!</seg>
       </tuv>
       <tuv xml:lang="pl">
         <seg>Ten patyk z konikiem morskim!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Angry} [straining] Grrrrr...</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Angry} [straining] Grrrrr...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10706,6 +11370,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Confused} And what, pray tell, might I be findin' myself doin' if I joined {Sarcastic} this crew of mighty pirates?</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Confused} And what, pray tell, might I be findin' myself doin' if I joined {Sarcastic} this crew of mighty pirates?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11030,6 +11702,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Confused}Really?</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Confused}Really?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Confused}What was it I was supposed to be doing?</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -11118,6 +11798,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Default} Davey.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Default} Davey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Default} Deep Gut's my secret source for off-island news stories.  {Cocky} And it's a good thing, too!  {Default} Without the Gut's uncanny inter-island scoops, the Keelhauler Gazette would never be able to compete with those [angry] {Angry} snooty prima donnas over at the Flotsam Times!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -11182,6 +11870,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Default} I would, but once I win the Melee championship, I'm gonna have to go on tour to win the tri-island dart thrower's championship.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Default} I would, but once I win the Melee championship, I'm gonna have to go on tour to win the tri-island dart thrower's championship.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Default} I'd better be careful around this ink.  I don't want to become Guybrush Threepwood, Spotty Pirate.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -11202,6 +11898,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Powiem ci, jak coś znajdę.  Jesteś pewien, że ten "Ninja" jest wartościowym skarbem, tak?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Default} I'm open to persuasion, {Suspicious} what do you have in mind?</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Default} I'm open to persuasion, {Suspicious} what do you have in mind?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11294,6 +11998,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Default} Right now, we're in a dead tie.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Default} Right now, we're in a dead tie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Default} Take it.  It's useless.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -11330,6 +12042,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Mamy tylko jeden statek... Wyjącą Narwalę.  Nie została przejęta przez wieki!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Default} Well nowadays you can't throw a dart or...or play a game of checkers without bein' expected to toss in a witherin' bon mot.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Default} Well nowadays you can't throw a dart or...or play a game of checkers without bein' expected to toss in a witherin' bon mot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11470,10 +12190,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Default}[excited] Eek-eek-eek!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Default}[excited] Eek-eek-eek!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Devilish} Har!  My outer shell is {Default} meaningless, you fool!   Within my decaying flesh courses more {Surprised}voodoo power than your pitiful {Angry} mind can possibly imagine!</seg>
       </tuv>
       <tuv xml:lang="pl">
         <seg>{Devilish} Har!  Moja zewnętrzna powłoka nie ma znaczenia!   Wewnątrz mego zbutwiałego ciała jest więcej mocy vooodoo, niż twój godny pożałowania móżdżek może sobie nawet wyobrazić!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Disappointed}[dazed] Ook.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Disappointed}[dazed] Ook.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11614,6 +12350,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Enthused} My particular speciality is insult arm-wrestlin' {Default} which I use to defend my bar {Stern}from hostile takeovers.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Enthused} My particular speciality is insult arm-wrestlin' {Default} which I use to defend my bar {Stern}from hostile takeovers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Enthused} Porcelain {Cocky} Power Pirates!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -11654,6 +12398,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Frustrated}[scared] Eeeeeek!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Frustrated}[scared] Eeeeeek!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Happy} "Deadline"</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -11674,6 +12426,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Pirat, tak?  Cóż, uwierzę jak zobaczę.  Miło byłoby znów mieć autentycznego pirata z pierwszej ręki, gdzieś w okolicach naszej Wyspy Rozbitków. A to dlatego, że od ponad sześciu miesięcy nie miałem okazji napisać żadnej, do szpiku kości pirackiej, opowieści!  Nic tak nie podnosi dziennikarskiej cnoty jak obietnica o dobrej pirackiej opowieści, wiem co mówię...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Happy} Aha!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Happy} Aha!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12022,6 +12782,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Happy} Yeah! We never miss a shot!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Happy} Yeah! We never miss a shot!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Happy} [enthusiastic] All right!!!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -12126,6 +12894,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Incredulous} Hmmm.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Incredulous} Hmmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Incredulous} I don't think a flower sconce would enhance the feng shui right here.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -12178,6 +12954,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Być może w końcu wymyślę jakiś sposób, jak się dostać na tą łódź...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Incredulous} Moi?</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Incredulous} Moi?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12314,6 +13098,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Jak chcia?,bys do?,?.czy?? do mej za?,ogi pot?T??nych pirat??w?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Sad} A greedy Australian is making a grab for my bar!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Sad} A greedy Australian is making a grab for my bar!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12562,6 +13354,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Co tam masz dla mnie, Śpigood?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Sarcastic} Yeah! And unless you're good enough to compete</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Sarcastic} Yeah! And unless you're good enough to compete</seg>
       </tuv>
     </tu>
     <tu>
@@ -12822,6 +13622,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Stern} Kep'lah!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Stern} Kep'lah!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Stern} Make me!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -12874,6 +13682,22 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Zwykłe kręcenie tej tarczy prowadzi donikąd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Stern} Sez you, swabbie!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Stern} Sez you, swabbie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Stern} Shh!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Stern} Shh!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12966,6 +13790,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Stern} We'd advise that you take a long walk off a short pier!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Stern} We'd advise that you take a long walk off a short pier!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Stern} What kind of cheesy ancient civilization worships manatees?</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -13014,10 +13846,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{Surprised} Ack!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Surprised} Ack!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{Surprised} Despondent?! {Confused} Over Pongo? {Sarcastic} Don't be silly!</seg>
       </tuv>
       <tuv xml:lang="pl">
         <seg>Ja przygnębiony? Przez Pongo? Nie bądź śmieszny!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{Surprised} Eep!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{Surprised} Eep!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13566,6 +14414,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{angry}Grrrr...</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{angry}Grrrr...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{angry}Hey!  Keep yer grubby mitts off me bottle breaker!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -13848,8 +14704,8 @@
       <tuv xml:lang="en-US">
         <seg>{cocky}Elaine thought I was an idiot for buying the "auto-navigation" option, but who's the idiot now, huh?{default}</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Elaine wyzwała mnie od matołów za zakup "autonawigacji". I kto jest teraz matołem, co?</seg>
+      <tuv xml:lang="pl" changeid="damia" changedate="20240706T095851Z">
+        <seg>Elaine wyzwała mnie od matołów za zakup opcji z autonawigacją. I kto jest teraz matołem, co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13906,6 +14762,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>{cocky}Jacques, nie małpuj mi się tam i chodź mi pomóż!  Dam ci banana, chcesz banana?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{cocky}LeChuck!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{cocky}LeChuck!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15414,6 +16278,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{devilish}Bwah-ha-harrrrrrr!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{devilish}Bwah-ha-harrrrrrr!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{devilish}Do ya mind?  {angry}I be in the middle of an unholy ceremony here!</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -15426,6 +16298,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>{devilish}Har!  Nie zniszczysz mnie tak łatwo, Threepsiup!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{devilish}Harr-harr-harrrr!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{devilish}Harr-harr-harrrr!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15486,6 +16366,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{disgust}Ugh!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{disgust}Ugh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{disgust}What a crummy sconce.</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -15498,6 +16386,22 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Wyglądasz jak coś, co kot zjadł, a później wyrzygał na podłogę!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{disgust}[quick and disgusted]  Ew.</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{disgust}[quick and disgusted]  Ew.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{disgust}[shuddering] Gewghh...{default}</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{disgust}[shuddering] Gewghh...{default}</seg>
       </tuv>
     </tu>
     <tu>
@@ -15786,6 +16690,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Spoko kula!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{happy}Elaine!{default}</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{happy}Elaine!{default}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16702,6 +17614,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{stern}Grrrr...</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{stern}Grrrr...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{stern}Hemlock?</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -17050,6 +17970,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Czas się poddać!  Przejmuję ten statek!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{stern}[making light sabre noises] Vooom, vooom!{default}</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{stern}[making light sabre noises] Vooom, vooom!{default}</seg>
       </tuv>
     </tu>
     <tu>
@@ -17414,6 +18342,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>{surprised}Ta-daaaa!</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{surprised}Ta-daaaa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>{surprised}That picture of my boney hand is really creeping me out,{default} but for some reason I just can't look away.{suspicious}[fake De Singe's french accent] Jacques! Dispose of that for me! {confused}[normal voice]... no? {default}*sigh*</seg>
       </tuv>
       <tuv xml:lang="pl">
@@ -17650,6 +18586,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Czy czegoś ci potrzeba?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{surprised}[shouting] Elaine!{default}</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{surprised}[shouting] Elaine!{default}</seg>
       </tuv>
     </tu>
     <tu>
@@ -17922,6 +18866,14 @@
       </tuv>
       <tuv xml:lang="pl">
         <seg>Ja?  Ukradłem?  Ja bym nawet nie wiedział gdzie... Hej, patrz tam!  Trójgłowa małpa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>{suspicious}Murray?{default}</seg>
+      </tuv>
+      <tuv xml:lang="pl">
+        <seg>{suspicious}Murray?{default}</seg>
       </tuv>
     </tu>
     <tu>

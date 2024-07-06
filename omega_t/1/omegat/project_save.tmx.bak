@@ -5702,6 +5702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ron Gilbert</seg>
+      </tuv>
+      <tuv lang="pl" changeid="damia" changedate="20240706T102615Z" creationid="damia" creationdate="20240706T102615Z">
+        <seg>Ron Gilbert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Root Beer</seg>
       </tuv>
       <tuv lang="pl">
@@ -6312,8 +6320,8 @@
       <tuv lang="en-US">
         <seg>Telltale and the Telltale Games logo are trademarks of Telltale, Inc.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Telltale oraz logo Telltale Games są znakami handlowymi Telltale, Inc.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240706T100415Z">
+        <seg>Telltale oraz logo Telltale Games są zażółć znakami handlowymi Telltale, Inc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8290,6 +8298,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Nie uwierzyłbyś, ile niesamowitych przygód mnie spotkało podczas odnajdywania części do niej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll have to do better than that, lad</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Oj, chyba nie wyszło tak jak trzeba, chłopcze!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11592,8 +11608,8 @@
       <tuv lang="en-US">
         <seg>{Embarrassed} [sheepish] Ooh, the Pox is blowing out to sea!  Hope that doesn't come back to bite me in the fundament.  {Sarcastic} Well, I'm sure it'll be fine.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Och! Ospa rozwiewa się po morzu!  Byle nie zawróciła i nie złapała mnie pod plecami.  To na pewno nie byłoby fajne.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240706T091146Z">
+        <seg>Och! Ospa rozwiewa się po morzu!  Byle nie zawróciła i nie złapała mnie pod plecami.  Dobra, jakoś to będzie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13848,8 +13864,8 @@
       <tuv lang="en-US">
         <seg>{cocky}Elaine thought I was an idiot for buying the "auto-navigation" option, but who's the idiot now, huh?{default}</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Elaine wyzwała mnie od matołów za zakup "autonawigacji". I kto jest teraz matołem, co?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20240706T095851Z">
+        <seg>Elaine wyzwała mnie od matołów za zakup opcji z autonawigacją. I kto jest teraz matołem, co?</seg>
       </tuv>
     </tu>
     <tu>
