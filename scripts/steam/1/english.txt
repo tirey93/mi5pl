@@ -4039,6 +4039,8 @@ I can't decipher that crazy scroll.
 Your scroll was no match for my intellect.
 2000)  
 I found a scroll in a bottle!
+2001)  
+
 2002)  
 You mentioned Mer-Folk?
 2003)  
@@ -4433,6 +4435,8 @@ What's going on here?
 [pickup1] Worst.  Air freshener.  Ever.
 2183)  
 I've got PROOF that you're up to no good!
+2184)  
+
 2185)  GUYBRUSH
 [pickup1] I wonder what De Singe was up to out in the jungle?
 2186)  GUYBRUSH
@@ -4888,6 +4892,8 @@ Use your Nunchuk's Control Stick or press and hold the A Button and aim the Poin
 DeSinge's examination table can be moved by using the +Control Pad to rotate left and right, or incline and decline.
 2415)  
 To display your inventory, press the - Button on your Wii Remote.  To examine the coffin, select the magnifying glass or press the 2 Button, then select the coffin.
+2416)  
+
 2417)  
 Marketing text goes here.
 2418)  
@@ -4935,6 +4941,8 @@ To combine items, place an item in each of the two large circles on the left, th
 Welcome to the Tales of Monkey Island treasure hunt. Tiki gods are buried across Flotsam Island, each one guarding a valuable treasure. Follow your maps to find the booty!
 2431)  
 Don't worry, everything's under control!
+2432)   
+
 2434)  
 Giant Wind Control Device and Mysterious Idol
 2438)  ANNOUNCER
@@ -4966,3 +4974,51 @@ Now...
 "The Demon Pirate LeChuck,"
 2451)  
 and "That Big Jerk LeChuck."
+2452)  
+Welcome to Tales of Monkey Island! To join Guybrush on the first chapter of his adventures, select New Game.
+2453)  
+Back
+2454)  
+Examine
+2455)  
+Take Out
+2456)  
+Combine
+2457)  
+Put Away
+2458)  
+Purchase
+2459)  
+Main Menu
+2460)  
+Later
+2461)  
+To select an object, walk up to it until the selection icon appears on your target. Then press the cross button to select it.  You can also use L1 and R1 to cycle through selectable items.
+2462)  
+Thanks for playing the Tales of Monkey Island demo! This is just the beginning - play the full series to join Guybrush on his exciting piratey quest!
+2463)  
+Game paused.
+Press SELECT to continue
+2464)  
+Starting a new game will overwrite your existing save in slot number 1.
+2466)  
+To combine items, select an item and tap one of the empty circles on the left to place it, then select the plus sign to combine them.
+2467)  
+To display your inventory, tap the tab on the right side of the screen. To examine the coffin, select the magnifying glass, then select the coffin.
+2468)  
+DeSinge's examination table can be moved by using the left and right arrows to rotate, or the up and down arrows to incline and decline.
+2469)  
+To walk around, hold and drag in the direction you want to go.  Try walking toward the mast on the left.
+2470)  
+Sometimes after certain events, characters will have new things to say.  Try selecting Elaine to talk to her.
+2471)  
+To select an object, tap it.  Try selecting the voodoo instructions on the mast.
+2472)  
+Combine With
+2473)  
+Close
+2474)  
+Equip
+2475)  
+To use an item from your inventory on objects in the world, tap an item in your inventory to select it. Then tap the X to close your inventory, and tap the object you want to use the item on.
+2476)  

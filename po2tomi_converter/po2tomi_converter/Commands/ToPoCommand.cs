@@ -12,49 +12,58 @@ namespace po2tomi_converter.Commands
     public class ToPoCommand
     {
         private readonly MainSettings _settings;
+        private readonly Dictionary<int, Line> _dictEngSteam;
         private readonly Regex _regex = new Regex("\\d+\\)");
+        private readonly int _maxLineNumberSteam;
+        private readonly List<Line> _linesEngGog;
+        private readonly Dictionary<int, Line> _dictPl;
 
         public ToPoCommand(IOptions<MainSettings> options) 
         {
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             _settings = options.Value;
+
+            _dictEngSteam = LoadLines(_settings.SteamEngFileLocation)
+                .ToDictionary(x => x.Number, y => y);
+            _maxLineNumberSteam = _dictEngSteam.Keys.Max();
+            _linesEngGog = LoadLines(_settings.GogEngFileLocation)
+                .OrderBy(x => x.Number).ToList();
+            _dictPl = LoadLines(_settings.SteamPlFileLocation)
+                .ToDictionary(x => x.Number, y => y);
         }
 
         public void Execute()
         {
-            var linesEngSteam = LoadLines(_settings.SteamEngFileLocation);
-            var linesEngGog = LoadLines(_settings.GogEngFileLocation);
-            var dictPl = LoadLines(_settings.SteamPlFileLocation)
-                .ToDictionary(x => x.Number, y => y);
-
+            var shift = 0;
             var translations = new List<Translation>();
-            foreach (var lineEng in linesEngSteam)
+            foreach (var lineEngGog in _linesEngGog)
             {
+                if (lineEngGog.Number == 2413)
+                {
+                }
+                if (lineEngGog.Content != _dictEngSteam[lineEngGog.Number + shift].Content)
+                {
+                    var newShift = FindInSteam(lineEngGog, shift, _dictEngSteam);
+                    for (int i = 0; i < newShift - shift; i++)
+                    {
+                        var steamTranslation = new Translation
+                        {
+                            SteamEngLine = _dictEngSteam[lineEngGog.Number + shift + i],
+                            PlLine = _dictPl[lineEngGog.Number + shift + i],
+                            GogEngLine = null
+                        };
+                        translations.Add(steamTranslation);
+                    }
+                    shift = newShift;
+                }
                 var translation = new Translation
                 {
-                    SteamEngLine = lineEng,
-                    PlLine = dictPl[lineEng.Number],
-                    GogEngLine = FindInGog(lineEng, linesEngGog)
+                    SteamEngLine = _dictEngSteam[lineEngGog.Number + shift],
+                    PlLine = _dictPl[lineEngGog.Number + shift],
+                    GogEngLine = lineEngGog
                 };
                 translations.Add(translation);
             }
-
-            var lackingGog = new List<Translation>();
-            foreach (var lineEng in linesEngGog)
-            {
-                if (!FindInSteam(lineEng, linesEngSteam))
-                {
-                    var translation = new Translation
-                    {
-                        SteamEngLine = null,
-                        PlLine = lineEng,
-                        GogEngLine = lineEng
-                    };
-                    lackingGog.Add(translation);
-                }
-            }
-
-            translations.AddRange(lackingGog);
 
             var poResult = new StringBuilder();
             foreach (var translation in translations)
@@ -102,26 +111,18 @@ namespace po2tomi_converter.Commands
             return string.Empty;
         }
 
-        private static Line FindInGog(Line steamLine, List<Line> gogLines)
+        private int FindInSteam(Line gogLine, int shift, Dictionary<int, Line> dictEngSteam)
         {
-            foreach (var line in gogLines)
+            var result = shift - 5;
+            for (int i = 0; i < _maxLineNumberSteam - gogLine.Number + shift + 5; i++)
             {
-                if(line.Content ==  steamLine.Content)
-                    return line;
-            }
-            return null;
-        }
-
-        private static bool FindInSteam(Line gogLine, List<Line> steamLines)
-        {
-            foreach (var searchLine in steamLines)
-            {
-                if (searchLine.Content == gogLine.Content)
+                if (dictEngSteam[gogLine.Number + result].Content == gogLine.Content)
                 {
-                    return true;
+                    return result;
                 }
+                result = result + 1;
             }
-            return false;
+            return result;
         }
 
         private static string ToPo(string markup, string engStr, string plStr)

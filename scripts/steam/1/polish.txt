@@ -4039,6 +4039,8 @@ Nie mogê rozgryŸæ tego zwitka.
 Twój zwój nie pasowa³ do mojego intelektu.
 2000)  
 Znalaz³em zwój w butelce!
+2001)  
+
 2002)  
 Wspomina³eœ coœ o Trytonach?
 2003)  
@@ -4888,6 +4890,8 @@ U¿ywaj ga³ki swojego Nunchuka lub naciœnij i przytrzymaj Przycisk A i wyceluj Ws
 Fotel operacyjny DeSinge'a mo¿na obracaæ oraz nachylaæ w górê i w dó³ u¿ywaj¹c +Control Pada.
 2415)  
 By wyœwietliæ ekwipunek, naciœnij Przycisk - na swoim Wii Remote.  By zbadaæ trumnê, zaznacz szk³o powiêkszaj¹ce lub naciœnij przycisk 2, po czym zaznacz trumnê.
+2416)  
+
 2417)  
 Marketing text goes here.
 2418)  
@@ -4935,6 +4939,8 @@ By po³¹czyæ przedmioty, umieœæ ka¿dy z nich w dwóch du¿ych ko³ach po lewo i naci
 Witamy w poszukiwaniu skarbów w Opowieœciach z Wyspy Ma³p. Na Wyspie Rozbitków zakopano statuetki bogów. Ka¿dy z nich strze¿e wartoœciowego skarbu. Pod¹¿aj swoimi mapami, by zgarn¹æ ³up!
 2431)  
 Nie bój, wszystko jest pod kontrol¹!
+2432)  
+
 2434)  
 Ogromne Narzêdzie do Kontroli Wiatrów i Tajemniczy Bo¿ek
 2438)  ANNOUNCER
@@ -4966,3 +4972,51 @@ Teraz...
 "Pirat Demon LeChuck"
 2451)  
 i "Ogromny Palant LeChuck"
+2452)  
+Welcome to Tales of Monkey Island! To join Guybrush on the first chapter of his adventures, select New Game.
+2453)  
+Back
+2454)  
+Examine
+2455)  
+Take Out
+2456)  
+Combine
+2457)  
+Put Away
+2458)  
+Purchase
+2459)  
+Main Menu
+2460)  
+Later
+2461)  
+To select an object, walk up to it until the selection icon appears on your target. Then press the cross button to select it.  You can also use L1 and R1 to cycle through selectable items.
+2462)  
+Thanks for playing the Tales of Monkey Island demo! This is just the beginning - play the full series to join Guybrush on his exciting piratey quest!
+2463)  
+Game paused.
+Press SELECT to continue
+2464)  
+Starting a new game will overwrite your existing save in slot number 1.
+2466)  
+To combine items, select an item and tap one of the empty circles on the left to place it, then select the plus sign to combine them.
+2467)  
+To display your inventory, tap the tab on the right side of the screen. To examine the coffin, select the magnifying glass, then select the coffin.
+2468)  
+DeSinge's examination table can be moved by using the left and right arrows to rotate, or the up and down arrows to incline and decline.
+2469)  
+To walk around, hold and drag in the direction you want to go.  Try walking toward the mast on the left.
+2470)  
+Czasem, po wa¿nych wydarzeniach, postacie maj¹ nowe rzeczy do powiedzenia.  Kliknij na Elaine, by z ni¹ pogadaæ.
+2471)  
+To select an object, tap it.  Try selecting the voodoo instructions on the mast.
+2472)  
+Combine With
+2473)  
+Close
+2474)  
+Equip
+2475)  
+To use an item from your inventory on objects in the world, tap an item in your inventory to select it. Then tap the X to close your inventory, and tap the object you want to use the item on.
+2476)  

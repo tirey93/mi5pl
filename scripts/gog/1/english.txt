@@ -64,7 +64,8 @@ Saves
 32)  
 Any unsaved progress in your current game will be lost.
 33)  
-Ready to start a new game?
+Ready to start
+a new game?
 34)  
 Yes, I am!
 35)  
@@ -74,7 +75,7 @@ Yes, quit!
 37)  
 No, don't!
 39)  
-Saving Game...
+Game Saved
 40)  
 Delete this saved game?
 41)  
@@ -3822,7 +3823,7 @@ Screaming Narwhal
 1899)  
 Courthouse
 1900)  
-Hemlock McGee
+Hemlock
 1901)  
 Crystal Nose
 1902)  
@@ -4170,8 +4171,6 @@ Weird Door Face
 [pickup1][loudly across ships, push the "I"]Is there anything I can do?
 2067)  GUYBRUSH
 Maybe Elaine has some bright ideas.
-2068)  PARROT
-*Squawk* It's me, Guybrush Threepwood, Mighty Pirate!
 2069)  
 Use map on calendar
 E-W-E
@@ -4775,13 +4774,13 @@ LucasArts and the LucasArts logo are trademarks of Lucasfilm Ltd. in the United
 States and/or other countries. © 1990-2009 Lucasfilm Entertainment Company Ltd.
 Telltale and the Telltale Games logo are trademarks of Telltale, Inc.
 2365)  
-To select an object, walk up to it until the selection icon appears on your target. You can also use L1 and R1 to cycle through selectable items.
+To select an object, aim the Pointer at it and press the A Button. Try selecting the voodoo instructions on the mast.
 2367)  
-Use your left stick to control the direction you want to go.  Try walking toward the mast on the left.
+Use your Nunchuk's Control Stick or press and hold the A Button and aim the Pointer in the direction you want to go.  Try walking toward the mast on the left.
 2368)  
-DeSinge's examination table can be moved by using the left stick to rotate left and right, or tilt up and down.
+DeSinge's examination table can be moved by using the +Control Pad to rotate left and right, or incline and decline.
 2369)  
-To display your inventory, press the triangle button on your controller.  To examine the coffin, press the square button while you have the coffin selected.
+To display your inventory, press the - Button on your Wii Remote.  To examine the coffin, select the magnifying glass or press the 2 Button, then select the coffin.
 2370)  
 His name is Guybrush Threepwood, Mighty Pirate™
 2371)  
@@ -4814,15 +4813,15 @@ Start playing
 Tales of Monkey Island
 today!
 2378)  
-To view maps, hit the square button to open your inventory. Then select your map of choice and hit the square button to examine it.
+To view maps, move the Pointer to the right edge of the screen and select the tab. Examine your map by selecting the magnifying glass with the A Button, then select the map.
 2379)  
 Welcome to Tales of Monkey Island! To join Guybrush on the first chapter of his adventures, select New Game. 
 
-You can also extend your pirate experience by joining Guybrush's Treasure Hunt. This additional mini-game is separate from the Tales of Monkey Island story.
+You can also extend your pirate experience by joining Guybrush’s Treasure Hunt. This additional mini-game is separate from the Tales of Monkey Island story.
 2380)  
-Follow the sounds of the jungle to the treasure. Use your left stick to maneuver through the environment. Look at your map again for clues.
+Follow the sounds of the jungle to the treasure. Use your Control Stick or press and hold the A button and aim the Pointer in the direction you want to walk. Look at your map again for clues.
 2381)  
-To combine items, select your first item and hit the triangle button, then select your second object and hit the triangle button again.
+To combine items, place an item in each of the two large circles on the left, then select the plus sign or press the 1 Button to combine them.
 2382)  
 Welcome to the Tales of Monkey Island treasure hunt. Tiki gods are buried across Flotsam Island, each one guarding a valuable treasure. Follow your maps to find the booty!
 2383)  
