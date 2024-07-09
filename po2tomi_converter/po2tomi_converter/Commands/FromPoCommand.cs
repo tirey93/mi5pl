@@ -76,8 +76,8 @@ namespace po2tomi_converter.Commands
                 File.WriteAllText("errors.txt", errors, Encoding.GetEncoding("windows-1250"));
             }
 
-            File.WriteAllText(_settings.TomiPlFileLocation, resultPl.ToString(), Encoding.GetEncoding("windows-1250"));
-            File.WriteAllText(_settings.TomiEngFileLocation, resultOrg.ToString(), Encoding.GetEncoding("windows-1250"));
+            File.WriteAllText(_settings.SteamPlFileLocation, resultPl.ToString(), Encoding.GetEncoding("windows-1250"));
+            File.WriteAllText(_settings.SteamEngFileLocation, resultOrg.ToString(), Encoding.GetEncoding("windows-1250"));
         }
     }
 }

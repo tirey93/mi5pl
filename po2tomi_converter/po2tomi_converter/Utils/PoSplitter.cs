@@ -67,7 +67,6 @@ namespace po2tab_converter.Utils
                 _markup = splitted.FirstOrDefault(x => x.Contains(_markupStatic));
                 IsValid = true;
             }
-
         }
 
 

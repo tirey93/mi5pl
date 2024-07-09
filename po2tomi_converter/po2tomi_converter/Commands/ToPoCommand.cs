@@ -1,11 +1,11 @@
 ﻿
 using Microsoft.Extensions.Options;
 using po2tomi_converter.Settings;
-using po2tomi_converter.Utils;
 using System.Text;
 using System.Linq;
 using System.Text.RegularExpressions;
 using static System.Runtime.InteropServices.JavaScript.JSType;
+using po2tomi_converter.Dtos;
 
 namespace po2tomi_converter.Commands
 {
@@ -22,37 +22,106 @@ namespace po2tomi_converter.Commands
 
         public void Execute()
         {
-            var linesEng = LoadLines(_settings.TomiEngFileLocation);
-            var dictPl = LoadLines(_settings.TomiPlFileLocation)
+            var linesEngSteam = LoadLines(_settings.SteamEngFileLocation);
+            var linesEngGog = LoadLines(_settings.GogEngFileLocation);
+            var dictPl = LoadLines(_settings.SteamPlFileLocation)
                 .ToDictionary(x => x.Number, y => y);
 
-            var lines = new List<Line[]>();
-            foreach (var lineEng in linesEng)
+            var translations = new List<Translation>();
+            foreach (var lineEng in linesEngSteam)
             {
-                var array = new Line[2];
-                array[0] = lineEng;
-                array[1] = dictPl[lineEng.Number];
-                lines.Add(array);
+                var translation = new Translation
+                {
+                    SteamEngLine = lineEng,
+                    PlLine = dictPl[lineEng.Number],
+                    GogEngLine = FindInGog(lineEng, linesEngGog)
+                };
+                translations.Add(translation);
             }
 
-            var poResult = new StringBuilder();
-            foreach (var line in lines)
+            var lackingGog = new List<Translation>();
+            foreach (var lineEng in linesEngGog)
             {
+                if (!FindInSteam(lineEng, linesEngSteam))
+                {
+                    var translation = new Translation
+                    {
+                        SteamEngLine = null,
+                        PlLine = lineEng,
+                        GogEngLine = lineEng
+                    };
+                    lackingGog.Add(translation);
+                }
+            }
 
-                var splittedEng = line[0].Content.Split('\n');
-                var splittedPl = line[1].Content.Split('\n');
+            translations.AddRange(lackingGog);
+
+            var poResult = new StringBuilder();
+            foreach (var translation in translations)
+            {
+                string[] splittedEng;
+                string[] splittedPl;
+                if (translation.SteamEngLine != null)
+                {
+                    splittedEng = translation.SteamEngLine.Content.Split('\n');
+                }
+                else
+                {
+                    splittedEng = translation.GogEngLine.Content.Split('\n');
+                }
+                splittedPl = translation.PlLine.Content.Split('\n');
+
+
                 int i = 0;
 
                 foreach(var splittedLine in splittedEng)
                 {
-                    var markup = $"{line[0].Number}_{i}_{line[0].Author}";
+                    var markup = SetMarkup(translation, i);
 
                     poResult.Append(ToPo(markup, splittedEng[i], splittedPl[i]));
                     i = i + 1;
                 }
             }
-            
             File.WriteAllText(_settings.PoFileLocation, poResult.ToString());
+        }
+
+        private static string SetMarkup(Translation translation, int i)
+        {
+            if (translation.SteamEngLine != null && translation.GogEngLine != null)
+            {
+                return $"{translation.SteamEngLine.Number}_{translation.GogEngLine.Number}_{i}_{translation.SteamEngLine.Author}";
+            }
+            else if (translation.SteamEngLine != null && translation.GogEngLine == null)
+            {
+                return $"{translation.SteamEngLine.Number}__{i}_{translation.SteamEngLine.Author}";
+            }
+            else if (translation.SteamEngLine == null && translation.GogEngLine != null)
+            {
+                return $"_{translation.GogEngLine.Number}_{i}_{translation.GogEngLine.Author}";
+            }
+            return string.Empty;
+        }
+
+        private static Line FindInGog(Line steamLine, List<Line> gogLines)
+        {
+            foreach (var line in gogLines)
+            {
+                if(line.Content ==  steamLine.Content)
+                    return line;
+            }
+            return null;
+        }
+
+        private static bool FindInSteam(Line gogLine, List<Line> steamLines)
+        {
+            foreach (var searchLine in steamLines)
+            {
+                if (searchLine.Content == gogLine.Content)
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         private static string ToPo(string markup, string engStr, string plStr)

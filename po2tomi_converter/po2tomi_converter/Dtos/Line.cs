@@ -1,7 +1,6 @@
-﻿
-namespace po2tomi_converter.Utils
+﻿namespace po2tomi_converter.Dtos
 {
-    internal class Line
+    public class Line
     {
         public int Number { get; set; }
         public string Author { get; set; }
@@ -21,13 +20,13 @@ namespace po2tomi_converter.Utils
 
         public void AddContent(string content)
         {
-            if (string.IsNullOrEmpty(this.Content))
+            if (string.IsNullOrEmpty(Content))
             {
-                this.Content = content;
+                Content = content;
             }
             else
             {
-                this.Content += "\n" + content;
+                Content += "\n" + content;
             }
         }
 
