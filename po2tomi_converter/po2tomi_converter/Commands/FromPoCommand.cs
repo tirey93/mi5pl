@@ -20,10 +20,14 @@ namespace po2tomi_converter.Commands
             string file = File.ReadAllText(_settings.PoFileLocation);
             var splitted = file.Split("msgctxt");
 
-            var resultPl = new StringBuilder();
-            var resultOrg = new StringBuilder();
+            var resultSteamPl = new StringBuilder();
+            var resultGogPl = new StringBuilder();
+            var resultSteamOrg = new StringBuilder();
+            var resultGogOrg = new StringBuilder();
             string errors = "";
 
+            var steamLastNumber = "";
+            var gogLastNumber = "";
             foreach (var text in splitted)
             {
                 if (string.IsNullOrEmpty(text)) continue;
@@ -40,26 +44,54 @@ namespace po2tomi_converter.Commands
                     var orgText = splitter.OrgText;
 
                     var splittedMarkup = splitter.Markup.Split("_");
-                    var number = splittedMarkup[0];
-                    var sublineNumber = splittedMarkup[1];
-                    var author = splittedMarkup[2];
+                    var numberSteam = splittedMarkup[0];
+                    var numberGog = splittedMarkup[1];
+                    var sublineNumber = splittedMarkup[2];
+                    var author = splittedMarkup[3];
 
-
-                    var toAppendPl = "";
-                    var toAppendOrg = "";
-                    if (sublineNumber == "0")
+                    if (!string.IsNullOrEmpty(numberSteam) && steamLastNumber != $"{numberSteam}_{sublineNumber}")
                     {
-                        toAppendPl = $"{number})  {author}\n{plText}\n";
-                        toAppendOrg = $"{number})  {author}\n{orgText}\n";
-                    }
-                    else
-                    {
-                        toAppendPl = $"{plText}\n";
-                        toAppendOrg = $"{orgText}\n";
+                        var toAppendSteamPl = "";
+                        var toAppendSteamOrg = "";
+                        if (sublineNumber == "0")
+                        {
+                            toAppendSteamPl = $"{numberSteam})  {author}\n{plText}\n";
+                            toAppendSteamOrg = $"{numberSteam})  {author}\n{orgText}\n";
+                        }
+                        else
+                        {
+                            toAppendSteamPl = $"{plText}\n";
+                            toAppendSteamOrg = $"{orgText}\n";
+                        }
+
+                        resultSteamPl.Append(toAppendSteamPl);
+                        resultSteamOrg.Append(toAppendSteamOrg);
                     }
 
-                    resultPl.Append(toAppendPl);
-                    resultOrg.Append(toAppendOrg);
+                    steamLastNumber = $"{numberSteam}_{sublineNumber}";
+
+                    if (!string.IsNullOrEmpty(numberGog) && gogLastNumber != $"{numberGog}_{sublineNumber}")
+                    {
+                        var toAppendGogPl = "";
+                        var toAppendGogOrg = "";
+                        if (sublineNumber == "0")
+                        {
+                            toAppendGogPl = $"{numberGog})  {author}\n{plText}\n";
+                            toAppendGogOrg = $"{numberGog})  {author}\n{orgText}\n";
+                        }
+                        else
+                        {
+                            toAppendGogPl = $"{plText}\n";
+                            toAppendGogOrg = $"{orgText}\n";
+                        }
+
+
+                        resultGogPl.Append(toAppendGogPl);
+                        resultGogOrg.Append(toAppendGogOrg);
+                    }
+
+                    gogLastNumber = $"{numberGog}_{sublineNumber}";
+
                 }
                 catch (Exception ex)
                 {
@@ -76,8 +108,10 @@ namespace po2tomi_converter.Commands
                 File.WriteAllText("errors.txt", errors, Encoding.GetEncoding("windows-1250"));
             }
 
-            File.WriteAllText(_settings.SteamPlFileLocation, resultPl.ToString(), Encoding.GetEncoding("windows-1250"));
-            File.WriteAllText(_settings.SteamEngFileLocation, resultOrg.ToString(), Encoding.GetEncoding("windows-1250"));
+            File.WriteAllText(_settings.SteamPlFileLocation, resultSteamPl.ToString(), Encoding.GetEncoding("windows-1250"));
+            File.WriteAllText(_settings.GogPlFileLocation, resultGogPl.ToString(), Encoding.GetEncoding("windows-1250"));
+            File.WriteAllText(_settings.SteamEngFileLocation, resultSteamOrg.ToString(), Encoding.GetEncoding("windows-1250"));
+            File.WriteAllText(_settings.GogEngFileLocation, resultGogOrg.ToString(), Encoding.GetEncoding("windows-1250"));
         }
     }
 }
