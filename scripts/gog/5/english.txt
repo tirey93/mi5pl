@@ -94,8 +94,6 @@ It's locked.
 {stern}Nah.
 44)  GUYBRUSH
 Nope.
-1038)  GUYBRUSH
-Nope.
 45)  GUYBRUSH
 Um, no.
 46)  GUYBRUSH
@@ -378,8 +376,6 @@ For the Thirst of Eternal Waiting.
 179)  GUYBRUSH
 {Surprised} I think you missed a spot.
 180)  FERRYMAN
-[creepy] Nay.
-487)  FERRYMAN
 [creepy] Nay.
 181)  GUYBRUSH
 {Cocky} There is a big smudge of filth right there...
@@ -916,10 +912,10 @@ Lemme just grab some more of this dirt...[digging reveals a hole he can climb ou
 {Scared} Okay, okay.
 447)  GUYBRUSH
 [reading] Guybrush Threepwood, Mitey Pirate™!
-449)  GUYBRUSH
-[reading] Guybrush Threepwood, Mitey Pirate™!
 448)  GUYBRUSH
 {Stern} At least they finally got the last name right.
+449)  GUYBRUSH
+[reading] Guybrush Threepwood, Mitey Pirate™!
 450)  GUYBRUSH
 {Confused} Wait, was someone implying that I have mites?!
 451)  GUYBRUSH
@@ -943,8 +939,6 @@ Looks like this machine only takes bills.
 460)  GUYBRUSH
 {Surprised} Nice gondola! {Incredulous} It's so clean, despite the fact that it's basically moving through a river of ectoplasmic sludge!
 461)  FERRYMAN
-[creepy] Aye.
-978)  FERRYMAN
 [creepy] Aye.
 462)  GUYBRUSH
 {Surprised} Seriously!  That boat is SPOTLESS! {Cocky} I am very impressed!
@@ -976,8 +970,6 @@ Hi, it's me again.
 {Cocky} I'll be back when I find some coins.
 476)  GUYBRUSH
 Bye.
-2167)  
-Bye.
 477)  GUYBRUSH
 {Confused} Am I really dead?
 478)  FERRYMAN
@@ -998,6 +990,8 @@ Ay-{Angry} Okay look,  you do still have a TINY shred of life you seem to be han
 {Legal} Exact change only.
 486)  GUYBRUSH
 {Confused}Seriously?!{Stern} You won't even make change for me?
+487)  FERRYMAN
+[creepy] Nay.
 488)  GUYBRUSH
 [Disgruntled grunt]{Stern} Grrff!
 489)  GUYBRUSH
@@ -1358,14 +1352,14 @@ First, I need to gather a bunch of ingredients,{Confused} but I am having some t
 {Happy} Welcome back, sir.
 667)  GUYBRUSH
 Hi, Galeb.
-671)  GUYBRUSH
-Hi, Galeb.
 668)  GALEB
 {Sarcastic} Oh, hello again, Dryrub.
 669)  GUYBRUSH
 {Stern} It's Guybrush.
 670)  GALEB
 {Confused} That's what I said.
+671)  GUYBRUSH
+Hi, Galeb.
 672)  GALEB
 Oh, hello again.
 673)  GUYBRUSH
@@ -1978,6 +1972,8 @@ Most.
 {Incredulous} Going to leave that there.
 977)  GUYBRUSH
 {Incredulous} Winslow's deodorant. {Happy} Luckily my spiritual essence smells of lavender and honey.
+978)  FERRYMAN
+[creepy] Aye.
 979)  GUYBRUSH
 {Suspicious} Can we go to the Crossroads now?
 980)  FERRYMAN
@@ -2096,6 +2092,8 @@ Giant manatee bones.{Happy} To think, my bout of Cyrano-styled romance has broug
 {Proud} Yep, this WAS the home of La Esponja Grande.
 1037)  GUYBRUSH
 {Incredulous} It'd be improper to read someone's personal love letter. {Worried} Plus, I'm sure it's chock full of more Winslow than I can handle.
+1038)  GUYBRUSH
+Nope.
 1039)  GUYBRUSH
 {Happy} Up we go.
 1040)  GUYBRUSH
@@ -2684,8 +2682,6 @@ I'm working on another Voodoo spell.  {worried} Seen any of these items around?
 {stern} I dunno, I've dug up a lot of treasure here.  {suspicious} It's possible one of those things may be around here.
 1333)  MORGAN
 What?
-1357)  THIEF
-What?
 1334)  GUYBRUSH
 {Angry} Listen up, Sponge, it's time you lost some weight!{Cocky}  I still have my Feast of the Senses spell on my body.{Confused}  I just need to find someone who can help me reverse it.
 1335)  GALEB
@@ -2732,6 +2728,8 @@ Nice secret you've got there.  Care to share it with me?
 Hmmm... normally I wouldn't trust a thief like yourself, but there is just something about you.
 1356)  GUYBRUSH
 Aw, that's just the enchanted voodoo charm talking.
+1357)  THIEF
+What?
 1358)  GUYBRUSH
 Nothing.
 1359)  GUYBRUSH
@@ -3540,8 +3538,6 @@ What else happened back on Flotsam? Did he not slaughter you and your friend Mor
 {surprised} You're saying LeChuck is just being LeChuck?
 1761)  VOODOOLADYSEAGULL
 Yes.
-2328)  VOODOOLADYCRAB
-Yes.
 1762)  VOODOOLADYSEAGULL
 As you wish.
 1763)  GUYBRUSH
@@ -4064,8 +4060,6 @@ Funereal Wreath
 Kindling
 2023)  
 Crossroads Center
-2044)  
-Crossroads Center
 2024)  
 Gateway
 2025)  
@@ -4106,13 +4100,13 @@ Grog XD
 Rip
 2043)  
 Dirt
+2044)  
+Crossroads Center
 2045)  
 Franklin
 2046)  
 Diet of the Senses Spell
 2047)  
-Can you help me reverse this spell?
-2145)  GUYBRUSH
 Can you help me reverse this spell?
 2048)  
 Wads of Chewed Gum
@@ -4327,6 +4321,8 @@ Rope
 I can't stay here. Has anyone ever returned to the living world?
 2144)  
 Where did you say LeChuck's spell is again?
+2145)  GUYBRUSH
+Can you help me reverse this spell?
 2146)  
 This boat looks immaculate!
 2147)  
@@ -4367,6 +4363,8 @@ I've been talking to this Galeb...
 Can you open LeChuck's chest?
 2166)  
 I need some Voodoo ingredients...
+2167)  
+Bye.
 2168)  
 Locked Gate
 2169)  
@@ -4575,8 +4573,6 @@ Skeleton
 Turnstiles
 2272)  
 Tombstone
-2364)  
-Tombstone
 2273)  GUYBRUSH
 Ouch! {Whiney} Papapishu that stings!
 2275)  
@@ -4675,6 +4671,8 @@ Your career is brilliant!
 Elaine is mine!  {angry}My demon bride to make me a kingly breakfast each morning!  To see to it that my fortress of evil is kept tidy in case we have {devilish}guests over to torture.  To patch up all of my worn out tattered socks and-
 2327)  
 What was your relationship like?
+2328)  VOODOOLADYCRAB
+Yes.
 2329)  
 Rusty Sword
 2330)  
@@ -4695,8 +4693,6 @@ That sounds like something your HUSBAND might say.
 Have you noticed any tears in the fabric of reality?
 2338)  
 Dead Seagull Feather
-2348)  
-Dead Seagull Feather
 2339)  
 Barrel of Banang
 2340)  
@@ -4715,6 +4711,8 @@ Voodoo Locket
 Club 41 Blindfold
 2347)  
 Franklin the Dog
+2348)  
+Dead Seagull Feather
 2349)  
 Weathered Tombstone
 2350)  
@@ -4745,6 +4743,8 @@ Polished Cenotaph
 Headstone
 2363)  
 Grave
+2364)  
+Tombstone
 2365)  
 Directed By
 2366)  
