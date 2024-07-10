@@ -26,8 +26,6 @@ namespace po2tomi_converter.Commands
             var resultGogOrg = new StringBuilder();
             string errors = "";
 
-            var steamLastNumber = "";
-            var gogLastNumber = "";
             foreach (var text in splitted)
             {
                 if (string.IsNullOrEmpty(text)) continue;
@@ -49,7 +47,7 @@ namespace po2tomi_converter.Commands
                     var sublineNumber = splittedMarkup[2];
                     var author = splittedMarkup[3];
 
-                    if (!string.IsNullOrEmpty(numberSteam) && steamLastNumber != $"{numberSteam}_{sublineNumber}")
+                    if (!string.IsNullOrEmpty(numberSteam))
                     {
                         var toAppendSteamPl = "";
                         var toAppendSteamOrg = "";
@@ -68,9 +66,8 @@ namespace po2tomi_converter.Commands
                         resultSteamOrg.Append(toAppendSteamOrg);
                     }
 
-                    steamLastNumber = $"{numberSteam}_{sublineNumber}";
 
-                    if (!string.IsNullOrEmpty(numberGog) && gogLastNumber != $"{numberGog}_{sublineNumber}")
+                    if (!string.IsNullOrEmpty(numberGog))
                     {
                         var toAppendGogPl = "";
                         var toAppendGogOrg = "";
@@ -89,9 +86,6 @@ namespace po2tomi_converter.Commands
                         resultGogPl.Append(toAppendGogPl);
                         resultGogOrg.Append(toAppendGogOrg);
                     }
-
-                    gogLastNumber = $"{numberGog}_{sublineNumber}";
-
                 }
                 catch (Exception ex)
                 {
