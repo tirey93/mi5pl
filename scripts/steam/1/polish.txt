@@ -51,16 +51,10 @@ Tak
 Nie
 26)  
 Grafika
-2059)  
-Ustawienia Obrazu
 27)  
 DüwiÍk
-2058)  
-Ustawienia Audio
 28)  
 Rozgrywka
-2057)  
-Ustawienia Gry
 29)  
 RozdzielczoúÊ
 30)  
@@ -88,12 +82,6 @@ Czy usunπÊ ten zapis?
 OPOWIEåCI WYSPY MA£P
 
 ROZDZIA£ 1.
-
-ZRYW WYJ•CEJ NARWALI
-2397)  
-OPOWIEåCI Z WYSPY MA£P
-
-ROZDZIA£ 1:
 
 ZRYW WYJ•CEJ NARWALI
 42)  
@@ -209,11 +197,7 @@ Wielofunkcyjny przyrzπd dawnych tubylcÛw RozbitkÛw do aktywacji ich tajemnych ma
 Hmm.
 92)  GUYBRUSH
 Ciekawe.
-1285)  GUYBRUSH
-Ciekawe.
 93)  GUYBRUSH
-Rozumiem.
-1288)  GUYBRUSH
 Rozumiem.
 94)  GUYBRUSH
 To coú mog≥oby puknπÊ pirata lub piratkÍ w ty≥ek.
@@ -224,8 +208,6 @@ Polly chce krakersa?
 97)  GUYBRUSH
 Tuba w kszta≥cie U. ZgadujÍ, øe U jak "ujarana".
 98)  GUYBRUSH
-£oo!
-2369)  GUYBRUSH
 £oo!
 99)  GUYBRUSH
 Elaine, nadchodzÍ!
@@ -355,8 +337,6 @@ Obierz ten kurs!
 Au.
 162)  GUYBRUSH
 £oo!
-1282)  GUYBRUSH
-£oo!
 163)  GUYBRUSH
 Panie Van Winslow, kurs na mppf mpf mpf mpf-mpf!
 164)  WINSLOW
@@ -376,12 +356,6 @@ Nie ma to jak og≥uszajπce odpalenie dzia≥a na oczyszczenie umys≥u.
 171)  GUYBRUSH
 SpocznÍ po úmierci. Albo wieczorem.
 172)  GUYBRUSH
-Au!
-441)  GUYBRUSH
-Aau!
-748)  MEMBER1
-Au!
-1478)  DESINGE
 Au!
 173)  GUYBRUSH
 To siÍ nazywa lepka sytuacja!
@@ -431,8 +405,6 @@ Elaine! NadchodzÍ, grabieøczy krÛliczku! Chwila, co to?
 No nie, to LeChuck! Elaine, uwaøaj!
 196)  GUYBRUSH
 Grabieøczy krÛliczku?
-2433)  GUYBRUSH
-Grabiπcy krÛliczek?
 197)  MORGAN
 Guybrush Threepwood!
 198)  MORGAN
@@ -486,8 +458,6 @@ ELAAAAAAAAAAAAAAAaaaaaaaaaine!!!
 222)  GUYBRUSH
 Gotuj siÍ na spotkanie z mroünym, gazowanym stwÛrcπ, LeChuck!
 223)  GUYBRUSH
-Bar SCUMM! PrzystaÒ dla najha≥aúliwszych band zapijaczonych meneli, jakich widzia≥eú.
-859)  GUYBRUSH
 Bar SCUMM! PrzystaÒ dla najha≥aúliwszych band zapijaczonych meneli, jakich widzia≥eú.
 224)  GUYBRUSH
 Witaj, niechlujnie wyglπdajπca istoto piracka! Jam Guybrush Threepwood, potÍøny pirat. Jak ciÍ zwπ?
@@ -555,12 +525,8 @@ Mia≥am zamiar, ale jak widzisz, by≥am krztynkÍ zajÍta.
 Biedny koleú... ciekawe, czy jego korzeÒ nabawi siÍ bÛlÛw fantom.
 256)  GUYBRUSH
 Ciekawe, czy jest tam cokolwiek uøytecznego...
-2219)  GUYBRUSH
-Ciekawe, czy tam jest coú przydatnego...
 257)  GUYBRUSH
 Nie. Tylko banda leniwych marynarzy. I pomyúleÊ, øe zmarnowa≥em tyle czasu na rekrutacjÍ tych goúci.
-2220)  GUYBRUSH
-Nie.  To tylko grupa nudnej za≥ogi.  Aø trudno uwierzyÊ, øe tyle czasu zajÍ≥a mi rekrutacja tych goúci.
 258)  GUYBRUSH
 Nie. Tylko bajecznie zawrotny piracki ≥up.
 259)  GUYBRUSH
@@ -711,12 +677,6 @@ Musisz byc duøo sprytniejszy, jeúli chcesz MNIE strπciÊ, m≥odzieÒcze!
 Och, nie powiedzia≥bym...
 332)  WINSLOW
 Co?
-436)  GUYBRUSH
-Co?
-732)  GUYBRUSH
-S≥ucham?
-1533)  GUYBRUSH
-S≥ucham?
 333)  WINSLOW
 £ebski ch≥opak...
 334)  WINSLOW
@@ -743,8 +703,6 @@ WiÍc wszystko zaczÍ≥o siÍ na Wyspie Szpadyô...
 Dzia≥aj zawiadiacko, Threepwad, a w okamgnieniu dokopiÍ sie do tajemnicy G≥Íbokiego Flaka!
 345)  GUYBRUSH
 Co moøesz mi powiedzieÊ o tej butli?
-1855)  
-Co moøesz mi powiedzieÊ o tych butelkach?
 346)  CRIMPDIGIT
 Arrr, to jedna z mych wyjπtkowych "niet≥ukπcych" butli!
 347)  GUYBRUSH
@@ -819,8 +777,6 @@ SprÛbujmy raz jeszcze.
 To nadal nie ma sensu.
 382)  GUYBRUSH
 WπtpiÍ, øeby ten p≥omieÒ szybko zgas≥.
-392)  GUYBRUSH
-WπtpiÍ, øeby ten p≥omieÒ szybko zgas≥.
 383)  GUYBRUSH
 Wyjπca Narwala moøe i nie jest szczegÛlnie ≥adna ani szybka, ale przynajmniej jest moim statkiem.
 384)  GUYBRUSH
@@ -835,19 +791,17 @@ WiÍc siÍ zgodzisz?
 Jasne, øe nie.  Moøe ty jesteú g≥upkiem, ale ja nie!  Ha!
 389)  GUYBRUSH
 Chcesz kwiatka?
-1276)  GUYBRUSH
-Chcesz kwiatka?
 390)  CRIMPDIGIT
 Nie. Takie kwiatki przyprawiπ mnie o diabelskie kichanie... A to nie jest dobre schorzenie dla tych, co pracujπ przy ciek≥ym szkle.
 391)  GUYBRUSH
 {confused}Hmm.  Diabelskie kichanie.  Pierwsze s≥yszÍ.
+392)  GUYBRUSH
+WπtpiÍ, øeby ten p≥omieÒ szybko zgas≥.
 393)  GUYBRUSH
 P≥askorzeüby syren... albo TrytonÛw?
 394)  GUYBRUSH
 Niestety nie mam ani wykszta≥cenia, ani chÍc,i ani zapa≥u by mÛc interpretowaÊ znaki na takich p≥askorzeübach.
 395)  GUYBRUSH
-ZamkniÍte.
-1644)  GUYBRUSH
 ZamkniÍte.
 396)  CRIMPDIGIT
 Jedynπ osobπ, ktÛra moøe oglπdaÊ mojπ pracownie jestem JA sam.
@@ -929,11 +883,9 @@ PrawdÍ mÛwiπc, gdzieú w tej ropiejπcej koÒczynie moøe nawet leøeÊ sekret samego 
 Tak?  Dobra robota, rπczko!
 435)  DESINGE
 BÍdÍ wiedzieÊ wiÍcej, jak jπ odetnÍ.
+436)  GUYBRUSH
+Co?
 437)  GUYBRUSH
-Hej!
-913)  DORO
-Hej!
-953)  DESINGE
 Hej!
 438)  DESINGE
 Oczywiúcie, monsieur Threepwood! Jedynym ratunkiem dla TAK zainfekowanej rÍki jest jej szybka amputacja!
@@ -941,6 +893,8 @@ Oczywiúcie, monsieur Threepwood! Jedynym ratunkiem dla TAK zainfekowanej rÍki je
 Amputacja?! Przecieø to tylko ma≥a wysypka!
 440)  DESINGE
 Nie, to WIELKA wysypka. I dlatego musimy juø amputowaÊ!  Ale nie martw siÍ, monsieur, twoja rÍkπ nic nie poczuje dziÍki mojemu, prototypowemu, znieczuleniu!
+441)  GUYBRUSH
+Aau!
 442)  DESINGE
 A teraz poczekaj tutaj na mnie grzecznie, a ja pÛjdÍ naostrzyÊ klingÍ mojej ma≥ej gilotyny.  Nie chcielibyúmy przecieø odciπÊ naszej cennej d≥oni tÍpym ostrzem, prawda?
 443)  GUYBRUSH
@@ -1038,8 +992,6 @@ Dobrze!  Duøe zdjÍcie mojej duøej rÍki!  £adnie to wyglπda!
 489)  GUYBRUSH
 Tak, czasem bije ludzi, pokazuje niegrzeczne gesty - robi mnÛstwo rzeczy, ktÛrych sam nigdy nie robi≥em... a przynajmniej nie bez sensownych powodÛw.
 490)  DESINGE
-Niesamowite.
-1830)  DESINGE
 Niesamowite.
 491)  GUYBRUSH
 Moøna jπ naprawiÊ?
@@ -1519,6 +1471,8 @@ To ja, Guybrush Threepwood, PotÍøny Pirat!
 <Skrzek> [in perfect Guybrush voice] To ja, Guybrush Threepwood, PotÍøny Pirat!
 731)  VOODOO
 G≥upcze!
+732)  GUYBRUSH
+S≥ucham?
 733)  VOODOO
 SpÍdzi≥am miesiπce tworzπc tÍ Piraciπ PapugÍ Petalumy, a ty zrujnowa≥eú to tuø przed finiszem!  Teraz muszÍ zaczynaÊ od zera!
 734)  GUYBRUSH
@@ -1545,14 +1499,12 @@ Zostaw to!  Tam trzymam swojπ... {mystical}bieliznÍ.{default}
 {disgust}[shuddering] Gewghh...{default}
 745)  GUYBRUSH
 A to co?
-1524)  GUYBRUSH
-A to co?
-1537)  GUYBRUSH
-A to co?
 746)  VOODOO
 To sanktuarium Nor Trebliga, straønika SkrzyøowaÒ.
 747)  MEMBER2
 Zabieraj swojπ zaraøonπ ≥apÍ z dala od grogu!
+748)  MEMBER1
+Au!
 749)  GUYBRUSH
 Przepraszam, mam chyba ma≥e problemy ze swojπ rÍkπ... tylko dzisiaj.
 750)  MEMBER1
@@ -1645,11 +1597,7 @@ Nie, Guybrushu.  Klπtwa Piraciej Papugi bÍdzie z tobπ na zawsze.
 DziÍki.  Czekaj, ale jak to?
 794)  MCGEE
 Arrr!
-2392)  MCGEE
-Arrr!
 795)  GUYBRUSH
-{Happy} Witam...
-1661)  GUYBRUSH
 {Happy} Witam...
 796)  MCGEE
 Ty!
@@ -1755,8 +1703,6 @@ A jak taki oúlepiajπco obyty pirat w úwiecie, jak ty, wylπdowa≥ w takiej sennej 
 I co by≥o dalej?
 847)  DESINGE
 Konspiracyjni zazdroúnicy zarzucili mi wykonywanie nieludzkich eksperymentÛw krzyøowania krÛlewskich pudli!
-1833)  DESINGE
-Konspiracyjni zazdroúnicy zarzucili mi wykonywanie nieludzkich eksperymentÛw krzyøowania krÛlewskich pudli!
 848)  GUYBRUSH
 Naukowcy mogπ byÊ tacy uszczypliwi.
 849)  DESINGE
@@ -1779,6 +1725,8 @@ MÛwiπc po naukowemu - co wed≥ug CIEBIE jest przyczynπ tych szalonych wiatrÛw hul
 Ach tak, wiatry.  Mnie osobiúcie przekonujÍ teza, øe to rzadki meteorologiczny fenomen spowodowany przez inwersje LaGrange'a w gÛrnej czÍúci troposfery, czego efektem jest kontr-cykloniczny...
 858)  GUYBRUSH
 Ack!  Nie by≥o pytania.
+859)  GUYBRUSH
+Bar SCUMM! PrzystaÒ dla najha≥aúliwszych band zapijaczonych meneli, jakich widzia≥eú.
 860)  GUYBRUSH
 Moja przyjaciÛ≥ka uwaøa, øe ta rÍka jest przeklÍta voodoo-ospπ, ktÛrπ moøna usunπÊ jedynie przez magicznπ gπbkÍ.
 861)  DESINGE
@@ -1816,8 +1764,6 @@ Sprytny jesteú, Threepwood.  Trzymaj tak dalej, a tajemnica G≥Íbokiego Flaka bÍd
 877)  DORO
 Nie dotykaj ich!
 878)  GUYBRUSH
-Czemu?
-1345)  GUYBRUSH
 Czemu?
 879)  DORO
 Sπ moje!
@@ -1887,6 +1833,8 @@ Nic.
 Ciekawe, co ja robiÍ üle?
 912)  GUYBRUSH
 Zwyk≥e krÍcenie tej tarczy prowadzi donikπd.
+913)  DORO
+Hej!
 914)  GUYBRUSH
 Hmmm, to musia≥ byÊ jakiú BÛg Wiatru, ktÛry Buchnπ≥ ci CzapkÍ.
 915)  GUYBRUSH
@@ -1898,10 +1846,6 @@ Santa Maria Conchita Alonso!  WIEDZIA£EM, øeby dzisiaj w≥oøyÊ moje chino!
 918)  GUYBRUSH
 Ach, wiÍc to BÛg musia≥ byÊ tym, ktÛry namÛwi≥ ciÍ na za≥oøenie spodenek.
 919)  DESINGE
-Threepwood!
-926)  DESINGE
-Threepwood!
-929)  DESINGE
 Threepwood!
 920)  DESINGE
 OdpuúÊ sobie swoje kombinacje i oddaj mi tÍ rÍkÍ!
@@ -1915,10 +1859,14 @@ Hej, jeszcze øyjÍ!
 Ale zrzÍda.
 925)  GUYBRUSH
 To dobrze, øe strzelba DeSinge jest tak samo s≥aba jest cz≥owiek, ktÛry jπ stworzy≥.
+926)  DESINGE
+Threepwood!
 927)  DESINGE
 OdsuÒ siÍ od tego czu≥ej maszyny i oddaj mi swojπ rÍkÍ!
 928)  GUYBRUSH
 A co jeúli nie?
+929)  DESINGE
+Threepwood!
 930)  DESINGE
 Wúcibiasz nos w sprawy, ktÛrych nie moøesz pojπÊ!
 931)  GUYBRUSH
@@ -1928,8 +1876,6 @@ Hmm, brak oznak markiza.  Super... ca≥e to strzelanie zaczyna≥o mnie irytowaÊ.
 933)  GUYBRUSH
 OK, czas zajπÊ siÍ ostatnim boøkiem wiatru i, do licha, pozbyÊ siÍ tych....
 934)  DESINGE
-Threepwood!
-1256)  DESINGE
 Threepwood!
 935)  GUYBRUSH
 No ludzie.
@@ -1967,6 +1913,8 @@ To JUØ nie brzmi za wiarygodnie...
 Patrz tam!  To krÛl Ludwik <mamrocze>
 952)  DESINGE
 Kto?
+953)  DESINGE
+Hej!
 954)  GUYBRUSH
 Ciπgle tam jesteú?
 955)  DESINGE
@@ -2096,8 +2044,6 @@ Zamachnij siÍ niπ na LeChucka, SZYBKO!
 1017)  GUYBRUSH
 {happy}Elaine!{default}
 1018)  ELAINE
-Guybrush?
-2259)  LECHUCK
 Guybrush?
 1019)  GUYBRUSH
 {cocky}LeChuck!
@@ -2347,12 +2293,6 @@ E...
 Powiedzia≥em, øegnam!
 1142)  GUYBRUSH
 Pa.
-1646)  GUYBRUSH
-Pa.
-1882)  
-Pa.
-1887)  
-Pa.
 1143)  DESINGE
 {happy}Au revoir.  Do czasu.
 1144)  NIPPERKIN
@@ -2397,18 +2337,18 @@ Dostarczaj mi w≥aúnie takich pirackich nowinek, a ja bez wahania za≥atwiÍ ci taj
 (...) i tak w≥aúnie znalaz≥em siÍ tu, na Wyspie RozbitkÛw!
 1164)  ROCKRIB
 Karta?
-1166)  ROCKRIB
-Karta?
-1170)  ROCKRIB
-Karta?
 1165)  GUYBRUSH
 Karta? Jaka karta?
+1166)  ROCKRIB
+Karta?
 1167)  GUYBRUSH
 O czym ty mÛwisz?
 1168)  ROCKRIB
 Twoja karta CZ£ONKOWSKA.
 1169)  GUYBRUSH
 Ja... zostawi≥em w innych spodniach.
+1170)  ROCKRIB
+Karta?
 1171)  GUYBRUSH
 Karta?  A tak, moja karta cz≥onkowska.  ProszÍ.
 1172)  ROCKRIB
@@ -2435,16 +2375,12 @@ Jeúli ten "Morgan Le Flay - £owca PiratÛw" jest choÊ w po≥owie tak groüny jak mÛ
 åwietnie, ≥owca piratÛw.  Potrzebny mi jak piπte ko≥o u wozu.
 1183)  PIRATEA
 Ser, Ignacy Ser.
-1741)  DESINGE
-Ser, Ignacy Ser.
 1184)  PIRATEA
 {Confused} And what, pray tell, might I be findin' myself doin' if I joined {Sarcastic} this crew of mighty pirates?
 1185)  PIRATEA
 {Default} I'm open to persuasion, {Suspicious} what do you have in mind?
 1186)  PIRATEA
 {Angry} Are you outta your grog-addled mind?!? Nie!
-1744)  DESINGE
-Postrada≥eú swÛj przepe≥niony grogiem rozum?! Nie!
 1187)  PIRATEA
 {Stern} Arrr, that doesn't sound too manly! Kaødy pirat-ciota potrafi napaúÊ na bezbronny statek rybacki.
 1188)  PIRATEA
@@ -2561,8 +2497,6 @@ Nie bÍdÍ tego pali≥!  To siÍ moøe przydaÊ... kiedyú.
 Lepiej nie... moøe rozpoznaÊ w tym kwiatka.
 1244)  GUYBRUSH
 Wiesz coú o tym £owcy PiratÛw?
-1253)  GUYBRUSH
-Wiesz coú o tym £owcy PiratÛw?
 1245)  CRIMPDIGIT
 {confused}Le Flay?  Arrr, lepiej omijaÊ go szerokim ≥ukiem, jeúli øycie ci mi≥e.  Z tego co plotki mÛwiπ, jego twarz jest tak ohydnie groteskowa, øe wiÍkszoúÊ piratÛw na sam jej widok podcina sobie gard≥a!
 1246)  GUYBRUSH
@@ -2579,10 +2513,14 @@ Hej!  Czy wiesz coú o tym Le Flayu?
 {confused}[slightly loudly]  Morganie Le Flay?  Wredny ch≥op!  Mia≥ gniazdo hodowanych skorpionÛw na swojej brodzie, tak s≥ysza≥em.
 1252)  GUYBRUSH
 SkorpionÛw, eh?  BÍdÍ musia≥ to zastosowaÊ nastÍpny razem, kiedy Elaine bÍdzie dobieraÊ siÍ do okruszkÛw na mojej brodzie.
+1253)  GUYBRUSH
+Wiesz coú o tym £owcy PiratÛw?
 1254)  DESINGE
 Nie mÛwiÍ do ciebie...
 1255)  GUYBRUSH
 Na åwiÍty Statek!
+1256)  DESINGE
+Threepwood!
 1257)  DESINGE
 Dobrze pomyúlane, panie Threepwood. Zmusi≥eú mnie do ujawnienia miejsca ukrycia úwiπtyni. Ale taki prostak, jak ty nigdy nie bÍdzie w stanie opanowaÊ tajemnic tego pradawnego narzÍdzia do kontroli wiatrÛw bez mojej pomocy, a ja ci NIGD....
 1258)  GUYBRUSH
@@ -2621,6 +2559,8 @@ Nie chcÍ tego kopaÊ.
 Ca≥kiem dobrze pasuje.
 1275)  GUYBRUSH
 To nie jest serzysty pomys≥. Gdybym tak WYSERZY£, mÛg≥bym siÍ przejechaÊ NA SERZE i skoÒczyÊ WYSERZYåCIE. Dobra, juø skoÒczy≥em...
+1276)  GUYBRUSH
+Chcesz kwiatka?
 1277)  DORO
 Nie, dziÍki.  Mam uczulenie.
 1278)  GUYBRUSH
@@ -2631,16 +2571,20 @@ Tu siÍ tego nie wk≥ada.
 Teraz lepiej.  To znaczy, trochÍ lepiej.
 1281)  GUYBRUSH
 {Surprised} £oo!
+1282)  GUYBRUSH
+£oo!
 1283)  GUYBRUSH
 {Surprised} £oo!
 1284)  GUYBRUSH
 Dziwne.
+1285)  GUYBRUSH
+Ciekawe.
 1286)  GUYBRUSH
-Hmmm.
-1421)  GUYBRUSH
 Hmmm.
 1287)  GUYBRUSH
 Ah.
+1288)  GUYBRUSH
+Rozumiem.
 1289)  GUYBRUSH
 Oh.
 1290)  GUYBRUSH
@@ -2709,8 +2653,6 @@ Czy rozumiesz coú z tego?
 Jeúli mnie wzrok nie myli, to uniwersalny francuski klucz Wakacjan "Al'n", ktÛry kiedyú s≥uøy≥ do uruchamiania ich dziwnych maszyn.
 1322)  
 Pomoøesz mi wydostaÊ siÍ z Wyspy RozbitkÛw?
-1327)  
-Pomoøesz mi wydostaÊ siÍ z Wyspy RozbitkÛw?
 1323)  
 Ta twoja przeklÍta recepta jest do niczego!
 1324)  
@@ -2719,6 +2661,8 @@ Podπøa≥em za niπ krok po kroku, ale Elaine wszystko schrzani≥a!
 Musia≥em trochÍ "udoskonaliÊ" twojπ receptÍ...
 1326)  GUYBRUSH
 Gdzie ja to znajdÍ?
+1327)  
+Pomoøesz mi wydostaÊ siÍ z Wyspy RozbitkÛw?
 1328)  
 Jak mam wyleczyÊ siÍ z Ospy LeChucka?
 1329)  
@@ -2753,6 +2697,8 @@ Jestem tam, gdzie trzeba.
 WiÍc TY jesteú "G≥Íbokim Flakiem" i ürÛd≥em nowinek spoza wyspy dla Davey'a SzkrabrÛda?
 1344)  VOODOO
 Tak.
+1345)  GUYBRUSH
+Czemu?
 1346)  VOODOO
 Øycie dla voodoo kap≥anki nie jest tanie, m≥ody piracie.  To rÛwnieø znaczπce zaangaøowanie finansowe.
 1347)  GUYBRUSH
@@ -2821,12 +2767,12 @@ Czas st≥uc kilka butelek!
 {Stern} Hej!  PrzestaÒ!
 1379)  GUYBRUSH
 A≥!
-1382)  GUYBRUSH
-A≥!
 1380)  GUYBRUSH
 Najpierw musia≥bym ujarzmiÊ swojπ rÍkÍ, øeby chcieÊ st≥uc tÍ butelkÍ.
 1381)  GUYBRUSH
 {Surprised} Hej!
+1382)  GUYBRUSH
+A≥!
 1383)  GUYBRUSH
 {Whiney} Nie.
 1384)  GUYBRUSH
@@ -2903,6 +2849,8 @@ Moje oko!
 Okrπg sera!
 1420)  GUYBRUSH
 Ale potwÛr!  Moøe znajdÍ jakieú wyg≥odnia≥e szczury, ktÛre go zeørπ.
+1421)  GUYBRUSH
+Hmmm.
 1422)  GUYBRUSH
 Weü jπ, to butelka niet≥ukπca!
 1423)  GUYBRUSH
@@ -3015,13 +2963,9 @@ Jakiego rodzaju staroøytne cywilizacje manatÛw?
 CzeúÊ, niechlujnie wyglπdajπcy piracie! Jam Guybrush Threepwood, potÍøny pirat! Jak siÍ zwiesz?
 1477)  PIRATEB
 To üle siÍ orientujesz...Australia, co to za dziwne przezwisko?
+1478)  DESINGE
+Au!
 1479)  DESINGE
-Eek!
-1624)  JACQUES
-Eek!
-1720)  JACQUES
-Eek!
-1828)  MONKEY
 Eek!
 1480)  DESINGE
 [in pain]Agh!
@@ -3111,6 +3055,8 @@ Mam nadziejÍ øe te noøe sπ bezpiecznie przymocowane do úciany.  Jeúli nadal bÍdÍ
 {cocky}Jacques, nie ma≥puj mi siÍ tam i chodü mi pomÛø!  Dam ci banana, chcesz banana?
 1523)  GUYBRUSH
 Super.  Teraz potrzebny mi banan.
+1524)  GUYBRUSH
+A to co?
 1525)  VOODOO
 {mystical}Ach, duchy prowadzi≥y ciÍ dobrze.  To butelka zawierajπca pradawny zwÛj pozostawiony przez WakacjanÛw, dawnych mieszkaÒcÛw Wyspy RozbitkÛw.
 1526)  GUYBRUSH
@@ -3127,14 +3073,16 @@ Jest coú jeszcze, co muszÍ wiedzieÊ o zwitku w butelce?
 Dosta≥am to od starego pirata zwanego McGee.  RÛb z tym, co chcesz.
 1532)  VOODOO
 Czekaj!
+1533)  GUYBRUSH
+S≥ucham?
 1534)  VOODOO
 Chyba WIEM, jak pomÛc ci uciec z Wyspy RozbitkÛw.
 1535)  GUYBRUSH
 Jak?
 1536)  GUYBRUSH
 Nie mam za≥ogi, ktÛra mog≥aby mnie zabraÊ na WyspÍ Mamony.
-1718)  GUYBRUSH
-Nie mam za≥ogi, ktÛra mog≥aby mnie zabraÊ na WyspÍ Mamony.
+1537)  GUYBRUSH
+A to co?
 1538)  VOODOO
 Znalaz≥am to ustrojstwo w okolicach bagien.  Juø pozna≥am jego tajemnice.
 1539)  GUYBRUSH
@@ -3303,14 +3251,12 @@ Uwielbiam zapach skarbÛw o poranku...
 Eek.
 1621)  JACQUES
 [excited] Eek-eek-eek!
-1629)  JACQUES
-[excited] Eek-eek-eek!
 1622)  JACQUES
-[interested] ook-ook-ook!
-1825)  MONKEY
 [interested] ook-ook-ook!
 1623)  JACQUES
 [scared][ Eeeeeek!]
+1624)  JACQUES
+Eek!
 1625)  GUYBRUSH
 Twoja papuga wyglπda tam doúÊ mizernie.
 1626)  VOODOO
@@ -3319,6 +3265,8 @@ Bo to Piracka Papuga Petalumy! Nie wolno jej dotykaÊ!
 Co siÍ tak ociπgasz, Threepwood?  Twoje przeznaczenie leøy gdzie indziej!
 1628)  GUYBRUSH
 Wow, wyglπda czymú bardzo podekscytowany.
+1629)  JACQUES
+[excited] Eek-eek-eek!
 1630)  GUYBRUSH
 Lepiej uwaøaÊ z tym tuszem.  Nie chce staÊ siÍ jakimú Guybrushem Threepwoodem, Pryszczatym Piratem.
 1631)  GUYBRUSH
@@ -3347,8 +3295,12 @@ ZamkniÍte.
 Nikt tam nie wejdzie, poza pracownikami "Ciπgnij-kila", Mikwood.  Myúlisz o pracy w redakcji?
 1643)  GUYBRUSH
 Kto ja? Nie.
+1644)  GUYBRUSH
+ZamkniÍte.
 1645)  NIPPERKIN
 Co ty tutaj robisz?  Nie szukasz G≥Íbokiego Flaka?
+1646)  GUYBRUSH
+Pa.
 1647)  NIPPERKIN
 Niech ci piractwo sprzyja, m≥ody!  Trzymam za ciebie kciuki!
 1648)  GUYBRUSH
@@ -3377,6 +3329,8 @@ Jeúli pragnÍ jeszcze kiedykolwiek ujrzeÊ Elaine, muszÍ znaleüÊ jakiú sposÛb na t
 Rzeczπ, ktÛrπ Mroczny Ninja Dave NIGDY nie wiedzia≥ to fakt, øe Pierre to jego dawno zaginiony brat BLIèNIAK!  Duhn-dun-duuun!
 1660)  PARROT
 <Skrzek!>
+1661)  GUYBRUSH
+{Happy} Witam...
 1662)  MCGEE
 No czego chcesz?
 1663)  GUYBRUSH
@@ -3396,8 +3350,6 @@ Chcia≥bym nakierowaÊ tÍ broÒ na DeSinge'a... ciekawe, jak mu siÍ to spodoba!
 1670)  GUYBRUSH
 Ta statuetka ma puste ko≥owe otwory tam, gdzie pewnie powinny byÊ oczy.
 1671)  GUYBRUSH
-[sneezing] Ah-choo!
-1706)  GUYBRUSH
 [sneezing] Ah-choo!
 1672)  GUYBRUSH
 Lepiej øebym nie kicha≥ w obecnoúci tych roúlinek...
@@ -3467,6 +3419,8 @@ Ciekawe, czy jest cokolwiek od Lady Voodoo, co moøe mi teraz pomÛc...
 Nie mogÍ siÍ doczekaÊ, aø mÛj statek oddokuje!
 1705)  GUYBRUSH
 Mam nadziejÍ, øe Narwala jest gotowa na podrÛø...
+1706)  GUYBRUSH
+[sneezing] Ah-choo!
 1707)  GUYBRUSH
 Szkarpa jest taki samotny...
 1708)  GUYBRUSH
@@ -3489,8 +3443,12 @@ A co siÍ sta≥o z tπ ostatniπ?
 Eee, zgubi≥a siÍ.
 1717)  CRIMPDIGIT
 Bardzo proszÍ... na twoje szczÍúcie, nikt jakoú nie jest zainteresowany ofertπ moich zaginanych rur.
+1718)  GUYBRUSH
+Nie mam za≥ogi, ktÛra mog≥aby mnie zabraÊ na WyspÍ Mamony.
 1719)  GUYBRUSH
 To bardzo dobrze siÍ sk≥ada!  Ta rzecz przypomina piwo korzenne tylko øe nie ma w niej charakterystycznych bπbelek.
+1720)  JACQUES
+Eek!
 1721)  GUYBRUSH
 {cocky}Wow! Pogadajmy o zwierzÍcym magnetyzmie.
 1722)  GUYBRUSH
@@ -3504,8 +3462,6 @@ SzkrabrÛd
 1726)  
 Marshall
 1727)  
-Znak
-1777)  
 Znak
 1728)  
 Dywan
@@ -3533,12 +3489,14 @@ Ulotka
 Mapa G≥Íbokiego Flaka
 1740)  
 Piracia Papuga
-1900)  
-Piracia Papuga
+1741)  DESINGE
+Ser, Ignacy Ser.
 1742)  DESINGE
 A co ja bym niby z tego mia≥, øe bym do≥πczy≥ do twojej za≥ogi potÍønych piratÛw?
 1743)  DESINGE
 Jestem otwarty na sugestie. Co mi proponujesz?
+1744)  DESINGE
+Postrada≥eú swÛj przepe≥niony grogiem rozum?! Nie!
 1745)  DESINGE
 Arr, to nie brzmi zbyt po mÍsko. Kaødy pirat-ciota potrafi napaúÊ na bezbronny statek rybacki.
 1746)  DESINGE
@@ -3563,11 +3521,7 @@ Doniczka
 Niet≥ukπca siÍ Butelka
 1756)  
 Kruszarka
-1815)  
-Kruszarka
 1757)  
-Okrπg Sera
-1922)  
 Okrπg Sera
 1758)  
 Pradawne Wrota w Kszta≥cie Twarzy
@@ -3607,11 +3561,11 @@ Rzeüby w WiÍzieniu
 Flaga na Gmachu Sπdu
 1776)  
 Prasa Drukarska
+1777)  
+Znak
 1778)  
 Stos Papieru
 1779)  
-Wiatrowskaz
-1812)  
 Wiatrowskaz
 1780)  GUYBRUSH
 Morski stworze, czyú ty oszala≥?  W tych wodach nie ma juø øadnych wielkoludÛw poøerajπcych morskich ludoøercÛw!
@@ -3633,8 +3587,6 @@ DeSinge
 Guybrush
 1789)  
 PÛ≥ka na Ksiπøki
-1816)  
-PÛ≥ka na Ksiπøki
 1790)  
 Voodoo-Skrzynia
 1791)  
@@ -3642,8 +3594,6 @@ Szafa WnÍkowa
 1792)  
 Kryszta≥owa Kula
 1793)  
-Wyjúcie
-1961)  
 Wyjúcie
 1794)  
 Martwe ZwierzÍta
@@ -3681,12 +3631,16 @@ Stos Lalek
 Postawny Pirat
 1811)  
 Stos Bomb
+1812)  
+Wiatrowskaz
 1813)  
-Przeraøajπca Chata
-2226)  
 Przeraøajπca Chata
 1814)  
 Koszyk ze Szklanymi Jednoroøcami
+1815)  
+Kruszarka
+1816)  
+PÛ≥ka na Ksiπøki
 1817)  
 koszyk z butelkami
 1818)  
@@ -3703,16 +3657,24 @@ Klucz
 Klatka
 1824)  MONKEY
 {Default}[excited] Eek-eek-eek!
+1825)  MONKEY
+[interested] ook-ook-ook!
 1826)  MONKEY
 {Frustrated}[scared] Eeeeeek!
 1827)  MONKEY
 {Disappointed}[dazed] Ook.
+1828)  MONKEY
+Eek!
 1829)  DESINGE
 Hmmm... to ciekawe... wiÍc twierdzisz, øe twoja ma≥a, chora rπczka ma w≥asnπ úwiadomoúÊ?
+1830)  DESINGE
+Niesamowite.
 1831)  DESINGE
 Monsieur Threepwood, ma pan moje s≥owo, by≥ego lekarza samego Trybuna≥u krÛla Ludwika, øe od momentu kiedy opuúci pan mÛj gabinet, pana mizantropijna d≥oÒ juø nigdy panu nie zaszkodzi!  Jednak, aby uzyskaÊ odpowiedni efekt mojej terapii, bÍdÍ musia≥ spÍdziÊ kilka chwil w laboratorium badajπc prÛbkÍ pana skÛry pod moim eksperymentalnym PowiÍkszatorem.
 1832)  DESINGE
 {happy}[wistfully remembering]  Ach, mon ami. Historia tego cuda pe≥na jest triumfu i tragedii.  Wiele lat temu by≥em m≥odym lekarzem na dworze krÛla Ludwika.  To by≥y burzliwe dni. Zawsze jakiú arystokrata potrzebowa≥ mojej pomocy, na przyk≥ad przy rozwiπzywaniu skandalicznych intryg... Z kaødym dniem moja lekarska s≥awa piÍ≥a siÍ coraz wyøej.
+1833)  DESINGE
+Konspiracyjni zazdroúnicy zarzucili mi wykonywanie nieludzkich eksperymentÛw krzyøowania krÛlewskich pudli!
 1834)  DESINGE
 KrÛl by≥ oburzony - kaza≥ zes≥aÊ mnie na bezludnπ, tropikalnπ wyspÍ.
 1835)  
@@ -3747,8 +3709,6 @@ Jacques
 Nie siÍgnÍ tego w tej pozycji.
 1850)  
 O≥tarzyk
-2234)  
-O≥tarzyk
 1851)  
 Studnia ØyczeÒ
 1852)  
@@ -3757,13 +3717,13 @@ RÛøowa Bielizna z Falbankami
 Skarpety
 1854)  
 Korba
+1855)  
+Co moøesz mi powiedzieÊ o tych butelkach?
 1856)  
 A co do tej niet≥ukπcej siÍ butelki...
 1857)  
 Drzwi
 1858)  
-Drzwi
-1893)  
 Drzwi
 1859)  ELAINE
 Po pierwsze, wymyúl jakiú sposÛb, øeby zastπpiÊ piwo korzenne, ktÛre upuúci≥eú.
@@ -3811,6 +3771,8 @@ Moje rÍka wciπø øyje!
 Wracam do prÛb otwarcia tych dziwnych wrÛt...
 1881)  
 Wiesz, istniejπ teø inni zaraøeni piraci...
+1882)  
+Pa.
 1883)  
 Jaki rodzaj skarbÛw poszukujesz?
 1884)  
@@ -3819,6 +3781,8 @@ A co to ci Porcelanowi Piraci Mocy?
 Ile juø masz tych Porcelanowych PiratÛw Mocy?
 1886)  
 Co to za wielka sterta lalek?
+1887)  
+Pa.
 1888)  
 Patrz! To Mroczny Ninja Dave!
 1889)  
@@ -3829,6 +3793,8 @@ Co taki facet, jak ty robi na Wyspie RozbitkÛw?
 Co wiesz o tych szalonych wiatrach na Wyspie?
 1892)  
 S≥ysza≥em, øe mojπ rÍkÍ da siÍ leczyÊ tylko magicznπ gπbkπ.
+1893)  
+Drzwi
 1894)  
 Dywan z Symbolem SkrzyøowaÒ
 1895)  
@@ -3841,6 +3807,8 @@ Najstraszniejsza Szafa na åwiecie
 Bezuøyteczne Voodoo-Sk≥adniki
 1899)  
 Pot≥uczona Kryszta≥owa Kula
+1900)  
+Piracia Papuga
 1901)  
 Skrzynia Zwiastowania
 1902)  
@@ -3873,8 +3841,6 @@ TWOJ• øonÍ?  Nie, bo Elaine jest przeznaczona, by byÊ MOJ• pannπ m≥odπ!
 {Devilish} Har!  Moja zewnÍtrzna pow≥oka nie ma znaczenia!   Wewnπtrz mego zbutwia≥ego cia≥a jest wiÍcej mocy vooodoo, niø twÛj godny poøa≥owania mÛødøek moøe sobie nawet wyobraziÊ!
 1916)  
 Kalendarz
-2235)  
-Kalendarz
 1917)  
 £aÒcuch Kotwicy
 1918)  
@@ -3885,6 +3851,8 @@ Sznur na BieliznÍ
 Naukowych Gadøet
 1921)  
 Wyjπca Narwala
+1922)  
+Okrπg Sera
 1923)  
 Gmach Sπdu
 1924)  
@@ -3961,6 +3929,8 @@ Elaine
 Proch Strzelniczy
 1960)  
 Ster
+1961)  
+Wyjúcie
 1962)  
 Maszt
 1963)  
@@ -4085,8 +4055,6 @@ Te wiatry to twoja sprawka, prawda?
 Jak wylπdowa≥aú na tej wyspie?
 2026)  
 CzeúÊ.
-2034)  
-CzeúÊ.
 2027)  
 Jak zosta≥eú kapitanem?
 2028)  
@@ -4101,6 +4069,8 @@ Gdzie jest twoja karta cz≥onkowska?
 Wiatry przynios≥y ciÍ na wyspÍ?
 2033)  
 Blekot twierdzi, øe specjalnie uciπ≥eú mu nogÍ.
+2034)  
+CzeúÊ.
 2035)  
 Jak wylπdowa≥aú na tej wyspie?
 2036)  
@@ -4118,8 +4088,6 @@ Wiesz coú wiÍcej o tej ospie?
 2042)  
 Hej!  Czy grog moøe powstrzymaÊ ospÍ?
 2043)  
-Mapa Blekota
-2353)  
 Mapa Blekota
 2044)  
 WznÛw
@@ -4156,27 +4124,21 @@ A to ciekawe.
 Rozumiem.
 2056)  GUYBRUSH
 Hmmm, gdzie ja wczeúniej widzia≥em tπ twarzyczkÍ?
+2057)  
+Ustawienia Gry
+2058)  
+Ustawienia Audio
+2059)  
+Ustawienia Obrazu
 2060)  
 Zwodnicza Lina
 2061)  
 Waøna Ma≥pa
 2062)  
 Zagadkowy Boøek
-2228)  
-Zagadkowy Boøek
-2435)  
-Zagadkowy Boøek
 2063)  
 Dziwny Boøek
-2229)  
-Dziwny Boøek
-2436)  
-Dziwny Boøek
 2064)  
-Zapaskudzony Boøek
-2230)  
-Zapaskudzony Boøek
-2437)  
 Zapaskudzony Boøek
 2065)  
 ????
@@ -4221,8 +4183,6 @@ By przejúÊ do ekwipunku, przesuÒ kursor na prawy kraniec ekranu i kliknij w poja
 2085)  
 By po≥πczaÊ przedmioty, umieúÊ kaødy z nich w dwÛch duøych ko≥ach po lewo i naciúnij znak plusa, co je po≥πczy.
 2086)  
-Czasem, po waønych wydarzeniach, postacie majπ nowe rzeczy do powiedzenia.  Kliknij na Elaine, by z niπ pogadaÊ.
-2412)  
 Czasem, po waønych wydarzeniach, postacie majπ nowe rzeczy do powiedzenia.  Kliknij na Elaine, by z niπ pogadaÊ.
 2087)  
 CzÍúÊ WrÛt w Kszta≥cie Twarzy
@@ -4502,6 +4462,10 @@ KOCHAM tworzyÊ pirackie newsy!
 2218)  
 Notka g≥osi... 
               "KRYSKA"
+2219)  GUYBRUSH
+Ciekawe, czy tam jest coú przydatnego...
+2220)  GUYBRUSH
+Nie.  To tylko grupa nudnej za≥ogi.  Aø trudno uwierzyÊ, øe tyle czasu zajÍ≥a mi rekrutacja tych goúci.
 2221)  
 Boøek
 2222)  
@@ -4512,19 +4476,29 @@ Boøek
 Dok
 2225)  
 Plaøa
+2226)  
+Przeraøajπca Chata
 2227)  
 Ogromne NarzÍdzie do Kontroli WiatrÛw
+2228)  
+Zagadkowy Boøek
+2229)  
+Dziwny Boøek
+2230)  
+Zapaskudzony Boøek
 2231)  
 Ogromne Wrota
 2232)  
 Wejúcie Døungli
 2233)  
 Studnia
+2234)  
+O≥tarzyk
+2235)  
+Kalendarz
 2236)  
 Zakopany Skarb
 2237)  
-Wir Ospy
-2241)  
 Wir Ospy
 2238)  
 Plaøa Wyspy RozbitkÛw
@@ -4532,6 +4506,8 @@ Plaøa Wyspy RozbitkÛw
 Doki Wyspy RozbitkÛw
 2240)  
 Fina≥
+2241)  
+Wir Ospy
 2242)  
 Døungla
 2243)  
@@ -4566,9 +4542,9 @@ Prolog
 Lady Voodoo
 2258)  
 Dobre wieúci!  Twoja mapa to nie úciema!
+2259)  LECHUCK
+Guybrush?
 2260)  GUYBRUSH
-"Pirat, KtÛry Pomyli≥ Swojπ ØonÍ Z Hakiem"
-2286)  
 "Pirat, KtÛry Pomyli≥ Swojπ ØonÍ Z Hakiem"
 2261)  GUYBRUSH
 "Voodoo u Tiffany"
@@ -4600,8 +4576,6 @@ Dobre wieúci!  Twoja mapa to nie úciema!
 "Uroki i Miasto"
 2275)  GUYBRUSH
 "W Tπ i Wew Tπ... Wew Tπ... i w Tπ"
-2287)  
-"W Tπ i Wew Tπ... Wew Tπ... i w Tπ"
 2276)  
 Osobliwa Butelka
 2277)  WINSLOW
@@ -4622,6 +4596,10 @@ Fascynujπce, Lecz Bezsensowne Morze
 Fotel operacyjny DeSinge'a moøna obracaÊ, uøywajπc A i D oraz nachylaÊ w gÛrÍ i w dÛ≥ klawiszami W i S.
 2285)  
 CÛø za zbieg! Teø mam zaszyfrowany, pradawny zwÛj!
+2286)  
+"Pirat, KtÛry Pomyli≥ Swojπ ØonÍ Z Hakiem"
+2287)  
+"W Tπ i Wew Tπ... Wew Tπ... i w Tπ"
 2288)  
 boøek2
 2289)  
@@ -4756,6 +4734,8 @@ Szabla Grogatini
 Pradawny Wiatrowskaz
 2352)  
 Pradawne NarzÍdzie Wskazujπce Wianie Wiatru
+2353)  
+Mapa Blekota
 2354)  
 Doniczka o Ciekawym Kszta≥cie
 2355)  
@@ -4786,6 +4766,8 @@ Pradawne Wrota w Kszta≥cie Twarzy
 Pradawny, Wielotwarzowy Wiatrowskaz
 2368)  
 Pradawny Wiatrowskaz Boga Wiatru
+2369)  GUYBRUSH
+£oo!
 2370)  
 Witamy na Poszukiwaniu SkarbÛw
 Opowieúci z Wyspy Ma≥p!  Podπøaj za mapπ,
@@ -4835,6 +4817,8 @@ Historia:
 Mark Darin
 Mike Stemmle
 Dave Grossman
+2392)  MCGEE
+Arrr!
 2393)  
 Na Podstawie Postaci
 Autorstwa
@@ -4848,6 +4832,12 @@ Ciπg Dalszy Nastπpi w
 Rozdziale 2:
 
 "OBL ØENIE RAFY ZAWIROWA—"
+2397)  
+OPOWIEåCI Z WYSPY MA£P
+
+ROZDZIA£ 1:
+
+ZRYW WYJ•CEJ NARWALI
 2398)  
 Witamy w poszukiwaniu skarbÛw w Opowieúciach z Wyspy Ma≥p. Na Wyspie RozbitkÛw zakopano statuetki bogÛw. Kaødy z nich strzeøe wartoúciowego skarbu. Podπøaj swoimi mapami, by zgarnπÊ ≥up!  
 
@@ -4882,6 +4872,8 @@ w innych krajach. © 1990-2009 Lucasfilm Entertainment Company Ltd.
 Telltale oraz logo Telltale Games sπ znakami handlowymi Telltale, Inc.
 2411)  
 By zaznaczyÊ obiekt, wyceluj w niego Wskaünikiem i naciúnij Przycisk A. SprÛbuj zaznaczyÊ instrukcje voodoo na maszcie.
+2412)  
+Czasem, po waønych wydarzeniach, postacie majπ nowe rzeczy do powiedzenia.  Kliknij na Elaine, by z niπ pogadaÊ.
 2413)  
 Uøywaj ga≥ki swojego Nunchuka lub naciúnij i przytrzymaj Przycisk A i wyceluj Wskaünik w stronÍ, ktÛrπ chcesz iúÊ.  SprÛbuj przejúÊ do masztu po twojej lewej stronie.
 2414)  
@@ -4937,8 +4929,16 @@ By po≥πczyÊ przedmioty, umieúÊ kaødy z nich w dwÛch duøych ko≥ach po lewo i naci
 Witamy w poszukiwaniu skarbÛw w Opowieúciach z Wyspy Ma≥p. Na Wyspie RozbitkÛw zakopano statuetki bogÛw. Kaødy z nich strzeøe wartoúciowego skarbu. Podπøaj swoimi mapami, by zgarnπÊ ≥up!
 2431)  
 Nie bÛj, wszystko jest pod kontrolπ!
+2433)  GUYBRUSH
+Grabiπcy krÛliczek?
 2434)  
 Ogromne NarzÍdzie do Kontroli WiatrÛw i Tajemniczy Boøek
+2435)  
+Zagadkowy Boøek
+2436)  
+Dziwny Boøek
+2437)  
+Zapaskudzony Boøek
 2438)  ANNOUNCER
 O co chodzi z zadziornπ rÍkπ Guybrusha?
 2439)  ANNOUNCER
@@ -4969,3 +4969,4 @@ Teraz...
 2451)  
 i "Ogromny Palant LeChuck"
 2452)  
+

@@ -92,8 +92,6 @@ Any unsaved progress in your current game will be lost.
 Sounds like he's busy.
 42)  GUYBRUSH
 Nah.
-478)  
-Nah.
 43)  GUYBRUSH
 Nope.
 44)  GUYBRUSH
@@ -103,10 +101,6 @@ Um, I don't want to part with this right now.
 46)  GUYBRUSH
 Uh-uh.
 47)  GUYBRUSH
-I don't think so.
-767)  BUGEYE
-I don't think so.
-1849)  NOOGIE
 I don't think so.
 48)  
 Locket
@@ -356,8 +350,6 @@ SEE?!?  That's the Pox!{Stern} It turns people into... whatever THAT was and it'
 171)  MORGAN
 [Realizing she is going to help Guybrush]{Questioning} Your wife.
 172)  GUYBRUSH
-Yeah.
-760)  MOOSE
 Yeah.
 173)  MORGAN
 [Playing hardball]{Stern} Okay, fine, but you have to do something for ME.
@@ -933,8 +925,6 @@ File him under{sarcastic} Pansy with a capital P.
 {Angry} ARRR!
 460)  MOOSE
 {angry}ARRRR!
-712)  NOOGIE
-{angry}ARRRR!
 461)  GUYBRUSH
 {happy}Ooh, that's a new one.
 462)  GUYBRUSH
@@ -967,6 +957,8 @@ Would you like me to a call a vote?
 {happy}Yes! {proud}I'm a shoe in.
 476)  GUYBRUSH
 {confused}Not right now.
+478)  
+Nah.
 480)  GUYBRUSH
 {suspicious}You're a real killjoy.
 481)  BUGEYE
@@ -980,8 +972,6 @@ Aren't you a bit like the tyrants you claim to hate?
 485)  BUGEYE
 {cocky}No, that one's all me.
 486)  
-Will you vote me into the Brotherhood?
-2127)  
 Will you vote me into the Brotherhood?
 487)  GUYBRUSH
 {cocky}What do you say about giving a nod to old Guybrush Threepwood come voting time?
@@ -1047,8 +1037,6 @@ Guybrush Threepwood.
 {surprised}[B4] Tweaking...
 518)  MOOSE
 {enthused}[C2] Monkey!
-2405)  MOOSE
-{enthused}[C2] Monkey!
 519)  MOOSE
 {enthused}[C2] Geezer!
 520)  MOOSE
@@ -1073,22 +1061,22 @@ Guybrush Threepwood.
 {stern}Here comes trouble!
 530)  GUYBRUSH
 MONKEY SOUND!
-535)  BUGEYE
-MONKEY SOUND!
 531)  GUYBRUSH
-MEANY SOUND!
-536)  BUGEYE
 MEANY SOUND!
 532)  GUYBRUSH
 GOMER SOUND!
-537)  BUGEYE
-GOMER SOUND!
 533)  GUYBRUSH
-GEEZER SOUND!
-538)  BUGEYE
 GEEZER SOUND!
 534)  BUGEYE
 ARRR!
+535)  BUGEYE
+MONKEY SOUND!
+536)  BUGEYE
+MEANY SOUND!
+537)  BUGEYE
+GOMER SOUND!
+538)  BUGEYE
+GEEZER SOUND!
 539)  BUGEYE
 {suspicious}That's it?
 540)  GUYBRUSH
@@ -1443,6 +1431,8 @@ Tell me about the missing cochlea.
 {happy}Thanks for the vote!
 711)  NOOGIE
 [happy]Thank YOU!{cocky} I think I've got a future with that piping-hot pirate hunter!
+712)  NOOGIE
+{angry}ARRRR!
 713)  GUYBRUSH
 {surprised}Ooh, that's a good one.
 714)  GUYBRUSH
@@ -1537,6 +1527,8 @@ An obvious no.
 {suspicious}Brother Moose, Brother Santino, still yes?
 759)  MURRAY
 {happy}Oh yes!{evil} Muwahaha...
+760)  MOOSE
+Yeah.
 761)  BUGEYE
 {stern}Brother Noogie? {suspicious}Your vote is still yes?
 762)  NOOGIE
@@ -1549,6 +1541,8 @@ An obvious no.
 {cocky}Ah, I'm sorry, initiation can only be confirmed by a unanimous vote.
 766)  GUYBRUSH
 {embarrassed}What about a simple majority and a high five?
+767)  BUGEYE
+I don't think so.
 768)  BUGEYE
 {cocky}[Sarcastic] Aww, too bad. Initiation to the Brotherhood denied.
 769)  GUYBRUSH
@@ -2043,8 +2037,6 @@ What are the odds of a guy like you, and a girl like me...
 {stern} How do you know this? Yes, I have a book zat can teach one ze language of these majestic creatures.
 1019)  
 May I have this book?
-1958)  GUYBRUSHASVOODOOLADY
-May I have this book?
 1020)  
 Excellent!  Run back to your freaky laboratory and fetch it.
 1021)  
@@ -2247,8 +2239,6 @@ Please!
 {Confused} I said I can't remember, bra.
 1121)  NOOGIE
 {Scared} It's Jimbo, his Ichor funnel. That's the Tongue of the Manatee.
-1132)  BUGEYE
-{Scared} It's Jimbo, his Ichor funnel. That's the Tongue of the Manatee.
 1122)  MOOSE
 {Happy} Oh YEAH! Ha. Ya, that's it. I left it back in the big guy's stomach. {Confused} How could I forget?
 1123)  GUYBRUSH
@@ -2269,6 +2259,8 @@ Sometimes they break easy, like delicate, Faberge Eggs. {Sarcastic} Look at him,
 {Scared} It was Moose! Moose had it!
 1131)  GUYBRUSH
 {Surprised} Wow, that was easy.{Incredulous} Is this true?
+1132)  BUGEYE
+{Scared} It's Jimbo, his Ichor funnel. That's the Tongue of the Manatee.
 1133)  GUYBRUSH
 {happy}[underwater] Hungry, fella?{default}
 1134)  GUYBRUSH
@@ -2451,11 +2443,7 @@ That slippery savant built his entire ship out of rubber trees. Touché, Coronado
 {Serious} Hurry! {Strained} I can't dodge cannonballs forever!
 1223)  GUYBRUSH
 The Mariana Wrench: turns a bolt at any fathom.
-2479)  GUYBRUSH
-The Mariana Wrench: turns a bolt at any fathom.
 1224)  GUYBRUSH
-Tongue of the Manatee: Travel Edition. All the manatee phrases you need to know while visiting the abyss.
-2478)  GUYBRUSH
 Tongue of the Manatee: Travel Edition. All the manatee phrases you need to know while visiting the abyss.
 1225)  GUYBRUSH
 It reads: The Democratically United Brotherhood of the Manatee Interior: A Guide for the Newly Initiated.  The first chapter is "Initiation and You.."
@@ -2465,25 +2453,15 @@ With a little elbow grease, I can swap the covers on these two books!
 The biggest cochlea I've ever seen. The manatee needs this to regain its sense of direction.
 1228)  GUYBRUSH
 The Crown of Queen Archipelago. Upon further examination, the jewels are plastic.
-2467)  GUYBRUSH
-The Crown of Queen Archipelago. Upon further examination, the jewels are plastic.
 1229)  GUYBRUSH
-De Cava's manatee exit concoction.  A proprietary blend of condensed foods to keep giant sea-mammalia regular.
-2464)  GUYBRUSH
 De Cava's manatee exit concoction.  A proprietary blend of condensed foods to keep giant sea-mammalia regular.
 1230)  GUYBRUSH
 The Fisheye of the Manatee. It has a red tinted lens.
 1231)  GUYBRUSH
 This salmon sure does flop around a lot. Woo woo...
-2469)  GUYBRUSH
-This salmon sure does flop around a lot. Woo woo...
 1232)  GUYBRUSH
 A squishy grub.
-2470)  GUYBRUSH
-A squishy grub.
 1233)  GUYBRUSH
-Aww, my hook. Sometimes I pretend it's just a really skinny hand.
-2471)  GUYBRUSH
 Aww, my hook. Sometimes I pretend it's just a really skinny hand.
 1234)  GUYBRUSH
 The locket the Voodoo Lady gave me to give back to her boyfriend Coronado De Cava. It most certainly has cooties.
@@ -2560,8 +2538,6 @@ It's engraved with a name: Dante Dragotta.
 1270)  WINSLOW
 {Sarcastic} Ooh, he sounds tough.
 1271)  GUYBRUSH
-Morgan's sword, the blade of Dragotta.
-2476)  GUYBRUSH
 Morgan's sword, the blade of Dragotta.
 1272)  GUYBRUSH
 {sTERN} Elevating her feet...
@@ -3135,8 +3111,6 @@ Ah! It's dark in here! And why does it smell like rotten marmalade?
 Nothing more in there. I guess it only had room for one demonic skull.
 1556)  
 Your sword!
-1856)  GUYBRUSH
-Your sword!
 1557)  GUYBRUSH
 {happy}[Running] A snack! You should never enter a battle outnumbered on an empty stomach.
 1558)  MORGAN
@@ -3383,8 +3357,6 @@ Come back!
 Grr....
 1679)  GUYBRUSH
 That's a lot of coin.
-2468)  GUYBRUSH
-That's a lot of coin.
 1680)  GUYBRUSH
 Having a good time?
 1681)  MURRAYINVENTORY
@@ -3549,8 +3521,6 @@ My scoutmaster would kill me if he saw me use a sword like that.
 Return fire!
 1761)  GUYBRUSH
 A picture of me. It's conveniently wallet sized.
-2472)  GUYBRUSH
-A picture of me. It's conveniently wallet sized.
 1762)  GUYBRUSH
 Now the arrow points the opposite way.{Incredulous} This should be interesting. Or fraught with peril.
 1763)  GUYBRUSH
@@ -3617,11 +3587,7 @@ I shall await her alleged arrival with tantalizing disbelief!
 Morgan LeFlay
 1794)  GUYBRUSH
 It's killed more people than bad sushi.
-2477)  GUYBRUSH
-It's killed more people than bad sushi.
 1796)  GUYBRUSH
-I can pour this in the manatee's central bile pool to be... extracted.
-2465)  GUYBRUSH
 I can pour this in the manatee's central bile pool to be... extracted.
 1797)  WINSLOW
 {happy}Ah, feeling right as rain now, Captain! {enthused}As refreshed as my days as cabana boy in Borneo!
@@ -3630,8 +3596,6 @@ I can pour this in the manatee's central bile pool to be... extracted.
 1799)  WINSLOW
 {sad}[Realizing] Oh dear.
 1800)  GUYBRUSH
-A seahorse head. Giant manatees snack on these things like crackers. Man, if somebody made little fish-shaped snack-crackers for people, they'd be sitting on a goldmine.
-2475)  GUYBRUSH
 A seahorse head. Giant manatees snack on these things like crackers. Man, if somebody made little fish-shaped snack-crackers for people, they'd be sitting on a goldmine.
 1801)  GUYBRUSH
 {Cocky} Done and done!
@@ -3729,6 +3693,8 @@ What happened to Fisheyes Alabaster, again?
 {questioning}[Awk] Thanks...
 1848)  GUYBRUSH
 Well...{embarrassed}do you think I could have your vote anyway?
+1849)  NOOGIE
+I don't think so.
 1850)  GUYBRUSH
 {Incredulous} Can I borrow your sword for a minute?
 1851)  MORGAN
@@ -3741,6 +3707,8 @@ Here's your sword back.
 {Cocky} Bold.
 1855)  MORGAN
 {Cocky}[Flirty] Oh, I can get it back whenever I want.
+1856)  GUYBRUSH
+Your sword!
 1857)  GUYBRUSH
 I don't have the dexterity to scrape this filth off with a sword.
 1858)  GUYBRUSH
@@ -3861,8 +3829,6 @@ Experiment with something else!
 I'm going to hold on to this fine picture for a bit.
 1916)  GUYBRUSH
 It's Elaine's wedding ring.
-2474)  GUYBRUSH
-It's Elaine's wedding ring.
 1917)  GUYBRUSH
 Elaine was pretty adamant that I take care of this. I should just hold onto it.
 1918)  GUYBRUSH
@@ -3945,6 +3911,8 @@ Oh, all right.
 Ugh...oof...urggg....
 1957)  GUYBRUSHASVOODOOLADY
 I should probably put these cards on the mat in front of me.
+1958)  GUYBRUSHASVOODOOLADY
+May I have this book?
 1959)  GUYBRUSHASVOODOOLADY
 {happy} Excellent!  Run back to your freaky laboratory and fetch it for me.
 1960)  GUYBRUSHASVOODOOLADY
@@ -4139,8 +4107,6 @@ If I take this picture, De Cava will blow a gasket. I'd need to replace it.
 This button is kind of loose. I can't turn it with my chubby fingers though.
 2056)  GUYBRUSH
 {suspicious}[Pondering] It's not like I need to swim back to Flotsam... I just need to get my brain back there so I can fill it with manatee language goodness from De Singe.{default}
-2480)  GUYBRUSH
-{suspicious}[Pondering] It's not like I need to swim back to Flotsam... I just need to get my brain back there so I can fill it with manatee language goodness from De Singe.{default}
 2057)  GUYBRUSHASVOODOOLADY
 Check out these Tarot cards... I wonder what sort of far reaching powers they have.
 2058)  GUYBRUSHASVOODOOLADY
@@ -4166,8 +4132,6 @@ Crewman, perhaps some info in my files could help you...communicate with our mut
 2068)  MORGAN
 {Serious} The skull is right. This information won't come easy.
 2069)  GUYBRUSH
-{confused}Oohwee this fish in my pocket is throwing it's own personal dance party.{default}
-2481)  GUYBRUSH
 {confused}Oohwee this fish in my pocket is throwing it's own personal dance party.{default}
 2070)  GUYBRUSH
 I've got De Cava's exit concoction, which can be administered to the main bile pool whenever I need to get out of here. {sarcastic}This is going to be one regular giant manatee.
@@ -4283,6 +4247,8 @@ Give me your vote, or else!
 [pickup1] Ahoy there.
 2126)  BUGEYE
 [pickup1] Now what?
+2127)  
+Will you vote me into the Brotherhood?
 2128)  GUYBRUSH
 {happy}[pickup1] Thanks for voting me in, Murray.  I got the cochlea!
 2129)  MURRAY
@@ -4425,8 +4391,6 @@ Seahorse Head
 La Esponja Grande
 2210)  
 Tongue of the Manatee
-2354)  
-Tongue of the Manatee
 2211)  
 Golden Wrench
 2212)  
@@ -4437,15 +4401,9 @@ Severed Finger
 Cocktail Napkin
 2215)  
 Fracture Card
-2317)  
-Fracture Card
 2216)  
 Journey Card
-2319)  
-Journey Card
 2217)  
-Curse Card
-2318)  
 Curse Card
 2218)  GUYBRUSHASVOODOOLADY
 [pickup1] [to himself] De Singe needs to learn some respect.  I do SO have awesome voodoo powers! [emph on "do so" like a defensive kid]
@@ -4615,8 +4573,6 @@ Bones
 Seahorse Skull
 2301)  
 Shipwreck
-2448)  
-Shipwreck
 2302)  
 Warning Sign
 2303)  
@@ -4647,6 +4603,12 @@ Giant Manatee in 12 Easy Steps
 Action Card Space
 2316)  
 Target Card Space
+2317)  
+Fracture Card
+2318)  
+Curse Card
+2319)  
+Journey Card
 2320)  
 De Cava's Ship
 2321)  
@@ -4715,6 +4677,8 @@ Gomer
 Go!
 2353)  
 Bongos
+2354)  
+Tongue of the Manatee
 2355)  
 Iron Monkey
 2356)  
@@ -4830,34 +4794,36 @@ Underthings: Freshly pressed pantaloons
 Captain's Notes: Keep an eye on this one.
 2399)  MOOSE
 {surprised}[[A1] Stinky...
-2408)  MOOSE
-{surprised}[[A1] Stinky...
 2400)  MOOSE
-{surprised}[A2] Hooded...
-2409)  MOOSE
 {surprised}[A2] Hooded...
 2401)  MOOSE
 {surprised}[[A3] Nasty...
-2410)  MOOSE
-{surprised}[[A3] Nasty...
 2402)  MOOSE
-{surprised}[[A4] Bugged Out...
-2411)  MOOSE
 {surprised}[[A4] Bugged Out...
 2403)  MOOSE
 {surprised}[B2] Lazy-eyed...
-2412)  MOOSE
-{surprised}[B2] Lazy-eyed...
 2404)  MOOSE
 {surprised}[B3] Cross-eyed...
-2413)  MOOSE
-{surprised}[B3] Cross-eyed...
+2405)  MOOSE
+{enthused}[C2] Monkey!
 2406)  MOOSE
-{enthused}[C3] Geezer!
-2414)  MOOSE
 {enthused}[C3] Geezer!
 2407)  MOOSE
 {enthused}[C4] Gomer!
+2408)  MOOSE
+{surprised}[[A1] Stinky...
+2409)  MOOSE
+{surprised}[A2] Hooded...
+2410)  MOOSE
+{surprised}[[A3] Nasty...
+2411)  MOOSE
+{surprised}[[A4] Bugged Out...
+2412)  MOOSE
+{surprised}[B2] Lazy-eyed...
+2413)  MOOSE
+{surprised}[B3] Cross-eyed...
+2414)  MOOSE
+{enthused}[C3] Geezer!
 2415)  MOOSE
 {enthused}[C4] Gomer!
 2416)  DECAVA
@@ -4925,6 +4891,8 @@ Bar Pirate
 Bongo Pirate
 2447)  
 Surly Pirate
+2448)  
+Shipwreck
 2449)  
 Festive Skull
 2450)  GUYBRUSH
@@ -4955,10 +4923,42 @@ Odd Protuberance
 Bizarre Camp
 2463)  
 Scruffy Man
+2464)  GUYBRUSH
+De Cava's manatee exit concoction.  A proprietary blend of condensed foods to keep giant sea-mammalia regular.
+2465)  GUYBRUSH
+I can pour this in the manatee's central bile pool to be... extracted.
 2466)  FEMALEMANATEE
 [whale sounds - Short] Haha, touché, shrimp.
+2467)  GUYBRUSH
+The Crown of Queen Archipelago. Upon further examination, the jewels are plastic.
+2468)  GUYBRUSH
+That's a lot of coin.
+2469)  GUYBRUSH
+This salmon sure does flop around a lot. Woo woo...
+2470)  GUYBRUSH
+A squishy grub.
+2471)  GUYBRUSH
+Aww, my hook. Sometimes I pretend it's just a really skinny hand.
+2472)  GUYBRUSH
+A picture of me. It's conveniently wallet sized.
 2473)  GUYBRUSH
 It's a picture Morgan clipped of me. I think this was taken right after I saved the village of Kafloo from a lava slide whilst constructing the cutlass. Or it's from a wanted poster. It's hard to say.
+2474)  GUYBRUSH
+It's Elaine's wedding ring.
+2475)  GUYBRUSH
+A seahorse head. Giant manatees snack on these things like crackers. Man, if somebody made little fish-shaped snack-crackers for people, they'd be sitting on a goldmine.
+2476)  GUYBRUSH
+Morgan's sword, the blade of Dragotta.
+2477)  GUYBRUSH
+It's killed more people than bad sushi.
+2478)  GUYBRUSH
+Tongue of the Manatee: Travel Edition. All the manatee phrases you need to know while visiting the abyss.
+2479)  GUYBRUSH
+The Mariana Wrench: turns a bolt at any fathom.
+2480)  GUYBRUSH
+{suspicious}[Pondering] It's not like I need to swim back to Flotsam... I just need to get my brain back there so I can fill it with manatee language goodness from De Singe.{default}
+2481)  GUYBRUSH
+{confused}Oohwee this fish in my pocket is throwing it's own personal dance party.{default}
 2482)  MURRAY
 {evil}HAHA!  Your contorted cast couldn't {angry}scare a schoolgirl! In my day I could {evil}turn a man to stone with a smirk!  {angry}I could make blood boil with a scowl!  {evil}All I need is a reason!  [Uncomfortable pause.]{sad} And lips.
 2483)  FEMALEMANATEE

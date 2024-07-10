@@ -12,16 +12,25 @@ var serviceProvider = new ServiceCollection()
     .Configure<MainSettings>(configuration.GetSection(nameof(MainSettings)))
     .AddTransient<ToPoCommand>()
     .AddTransient<FromPoCommand>()
+    .AddTransient<SortCommand>()
     .BuildServiceProvider();
 
 var options = serviceProvider.GetService<IOptions<MainSettings>>();
-if (options.Value.ToPoConversion)
+
+switch (options.Value.Mode)
 {
-    var toPoCommand = serviceProvider.GetService<ToPoCommand>();
-    toPoCommand.Execute();
-}
-else
-{
-    var fromPoCommand = serviceProvider.GetService<FromPoCommand>();
-    fromPoCommand.Execute();
+    case Mode.ToPo:
+        var toPoCommand = serviceProvider.GetService<ToPoCommand>();
+        toPoCommand.Execute();
+        break;
+    case Mode.FromPo:
+        var fromPoCommand = serviceProvider.GetService<FromPoCommand>();
+        fromPoCommand.Execute();
+        break;
+    case Mode.Sort:
+        var sortCommand = serviceProvider.GetService<SortCommand>();
+        sortCommand.Execute();
+        break;
+    default:
+        break;
 }

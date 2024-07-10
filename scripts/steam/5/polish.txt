@@ -94,8 +94,6 @@ Zamkniête.
 {stern}Nie.
 44)  GUYBRUSH
 Nie.
-1038)  GUYBRUSH
-Nie.
 45)  GUYBRUSH
 Eee, nie.
 46)  GUYBRUSH
@@ -378,8 +376,6 @@ Dla Spragnionych Wiecznym Oczekiwaniem.
 179)  GUYBRUSH
 {Surprised} Myœlê, ¿e przegapi³eœ plamê.
 180)  FERRYMAN
-[creepy] Nie.
-487)  FERRYMAN
 [creepy] Nie.
 181)  GUYBRUSH
 {Cocky} Tam jest du¿a, paskudna plama brudu...
@@ -916,10 +912,10 @@ Pozwól mi wzi¹œæ trochê wiêcej tej ziemi...[digging reveals a hole he can climb 
 {Scared} Dobra, dobra.
 447)  GUYBRUSH
 [reading] Guybrush Threepwood, Podrzêdny Pirat™!
-449)  GUYBRUSH
-[reading] Guybrush Threepwood, Podrzêdny Pirat™!
 448)  GUYBRUSH
 {Stern} Przynajmniej poprawnie napisali nazwisko.
+449)  GUYBRUSH
+[reading] Guybrush Threepwood, Podrzêdny Pirat™!
 450)  GUYBRUSH
 {Confused} Chwila, ktoœ zasugerowa³, ¿e jestem podrzêdny?!
 451)  GUYBRUSH
@@ -943,8 +939,6 @@ Wygl¹da na to, ¿e ta maszyna przyjmuje tylko banknoty.
 460)  GUYBRUSH
 {Surprised} Fajna gondola! {Incredulous} Jest czysta, pomijaj¹c fakt, ¿e p³ywa po rzece ektoplazmatycznego szlamu!
 461)  FERRYMAN
-[creepy] Aj.
-978)  FERRYMAN
 [creepy] Aj.
 462)  GUYBRUSH
 {Surprised} Powa¿nie!  Jest nieskazitelnie czysta! {Cocky} Jestem pod wra¿eniem!
@@ -976,8 +970,6 @@ Czeœæ, to znowu ja.
 {Cocky} Wrócê, kiedy znajdê jakieœ monety.
 476)  GUYBRUSH
 Pa.
-2167)  
-Pa.
 477)  GUYBRUSH
 {Confused} Naprawdê umar³em?
 478)  FERRYMAN
@@ -998,6 +990,8 @@ Dobra, s³uchaj. Wci¹¿ trzymasz tamten maleñki strzêp ¿ycia, ale dla œwiêtego spo
 {Legal} Tylko dok³adnie odliczona.
 486)  GUYBRUSH
 {Confused}Powa¿nie?!{Stern} Nie zrobisz dla mnie wyj¹tku?
+487)  FERRYMAN
+[creepy] Nie.
 488)  GUYBRUSH
 [Disgruntled grunt]{Stern} Grrff!
 489)  GUYBRUSH
@@ -1358,14 +1352,14 @@ Najpierw muszê zebraæ parê ska³dników,{Confused} ale mam problemy ze znalezienie
 {Happy} Witaj z powrotem, panie.
 667)  GUYBRUSH
 Czeœæ, Galeb.
-671)  GUYBRUSH
-Czeœæ, Galeb.
 668)  GALEB
 {Sarcastic} Och, witaj ponownie, Ryjrub.
 669)  GUYBRUSH
 {Stern} Guybrush.
 670)  GALEB
 {Confused} Tak, jak powiedzia³em.
+671)  GUYBRUSH
+Czeœæ, Galeb.
 672)  GALEB
 Och, witaj ponownie.
 673)  GUYBRUSH
@@ -1978,6 +1972,8 @@ Bardzo.
 {Incredulous} Zostawiê to tam.
 977)  GUYBRUSH
 {Incredulous} Dezodorant Winslowa. {Happy} Na szczêœcie moja duchowa istota pachnie lawend¹ i miodem.
+978)  FERRYMAN
+[creepy] Aj.
 979)  GUYBRUSH
 {Suspicious} Teraz mo¿emy udaæ siê do Rozdro¿y?
 980)  FERRYMAN
@@ -2096,6 +2092,8 @@ Koœci gigantycznego manata. Któ¿ by pomyœla³, ¿e moja walka z romantycznym Cyran
 {Proud} Tak, to by³ dom La Esponja Grande.
 1037)  GUYBRUSH
 {Incredulous} By³oby niew³aœciwe, aby przeczytaæ czyjœ osobisty list mi³osny. {Worried} Plus, jestem pewien, ¿e jest to wiêcej, ni¿ Winslow mo¿e sobie poradziæ.
+1038)  GUYBRUSH
+Nie.
 1039)  GUYBRUSH
 {Happy} No to w górê.
 1040)  GUYBRUSH
@@ -2684,8 +2682,6 @@ Pracujê nad kolejnym zaklêciem voodoo.  {worried} Widzia³eœ jakieœ z tych rzeczy
 {stern} Nie wiem, wykopa³em wiele skarbów.  {suspicious} Mo¿liwe, ¿e to jedna z tych tutaj rzeczy.
 1333)  MORGAN
 Co?
-1357)  THIEF
-Co?
 1334)  GUYBRUSH
 {Angry} S³uchaj, G¹bko, czas byœ straci³a na wadze!{Cocky} Wci¹¿ mam zaklêcie Uczty dla Zmys³ów.{Confused} Muszê tylko znaleŸæ kogoœ, kto pomo¿e mi je odwróciæ.
 1335)  GALEB
@@ -2732,6 +2728,8 @@ Fajny masz tam sekret.  Chcesz siê nim ze mn¹ podzieliæ?
 Hmmm... normalnie nie zaufa³bym takiemu z³odziejowi jak ja, ale jest coœ w tobie.
 1356)  GUYBRUSH
 To jest po prostu zaczarowana urokiem voodoo rozmowa.
+1357)  THIEF
+Co?
 1358)  GUYBRUSH
 Nic.
 1359)  GUYBRUSH
@@ -3540,8 +3538,6 @@ Co jeszcze siê zdarzy³o po powrocie na wyspê? Czy on nie ubi³ ciê i twojej przyj
 {surprised} Mówisz, ¿e LeChuck jest po prostu LeChuckiem?
 1761)  VOODOOLADYSEAGULL
 Tak.
-2328)  VOODOOLADYCRAB
-Tak.
 1762)  VOODOOLADYSEAGULL
 Jak chcesz.
 1763)  GUYBRUSH
@@ -4064,8 +4060,6 @@ Wieniec Pogrzebowy
 Podpa³ka
 2023)  
 Centrum Rozdro¿y
-2044)  
-Centrum Rozdro¿y
 2024)  
 Przejœcie
 2025)  
@@ -4106,13 +4100,13 @@ Grog XD
 Rozdarcie
 2043)  
 Ziemia
+2044)  
+Centrum Rozdro¿y
 2045)  
 Franklin
 2046)  
 Zaklêcie Diety Zmys³ów
 2047)  
-Pomo¿esz mi odwróciæ zaklêcie?
-2145)  GUYBRUSH
 Pomo¿esz mi odwróciæ zaklêcie?
 2048)  
 Przyklejona Zu¿yta Guma
@@ -4327,6 +4321,8 @@ Lina
 Nie zostajê tutaj. Czy ktoœ zdo³a³ wróciæ do œwiata ¿ywych?
 2144)  
 Powtórz, gdzie jest zaklêcie LeChucka?
+2145)  GUYBRUSH
+Pomo¿esz mi odwróciæ zaklêcie?
 2146)  
 Ta ³ódŸ wygl¹da nieskazitelnie!
 2147)  
@@ -4367,6 +4363,8 @@ Rozmawia³em z tym Galebem...
 Mo¿esz otworzyæ skrzyniê LeChucka?
 2166)  
 Potrzebujê jakichœ sk³adników Voodoo...
+2167)  
+Pa.
 2168)  
 Zamkniête Wrota
 2169)  
@@ -4575,8 +4573,6 @@ Szkielet
 Bramka
 2272)  
 Nagrobek
-2364)  
-Nagrobek
 2273)  GUYBRUSH
 Auæ! {Whiney} To piecze!
 2275)  
@@ -4675,6 +4671,8 @@ Twoja kariera jest olœniewaj¹ca!
 Elaine jest moja!  {angry}Moja demoniczna narzeczona zrobi mi królewskie œniadanie ka¿dego ranka!  Utrzyma moj¹ twierdzê z³a w czystoœci kiedy bêdziemy {devilish}mieli goœci na torturach.  Za³ata wszystkie moje zu¿yte, przetarte skarpetki i-
 2327)  
 Jaki jest wasz zwi¹zek?
+2328)  VOODOOLADYCRAB
+Tak.
 2329)  
 Zardzewia³y Miecz
 2330)  
@@ -4695,8 +4693,6 @@ To brzmi jak coœ, co mo¿na powiedzieæ MÊ¯OWI.
 Zauwa¿y³eœ jakiekolwiek rozdarcia w materialnej rzeczywistoœci?
 2338)  
 Pióro Martwej Mewy
-2348)  
-Pióro Martwej Mewy
 2339)  
 Beczka Soku Bananowego
 2340)  
@@ -4715,6 +4711,8 @@ Medalion Voodoo
 Opaska na Oczy Klubu 41
 2347)  
 Pies Franklin
+2348)  
+Pióro Martwej Mewy
 2349)  
 Nagrobek po Przejœciach
 2350)  
@@ -4745,6 +4743,8 @@ Wypolerowany Cenotaf
 Nagrobek
 2363)  
 Grób
+2364)  
+Nagrobek
 2365)  
 Re¿yseria
 2366)  

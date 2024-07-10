@@ -92,8 +92,6 @@ Any unsaved progress in your current game will be lost.
 Nah.
 42)  GUYBRUSH
 Nope.
-1398)  TRENCHFOOT
-Nope.
 43)  GUYBRUSH
 Um, no.
 44)  GUYBRUSH
@@ -1945,14 +1943,14 @@ The altar's got a couple of cracks now, but it survived the fall pretty well!
 {stern}Aww, man!  {worried}The melted pyrite must have cooled and hardened before I could get here!
 967)  GUYBRUSH
 Let's try this again.
-971)  GUYBRUSH
-Let's try this again.
 968)  GUYBRUSH
 Over the edge you go!
 969)  GUYBRUSH
 {happy}...Bullseye!
 970)  GUYBRUSH
 Oops.  I guess I took too long getting here, the Pyrite cooled and hardened into a lump!  I need to get here more quickly next time.
+971)  GUYBRUSH
+Let's try this again.
 972)  MCGILLICUTTY
 {angry}Give me the Summoning Artifacts!
 973)  MCGILLICUTTY
@@ -2141,10 +2139,10 @@ I need to find La Esponja Grande.
 [shouting across ships] {Angry} Prepare to meet your maker, McGillicutty!
 1065)  MCGILLICUTTY
 {Angry} Aaarrrrrrrr!!!!
-1067)  MCGILLICUTTY
-{Angry} Aaarrrrrrrr!!!!
 1066)  GUYBRUSH
 [In awe] {Surprised} Wow, nice shot!
+1067)  MCGILLICUTTY
+{Angry} Aaarrrrrrrr!!!!
 1068)  GUYBRUSH
 [frustrated grunt] {Whiney} Hrrmmmp.
 1069)  GUYBRUSH
@@ -2359,8 +2357,6 @@ I'm back!  {Sarcastic} Find that treasure yet?
 {Stern} Oh, we will, don't you worry your little pirate head about it!
 1174)  TRENCHFOOT
 {Confused}[trying to remember]Hmmm...
-1179)  HARDTACK
-{Confused}[trying to remember]Hmmm...
 1175)  TRENCHFOOT
 {Confused}[trying to remember]Let's see...
 1176)  TRENCHFOOT
@@ -2369,6 +2365,8 @@ I'm back!  {Sarcastic} Find that treasure yet?
 {Confused}[trying to remember]Was it six paces or five?
 1178)  TRENCHFOOT
 {Confused}[trying to remember]I know it's here somewhere...
+1179)  HARDTACK
+{Confused}[trying to remember]Hmmm...
 1180)  HARDTACK
 {Confused}[trying to remember]Where did we put it?
 1181)  HARDTACK
@@ -2695,8 +2693,6 @@ You could try guessing a number.  Whoever answers right gets to bury it!
 {stern}27?
 1342)  TRENCHFOOT
 {cocky}Nope.
-1394)  TRENCHFOOT
-{cocky}Nope.
 1343)  HARDTACK
 {default}Ok, now you pick a number.
 1344)  TRENCHFOOT
@@ -2736,8 +2732,6 @@ You could try guessing a number.  Whoever answers right gets to bury it!
 1361)  GUYBRUSH
 {confused}Why don't you do it together?
 1362)  HARDTACK
-{confused}What do you mean?
-1512)  TRENCHFOOT
 {confused}What do you mean?
 1363)  GUYBRUSH
 {suspicious}You know, both of you hold one end of the artifact and place it in the chest together.  Then you can BOTH set out together and BOTH dig and burry the treasure!
@@ -2801,12 +2795,16 @@ BOO!
 {happy}Hey guys, I'm back!
 1393)  TRENCHFOOT
 {sarcastic}[flat/sarcastic]Oh goody.
+1394)  TRENCHFOOT
+{cocky}Nope.
 1395)  HARDTACK
 {worried}But McGillicutty gave it to me!  I get to be the one who picks where to hide it!
 1396)  TRENCHFOOT
 Sorry, I have it now.
 1397)  HARDTACK
 Will you at least look at me so we can work this out?
+1398)  TRENCHFOOT
+Nope.
 1399)  TRENCHFOOT
 {angry}Shut up.
 1400)  TRENCHFOOT
@@ -3033,6 +3031,8 @@ I'll take you all on!
 {embarrassed}Oh that's where that went!
 1511)  GUYBRUSH
 {suspicious}You know, I hear that 9 times out of 10, the first place you burry a treasure is the spot where it'll most likely be found.
+1512)  TRENCHFOOT
+{confused}What do you mean?
 1513)  GUYBRUSH
 {proud}Well, if you picked out that spot so easily, other pirates will probably pick that spot to go digging for treasure too,
 1514)  TRENCHFOOT
@@ -3259,19 +3259,13 @@ You weren't a tactition on your pervious ship, were you?
 [proudly]No sir.
 1625)  GUYBRUSH
 What should we do about the mast?
-1654)  
-What should we do about the mast?
 1626)  WINSLOW
 It'll need repairs of course.  I'm thinking of going for a different color this time... what do you think of light oak?  ...Or anything other than drab palm, really.
 1627)  GUYBRUSH
 You think the MerLeader is okay?
-1655)  
-You think the MerLeader is okay?
 1628)  WINSLOW
 Seems fine, as long as McGillicutty thinks drowning is an effective torture, the MerLeader is perfectly safe.
 1629)  GUYBRUSH
-Keep up the good work!
-1657)  
 Keep up the good work!
 1630)  WINSLOW
 {happy}Welcome back, sir!{default}
@@ -3319,8 +3313,14 @@ You're mad!
 Please don't destroy La Esponja Grande!
 1653)  
 Got any tactical suggestions?
+1654)  
+What should we do about the mast?
+1655)  
+You think the MerLeader is okay?
 1656)  
 Keep up the good work.
+1657)  
+Keep up the good work!
 1658)  GUYBRUSH
 {confused}I guess that's all I have to say.{default}
 1659)  
@@ -3395,15 +3395,9 @@ Just an empty bucket.
 I'm gonna need this to use the raft.  I better hold on to it.
 1694)  
 Roe Island
-1709)  
-Roe Island
 1695)  
 Spinner Cay
-1952)  
-Spinner Cay
 1696)  
-Isle of Ewe
-1707)  
 Isle of Ewe
 1697)  
 Flotsam Island
@@ -3413,11 +3407,7 @@ Jerkbait Islands
 Rock of Gelato
 1700)  
 Brillig Island
-1706)  
-Brillig Island
 1701)  
-Spoon Isle
-1953)  
 Spoon Isle
 1702)  
 Boulder Beach
@@ -3427,13 +3417,15 @@ Blockade
 Boulder Beach Island
 1705)  
 Finale
+1706)  
+Brillig Island
+1707)  
+Isle of Ewe
 1708)  
 Prologue
+1709)  
+Roe Island
 1710)  
-Never mind.
-1976)  
-Never mind.
-1977)  GUYBRUSH
 Never mind.
 1711)  
 Well, I gotta go.
@@ -3729,8 +3721,6 @@ Morgan LeFlay
 Rowboat
 1852)  
 Palm Tree
-1947)  
-Palm Tree
 1853)  
 Rock
 1854)  
@@ -3883,10 +3873,6 @@ Totally Useless Stuff
 Hot Coals
 1929)  
 Statue
-1938)  
-Statue
-1939)  
-Statue
 1930)  
 Royal Hot Tub
 1931)  
@@ -3903,6 +3889,10 @@ Bait Shop Sign
 No Fishing Sign
 1937)  
 Fallen Statue
+1938)  
+Statue
+1939)  
+Statue
 1940)  
 Royal Chamber
 1941)  
@@ -3917,6 +3907,8 @@ MerLeader
 Tetra
 1946)  
 McGillicutty
+1947)  
+Palm Tree
 1948)  
 Coconut
 1949)  
@@ -3925,6 +3917,10 @@ Pirate Ship
 Sail out to the Screaming Narwhal
 1951)  
 Ship Battle
+1952)  
+Spinner Cay
+1953)  
+Spoon Isle
 1954)  
 Raft
 1955)  
@@ -3969,6 +3965,10 @@ You could try guessing a number.
 You look like your eyes are gonna dry out.
 1975)  
 Tell that lady behind you to button up her blouse!
+1976)  
+Never mind.
+1977)  GUYBRUSH
+Never mind.
 1978)  
 Maybe there's a fair way to settle your argument.
 1979)  

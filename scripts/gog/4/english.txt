@@ -92,10 +92,6 @@ Any unsaved progress in your current game will be lost.
 {incredulous}Hmm.
 42)  GUYBRUSH
 {surprised}Ow!
-1539)  GUYBRUSH
-{surprised}Ow!
-1544)  GUYBRUSH
-{surprised}Ow!
 43)  GUYBRUSH
 {incredulous}Yeah, I think I'll try again later.
 44)  GUYBRUSH
@@ -129,8 +125,6 @@ I don't think so.
 60)  GUYBRUSH
 {Whiney} It's locked.
 61)  
-Sign
-2219)  
 Sign
 62)  
 Wet Carpet
@@ -199,10 +193,6 @@ LeChuck
 94)  
 Elaine
 95)  
-See ya.
-1280)  
-See ya.
-1282)  GUYBRUSH
 See ya.
 96)  
 Resume
@@ -393,8 +383,6 @@ What happened?
 [haunted] First came the flames... poor Señor Nipperkin went up like Saint Elmo's Fire... then SHE emerged from the conflagration, mumbling ancient curses with every regal step... I'll never forget the baleful stare she fixed me with as she was led away... a look condemning me to a lifetime of suffering, shame, and regret.
 184)  GUYBRUSH
 {surprised}Yipes!
-909)  GUYBRUSH
-{surprised}Yipes!
 185)  GUYBRUSH
 Spooky.
 186)  DORO
@@ -486,8 +474,6 @@ Bwah-ha-ha-haaaah!
 229)  MORGAN
 [coughing... she's dying][trying to get Guybrush's attention] {Serious}Had to pay you back for all the trouble...  Found Jacques...  He told me...
 230)  GUYBRUSH
-{confused}What?
-1696)  MCGEE
 {confused}What?
 231)  MORGAN
 [Slipping away] {strained}He told me...
@@ -1093,8 +1079,6 @@ I didn't think it was possible, but De Singe has LITERALLY made the Vaycaylians'
 {Whiney} I risked life, limb and manatee to get La Esponja Grande and it's a puny, worthless lump.
 532)  LECHUCK
 {Confused} What?
-1159)  MCGEE
-{Confused} What?
 533)  GUYBRUSH
 {Default}[Deadpan] Soak up the gargantuan wonder that is La Esponja Grande.
 534)  LECHUCK
@@ -1216,8 +1200,6 @@ What would you like to know?
 592)  GUYBRUSH
 {Happy}Hey, it's the moths!{incredulous}  I bet they're still punch-drunk off of Stan's funky fashions.
 593)  GUYBRUSH
-{Confused} What's that?
-862)  GUYBRUSH
 {Confused} What's that?
 594)  DESINGE
 [dryly]{Arrogant} That... is a bucket of water.
@@ -1683,8 +1665,6 @@ Voodoo charms!  And as for LeChuck, well, let's just say the lady pirates love, 
 {Suspicious} Stan, about these charges...
 825)  STAN
 {Thinking} Sorry kid, can't talk!  Conflict of interest, attorney-pirate privilege and all that stuff!
-1571)  STAN
-{Thinking} Sorry kid, can't talk!  Conflict of interest, attorney-pirate privilege and all that stuff!
 826)  GUYBRUSH
 {Whiney} But--
 827)  STAN
@@ -1757,6 +1737,8 @@ So that's a maybe?
 {Happy} I'll see you in court, Stan.
 861)  STAN
 {Happy} Hey, that's pretty funny!
+862)  GUYBRUSH
+{Confused} What's that?
 863)  STAN
 {Smarmy} That, my piratey friend, is a little novelty I like to call, "Draw the Beard on the Guybrush!"  Using the power of magnetism and iron shavings you can give Flotsam's most notorious criminal an infinite array of amusing and degrading hairstyles.  Observe-
 864)  STAN
@@ -1849,6 +1831,8 @@ Yeah, we're still working out a few kinks.
 Thanks.
 908)  GUYBRUSH
 {cocky}I don't need to use the facilities right now.  Besides, {suspicious}that towel guy was a little creepy.
+909)  GUYBRUSH
+{surprised}Yipes!
 910)  ELAINE
 {evil}Get out of the way, ya blithering hunk of man-meat!
 911)  GUYBRUSH
@@ -2347,6 +2331,8 @@ I thought for sure that would do something.
 I better not go whipping out my monkey in the middle of court again until I'm sure his animal magnetism will do something useful.
 1158)  GUYBRUSH
 Your honor, pirates and assorted buccaneers. {Suspicious}  Hemlock McGee has asserted that it was {Proud} I, Guybrush Threepwood, Mighty Pirate™, that brought about the horrible emotional scars that even now leave {Worried} poor Miss Prettywhiskers paralyzed with fear. {Cocky} But I put it to you that it was not your humble defendant who traumatized Hemlock's unfortunate feline, but a far more {Incredulous} insidious assailant, one who's in this very courtroom as I speak. {Stern}  J'accuse…
+1159)  MCGEE
+{Confused} What?
 1160)  STAN
 {Annoyed} Objection!  There's no evidence of monkey-play here!
 1161)  GUYBRUSH
@@ -2587,8 +2573,12 @@ Don't tell me you're still blowin' glass.
 {surprised}Yes!  [surprised and delighted, and somewhat slowly, as in "why yes, that's right!"]
 1279)  CRIMPDIGIT
 {default}Nope, haven't seen her.
+1280)  
+See ya.
 1281)  CRIMPDIGIT
 {stern}The three of us'll be waiting.
+1282)  GUYBRUSH
+See ya.
 1283)  CRIMPDIGIT
 {default}Well, just one person really, but he ordered a HUGE supply.  Don't ask me why.
 1284)  GUYBRUSH
@@ -2729,10 +2719,10 @@ Hmmph.  Pirates and pirate hunters! Your kind always seem to meet an early demis
 {Angry} Hey, De Monkey!
 1354)  DESINGE
 [trying to avoid Elaine's sword, not really looking at Guybrush]{Angry} What!?
-1356)  DESINGE
-[trying to avoid Elaine's sword, not really looking at Guybrush]{Angry} What!?
 1355)  GUYBRUSH
 {angry} Hey, De Sing-Song!
+1356)  DESINGE
+[trying to avoid Elaine's sword, not really looking at Guybrush]{Angry} What!?
 1357)  GUYBRUSH
 {Incredulous} You'll never get past my wife's sword, ya know.  I once saw her hold off a horde of angry Rotarians with nothing more than a pen knife and a feather duster!
 1358)  DESINGE
@@ -3097,6 +3087,8 @@ Set me up!
 {stern}This must've been broken in the fight between Morgan and De Singe.  I hope the vole escaped.
 1538)  GUYBRUSH
 {incredulous}"Auto-Trepanation Helmet..." hmmm.
+1539)  GUYBRUSH
+{surprised}Ow!
 1540)  GUYBRUSH
 [tongue numb]{surprised} Whdda?  Manumb! ["what the?  My tongue!"]
 1541)  GUYBRUSH
@@ -3105,6 +3097,8 @@ Set me up!
 {scared}Ack! I'm blind!
 1543)  GUYBRUSH
 {happy}Whew!
+1544)  GUYBRUSH
+{surprised}Ow!
 1545)  GUYBRUSH
 [process - shrinking] {confused}Whoooa!
 1546)  GUYBRUSH
@@ -3157,6 +3151,8 @@ Looks like someone's finally getting around to cleaning the carpet that got, um.
 {Confused} I still don't know what the 41 stands for, though.
 1570)  GUYBRUSH
 {Cocky} Stan, about these charges...
+1571)  STAN
+{Thinking} Sorry kid, can't talk!  Conflict of interest, attorney-pirate privilege and all that stuff!
 1572)  GUYBRUSH
 {Confused} But--
 1573)  STAN
@@ -3405,6 +3401,8 @@ Hi there, Double Peg.
 {cocky} I hope Miss Prettywhiskers likes all the iron I've added to her diet.
 1695)  GUYBRUSH
 {happy}Hey look, a five-headed bonobo!
+1696)  MCGEE
+{confused}What?
 1697)  MCGEE
 {angry}I didn't see nothin'
 1698)  GUYBRUSH
@@ -3431,10 +3429,10 @@ Hi there, Double Peg.
 I've already got enough molten glass in my pants for all my molten glass needs.
 1709)  CRIMPDIGIT
 {angry}Hey!
-1711)  MCGEE
-{angry}Hey!
 1710)  GUYBRUSH
 {cocky}Hey, Hemlock, mind if I get capture your eye color?
+1711)  MCGEE
+{angry}Hey!
 1712)  GUYBRUSH
 {cocky} That's really, um, something.
 1713)  CRIMPDIGIT
@@ -3629,8 +3627,6 @@ But Guybrush learns too late that it is the wise pirate who  prepares for the in
 Arrr!
 1808)  GALLERY1
 Arrr!
-2141)  MORGAN
-Arrr!
 1809)  GALLERY2
 Arrrr!
 1810)  HARDTACK
@@ -3765,8 +3761,6 @@ I wonder why miserable old pirates like Hemlock are so ATTRACTED to cats, anyway
 {cocky}One Grog.  Neat.
 1875)  GRINDSTUMP
 {happy}Comin' right up!
-1890)  GRINDSTUMP
-{happy}Comin' right up!
 1876)  GUYBRUSH
 {happy}Arrr.  Bracing.
 1877)  GUYBRUSH
@@ -3795,6 +3789,8 @@ Impressive!
 {suspicious}That was fast.
 1889)  GUYBRUSH
 {cocky}How about another one of those Scabb Island Slings?
+1890)  GRINDSTUMP
+{happy}Comin' right up!
 1891)  GUYBRUSH
 And take your-
 1892)  GRINDSTUMP
@@ -4295,6 +4291,8 @@ I saw you run out of the lab after you murdered her!
 {strained}Stay away from Guybrush, ya sea-hog!
 2140)  ELAINE
 {evil}Arrr!{default}
+2141)  MORGAN
+Arrr!
 2142)  KREBBS
 {surprised}Yikes!
 2143)  ELAINE
@@ -4449,15 +4447,13 @@ Narwhal
 Pepper
 2218)  
 Fugu Jolokia
-2314)  
-Fugu Jolokia
+2219)  
+Sign
 2220)  
 Scary Painting
 2221)  
 Hemlock's Painting of Jungle Beast
 2222)  
-Scrap of Paper
-2656)  
 Scrap of Paper
 2223)  
 No-Longer-Red Carpet
@@ -4605,8 +4601,6 @@ Bowl of Cat Food
 Bowl of Unhealthy-Looking Cat Food
 2295)  
 Leg-Shaped Lamp
-2310)  
-Leg-Shaped Lamp
 2296)  
 Puddle
 2297)  
@@ -4635,12 +4629,16 @@ Cup of Hot Manatee Oil
 Cup of Hot Wax
 2309)  
 Glass Eye
+2310)  
+Leg-Shaped Lamp
 2311)  
 Wet Severed Leg
 2312)  
 Lion's Paw
 2313)  
 Feast for the Senses Menu
+2314)  
+Fugu Jolokia
 2315)  
 Phuzzy Nostril Recipe
 2316)  
@@ -4686,20 +4684,6 @@ Future-Divining Tarot Cards
 2336)  
 Empty Volcano Shot Glass
 2337)  
-Bye.
-2539)  
-Bye.
-2596)  
-Bye.
-2597)  
-Bye.
-2612)  
-Bye.
-2617)  
-Bye.
-2622)  
-Bye.
-2661)  
 Bye.
 2338)  
 Bye
@@ -5037,8 +5021,6 @@ C'mon, help me with this trial.
 You're lying about me, aren't you?
 2498)  
 C'mon, you're lying.  Admit it.
-2519)  
-C'mon, you're lying.  Admit it.
 2499)  
 Please tell everyone how the Pox is LECHUCK'S fault!
 2500)  
@@ -5052,10 +5034,6 @@ I want a change of venue!
 2504)  
 I'd like to invoke my ex post facto privileges...
 2505)  
-I plead not guilty!
-2610)  
-I plead not guilty!
-2611)  
 I plead not guilty!
 2506)  
 Not guilty by reason of insanity!
@@ -5083,6 +5061,8 @@ Captain Threepwood, tell me about LeChuck
 Defense has no more use for this witness.
 2518)  
 This whole "paralyzed cat" story is a lie, isn't it?
+2519)  
+C'mon, you're lying.  Admit it.
 2520)  
 What're you doing with the Wind Control Device?
 2521)  
@@ -5121,6 +5101,8 @@ Stop testifying against me!
 Are you still open to a bribe?
 2538)  
 Why aren't YOU Poxed?
+2539)  
+Bye.
 2540)  
 How about a Porcelain Power Pirate?
 2541)  
@@ -5181,10 +5163,10 @@ Why don't YOU have the Pox?
 Nice jacket.
 2569)  
 What're you selling?
-2571)  
-What're you selling?
 2570)  
 Can I have your jacket?
+2571)  
+What're you selling?
 2572)  
 Let me take another look at your wares.
 2573)  
@@ -5195,14 +5177,14 @@ Ask about magnetic beard toy
 Ask about t-shirt
 2576)  
 On second thought...
-2580)  
-On second thought...
 2577)  
 Ask about pin
 2578)  
 Ask about LeChuck doll
 2579)  
 Ask about Voodoo Lady figurine
+2580)  
+On second thought...
 2581)  
 You lied to me about LeChuck!
 2582)  
@@ -5233,6 +5215,10 @@ Elaine, tuckle-bear! Morgan's all bark and no bite!
 I've got money!
 2595)  
 I've got treasure!
+2596)  
+Bye.
+2597)  
+Bye.
 2598)  
 The first course is a napkin?
 2599)  
@@ -5257,6 +5243,12 @@ The Pox isn't so bad!
 The Pox isn't my fault!
 2609)  
 I plead guilty!
+2610)  
+I plead not guilty!
+2611)  
+I plead not guilty!
+2612)  
+Bye.
 2613)  
 Let me get back to you.
 2614)  
@@ -5265,6 +5257,8 @@ You don't have to fight over me!
 You don't have to fight over me!
 2616)  
 Morgan's all bark and no bite!
+2617)  
+Bye.
 2618)  
 So, really, what ARE you doing out here?
 2619)  
@@ -5273,6 +5267,8 @@ C'mon, gimme your jacket.
 I see you've got some new souvenirs.
 2621)  
 Can I take another look at your new gewgaws?
+2622)  
+Bye.
 2623)  
 You LIE!  Liar, liar, pants en fuego!
 2624)  
@@ -5364,6 +5360,8 @@ Defendant arrested in possession of tiny sea sponge which he insists will cure t
 Defendant also in possession of unremarkable wedding ring that will likely be used to defray his funeral costs.
 2655)  
 Hunter's Journal
+2656)  
+Scrap of Paper
 2657)  
 Pistalibre's Final Journal Entry
 2658)  
@@ -5372,6 +5370,8 @@ Pistalibre's Final Journal Entry
 "Prettywhiskers Jade" Glass Eye
 2660)  
 Indigestible Leg Lamp
+2661)  
+Bye.
 2662)  
 Why did someone order all those tubes?
 2663)  

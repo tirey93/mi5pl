@@ -90,8 +90,6 @@ Czy na pewno chcesz wczytaæ tê grê?
 Utracisz niezapisany postêp w aktualnej grze.
 41)  GUYBRUSH
 SCUMM Bar! Prawdziwe niebo dla wszystkich pijanych zbójów z ca³ego œwiata!
-59)  GUYBRUSH
-{Default} The SCUMM Bar! Prawdziwe niebo dla wszystkich pijanych zbójów z ca³ego œwiata!
 42)  GUYBRUSH
 Witam, niechlujnie wygl¹daj¹cy piracie! Jam Guybrush Threepwood, potê¿ny pirat! Jak siê nazywasz?
 43)  GUYBRUSH
@@ -126,17 +124,15 @@ That is one {Surprised}FAT BIRD!
 {Disgust}I...uh...left it in my other pants.
 58)  GUYBRUSH
 {Happy}Yeah! Busy makin' holes in the wall.
+59)  GUYBRUSH
+{Default} The SCUMM Bar! Prawdziwe niebo dla wszystkich pijanych zbójów z ca³ego œwiata!
 60)  PIRATEA
-{Default} Cheese, Ignatius Cheese.
-118)  DESINGE
 {Default} Cheese, Ignatius Cheese.
 61)  PIRATEA
 {Confused} And what, pray tell, might I be findin' myself doin' if I joined {Sarcastic} this crew of mighty pirates?
 62)  PIRATEA
 {Default} I'm open to persuasion, {Suspicious} what do you have in mind?
 63)  PIRATEA
-{Angry} Are you outta your grog-addled mind?!? No!
-121)  DESINGE
 {Angry} Are you outta your grog-addled mind?!? No!
 64)  PIRATEA
 {Stern} Arrr, that doesn't sound too manly! Any girly pirate can loot a defenseless fishing community.
@@ -172,8 +168,6 @@ No Problem!
 Nah.
 80)  GUYBRUSH
 Nope.
-1499)  TRENCHFOOT
-Nie.
 81)  GUYBRUSH
 Um, no.
 82)  GUYBRUSH
@@ -205,8 +199,6 @@ Um, I don't want to part with this right now.
 95)  PIRATEB
 {Confused} What? Where'd you get a weird idea like that?
 96)  GUYBRUSH
-{Whiney}I haven't got a crew to take me to Lucre Island.
-116)  GUYBRUSH
 {Whiney}I haven't got a crew to take me to Lucre Island.
 97)  GUYBRUSH
 Skrzeczenie wszystkich odstraszy.
@@ -246,12 +238,18 @@ The cards have foretold that you seek direction.
 {Default}As you wish, Guybrush. {Mystical}I'll be here later if you need me.
 115)  VOODOO
 {Stern} This is a pirate town. {Default} Even in these economically depressed times you should be able to find a couple of competent sailors.
+116)  GUYBRUSH
+{Whiney}I haven't got a crew to take me to Lucre Island.
 117)  
 Piracia Papuga
+118)  DESINGE
+{Default} Cheese, Ignatius Cheese.
 119)  DESINGE
 {Angry} And what, pray tell, might I be findin' myself doin' if I joined this crew of mighty pirates?
 120)  DESINGE
 {Happy} I'm open to persuasion, what do you have in mind?
+121)  DESINGE
+{Angry} Are you outta your grog-addled mind?!? No!
 122)  DESINGE
 {Amazed} Arrr, that doesn't sound too manly! Any girly pirate can loot a defenseless fishing community.
 123)  DESINGE
@@ -1917,8 +1915,6 @@ To dzia³a, Guybrush!
 Wiêc pozwól, ¿e teraz u¿yjê Klucza--
 953)  LECHUCK
 Chwila!  Chyba to rozgryz³em!  Teraz kiedy mój Klucz jest na swoim miejscu, u¿yj swojego na INNYM zatrzasku!
-1836)  LECHUCK
-Czekaj!  Chyba to rozgryz³em!  Teraz kiedy mój Klucz jest na swoim miejscu, u¿yj swojego na INNYM zatrzasku!
 954)  GUYBRUSH
 Tak... sprytne!
 955)  LECHUCK
@@ -2149,14 +2145,14 @@ Dziêkujê, dziêkujê.  Jestem tu ca³y dzieñ.
 No stary!  P³ynny piryt musi byæ sch³odzony i zahartowany przed przelaniem go tutaj!
 1068)  GUYBRUSH
 Spróbujmy jeszcze raz.
-1072)  GUYBRUSH
-Spróbujmy jeszcze raz.
 1069)  GUYBRUSH
 ¯egnam!
 1070)  GUYBRUSH
 {happy}... ³adne trafienie!
 1071)  GUYBRUSH
 Ups.  Chyba za d³ugo czeka³em wiêc moja Papuga jest teraz sch³odzon¹ i zahartowan¹ bry³k¹!  Nastêpnym razem muszê dzia³aæ szybciej.
+1072)  GUYBRUSH
+Spróbujmy jeszcze raz.
 1073)  MCGILLICUTTY
 Daj mi Artefakty Wezwania!
 1074)  MCGILLICUTTY
@@ -2345,10 +2341,10 @@ Ciekawe, kiedy min¹ te halucynacje?
 Czas na spotkanie z twórc¹ twojej ospy, Fiksatowski!
 1166)  MCGILLICUTTY
 {Angry} Aaarrrrrrrr!!!!
-1168)  MCGILLICUTTY
-{Angry} Aaarrrrrrrr!!!!
 1167)  GUYBRUSH
 Niez³y strza³!
+1168)  MCGILLICUTTY
+{Angry} Aaarrrrrrrr!!!!
 1169)  GUYBRUSH
 [frustrated grunt] {Whiney} Hrrmmmp.
 1170)  GUYBRUSH
@@ -2563,8 +2559,6 @@ Wróci³em!  Znalaz³eœ ju¿ ten skarb?
 O tak. Spokojna twoja rozczochrana, piracka g³owa!
 1275)  TRENCHFOOT
 {Confused}[trying to remember]Hmmm...
-1280)  HARDTACK
-{Confused}[trying to remember]Hmmm...
 1276)  TRENCHFOOT
 {Confused}[trying to remember]Zobaczmy...
 1277)  TRENCHFOOT
@@ -2573,6 +2567,8 @@ O tak. Spokojna twoja rozczochrana, piracka g³owa!
 {Confused}[trying to remember]Piêæ czy szeœæ kroków?
 1279)  TRENCHFOOT
 {Confused}[trying to remember]Wiem, ¿e gdzieœ tu jest...
+1280)  HARDTACK
+{Confused}[trying to remember]Hmmm...
 1281)  HARDTACK
 {Confused}[trying to remember]Gdzie go daliœmy?
 1282)  HARDTACK
@@ -2899,8 +2895,6 @@ To brzmi rozs¹dnie. Ja pierwszy. Powiedz, o jakiej liczbie teraz myœlê...?
 {stern}27?
 1443)  TRENCHFOOT
 Nie.
-1495)  TRENCHFOOT
-Nie.
 1444)  HARDTACK
 Dobra, teraz ty zgadujesz.
 1445)  TRENCHFOOT
@@ -2941,8 +2935,6 @@ Nie, bo wci¹¿ ja trzymam konika, dziêki któremu to ja wygrywam walkowerem!
 No to mo¿e zróbcie to wspólnie?
 1463)  HARDTACK
 To znaczy co?
-1613)  TRENCHFOOT
-Co masz na myœli?
 1464)  GUYBRUSH
 Po prostu obaj trzymajcie koñce Artefaktu, umieszczaj¹c go razem w skrzyni.  Mo¿ecie WSPÓLNIE go w³o¿yæ i WSPÓLNIE zakopaæ skarb!
 1465)  TRENCHFOOT
@@ -3005,12 +2997,16 @@ No tak. A teraz zje¿d¿aj!
 Siema, wróci³em!
 1494)  TRENCHFOOT
 No to fajnie...
+1495)  TRENCHFOOT
+Nie.
 1496)  HARDTACK
 Ale Fiksatowski mi go da³!  Wiêc to ja powinienem go gdzieœ zakopaæ!
 1497)  TRENCHFOOT
 Nie, teraz ja go mam.
 1498)  HARDTACK
 Spójrz chocia¿ na mnie, mo¿e siê jakoœ dogadamy?
+1499)  TRENCHFOOT
+Nie.
 1500)  TRENCHFOOT
 Stul pysk.
 1501)  TRENCHFOOT
@@ -3237,6 +3233,8 @@ Hej, co to jest?
 Musia³o do tego dojœæ!
 1612)  GUYBRUSH
 Nie wiecie, ¿e w 9 na 10 przypadkach, miejsce pierwszego zakopania skarbu to punkt o najwiêkszych szansach na jego znalezienie?
+1613)  TRENCHFOOT
+Co masz na myœli?
 1614)  GUYBRUSH
 No, jeœli wybraliœcie to miejsce tak ³atwo to wszyscy inni piraci maj¹ wiêksze szanse na to, ¿eby samemu wybraæ to miejsce do odkopania.
 1615)  TRENCHFOOT
@@ -3463,19 +3461,13 @@ Nie by³ pan taktykiem na swoim poprzednim statku, prawda?
 Nie.
 1726)  GUYBRUSH
 Co zrobimy z tym masztem?
-1755)  
-Co zrobimy z tym masztem?
 1727)  WINSLOW
 Trzeba go szybko wymieniæ.  Myœla³em, ¿eby tym razem w innym kolorze... co pan myœli jasnym dêbie?  ...albo cokolwiek innego ni¿ ta szara palma.
 1728)  GUYBRUSH
 Myœli pan, ¿e z Wodzem wszystko OK?
-1756)  
-Myœli pan, ¿e z Wodzem wszystko OK?
 1729)  WINSLOW
 Tak. Dopóki Fiksatowski myœli, ¿e bycie podtapianym to skuteczna tortura, Wódz jest bezpieczny.
 1730)  GUYBRUSH
-Tak trzymaj!
-1758)  
 Tak trzymaj!
 1731)  WINSLOW
 Witam ponownie!
@@ -3523,8 +3515,14 @@ Jesteœ szalony!
 Proszê, nie niszcz g¹bki!
 1754)  
 Ma pan jakiœ pomys³?
+1755)  
+Co zrobimy z tym masztem?
+1756)  
+Myœli pan, ¿e z Wodzem wszystko OK?
 1757)  
 Tak trzymaj.
+1758)  
+Tak trzymaj!
 1759)  GUYBRUSH
 Chyba tyle chcia³em powiedzieæ.
 1760)  
@@ -3599,15 +3597,9 @@ Zwyk³e, puste wiadro.
 Potrzebne mi to do tratwy.  Lepiej to zatrzymam.
 1795)  
 Wyspa Ikry
-1810)  
-Wyspa Ikry
 1796)  
 Rafa Zawirowañ
-2121)  
-Rafa Zawirowañ
 1797)  
-Wysepka £u
-1808)  
 Wysepka £u
 1798)  
 Wyspa Rozbitków
@@ -3617,11 +3609,7 @@ Wyspy Sharpnêta
 Ska³a Gelato
 1801)  
 Wyspa Przystawki
-1807)  
-Wyspa Przystawki
 1802)  
-Wyspa £y¿ki
-2122)  
 Wyspa £y¿ki
 1803)  
 Pla¿a Kamieni
@@ -3631,8 +3619,14 @@ Blokada
 Wyspa Kamieni
 1806)  
 Fina³
+1807)  
+Wyspa Przystawki
+1808)  
+Wysepka £u
 1809)  
 Prolog
+1810)  
+Wyspa Ikry
 1811)  ELAINE
 [WORRIED] {Worried} Guybrushu! Dziêki Bogu, ¿e nic ci nie jest!  Zamartwia³am siê o ciebie na œmieræ! Wpierw ta eksplozja a póŸniej uwolniona z cia³a LeChucka chmura voodoo ospy, która zaczê³a zara¿aæ wszystkich na Karaibach...
 1812)  ELAINE
@@ -3665,10 +3659,6 @@ Proszê tak s³odko jak cukierek?
 Wiêc bêdziesz moim mê¿nym rycerzem w pirackiej zbroi i zdobêdziesz te Artefakty Wezwania, kiedy ja bêdê godziæ tych ludzi?
 1826)  
 Niewa¿ne.
-2145)  
-Niewa¿ne.
-2146)  GUYBRUSH
-Niewa¿ne.
 1827)  
 Có¿, muszê iœæ.
 1828)  GUYBRUSH
@@ -3687,6 +3677,8 @@ Guybrushu, uciekaj st¹d!  Ci kolesie myœl¹, ¿e wci¹¿ mam Artefakt. S¹ gotowi mni
 hmm, gdybym po³¹czy³ to coœ z tym, jak to tam siê nazywa... to bym prawie stworzy³ krowê.  Tylko czy potrzebne mi byd³o?
 1835)  LECHUCK
 A mo¿e w tym jest coœ, czego nie widzê?
+1836)  LECHUCK
+Czekaj!  Chyba to rozgryz³em!  Teraz kiedy mój Klucz jest na swoim miejscu, u¿yj swojego na INNYM zatrzasku!
 1837)  LECHUCK
 [Concerned]Guybrush!  Dziêki Bogu, ¿e nic ci nie jest!    Razem z Elaine tak siê baliœmy!
 1838)  LECHUCK
@@ -4067,8 +4059,6 @@ Wygl¹da na to, ¿e ci dwaj piraci w koñcu gdzieœ poleŸli. Têskniê trochê.  Mo¿e w
 £ódŸ Wios³owa
 2021)  
 Palma
-2116)  
-Palma
 2022)  
 Ska³a
 2023)  
@@ -4221,10 +4211,6 @@ Bezu¿yteczne Graty
 Gor¹ce wêgielki
 2098)  
 Statua
-2107)  
-Statua
-2108)  
-Statua
 2099)  
 Królewska Jacuzzi
 2100)  
@@ -4241,6 +4227,10 @@ Szyld Sklepu z Przynêtami
 Znak: Zakaz £owienia
 2106)  
 Upad³a Statua
+2107)  
+Statua
+2108)  
+Statua
 2109)  
 Komnata Królewska
 2110)  
@@ -4255,6 +4245,8 @@ Wódz
 Tetra
 2115)  
 Fiksatowski
+2116)  
+Palma
 2117)  
 Kokos
 2118)  
@@ -4263,6 +4255,10 @@ Statek Piracki
 Wyp³yñ do Wyj¹cej Narwali
 2120)  
 Walka Morska
+2121)  
+Rafa Zawirowañ
+2122)  
+Wyspa £y¿ki
 2123)  
 Tratwa
 2124)  
@@ -4307,6 +4303,10 @@ Mo¿ecie zgadywaæ liczby.
 Wasze oczy chyba zaraz wyparuj¹.
 2144)  
 Móg³byœ powiedzieæ tej pani za tob¹, ¿eby w koñcu siê ubra³a?
+2145)  
+Niewa¿ne.
+2146)  GUYBRUSH
+Niewa¿ne.
 2147)  
 Mo¿e jest jakiœ sposób by rozstrzygn¹æ wasz¹ sprzeczkê.
 2148)  

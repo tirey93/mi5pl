@@ -92,8 +92,6 @@ Utracisz niezapisany postêp w aktualnej grze.
 Chyba jest zajêty.
 42)  GUYBRUSH
 Nie.
-478)  
-Nie.
 43)  GUYBRUSH
 Nie.
 44)  GUYBRUSH
@@ -103,10 +101,6 @@ Nie chcê jeszcze tego oddawaæ.
 46)  GUYBRUSH
 
 47)  GUYBRUSH
-Raczej nie.
-767)  BUGEYE
-Raczej nie.
-1849)  NOOGIE
 Raczej nie.
 48)  
 Medalion
@@ -356,8 +350,6 @@ Widzisz?!?  Tak dzia³a ospa!{Stern} To zmienia ludzi w... TO COŒ i jest w trakci
 171)  MORGAN
 [Realizing she is going to help Guybrush]{Questioning} Twoja ¿ona.
 172)  GUYBRUSH
-Tak.
-760)  MOOSE
 Tak.
 173)  MORGAN
 No dobra, ale najpierw musisz coœ dla MNIE zrobiæ.
@@ -933,8 +925,6 @@ Zakwalifikuj go{sarcastic} pod Ciota przez du¿e C.
 {Angry} ARRR!
 460)  MOOSE
 {angry}ARRRR!
-712)  NOOGIE
-{angry}ARRRR!
 461)  GUYBRUSH
 {happy}To nowoœæ.
 462)  GUYBRUSH
@@ -967,6 +957,8 @@ Mam zwo³aæ g³osowanie?
 {happy}Tak! £atwo pójdzie.
 476)  GUYBRUSH
 {confused}Nie teraz.
+478)  
+Nie.
 480)  GUYBRUSH
 Zabijasz wszystkim zabawê.
 481)  BUGEYE
@@ -980,8 +972,6 @@ A mo¿e zdecydujmy, czy jesteœ palantem?
 485)  BUGEYE
 {cocky}Nie, bo to jest o mnie.
 486)  
-Oddasz na mnie swój g³os?
-2127)  
 Oddasz na mnie swój g³os?
 487)  GUYBRUSH
 {cocky}Co powiesz by zag³osowaæ na "tak" na starego Guybrusha Threepwooda?
@@ -1047,8 +1037,6 @@ Zrób ten najgorszy, Guybrush! Poka¿ ten egalitarny w stylu "kto jest szefem"!
 {surprised}[B4] Wykrêcona...
 518)  MOOSE
 {enthused}[C2] Ma³pia!
-2405)  MOOSE
-{enthused}[C2] Ma³pia!
 519)  MOOSE
 {enthused}[C2] Starusza!
 520)  MOOSE
@@ -1073,22 +1061,22 @@ Czy to jest pojedynek dla PIELGRZYMÓW? {suspicious}Przysi¹g³bym, ¿e mówi³eœ o pi
 {stern}Nadchodz¹ k³opoty!
 530)  GUYBRUSH
 *Ma³pie dŸwiêki*
-535)  BUGEYE
-*Ma³pie dŸwiêki*
 531)  GUYBRUSH
 *Z³oŸliwe dŸwiêki*
-536)  BUGEYE
-*Z³oœliwe pomruki*
 532)  GUYBRUSH
-*Chore dŸwiêki*
-537)  BUGEYE
 *Chore dŸwiêki*
 533)  GUYBRUSH
 *Starusze dŸwiêki*
-538)  BUGEYE
-*Starusze dŸwiêki*
 534)  BUGEYE
 ARRR!
+535)  BUGEYE
+*Ma³pie dŸwiêki*
+536)  BUGEYE
+*Z³oœliwe pomruki*
+537)  BUGEYE
+*Chore dŸwiêki*
+538)  BUGEYE
+*Starusze dŸwiêki*
 539)  BUGEYE
 Tylko tyle?
 540)  GUYBRUSH
@@ -1443,6 +1431,8 @@ Kolejn¹? {stern}Ta ostatnia by³a beznadziejna! {confused}To jakaœ desperatka?
 {happy}Dziêki za g³os!
 711)  NOOGIE
 [happy]Dziêki TOBIE s¹dzê, ¿e mam przysz³oœæ z tamt¹ gor¹c¹ ³owczyni¹ piratów!
+712)  NOOGIE
+{angry}ARRRR!
 713)  GUYBRUSH
 {surprised}Ooh, to dobre.
 714)  GUYBRUSH
@@ -1537,6 +1527,8 @@ Z wielkim bólem g³osujê na "tak".
 {suspicious}Bracie Muszalu, Bracie Santino, wci¹¿ na "tak"?
 759)  MURRAY
 {happy}Tak!{evil} M³ahaha...
+760)  MOOSE
+Tak.
 761)  BUGEYE
 {stern}Bracie Noogie? {suspicious}Twój g³os wci¹¿ na "tak"?
 762)  NOOGIE
@@ -1549,6 +1541,8 @@ Z wielkim bólem g³osujê na "tak".
 {cocky}Niestety, inicjacjê zatwierdza tylko jednomyœlne g³osowanie.
 766)  GUYBRUSH
 A dlaczego by nie proste prawo wiêkszoœci i pi¹tka na zgodê?
+767)  BUGEYE
+Raczej nie.
 768)  BUGEYE
 Przykro mi. Inicjacja do bractwa zostaje przerwana.
 769)  GUYBRUSH
@@ -2043,8 +2037,6 @@ Jakie s¹ szanse dla faceta takiego, jak ty i dziewczyny, jak ja...
 {stern} Sk¹d o tym wiesz? Tak, mam ksi¹¿kê, która uczy jednego z jêzyków tych majestatycznych istot.
 1019)  
 Mogê dostaæ tê ksi¹¿kê?
-1958)  GUYBRUSHASVOODOOLADY
-Mogê dostaæ tê ksi¹¿kê?
 1020)  
 Wiêc wróæ do swojego dziwnego laboratorium i przynieœ j¹.
 1021)  
@@ -2247,8 +2239,6 @@ Proszê!
 {Confused} Mówi³em ju¿, ¿e nie pamiêtam, ziom.
 1121)  NOOGIE
 {Scared} To Jimbo, to jego lejek. Tym jest Ozor Manata.
-1132)  BUGEYE
-{Scared}  To Jimbo, to jego lejek. Tym jest Ozor Manata.
 1122)  MOOSE
 {Happy} TAK! Ha. To jest to. Zostawi³em go w ¿o³¹dku olbrzyma. {Confused} Jak mog³em zapomnieæ?
 1123)  GUYBRUSH
@@ -2269,6 +2259,8 @@ Czasami ³ami¹ siê ³atwo. {Sarcastic}Spójrz na niego, to wrak.
 {Scared} To by³ Muszal! Muszal go mia³!
 1131)  GUYBRUSH
 {Surprised} £a³, ³atwo posz³o.{Incredulous} Czy to prawda?
+1132)  BUGEYE
+{Scared}  To Jimbo, to jego lejek. Tym jest Ozor Manata.
 1133)  GUYBRUSH
 {happy}[underwater] G³odny, kolego?{default}
 1134)  GUYBRUSH
@@ -2451,11 +2443,7 @@ Jego statek odbija kule armatnie!
 Ruchy! Nie bêdê unikaæ kul przez wieki!
 1223)  GUYBRUSH
 Klucz p³aski: wkrêci œrubê w dowolny grunt.
-2479)  GUYBRUSH
-Klucz p³aski: wkrêci œrubê w dowolny grunt.
 1224)  GUYBRUSH
-"Ozor Manata: Edycja Podró¿nicza. Wszystkie frazy manatów, jakie musisz znaæ, odwiedzaj¹c otch³añ."
-2478)  GUYBRUSH
 "Ozor Manata: Edycja Podró¿nicza. Wszystkie frazy manatów, jakie musisz znaæ, odwiedzaj¹c otch³añ."
 1225)  GUYBRUSH
 Tu jest napisane: "Demokratycznie Zjednoczone Bractwo Wnêtrza Manata: Przewodnik dla Nowicjuszy.  Rozdzia³ Pierwszy: Inicjacja i Ty..."
@@ -2465,25 +2453,15 @@ Z odrobin¹ wysi³ku mogê zamieniæ ok³adki tych dwóch ksi¹¿ek!
 To najwiêkszy œlimak, jakiego widzia³em. Manat go potrzebuje, aby odzyskaæ zmys³ orientacji.
 1228)  GUYBRUSH
 Korona królowej archipelagu. Po dalszej analizie, klejnoty s¹ z plastiku.
-2467)  GUYBRUSH
-Korona Królowej Archipelagu. Po dalszej analizie, klejnoty s¹ z plastiku.
 1229)  GUYBRUSH
-Wybuchowa mieszanka DeCava.  Odpowiednio zmieszana kompozycja po¿ywienia reguluj¹ca uk³ad trawienny manata.
-2464)  GUYBRUSH
 Wybuchowa mieszanka DeCava.  Odpowiednio zmieszana kompozycja po¿ywienia reguluj¹ca uk³ad trawienny manata.
 1230)  GUYBRUSH
 Oko Manata. Z przyciemnion¹, czerwon¹ soczewk¹.
 1231)  GUYBRUSH
 Ten ³osoœ du¿o siê miota.
-2469)  GUYBRUSH
-Ten ³osoœ du¿o siê miota.
 1232)  GUYBRUSH
 Miêkka larwa.
-2470)  GUYBRUSH
-Miêkka larwa.
 1233)  GUYBRUSH
-O, mój hak. Czasami siê oszukujê, ¿e to zwyk³a, chuda rêka.
-2471)  GUYBRUSH
 O, mój hak. Czasami siê oszukujê, ¿e to zwyk³a, chuda rêka.
 1234)  GUYBRUSH
 Medalion Lady Voodoo, którego mi da³a, abym odda³ jej ch³opakowi Coronado DeCava. Prawie na pewno ma wszy.
@@ -2560,8 +2538,6 @@ Wygrawerowano na nim imiê: "Dante Dragotta".
 1270)  WINSLOW
 {Sarcastic} Brzmi groŸnie.
 1271)  GUYBRUSH
-Miecz Morgan, ostrze "Dragotta".
-2476)  GUYBRUSH
 Miecz Morgan, ostrze "Dragotta".
 1272)  GUYBRUSH
 {sTERN} Unieœæ jej stopy...
@@ -3135,8 +3111,6 @@ Ciemno tu! I dlaczego tu cuchnie zgni³¹ marmolad¹?
 Nic wiêcej tam nie ma. Pewnie to specjalny pokój dla demonicznej czaszki.
 1556)  
 Twój miecz!
-1856)  GUYBRUSH
-Twój miecz!
 1557)  GUYBRUSH
 {happy}[Running] Przek¹ska! Nigdy nie rozpoczynaj bitwy, maj¹c bardziej pusty ¿o³¹dek ni¿ przeciwnik.
 1558)  MORGAN
@@ -3383,8 +3357,6 @@ Wracaj!
 
 1679)  GUYBRUSH
 Du¿o tu monet.
-2468)  GUYBRUSH
-Du¿o tu monet.
 1680)  GUYBRUSH
 Dobrze siê bawisz?
 1681)  MURRAYINVENTORY
@@ -3549,8 +3521,6 @@ Mój mistrz zabi³by mnie, gdyby zobaczy³, w jaki sposób u¿ywam miecza.
 Odpowiadaj¹ ogniem!
 1761)  GUYBRUSH
 Moje zdjêcie. Idealne do portfelu.
-2472)  GUYBRUSH
-Moje zdjêcie. Idealne do portfelu.
 1762)  GUYBRUSH
 Teraz strza³ka wskazuje w przeciwn¹ stronê.{Incredulous} To powinno byæ ciekawe. Albo niebezpieczne.
 1763)  GUYBRUSH
@@ -3617,11 +3587,7 @@ Bêdê czekaæ na jej "rzekome" przybycie z niedowierzaniem!
 Morgan LeFlay
 1794)  GUYBRUSH
 Zabi³o wiêcej ludzi ni¿ zepsute sushi.
-2477)  GUYBRUSH
-Zabi³o wiêcej ludzi ni¿ z³e sushi.
 1796)  GUYBRUSH
-Mogê trochê wylaæ tego w g³ównej sadzawce z ¿ó³ci¹, aby siê... wydostaæ.
-2465)  GUYBRUSH
 Mogê trochê wylaæ tego w g³ównej sadzawce z ¿ó³ci¹, aby siê... wydostaæ.
 1797)  WINSLOW
 {happy}Nie ma to jak œwie¿e powietrze po deszczu! {enthused}OrzeŸwiaj¹ce, jak czasy, gdy by³em ch³opcem hotelowym na Borneo!
@@ -3630,8 +3596,6 @@ Mogê trochê wylaæ tego w g³ównej sadzawce z ¿ó³ci¹, aby siê... wydostaæ.
 1799)  WINSLOW
 {sad}[Realizing] Ojej.
 1800)  GUYBRUSH
-G³owa konia morskiego. Dla olbrzymich manatów takie przek¹ski s¹ jak krakersy. Gdyby ktoœ zrobi³ ma³e krakersy w kszta³cie ryb dla ludzi, spa³by na pieniêdzach.
-2475)  GUYBRUSH
 G³owa konia morskiego. Dla olbrzymich manatów takie przek¹ski s¹ jak krakersy. Gdyby ktoœ zrobi³ ma³e krakersy w kszta³cie ryb dla ludzi, spa³by na pieniêdzach.
 1801)  GUYBRUSH
 £atwizna!
@@ -3729,6 +3693,8 @@ Zgadza siê. Powodzenia.{suspicious} Jestem na ty³ach.
 {questioning}[Awk] Dziêki...
 1848)  GUYBRUSH
 Wiêc... {embarrassed}myœlisz, ¿e móg³bym mieæ twój g³os?
+1849)  NOOGIE
+Raczej nie.
 1850)  GUYBRUSH
 {Incredulous} Mogê twój miecz na chwilkê?
 1851)  MORGAN
@@ -3741,6 +3707,8 @@ Oddajê twój miecz.
 {Cocky} Odwa¿na.
 1855)  MORGAN
 {Cocky}[Flirty] I tak go odbiorê, jak zechcê.
+1856)  GUYBRUSH
+Twój miecz!
 1857)  GUYBRUSH
 Nie mam takiej zrêcznoœci, aby zeskrobaæ ten brud mieczem.
 1858)  GUYBRUSH
@@ -3861,8 +3829,6 @@ Eksperymentuj gdzieœ indziej!
 Chcê jeszcze trochê zatrzymaæ tê fotkê.
 1916)  GUYBRUSH
 To œlubny pierœcionek Elaine.
-2474)  GUYBRUSH
-To œlubny pierœcionek Elaine.
 1917)  GUYBRUSH
 Elaine stanowczo stwierdzi³a, ¿e mam siê nim zaj¹æ. Powinienem go zatrzymaæ.
 1918)  GUYBRUSH
@@ -3945,6 +3911,8 @@ W porz¹dku.
 
 1957)  GUYBRUSHASVOODOOLADY
 Chyba powinienem umieœciæ te karty na macie przed sob¹.
+1958)  GUYBRUSHASVOODOOLADY
+Mogê dostaæ tê ksi¹¿kê?
 1959)  GUYBRUSHASVOODOOLADY
 {happy} Doskonale!  Wróæ do swego dziwnego laboratorium i dostarcz mi j¹.
 1960)  GUYBRUSHASVOODOOLADY
@@ -4139,8 +4107,6 @@ To nic. Oby tylko nie zosta³o ju¿ strawione.
 Przycisk ten jest poluzowany. Nie mogê go przekrêciæ swoimi pulchnymi palcami.
 2056)  GUYBRUSH
 {suspicious}[Pondering] To nie jest tak, ¿e trzeba wracaæ na Wyspê Rozbitków... Muszê tylko zag³êbiæ siê w swoim umyœle, a dziêki dobroci DeSinge'a ³atwo wype³niê go jêzykiem manatów.
-2480)  GUYBRUSH
-{suspicious}[Pondering] To nie jest tak, ¿e trzeba wracaæ na wyspê Rozbitków... Muszê tylko zag³êbiæ siê w swoim umyœle, a dziêki dobroci DeSinge'a ³atwo wype³niê go jêzykiem manatów.
 2057)  GUYBRUSHASVOODOOLADY
 Patrzcie na te karty tarota... Ciekawe, jakiego rodzaju daleko id¹ce moce w nich s¹.
 2058)  GUYBRUSHASVOODOOLADY
@@ -4166,8 +4132,6 @@ Mo¿e informacje w moich aktach mog¹ ci pomóc... w porozumieniu siê z naszymi bun
 2068)  MORGAN
 {Serious} Czacha ma racjê. Ta informacja nie przyjdzie ³atwo.
 2069)  GUYBRUSH
-{confused}Ta ryba w mojej kieszeni skacze, jakby by³a na imprezie.{default}
-2481)  GUYBRUSH
 {confused}Ta ryba w mojej kieszeni skacze, jakby by³a na imprezie.{default}
 2070)  GUYBRUSH
 Mam wyjœciow¹ miksturê DeCava, która po umieszczeniu w g³ównej sadzawce z ¿ó³ci¹, pozwoli mi siê st¹d wydostaæ. {sarcastic}To zreguluje uk³ad trawienny manata.
@@ -4283,6 +4247,8 @@ Daj mi swój g³os albo po tobie!
 [pickup1] Czeœæ.
 2126)  BUGEYE
 [pickup1] Czego chcesz?
+2127)  
+Oddasz na mnie swój g³os?
 2128)  GUYBRUSH
 {happy}[pickup1] Dziêki za twój g³os, Murray.  Mam œlimaka!
 2129)  MURRAY
@@ -4425,8 +4391,6 @@ G³owa Konia Morskiego
 La Esponja Grande
 2210)  
 Ozor Manata
-2354)  
-Ozor Manata
 2211)  
 Z³oty Klucz P³aski
 2212)  
@@ -4437,15 +4401,9 @@ Odciêty Palec
 Serwetka pod Koktajl
 2215)  
 Karta Prze³amania
-2317)  
-Karta Prze³amania
 2216)  
 Karta Podró¿y
-2319)  
-Karta Podró¿y
 2217)  
-Karta Kl¹twy
-2318)  
 Karta Kl¹twy
 2218)  GUYBRUSHASVOODOOLADY
 [pickup1] [to himself] DeSinge musi nauczyæ siê trochê szacunku.  Zrobiê to, mam zar¹biste wudu moce! [emph on "do so" like a defensive kid]
@@ -4615,8 +4573,6 @@ Koœci
 Czaszka Konia Morskiego
 2301)  
 Wrak Statku
-2448)  
-Wrak Statku
 2302)  
 Znak Ostrzegawczy
 2303)  
@@ -4647,6 +4603,12 @@ Olbrzymi Manat w 12 £atwych Krokach
 Miejsce na Kartê Akcji
 2316)  
 Miejsce na Kartê Celu
+2317)  
+Karta Prze³amania
+2318)  
+Karta Kl¹twy
+2319)  
+Karta Podró¿y
 2320)  
 Okrêt DeCava
 2321)  
@@ -4715,6 +4677,8 @@ Niezdarna
 Dalej!
 2353)  
 Bongo
+2354)  
+Ozor Manata
 2355)  
 ¯elazna Ma³pa
 2356)  
@@ -4830,34 +4794,36 @@ Pod ubraniem: Œwie¿o uprasowane pantalony
 Notatka kapitana: Mieæ na niego oko.
 2399)  MOOSE
 {surprised}[[A1] Œmierdz¹ca...
-2408)  MOOSE
-{surprised}[[A1] Œmierdz¹ca...
 2400)  MOOSE
 {surprised}[A2] Os³oniêta...
-2409)  MOOSE
-{surprised}[A2] Okapniêta...
 2401)  MOOSE
 {surprised}[[A3] Okapniêta...
-2410)  MOOSE
-{surprised}[[A3] Ochydna...
 2402)  MOOSE
-{surprised}[[A4] Zbzikowana...
-2411)  MOOSE
 {surprised}[[A4] Zbzikowana...
 2403)  MOOSE
 {surprised}[B2] Leniwo-ocza...
-2412)  MOOSE
-{surprised}[B2] Leniwo-ocza...
 2404)  MOOSE
 {surprised}[B3] Zezowata...
-2413)  MOOSE
-{surprised}[B3] Zezowata...
+2405)  MOOSE
+{enthused}[C2] Ma³pia!
 2406)  MOOSE
-{enthused}[C3] Starusza!
-2414)  MOOSE
 {enthused}[C3] Starusza!
 2407)  MOOSE
 {enthused}[C4] Niezdarna!
+2408)  MOOSE
+{surprised}[[A1] Œmierdz¹ca...
+2409)  MOOSE
+{surprised}[A2] Okapniêta...
+2410)  MOOSE
+{surprised}[[A3] Ochydna...
+2411)  MOOSE
+{surprised}[[A4] Zbzikowana...
+2412)  MOOSE
+{surprised}[B2] Leniwo-ocza...
+2413)  MOOSE
+{surprised}[B3] Zezowata...
+2414)  MOOSE
+{enthused}[C3] Starusza!
 2415)  MOOSE
 {enthused}[C4] Niezdarna!
 2416)  DECAVA
@@ -4925,6 +4891,8 @@ Bar
 Pirat z Bongo
 2447)  
 Gburowaty Pirat
+2448)  
+Wrak Statku
 2449)  
 Weso³a Czaszka
 2450)  GUYBRUSH
@@ -4955,10 +4923,42 @@ Dziwna Wypuk³oœæ
 Dziwaczny Obóz
 2463)  
 Niechlujny Cz³owiek
+2464)  GUYBRUSH
+Wybuchowa mieszanka DeCava.  Odpowiednio zmieszana kompozycja po¿ywienia reguluj¹ca uk³ad trawienny manata.
+2465)  GUYBRUSH
+Mogê trochê wylaæ tego w g³ównej sadzawce z ¿ó³ci¹, aby siê... wydostaæ.
 2466)  FEMALEMANATEE
 [whale sounds - Short] Haha. Œmieszna krewetka.
+2467)  GUYBRUSH
+Korona Królowej Archipelagu. Po dalszej analizie, klejnoty s¹ z plastiku.
+2468)  GUYBRUSH
+Du¿o tu monet.
+2469)  GUYBRUSH
+Ten ³osoœ du¿o siê miota.
+2470)  GUYBRUSH
+Miêkka larwa.
+2471)  GUYBRUSH
+O, mój hak. Czasami siê oszukujê, ¿e to zwyk³a, chuda rêka.
+2472)  GUYBRUSH
+Moje zdjêcie. Idealne do portfelu.
 2473)  GUYBRUSH
 To zdjêcie, które wyda³em Morgan. Chyba zosta³o zrobione tu¿ po uratowaniu Wioski Kafloo za pomoc¹ konstrukcji z kordelasa, kiedy lawa na ni¹ sp³ywa³a. Albo to list goñczy. Ciê¿ko stwierdziæ.
+2474)  GUYBRUSH
+To œlubny pierœcionek Elaine.
+2475)  GUYBRUSH
+G³owa konia morskiego. Dla olbrzymich manatów takie przek¹ski s¹ jak krakersy. Gdyby ktoœ zrobi³ ma³e krakersy w kszta³cie ryb dla ludzi, spa³by na pieniêdzach.
+2476)  GUYBRUSH
+Miecz Morgan, ostrze "Dragotta".
+2477)  GUYBRUSH
+Zabi³o wiêcej ludzi ni¿ z³e sushi.
+2478)  GUYBRUSH
+"Ozor Manata: Edycja Podró¿nicza. Wszystkie frazy manatów, jakie musisz znaæ, odwiedzaj¹c otch³añ."
+2479)  GUYBRUSH
+Klucz p³aski: wkrêci œrubê w dowolny grunt.
+2480)  GUYBRUSH
+{suspicious}[Pondering] To nie jest tak, ¿e trzeba wracaæ na wyspê Rozbitków... Muszê tylko zag³êbiæ siê w swoim umyœle, a dziêki dobroci DeSinge'a ³atwo wype³niê go jêzykiem manatów.
+2481)  GUYBRUSH
+{confused}Ta ryba w mojej kieszeni skacze, jakby by³a na imprezie.{default}
 2482)  MURRAY
 {evil}HAHA!  Twój wykrzywiony grymas nie przestraszy³by uczennicy! Przed laty potrafi³em zamieniaæ w kamieñ samym uœmieszkiem!  Albo zagotowaæ w kimœ krew, patrz¹c spode ³ba!  Potrzebowa³em tylko powodu!  [Uncomfortable pause.]{sad} I wargi.
 2483)  FEMALEMANATEE

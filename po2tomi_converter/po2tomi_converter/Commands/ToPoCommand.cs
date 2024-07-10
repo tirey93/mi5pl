@@ -2,10 +2,8 @@
 using Microsoft.Extensions.Options;
 using po2tomi_converter.Settings;
 using System.Text;
-using System.Linq;
-using System.Text.RegularExpressions;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 using po2tomi_converter.Dtos;
+using po2tomi_converter.Utils;
 
 namespace po2tomi_converter.Commands
 {
@@ -13,7 +11,6 @@ namespace po2tomi_converter.Commands
     {
         private readonly MainSettings _settings;
         private readonly Dictionary<int, Line> _dictEngSteam;
-        private readonly Regex _regex = new Regex("\\d+\\)");
         private readonly int _maxLineNumberSteam;
         private readonly List<Line> _linesEngGog;
         private readonly Dictionary<int, Line> _dictPl;
@@ -23,12 +20,12 @@ namespace po2tomi_converter.Commands
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             _settings = options.Value;
 
-            _dictEngSteam = LoadLines(_settings.SteamEngFileLocation)
+            _dictEngSteam = LineUtils.LoadLines(_settings.SteamEngFileLocation)
                 .ToDictionary(x => x.Number, y => y);
             _maxLineNumberSteam = _dictEngSteam.Keys.Max();
-            _linesEngGog = LoadLines(_settings.GogEngFileLocation)
+            _linesEngGog = LineUtils.LoadLines(_settings.GogEngFileLocation)
                 .OrderBy(x => x.Number).ToList();
-            _dictPl = LoadLines(_settings.SteamPlFileLocation)
+            _dictPl = LineUtils.LoadLines(_settings.SteamPlFileLocation)
                 .ToDictionary(x => x.Number, y => y);
         }
 
@@ -163,32 +160,6 @@ namespace po2tomi_converter.Commands
             result += $"msgstr \"{plStr}\"\n\n";
 
             return result;
-        }
-
-        private List<Line> LoadLines(string fileLocation)
-        {
-            var lines = File.ReadAllLines(fileLocation, Encoding.GetEncoding("windows-1250"));
-
-            var matchedLines = new List<Line>();
-
-            var currentLine = new Line(lines[0]);
-            for (int i = 1; i < lines.Length; i++)
-            {
-                var strLine = lines[i];
-
-                if (_regex.Match(strLine).Success)
-                {
-                    matchedLines.Add(currentLine);
-                    currentLine = new Line(strLine);
-                }
-                else
-                {
-                    currentLine.AddContent(strLine);
-                }
-            }
-
-            matchedLines.Add(currentLine);
-            return matchedLines;
         }
     }
 }

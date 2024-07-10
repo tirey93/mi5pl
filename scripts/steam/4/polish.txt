@@ -92,10 +92,6 @@ Utracisz niezapisany postêp w aktualnej grze.
 {incredulous}Hmm.
 42)  GUYBRUSH
 {surprised}Au!
-1539)  GUYBRUSH
-{surprised}Au!
-1544)  GUYBRUSH
-{surprised}Au!
 43)  GUYBRUSH
 {incredulous}Tak, myœlê, ¿e spróbujê póŸniej.
 44)  GUYBRUSH
@@ -129,8 +125,6 @@ Raczej w¹tpiê.
 60)  GUYBRUSH
 {Whiney} Zamkniête.
 61)  
-Znak
-2219)  
 Znak
 62)  
 Mokry Dywan
@@ -199,10 +193,6 @@ LeChuck
 94)  
 Elaine
 95)  
-Czeœæ.
-1280)  
-Czeœæ.
-1282)  GUYBRUSH
 Czeœæ.
 96)  
 Wznów
@@ -393,8 +383,6 @@ Co siê sta³o?
 [haunted] Najpierw by³y p³omienie... biedny señor Szkrabród spali³ siê jak œwiêty p³omieñ Elma... potem pojawi³a siê z po¿ogi, mamrocz¹c staro¿ytne przekleñstwa z ka¿dym królewskim krokiem... Nigdy nie  zapomnê nienawistnego spojrzenia jakie we mnie utkwi³a jak by³a odprowadzana... spojrzenie skazuj¹ce mnie na ¿ycie w cierpieniu, wstydzie i ¿alu.
 184)  GUYBRUSH
 {surprised}
-909)  GUYBRUSH
-{surprised}
 185)  GUYBRUSH
 Straszne.
 186)  DORO
@@ -487,8 +475,6 @@ Bwah-ha-ha-haaaah!
 [coughing... she's dying][trying to get Guybrush's attention] {Serious}Muszê zap³aciæ za wszystkie k³opoty...  Znalaz³am Jacques...  Powiedzia³
 mi...
 230)  GUYBRUSH
-{confused}Co?
-1696)  MCGEE
 {confused}Co?
 231)  MORGAN
 [Slipping away] {strained}Powiedzia³ mi...
@@ -1094,8 +1080,6 @@ Nie s¹dzi³em, ¿e to by³o mo¿liwe, ale DeSinge dos³ownie zrobi³ Maszynê Wakacjan 
 {Whiney} Ryzykowa³em ¿ycie, rêkê i manata, aby mieæ La Esponja Grande, a to jest mizerna, bezwartoœciowa bry³ka.
 532)  LECHUCK
 {Confused} Co?
-1159)  MCGEE
-{Confused} Co?
 533)  GUYBRUSH
 {Default}[Deadpan] Ta g¹bka to wch³aniaj¹ca gigantycznie, cudowna "La Esponja Grande".
 534)  LECHUCK
@@ -1217,8 +1201,6 @@ Co chcia³byœ wiedzieæ?
 592)  GUYBRUSH
 {Happy}Hej, to æma!{incredulous}  Za³o¿ê siê, ¿e oni wci¹¿ s¹ sko³owani po odjechanym pokazie Stana.
 593)  GUYBRUSH
-{Confused} Co to jest?
-862)  GUYBRUSH
 {Confused} Co to jest?
 594)  DESINGE
 [dryly]{Arrogant} To... jest wiadro z wod¹.
@@ -1684,8 +1666,6 @@ Urok voodoo!  A co do LeChucka, có¿, powiedzmy, ¿e panie kochaj¹ piratów, kochaj
 {Suspicious} Stan, co do tych zarzutów...
 825)  STAN
 {Thinking} Przepraszam, dzieciaku, nie mogê mówiæ!  Konflikt interesów, przywilej prawnika i wszystkie te rzeczy!
-1571)  STAN
-{Thinking}  Przepraszam, dzieciaku, nie mogê mówiæ!  Konflikt interesów, przywilej prawnika i wszystkie te rzeczy!
 826)  GUYBRUSH
 {Whiney} Ale--
 827)  STAN
@@ -1758,6 +1738,8 @@ Byæ mo¿e?
 {Happy} Zobaczymy siê w s¹dzie, Stan.
 861)  STAN
 {Happy} Hej, to bardzo zabawne!
+862)  GUYBRUSH
+{Confused} Co to jest?
 863)  STAN
 {Smarmy} To, mój przyjacielu, jest ma³a nowoœæ, któr¹ nazwa³em "Rysuj Brodê Guybrusha"!  U¿ywaj¹c mocy magnesu i ¿elaznych opi³ków mo¿esz daæ ludziom najbardziej znanego przestêpcê w nieskoñczenie szerokim wachlarzu œmiesznych i poni¿aj¹cych fryzur.  Obserwuj-
 864)  STAN
@@ -1850,6 +1832,8 @@ Wci¹¿ pracujê nad kilkoma niedoci¹gniêciami.
 Dziêki.
 908)  GUYBRUSH
 {cocky}Nie muszê korzystaæ z udogodnieñ teraz.  Poza tym, {suspicious}ten ch³opiec od rêczników by³ trochê przera¿aj¹cy.
+909)  GUYBRUSH
+{surprised}
 910)  ELAINE
 {evil}ZejdŸ z drogi, ty marny kawa³ku miêsa!
 911)  GUYBRUSH
@@ -2348,6 +2332,8 @@ Pomyœla³em, ¿e pewnie to coœ da.
 Lepiej nie wychodziæ z moj¹ ma³p¹ ponownie na œrodek sali, dopóki nie bêdê pewny, ¿e jego zwierzêcy magnetyzm bêdzie przydatny.
 1158)  GUYBRUSH
 Wysoki s¹dzie, piraci i ró¿norodni korsarze. {Suspicious}  Blekot McGee twierdzi, ¿e to {Proud} ja, Guybrush Threepwood, Potê¿ny Pirat™, spowodowa³em te emocjonalne blizny u{Worried} biednej Pannie Piêknisi sparali¿owanej starchem. {Cocky} Ale stawiam, ¿e to nie pokorny oskar¿ony, spowodowa³ niefortunn¹ traumê u kota Blekota, ale du¿o bardziej {Incredulous} podstêpny napastnik, który jest w tej sali s¹dowej, mówiê o... {Stern} Jaccuse...
+1159)  MCGEE
+{Confused} Co?
 1160)  STAN
 {Annoyed} Sprzeciw!  Nie ma ¿adnych dowodów na t¹ ma³pê!
 1161)  GUYBRUSH
@@ -2588,8 +2574,12 @@ Nie mów, ¿e wci¹¿ dmuchasz szk³o.
 {surprised}Tak!  [surprised and delighted, and somewhat slowly, as in "why yes, that's right!"]
 1279)  CRIMPDIGIT
 {default}Nie, nie widzia³em jej.
+1280)  
+Czeœæ.
 1281)  CRIMPDIGIT
 {stern}Bêdê czeka³.
+1282)  GUYBRUSH
+Czeœæ.
 1283)  CRIMPDIGIT
 {default}Tak naprawdê to jedna osoba, ale chce du¿y zapas.  Nie pytaj mnie dlaczego.
 1284)  GUYBRUSH
@@ -2730,10 +2720,10 @@ Hmmph.  Pirat i ³owczyni piratów! Twój rodzaj zawsze spotyka wczesna œmieræ. {An
 {Angry} Hej, DeMa³pa!
 1354)  DESINGE
 [trying to avoid Elaine's sword, not really looking at Guybrush]{Angry} Co?!
-1356)  DESINGE
-[trying to avoid Elaine's sword, not really looking at Guybrush]{Angry} Co?!
 1355)  GUYBRUSH
 {angry} Hej, DeTik-Tak!
+1356)  DESINGE
+[trying to avoid Elaine's sword, not really looking at Guybrush]{Angry} Co?!
 1357)  GUYBRUSH
 {Incredulous} Nigdy nie ominiesz miecza mojej ¿ony.  Kiedyœ widzia³em jak powstrzyma³a hordy wœciek³ych Rotarian maj¹c tylko scyzoryk i miot³ê do kurzu!
 1358)  DESINGE
@@ -3098,6 +3088,8 @@ Ustaw mi!
 {stern}To musia³o siê zepsuæ podczas walki Morgan i DeSinge.  Mam nadziejê, ¿e nornik uciek³.
 1538)  GUYBRUSH
 {incredulous}"He³m Auto-Trepanacji..." hmmm.
+1539)  GUYBRUSH
+{surprised}Au!
 1540)  GUYBRUSH
 [tongue numb]{surprised} Co jest?  Manumb! ["what the?  My tongue!"]
 1541)  GUYBRUSH
@@ -3106,6 +3098,8 @@ Ustaw mi!
 {scared}Aj! Oœlep³em!
 1543)  GUYBRUSH
 {happy}Uff!
+1544)  GUYBRUSH
+{surprised}Au!
 1545)  GUYBRUSH
 [process - shrinking] {confused}Whoooa!
 1546)  GUYBRUSH
@@ -3158,6 +3152,8 @@ Wygl¹da na to, ¿e wreszcie ktoœ wyczyœci³ dywan, eee... {Confused}"poplamiony...
 {Confused} Wci¹¿ nie wiem co znaczy to 41.
 1570)  GUYBRUSH
 {Cocky} Stan, co do tych zarzutów...
+1571)  STAN
+{Thinking}  Przepraszam, dzieciaku, nie mogê mówiæ!  Konflikt interesów, przywilej prawnika i wszystkie te rzeczy!
 1572)  GUYBRUSH
 {Confused} Ale--
 1573)  STAN
@@ -3406,6 +3402,8 @@ Witaj, Dwuprotezy.
 {cocky} Mam nadziejê, ¿e Panna Piêknisia polubi ca³e to ¿elazo w swojej diecie.
 1695)  GUYBRUSH
 {happy}Ej, zobacz, piêciog³owy szympans kar³owaty!
+1696)  MCGEE
+{confused}Co?
 1697)  MCGEE
 {angry}Nic nie widzê.
 1698)  GUYBRUSH
@@ -3432,10 +3430,10 @@ Witaj, Dwuprotezy.
 Mam doœæ ciek³ego szk³a w spodniach do wszystkich moich potrzeb.
 1709)  CRIMPDIGIT
 {angry}Hej!
-1711)  MCGEE
-{angry}Hej!
 1710)  GUYBRUSH
 {cocky}Hej Blekot, mogê uchwyciæ kolor twojego oka?
+1711)  MCGEE
+{angry}Hej!
 1712)  GUYBRUSH
 {cocky} To naprawdê, eee... coœ.
 1713)  CRIMPDIGIT
@@ -3630,8 +3628,6 @@ Ale Guybrush dowiaduje siê za póŸno, ¿e m¹dry pirat to ktoœ, kto przygotowa³by s
 Arrr!
 1808)  GALLERY1
 Arrr!
-2141)  MORGAN
-Arrr!
 1809)  GALLERY2
 Arrrr!
 1810)  HARDTACK
@@ -3766,8 +3762,6 @@ Zastanawiam siê dlaczego ¿a³oœni starzy piraci jak Blekot przyci¹gaj¹ koty?
 {cocky}Jeden grog.  Porz¹dny.
 1875)  GRINDSTUMP
 {happy}Ju¿ siê robi!
-1890)  GRINDSTUMP
-{happy}Ju¿ siê robi!
 1876)  GUYBRUSH
 {happy}Arrr.  OrzeŸwiaj¹cy.
 1877)  GUYBRUSH
@@ -3796,6 +3790,8 @@ Imponuj¹ce!
 {suspicious}To by³o szybkie.
 1889)  GUYBRUSH
 {cocky}Jeszcze jeden Wyrzutek Wyspy Parszywców?
+1890)  GRINDSTUMP
+{happy}Ju¿ siê robi!
 1891)  GUYBRUSH
 I biorê-
 1892)  GRINDSTUMP
@@ -4296,6 +4292,8 @@ Widzia³em ciê, jak uciekasz z laboratorium po zamordowaniu jej!
 {strained}Trzymaj siê z dala od Guybrusha, ty morska œwinio!
 2140)  ELAINE
 {evil}Arrr!{default}
+2141)  MORGAN
+Arrr!
 2142)  KREBBS
 {surprised}
 2143)  ELAINE
@@ -4450,15 +4448,13 @@ Narwala
 Papryka
 2218)  
 Papryka Fugu
-2314)  
-Papryka Fugu
+2219)  
+Znak
 2220)  
 Straszny Obraz
 2221)  
 Obraz Blekota "Bestia D¿ungli"
 2222)  
-Skrawek Papieru
-2656)  
 Skrawek Papieru
 2223)  
 Nied³ugi Czerwony Dywan
@@ -4606,8 +4602,6 @@ Miska z Kocim Jedzeniem
 Miska z Niezdrowo Wygl¹daj¹cym Kocim Jedzeniem
 2295)  
 Lampa w Kszta³cie Nogi
-2310)  
-Lampa w Kszta³cie Nogi
 2296)  
 Ka³u¿a
 2297)  
@@ -4636,12 +4630,16 @@ Kubek Gor¹cego Oleju Manata
 Kubek Gor¹cego Wosku
 2309)  
 Szklane Oko
+2310)  
+Lampa w Kszta³cie Nogi
 2311)  
 Mokra Odciêta Noga
 2312)  
 £apa Lwa
 2313)  
 Menu Uczty dla Zmys³ów
+2314)  
+Papryka Fugu
 2315)  
 Przepis na W³ochate Nozdrza
 2316)  
@@ -4687,20 +4685,6 @@ Wró¿¹ce Przysz³oœæ Karty Tarota
 2336)  
 Pusta Szklanka Erupcji Wulkanu
 2337)  
-Pa.
-2539)  
-Pa.
-2596)  
-Pa.
-2597)  
-Pa.
-2612)  
-Pa.
-2617)  
-Pa.
-2622)  
-Pa.
-2661)  
 Pa.
 2338)  
 Pa.
@@ -5038,8 +5022,6 @@ No weŸ, pomó¿ mi z procesem.
 K³amiesz o mnie, prawda?
 2498)  
 K³amiesz.  Przyznaj siê.
-2519)  
-K³amiesz.  Przyznaj siê.
 2499)  
 Proszê, powiedz wszystkim, ¿e ospa to wina LECHUCKA!
 2500)  
@@ -5053,10 +5035,6 @@ Chcê zmiany miejsca!
 2504)  
 Chcia³bym odwo³aæ siê do moich ex post facto privileges...
 2505)  
-Nie przyznajê siê do winy!
-2610)  
-Nie przyznajê siê do winy!
-2611)  
 Nie przyznajê siê do winy!
 2506)  
 Niewinny z powodu niepoczytalnoœci!
@@ -5084,6 +5062,8 @@ Kapitanie Threepwood, opowiedz o LeChucku.
 Obrona nie potrzebuje wiêcej œwiadka.
 2518)  
 Ta historia ze "sparali¿owanym kotem" jest k³amstwem?
+2519)  
+K³amiesz.  Przyznaj siê.
 2520)  
 Co robisz z Narzêdziem do Kontroli Wiatrów?
 2521)  
@@ -5122,6 +5102,8 @@ Przestañ zeznawaæ przeciw mnie!
 Wci¹¿ jesteœ otwarty na ³apówkê?
 2538)  
 Dlaczego nie masz ospy?
+2539)  
+Pa.
 2540)  
 Co z tym Porcelanowym Piratem Mocy?
 2541)  
@@ -5182,10 +5164,10 @@ Dlaczego nie masz ospy?
 Fajna marynarka.
 2569)  
 Co sprzedajesz?
-2571)  
-Co sprzedajesz?
 2570)  
 Mogê dostaæ twoj¹ marynarkê?
+2571)  
+Co sprzedajesz?
 2572)  
 Niech spojrzê na inne twoje towary.
 2573)  
@@ -5196,14 +5178,14 @@ Zapytaj o zabawkê z magnetyczn¹ brod¹
 Zapytaj o t-shirt
 2576)  
 Pomyœlê sekundê...
-2580)  
-Pomyœlê sekundê...
 2577)  
 Zapytaj o znaczek
 2578)  
 Zapytaj o lalkê LeChucka
 2579)  
 Zapytaj o figurkê Lady Voodoo
+2580)  
+Pomyœlê sekundê...
 2581)  
 Ok³ama³aœ mnie o LeChucku!
 2582)  
@@ -5234,6 +5216,10 @@ Elaine, misiaczku! Morgan szczeka, ale nie gryzie!
 Mam pieni¹dze!
 2595)  
 Mam skarb!
+2596)  
+Pa.
+2597)  
+Pa.
 2598)  
 Pierwsze danie to serwetka?
 2599)  
@@ -5258,6 +5244,12 @@ Ta ospa nie jest taka z³a!
 Ta ospa to nie moja wina!
 2609)  
 Przyznajê siê do winy!
+2610)  
+Nie przyznajê siê do winy!
+2611)  
+Nie przyznajê siê do winy!
+2612)  
+Pa.
 2613)  
 Wracam do siebie.
 2614)  
@@ -5266,6 +5258,8 @@ Nie musicie o mnie walczyæ!
 Nie musicie o mnie walczyæ!
 2616)  
 Morgan szczeka, ale nie gryzie!
+2617)  
+Pa.
 2618)  
 Wiêc, serio, co tu robisz?
 2619)  
@@ -5274,6 +5268,8 @@ No weŸ, daj mi swoj¹ marynarkê.
 Widzê, ¿e masz kilka nowych pami¹tek.
 2621)  
 Mogê przyjrzeæ siê innym twoim nowym œwiecide³kom?
+2622)  
+Pa.
 2623)  
 K³amiesz!  K³amca, k³amca, pod³y k³amca!
 2624)  
@@ -5365,6 +5361,8 @@ Oskar¿ony posiada³ maleñk¹ g¹bkê morsk¹, która, wed³ug niego, ma wyleczyæ ospê. 
 Oskar¿ony posiada³ równie¿ obr¹czkê œlubn¹, która zostanie przeznaczona na pokrycie kosztu jego pogrzebu.
 2655)  
 Dziennik myœliwego
+2656)  
+Skrawek Papieru
 2657)  
 Ostatni Wpis w Dzienniku
 2658)  
@@ -5373,6 +5371,8 @@ Szklane " Piwne Oko Morgan "
 "Jadeitowe Szklane Oko Piêknisi"
 2660)  
 Niestrawiona Noga Lampy
+2661)  
+Pa.
 2662)  
 Dlaczego ktoœ zamówi³ te wszystkie tuby?
 2663)  

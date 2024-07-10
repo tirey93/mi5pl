@@ -90,8 +90,6 @@ Are you sure you want to load this game?
 Any unsaved progress in your current game will be lost.
 41)  GUYBRUSH
 {Default} The SCUMM Bar! Haven for the rowdiest bunch of drunken scallywags you'll ever see!
-59)  GUYBRUSH
-{Default} The SCUMM Bar! Haven for the rowdiest bunch of drunken scallywags you'll ever see!
 42)  GUYBRUSH
 {Happy}Hi there, scruffy-looking pirate-person! I'm {Proud}Guybrush Threepwood, mighty pirate! What's your name?
 43)  GUYBRUSH
@@ -126,17 +124,15 @@ That is one {Surprised}FAT BIRD!
 {Disgust}I...uh...left it in my other pants.
 58)  GUYBRUSH
 {Happy}Yeah! Busy makin' holes in the wall.
+59)  GUYBRUSH
+{Default} The SCUMM Bar! Haven for the rowdiest bunch of drunken scallywags you'll ever see!
 60)  PIRATEA
-{Default} Cheese, Ignatius Cheese.
-118)  DESINGE
 {Default} Cheese, Ignatius Cheese.
 61)  PIRATEA
 {Confused} And what, pray tell, might I be findin' myself doin' if I joined {Sarcastic} this crew of mighty pirates?
 62)  PIRATEA
 {Default} I'm open to persuasion, {Suspicious} what do you have in mind?
 63)  PIRATEA
-{Angry} Are you outta your grog-addled mind?!? No!
-121)  DESINGE
 {Angry} Are you outta your grog-addled mind?!? No!
 64)  PIRATEA
 {Stern} Arrr, that doesn't sound too manly! Any girly pirate can loot a defenseless fishing community.
@@ -172,8 +168,6 @@ No Problem!
 Nah.
 80)  GUYBRUSH
 Nope.
-1499)  TRENCHFOOT
-Nope.
 81)  GUYBRUSH
 Um, no.
 82)  GUYBRUSH
@@ -205,8 +199,6 @@ Um, I don't want to part with this right now.
 95)  PIRATEB
 {Confused} What? Where'd you get a weird idea like that?
 96)  GUYBRUSH
-{Whiney}I haven't got a crew to take me to Lucre Island.
-116)  GUYBRUSH
 {Whiney}I haven't got a crew to take me to Lucre Island.
 97)  GUYBRUSH
 {Confused} That'd make a lousy perch.
@@ -246,12 +238,18 @@ The cards have foretold that you seek direction.
 {Default}As you wish, Guybrush. {Mystical}I'll be here later if you need me.
 115)  VOODOO
 {Stern} This is a pirate town. {Default} Even in these economically depressed times you should be able to find a couple of competent sailors.
+116)  GUYBRUSH
+{Whiney}I haven't got a crew to take me to Lucre Island.
 117)  
 Pyrite Parrot
+118)  DESINGE
+{Default} Cheese, Ignatius Cheese.
 119)  DESINGE
 {Angry} And what, pray tell, might I be findin' myself doin' if I joined this crew of mighty pirates?
 120)  DESINGE
 {Happy} I'm open to persuasion, what do you have in mind?
+121)  DESINGE
+{Angry} Are you outta your grog-addled mind?!? No!
 122)  DESINGE
 {Amazed} Arrr, that doesn't sound too manly! Any girly pirate can loot a defenseless fishing community.
 123)  DESINGE
@@ -1917,8 +1915,6 @@ Okay, well, try this...
 {happy}Of course, now I'll just use my key over-
 953)  LECHUCK
 [excited] Wait!  I think I've figured it out!  Now that I've got my key in place, you go use yours in the OTHER clamshell!
-1836)  LECHUCK
-[excited] Wait!  I think I've figured it out!  Now that I've got my key in place, you go use yours in the OTHER clamshell!
 954)  GUYBRUSH
 {suspicious}[sarcastic] Yeah... smart thinking!
 955)  LECHUCK
@@ -2149,14 +2145,14 @@ The altar's got a couple of cracks now, but it survived the fall pretty well!
 {stern}Aww, man!  {worried}The melted pyrite must have cooled and hardened before I could get here!
 1068)  GUYBRUSH
 Let's try this again.
-1072)  GUYBRUSH
-Let's try this again.
 1069)  GUYBRUSH
 Over the edge you go!
 1070)  GUYBRUSH
 {happy}...Bullseye!
 1071)  GUYBRUSH
 Oops.  I guess I took too long getting here, the Pyrite cooled and hardened into a lump!  I need to get here more quickly next time.
+1072)  GUYBRUSH
+Let's try this again.
 1073)  MCGILLICUTTY
 {angry}Give me the Summoning Artifacts!
 1074)  MCGILLICUTTY
@@ -2345,10 +2341,10 @@ I need to find La Esponja Grande.
 [shouting across ships] {Angry} Prepare to meet your maker, McGillicutty!
 1166)  MCGILLICUTTY
 {Angry} Aaarrrrrrrr!!!!
-1168)  MCGILLICUTTY
-{Angry} Aaarrrrrrrr!!!!
 1167)  GUYBRUSH
 [In awe] {Surprised} Wow, nice shot!
+1168)  MCGILLICUTTY
+{Angry} Aaarrrrrrrr!!!!
 1169)  GUYBRUSH
 [frustrated grunt] {Whiney} Hrrmmmp.
 1170)  GUYBRUSH
@@ -2563,8 +2559,6 @@ I'm back!  {Sarcastic} Find that treasure yet?
 {Stern} Oh, we will, don't you worry your little pirate head about it!
 1275)  TRENCHFOOT
 {Confused}[trying to remember]Hmmm...
-1280)  HARDTACK
-{Confused}[trying to remember]Hmmm...
 1276)  TRENCHFOOT
 {Confused}[trying to remember]Let's see...
 1277)  TRENCHFOOT
@@ -2573,6 +2567,8 @@ I'm back!  {Sarcastic} Find that treasure yet?
 {Confused}[trying to remember]Was it six paces or five?
 1279)  TRENCHFOOT
 {Confused}[trying to remember]I know it's here somewhere...
+1280)  HARDTACK
+{Confused}[trying to remember]Hmmm...
 1281)  HARDTACK
 {Confused}[trying to remember]Where did we put it?
 1282)  HARDTACK
@@ -2899,8 +2895,6 @@ You could try guessing a number.  Whoever answers right gets to bury it!
 {stern}27?
 1443)  TRENCHFOOT
 {cocky}Nope.
-1495)  TRENCHFOOT
-{cocky}Nope.
 1444)  HARDTACK
 {default}Ok, now you pick a number.
 1445)  TRENCHFOOT
@@ -2940,8 +2934,6 @@ You could try guessing a number.  Whoever answers right gets to bury it!
 1462)  GUYBRUSH
 {confused}Why don't you do it together?
 1463)  HARDTACK
-{confused}What do you mean?
-1613)  TRENCHFOOT
 {confused}What do you mean?
 1464)  GUYBRUSH
 {suspicious}You know, both of you hold one end of the artifact and place it in the chest together.  Then you can BOTH set out together and BOTH dig and burry the treasure!
@@ -3005,12 +2997,16 @@ BOO!
 {happy}Hey guys, I'm back!
 1494)  TRENCHFOOT
 {sarcastic}[flat/sarcastic]Oh goody.
+1495)  TRENCHFOOT
+{cocky}Nope.
 1496)  HARDTACK
 {worried}But McGillicutty gave it to me!  I get to be the one who picks where to hide it!
 1497)  TRENCHFOOT
 Sorry, I have it now.
 1498)  HARDTACK
 Will you at least look at me so we can work this out?
+1499)  TRENCHFOOT
+Nope.
 1500)  TRENCHFOOT
 {angry}Shut up.
 1501)  TRENCHFOOT
@@ -3237,6 +3233,8 @@ I'll take you all on!
 {embarrassed}Oh that's where that went!
 1612)  GUYBRUSH
 {suspicious}You know, I hear that 9 times out of 10, the first place you burry a treasure is the spot where it'll most likely be found.
+1613)  TRENCHFOOT
+{confused}What do you mean?
 1614)  GUYBRUSH
 {proud}Well, if you picked out that spot so easily, other pirates will probably pick that spot to go digging for treasure too,
 1615)  TRENCHFOOT
@@ -3463,19 +3461,13 @@ You weren't a tactition on your pervious ship, were you?
 [proudly]No sir.
 1726)  GUYBRUSH
 What should we do about the mast?
-1755)  
-What should we do about the mast?
 1727)  WINSLOW
 It'll need repairs of course.  I'm thinking of going for a different color this time... what do you think of light oak?  ...Or anything other than drab palm, really.
 1728)  GUYBRUSH
 You think the MerLeader is okay?
-1756)  
-You think the MerLeader is okay?
 1729)  WINSLOW
 Seems fine, as long as McGillicutty thinks drowning is an effective torture, the MerLeader is perfectly safe.
 1730)  GUYBRUSH
-Keep up the good work!
-1758)  
 Keep up the good work!
 1731)  WINSLOW
 {happy}Welcome back, sir!{default}
@@ -3523,8 +3515,14 @@ You're mad!
 Please don't destroy La Esponja Grande!
 1754)  
 Got any tactical suggestions?
+1755)  
+What should we do about the mast?
+1756)  
+You think the MerLeader is okay?
 1757)  
 Keep up the good work.
+1758)  
+Keep up the good work!
 1759)  GUYBRUSH
 {confused}I guess that's all I have to say.{default}
 1760)  
@@ -3599,15 +3597,9 @@ Just an empty bucket.
 I'm gonna need this to use the raft.  I better hold on to it.
 1795)  
 Roe Island
-1810)  
-Roe Island
 1796)  
 Spinner Cay
-2121)  
-Spinner Cay
 1797)  
-Isle of Ewe
-1808)  
 Isle of Ewe
 1798)  
 Flotsam Island
@@ -3617,11 +3609,7 @@ Jerkbait Islands
 Rock of Gelato
 1801)  
 Brillig Island
-1807)  
-Brillig Island
 1802)  
-Spoon Isle
-2122)  
 Spoon Isle
 1803)  
 Boulder Beach
@@ -3631,8 +3619,14 @@ Blockade
 Boulder Beach Island
 1806)  
 Finale
+1807)  
+Brillig Island
+1808)  
+Isle of Ewe
 1809)  
 Prologue
+1810)  
+Roe Island
 1811)  ELAINE
 [WORRIED] {Worried} Guybrush! Thank goodness you're all right!  I've been worried sick about you! First the explosion, then that big cloud of voodoo pox you released from LeChuck started infecting pirates all over the Caribbean...
 1812)  ELAINE
@@ -3665,10 +3659,6 @@ Prologue
 [cutesy]So you'll be my personal pirate paladin and get those summoning items {Happy} while I stall these guys?
 1826)  
 Never mind.
-2145)  
-Never mind.
-2146)  GUYBRUSH
-Never mind.
 1827)  
 Well, I gotta go.
 1828)  GUYBRUSH
@@ -3687,6 +3677,8 @@ Elaine wants YOU to save the MerLeader.
 [thinking]hmm, if I take this thing and combine it with this doohickey... it almost looks like a cow.  Do I need a cow?
 1835)  LECHUCK
 [Confused]Am I supposed to see anything special about it?
+1836)  LECHUCK
+[excited] Wait!  I think I've figured it out!  Now that I've got my key in place, you go use yours in the OTHER clamshell!
 1837)  LECHUCK
 [Concerned]Guybrush!  Thank goodness you're safe!    Elaine and I were so worried!
 1838)  LECHUCK
@@ -4067,8 +4059,6 @@ Morgan LeFlay
 Rowboat
 2021)  
 Palm Tree
-2116)  
-Palm Tree
 2022)  
 Rock
 2023)  
@@ -4221,10 +4211,6 @@ Totally Useless Stuff
 Hot Coals
 2098)  
 Statue
-2107)  
-Statue
-2108)  
-Statue
 2099)  
 Royal Hot Tub
 2100)  
@@ -4241,6 +4227,10 @@ Bait Shop Sign
 No Fishing Sign
 2106)  
 Fallen Statue
+2107)  
+Statue
+2108)  
+Statue
 2109)  
 Royal Chamber
 2110)  
@@ -4255,6 +4245,8 @@ MerLeader
 Tetra
 2115)  
 McGillicutty
+2116)  
+Palm Tree
 2117)  
 Coconut
 2118)  
@@ -4263,6 +4255,10 @@ Pirate Ship
 Sail out to the Screaming Narwhal
 2120)  
 Ship Battle
+2121)  
+Spinner Cay
+2122)  
+Spoon Isle
 2123)  
 Raft
 2124)  
@@ -4307,6 +4303,10 @@ You could try guessing a number.
 You look like your eyes are gonna dry out.
 2144)  
 Tell that lady behind you to button up her blouse!
+2145)  
+Never mind.
+2146)  GUYBRUSH
+Never mind.
 2147)  
 Maybe there's a fair way to settle your argument.
 2148)  
