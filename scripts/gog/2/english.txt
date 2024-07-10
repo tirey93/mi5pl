@@ -245,7 +245,7 @@ Map
 118)  GUYBRUSH
 {Worried} Yes... {Embarrassed} Morgan did it.
 119)  GUYBRUSH
-{Happy} That's the mast of my ship, The Screaming Narwhal!
+[while swordfighting]{Happy} That's the mast of my ship, The Screaming Narwhal!
 120)  MORGAN
 {Sarcastic} Yes, I know what a mast is.
 121)  GUYBRUSH
@@ -255,7 +255,7 @@ Map
 123)  MORGAN
 {Stern} Okay, shut up about the mast.
 124)  MORGAN
-{Strained} Uuugff!
+[frustrated]{Strained} Uuugff!
 125)  GUYBRUSH
 [while swordfighting]I think the mean lady trying to cut off my limbs takes precedence over navigating my ship right now.  Besides, there's no one at the wheel!
 126)  GUYBRUSH
@@ -356,7 +356,7 @@ Accidentally my dorsal fin!
 173)  GUYBRUSH
 {cocky}Hello again!
 174)  
-What's this about a cure?
+Whats this about a cure?
 175)  GUYBRUSH
 {suspicious}What's this about a cure?
 176)  ELAINE
@@ -454,7 +454,7 @@ I swam.
 222)  DESINGE
 Ah, ma petite murderess.  Where is the puny pirate and his superbly sickly hand?
 223)  MORGAN
-Right here.  {Excited} Ah, and what a glorious battle it was!  Guybrush was amazing! You should have seen the way he-
+Right Here.  {Excited} Ah, and what a glorious battle it was!  Guybrush was amazing! You should have seen the way he-
 224)  DESINGE
 {Angry} What?! No,no no no no, this will not do! I need ALL of Monsieur Threepwood!
 225)  MORGAN
@@ -636,7 +636,7 @@ You go and get Esponja Grande.  {happy}You don't need me for that. [leaning in, 
 313)  WINSLOW
 {scared}All right, all right! {stern}I'm going!
 314)  GUYBRUSH
-{proud}[Triumphantly] To Esponja Grande!
+{proud}[Triumphantly] To Esponga Grande!
 315)  VOODOO
 {Default} It has been said {Mystical} "What fates impose, that men must needs abide; It boots not to resist both wind and tide."
 316)  VOODOO
@@ -646,7 +646,7 @@ You go and get Esponja Grande.  {happy}You don't need me for that. [leaning in, 
 318)  VOODOO
 {Mystical} That is, if he lives long enough.[Show Sword at throat card]
 319)  MORGAN
-[still cocky]Well,  allow me to introduce myself.  I am Morgan LeFlay, {Fierce} Mighty Pirate Hunter™!  {Cocky} My name is feared across the seven seas!  {Dismissive} I've taken down some of the most hardened grog guzzling scumbags from here to Zanzibar. It's an honor to finally face off against {Excited} the legendary Guybrush Threepwood!
+[still cocky]Well,  allow me to introduce myself.  I am Morgan LeFlay, {Fierce} Mighty Pirate Hunter ™!  {Cocky} My name is feared across the seven seas!  {Dismissive} I've taken down some of the most hardened grog guzzling scumbags from here to Zanzibar. It's an honor to finally face off against {Excited} the legendary Guybrush Threepwood!
 320)  GUYBRUSH
 {Worried} LeFlay? {Confused} But, you're a woman!  I thought- Wait, {Proud} you've heard of me?
 321)  MORGAN
@@ -660,7 +660,7 @@ You go and get Esponja Grande.  {happy}You don't need me for that. [leaning in, 
 325)  GUYBRUSH
 We'll be fine, Mr. Winslow.  Just stay on course.
 326)  GUYBRUSH
-{happy}[Drawing in a deep breath of admiration]  Ah, this is the sweet pirate life!  {proud}Out in the deep blue with your best ship and crew searching for the world's rarest treasures...{suspicious} which just happens to be a giant voodoo sucking sea sponge in this case.  {confused}Makes you wonder why anyone would consider any other life, am I right, Mr. Winslow?
+{happy}[Drawing in a deep breath of admiration]  Ah, this is the sweet pirate life!  {proud}Out in the deep blue with your best ship and crew searching for the world's rarest treasures...{suspicious} which just happens to be a giant voodoo sucking sea sponge in this case.  {confused}Make you wonder why anyone would consider any other life, am I right Mr. Winslow?
 327)  GUYBRUSH
 {stern}Mr. Winslow?
 328)  GUYBRUSH
@@ -676,7 +676,7 @@ Not really.
 333)  WINSLOW
 {worried}Why must you tempt her, sir?
 334)  GUYBRUSH
-{suspicious}Don't worry, she won't do it.  She's only got orders to bring me in.  Killing you wouldn't bring her any profit.
+{suspicious}Don't worry, she won't do it.  She's only got orders to bring me in.  Killing you wouldn't  bring her any profit.
 335)  MORGAN
 {dismissive}He's right, I'm afraid.  Part of the Pirate Hunter's code: don't kill anyone you aren't getting paid to.  {serious}So, I'll just kill you, Guybrush.
 336)  GUYBRUSH
@@ -688,7 +688,7 @@ Not really.
 339)  
 You're bluffing!
 340)  
-Why don't you give this up and join my crew?
+Why don't you give this up and join my crew, sweetheart?
 341)  
 You don't have the skills or the wit to defeat me!
 342)  WINSLOW
@@ -1859,7 +1859,7 @@ Here, you might need this.
 {exasperated}As long as these pirates think I have the Sea Turtle artifact,{shocked} I'm stuck here!
 925)  HARDTACK
 {Sad} It must have rolled...
-926)  BILL
+926)  PIRATEA
 {stern}Come on, give us the golden sea turtle!  We saw you pry it outta that altar!
 927)  LECHUCK
 {stern}You'll have to pry it from my no longer cold, dead hand!

@@ -4,6 +4,7 @@ using po2tomi_converter.Settings;
 using System.Text;
 using po2tomi_converter.Dtos;
 using po2tomi_converter.Utils;
+using System.Collections.Generic;
 
 namespace po2tomi_converter.Commands
 {
@@ -35,7 +36,7 @@ namespace po2tomi_converter.Commands
             var translations = new List<Translation>();
             foreach (var lineEngGog in _linesEngGog)
             {
-                if (lineEngGog.Number == 2073)
+                if (lineEngGog.Number == 118)
                 {
 
                 }
@@ -43,7 +44,10 @@ namespace po2tomi_converter.Commands
                 {
                     var newShift = FindInSteam(lineEngGog, shift, _dictEngSteam);
                     if (newShift != null)
+                    {
+                        translations.AddRange(AddLinesBeforeShift(shift, newShift, lineEngGog));
                         shift = newShift.Value;
+                    }
                     else
                     {
                         translations.Add(new Translation
@@ -68,19 +72,7 @@ namespace po2tomi_converter.Commands
                         });
                         continue;
                     }
-                    for (int i = 0; i < newShift - shift; i++)
-                    {
-                        if (!_dictEngSteam.ContainsKey(lineEngGog.Number + shift + i))
-                            continue;
-
-                        var steamTranslation = new Translation
-                        {
-                            SteamEngLine = _dictEngSteam[lineEngGog.Number + shift + i],
-                            PlLine = _dictPl[lineEngGog.Number + shift + i],
-                            GogEngLine = null
-                        };
-                        translations.Add(steamTranslation);
-                    }
+                    translations.AddRange(AddLinesBeforeShift(shift, newShift, lineEngGog));
                     shift = newShift.Value;
                 }
                 translations.Add(new Translation
@@ -118,6 +110,25 @@ namespace po2tomi_converter.Commands
                 }
             }
             File.WriteAllText(_settings.PoFileLocation, poResult.ToString());
+        }
+
+        private List<Translation> AddLinesBeforeShift(int shift, int? newShift, Line lineEngGog)
+        {
+            var result = new List<Translation>();
+            for (int i = 0; i < newShift - shift; i++)
+            {
+                if (!_dictEngSteam.ContainsKey(lineEngGog.Number + shift + i))
+                    continue;
+
+                var steamTranslation = new Translation
+                {
+                    SteamEngLine = _dictEngSteam[lineEngGog.Number + shift + i],
+                    PlLine = _dictPl[lineEngGog.Number + shift + i],
+                    GogEngLine = null
+                };
+                result.Add(steamTranslation);
+            }
+            return result;
         }
 
         private int? FindInSteam(Line gogLine, int shift, Dictionary<int, Line> dictEngSteam)
