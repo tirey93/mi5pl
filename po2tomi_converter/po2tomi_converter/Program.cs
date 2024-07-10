@@ -21,7 +21,8 @@ switch (options.Value.Mode)
 {
     case Mode.ToPo:
         var toPoCommand = serviceProvider.GetService<ToPoCommand>();
-        toPoCommand.Execute();
+        if(!toPoCommand.HasErrors)
+            toPoCommand.Execute();
         break;
     case Mode.FromPo:
         var fromPoCommand = serviceProvider.GetService<FromPoCommand>();

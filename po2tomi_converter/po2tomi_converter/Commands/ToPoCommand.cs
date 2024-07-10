@@ -16,10 +16,30 @@ namespace po2tomi_converter.Commands
         private readonly List<Line> _linesEngGog;
         private readonly Dictionary<int, Line> _dictPl;
 
+        public bool HasErrors { get; set; }
+
         public ToPoCommand(IOptions<MainSettings> options) 
         {
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             _settings = options.Value;
+
+            var errors = string.Empty;
+            if (!File.Exists(_settings.PoFileLocation))
+                errors += "Error: PoFile was not found in given path\n";
+            if (!File.Exists(_settings.SteamPlFileLocation))
+                errors += "Error: SteamPlFile was not found in given path\n";
+            if (!File.Exists(_settings.GogPlFileLocation))
+                errors += "Error: GogPlFile was not found in given path\n";
+            if (!File.Exists(_settings.SteamEngFileLocation))
+                errors += "Error: SteamEngFile was not found in given path\n";
+            if (!File.Exists(_settings.GogEngFileLocation))
+                errors += "Error: GogEngFile was not found in given path\n";
+            if (!string.IsNullOrEmpty(errors))
+            {
+                Console.WriteLine(errors);
+                HasErrors = true;
+                return;
+            }
 
             _dictEngSteam = LineUtils.LoadLines(_settings.SteamEngFileLocation)
                 .ToDictionary(x => x.Number, y => y);

@@ -17,6 +17,19 @@ namespace po2tomi_converter.Commands
 
         public void Execute()
         {
+            var errors = string.Empty;
+            if (!File.Exists(_settings.PoFileLocation))
+                errors += "Error: PoFile was not found in given path\n";
+            if (!File.Exists(_settings.SteamPlFileLocation))
+                errors += "Error: SteamPlFile was not found in given path\n";
+            if (!File.Exists(_settings.GogPlFileLocation))
+                errors += "Error: GogPlFile was not found in given path\n";
+            if (!string.IsNullOrEmpty(errors))
+            {
+                Console.WriteLine(errors);
+                return;
+            }
+
             string file = File.ReadAllText(_settings.PoFileLocation);
             var splitted = file.Split("msgctxt");
 
@@ -24,7 +37,6 @@ namespace po2tomi_converter.Commands
             var resultGogPl = new StringBuilder();
             var resultSteamOrg = new StringBuilder();
             var resultGogOrg = new StringBuilder();
-            string errors = "";
 
             foreach (var text in splitted)
             {
@@ -104,8 +116,10 @@ namespace po2tomi_converter.Commands
 
             File.WriteAllText(_settings.SteamPlFileLocation, resultSteamPl.ToString(), Encoding.GetEncoding("windows-1250"));
             File.WriteAllText(_settings.GogPlFileLocation, resultGogPl.ToString(), Encoding.GetEncoding("windows-1250"));
-            File.WriteAllText(_settings.SteamEngFileLocation, resultSteamOrg.ToString(), Encoding.GetEncoding("windows-1250"));
-            File.WriteAllText(_settings.GogEngFileLocation, resultGogOrg.ToString(), Encoding.GetEncoding("windows-1250"));
+            if (File.Exists(_settings.SteamEngFileLocation))
+                File.WriteAllText(_settings.SteamEngFileLocation, resultSteamOrg.ToString(), Encoding.GetEncoding("windows-1250"));
+            if (File.Exists(_settings.GogEngFileLocation))
+                File.WriteAllText(_settings.GogEngFileLocation, resultGogOrg.ToString(), Encoding.GetEncoding("windows-1250"));
         }
     }
 }
