@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Back</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Back on the Narwhal, I've got an entire kitty full of cold, hard...IOUs.</seg>
       </tuv>
       <tuv lang="pl">
@@ -1422,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Combine</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Combine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Combine Items</seg>
       </tuv>
       <tuv lang="pl">
@@ -1950,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Examine</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Examine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Examine Mode Off</seg>
       </tuv>
       <tuv lang="pl">
@@ -2154,6 +2178,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Pauza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game paused.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Game paused.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4376,8 +4408,8 @@
       <tuv lang="en-US">
         <seg>Load</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240706T104741Z">
-        <seg>Wczytaj1</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240710T120633Z">
+        <seg>Wczytaj2</seg>
       </tuv>
     </tu>
     <tu>
@@ -5142,6 +5174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Opened Chest</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Opened Chest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Or belch so loud that all can HEAR</seg>
       </tuv>
       <tuv lang="pl">
@@ -5358,6 +5398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press SELECT to continue</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Press SELECT to continue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press Space to Continue</seg>
       </tuv>
       <tuv lang="pl">
@@ -5418,6 +5466,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Kałuża Wosku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Put Away</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Put Away</seg>
       </tuv>
     </tu>
     <tu>
@@ -6014,6 +6070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Starting a new game will overwrite your existing save in slot number 1.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Starting a new game will overwrite your existing save in slot number 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>States and/or other countries. © 1990-2009 Lucasfilm Entertainment Company Ltd.</seg>
       </tuv>
       <tuv lang="pl">
@@ -6162,6 +6226,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Na razie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Take Out</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Take Out</seg>
       </tuv>
     </tu>
     <tu>
@@ -21159,7 +21231,7 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">tomi_4.po</prop>
-      <prop type="path">540_0_GUYBRUSH</prop>
+      <prop type="path">540_540_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>{Happy} Teehee!</seg>
       </tuv>
@@ -21169,7 +21241,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_4.po</prop>
-      <prop type="path">1571_0_STAN</prop>
+      <prop type="path">1571_1571_0_STAN</prop>
       <tuv lang="en-US">
         <seg>{Thinking} Sorry kid, can't talk!  Conflict of interest, attorney-pirate privilege and all that stuff!</seg>
       </tuv>

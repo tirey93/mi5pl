@@ -518,14 +518,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Bark bark!!</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Barrel of Banang</seg>
       </tuv>
       <tuv lang="pl">
@@ -1294,14 +1286,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Euughhh</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>Examine Mode Off</seg>
       </tuv>
       <tuv lang="pl">
@@ -2042,6 +2026,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Jest przepełniony miłością!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hit 'em with the ol' Backwards Sea Slug!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Hit 'em with the ol' Backwards Sea Slug!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2896,8 +2888,8 @@
       <tuv lang="en-US">
         <seg>Load</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240706T104810Z">
-        <seg>Wczytaj1</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240710T120720Z">
+        <seg>Wczytaj3</seg>
       </tuv>
     </tu>
     <tu>
@@ -4818,14 +4810,6 @@
       </tuv>
       <tuv lang="pl">
         <seg>Jestem pewny, że tak!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>Uh-uh.</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -8122,14 +8106,6 @@
       </tuv>
       <tuv lang="pl">
         <seg>[process: ghostly swirly echoes][Ambient sound - LeChuck's soul is trapped inside of a bottle.  Think torment, anger, pain] Aaaaarrhhhh....</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>[process: in the distance]{Worried} Waaahhhhhaaaahhh!</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -14550,14 +14526,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>{beaten}[Getting up] Uh-uh.</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>{beaten}[Hurt, out of breath, still a smart ass] Ruh...ruh...{cocky}refreshing...</seg>
       </tuv>
       <tuv lang="pl">
@@ -15882,14 +15850,6 @@
       </tuv>
       <tuv lang="pl">
         <seg>{default}[pickup2][injured] Cokolwiek się zdarzy, musisz powstrzymać LeChucka, gdy będzie między światami! {stern}Obiecaj mi. Nie zostaniesz ponownie jego narzeczoną!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>{default}[soft ominous chuckle] Hmm hmm hmm.</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -17566,14 +17526,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>{scared}Ahhheeeiieee!!</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>{scared}Waa! [Being grabbed by the neck by LeChuck]</seg>
       </tuv>
       <tuv lang="pl">
@@ -18266,14 +18218,6 @@
       </tuv>
       <tuv lang="pl">
         <seg>{surprised}Aaaaa!    [Falls from the crow's nest and hits]</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>{surprised}Ahhhaahhhhahh!!!!</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>

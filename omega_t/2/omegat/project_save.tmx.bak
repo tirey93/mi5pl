@@ -1854,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I need my mast repaired again.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>I need my mast repaired again.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I need to find La Esponja Grande.</seg>
       </tuv>
       <tuv lang="pl">
@@ -2544,8 +2552,8 @@
       <tuv lang="en-US">
         <seg>Load</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240706T104611Z">
-        <seg>Zapisz1</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240710T120455Z">
+        <seg>Zapisz2</seg>
       </tuv>
     </tu>
     <tu>
@@ -9458,6 +9466,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>To idealne miejsce na ukrycie skarbu.  Gdybyś był bystrym piratem sam byś tam go zakopał!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{Happy} That's the mast of my ship, The Screaming Narwhal!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Happy} That's the mast of my ship, The Screaming Narwhal!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17951,7 +17967,7 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">tomi_2.po</prop>
-      <prop type="path">1499_0_TRENCHFOOT</prop>
+      <prop type="path">1499_1398_0_TRENCHFOOT</prop>
       <tuv lang="en-US">
         <seg>Nope.</seg>
       </tuv>
@@ -17961,7 +17977,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_2.po</prop>
-      <prop type="path">2242_0_</prop>
+      <prop type="path">2242_2073_0_</prop>
       <tuv lang="en-US">
         <seg>To Be Continued in</seg>
       </tuv>
@@ -17971,7 +17987,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_2.po</prop>
-      <prop type="path">1836_0_LECHUCK</prop>
+      <prop type="path">1836__0_LECHUCK</prop>
       <tuv lang="en-US">
         <seg>[excited] Wait!  I think I've figured it out!  Now that I've got my key in place, you go use yours in the OTHER clamshell!</seg>
       </tuv>
@@ -17981,7 +17997,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_2.po</prop>
-      <prop type="path">59_0_GUYBRUSH</prop>
+      <prop type="path">59__0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>{Default} The SCUMM Bar! Haven for the rowdiest bunch of drunken scallywags you'll ever see!</seg>
       </tuv>
@@ -17991,7 +18007,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_2.po</prop>
-      <prop type="path">1613_0_TRENCHFOOT</prop>
+      <prop type="path">1613_1512_0_TRENCHFOOT</prop>
       <tuv lang="en-US">
         <seg>{confused}What do you mean?</seg>
       </tuv>

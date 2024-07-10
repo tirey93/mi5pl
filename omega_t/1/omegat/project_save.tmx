@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Squawk* It's me, Guybrush Threepwood, Mighty Pirate!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>*Squawk* It's me, Guybrush Threepwood, Mighty Pirate!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>... a.k.a "The Ghost Pirate LeChuck,"</seg>
       </tuv>
       <tuv lang="pl">
@@ -958,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Back</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Balcony Door</seg>
       </tuv>
       <tuv lang="pl">
@@ -1438,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Close</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Close Inventory</seg>
       </tuv>
       <tuv lang="pl">
@@ -1486,10 +1510,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Combine</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Combine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Combine Items</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Połącz Przedmioty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combine With</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Combine With</seg>
       </tuv>
     </tu>
     <tu>
@@ -1722,6 +1762,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Fotel operacyjny DeSinge'a można obracać oraz nachylać w górę i w dół używając +Control Pada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DeSinge's examination table can be moved by using the left and right arrows to rotate, or the up and down arrows to incline and decline.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>DeSinge's examination table can be moved by using the left and right arrows to rotate, or the up and down arrows to incline and decline.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Equip</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Equip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Er.</seg>
       </tuv>
       <tuv lang="pl">
@@ -2130,6 +2186,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Nawet z mieczem Róż Piżama Pierre'a nie przerazi nikogo w tej różowej piżamce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Examine</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Examine</seg>
       </tuv>
     </tu>
     <tu>
@@ -2418,6 +2482,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Gra zapisana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game paused.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Game paused.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3542,14 +3614,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>I found a scroll in a bottle!</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg>Znalazłem zwój w butelce!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>I found the root beer!</seg>
       </tuv>
       <tuv lang="pl">
@@ -3760,7 +3824,7 @@
       <tuv lang="en-US">
         <seg>I should probably come back after he's done with his patient.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240706T085424Z">
+      <tuv lang="pl">
         <seg>Zajrzę tu, jak skończy ze swoim pacjentem.</seg>
       </tuv>
     </tu>
@@ -4750,6 +4814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Later</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Later</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Later?  But she could be in danger!{worried}  Or dead!  {surprised}Or worse!</seg>
       </tuv>
       <tuv lang="pl">
@@ -4922,6 +4994,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Maszt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Main Menu</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Main Menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5345,7 +5425,7 @@
         <seg>No, don't!</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Absolutnie!</seg>
+        <seg>Nie, zostańmy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5592,7 +5672,7 @@
       <tuv lang="en-US">
         <seg>Okay</seg>
       </tuv>
-      <tuv lang="pl">
+      <tuv lang="pl" changeid="dapyt" changedate="20240710T120325Z">
         <seg>Tak jest</seg>
       </tuv>
     </tu>
@@ -5894,6 +5974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press SELECT to continue</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Press SELECT to continue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press Space to Continue</seg>
       </tuv>
       <tuv lang="pl">
@@ -5946,6 +6034,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Bajorko Smoły</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Purchase</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Purchase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Put Away</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Put Away</seg>
       </tuv>
     </tu>
     <tu>
@@ -6104,7 +6208,7 @@
       <tuv lang="en-US">
         <seg>Ron Gilbert</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240706T102615Z" creationid="damia" creationdate="20240706T102615Z">
+      <tuv lang="pl">
         <seg>Ron Gilbert</seg>
       </tuv>
     </tu>
@@ -6558,6 +6662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Starting a new game will overwrite your existing save in slot number 1.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Starting a new game will overwrite your existing save in slot number 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>States and/or other countries. © 1990-2009 Lucasfilm Entertainment Company Ltd.</seg>
       </tuv>
       <tuv lang="pl">
@@ -6702,6 +6814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Take Out</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Take Out</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tales of Monkey Island</seg>
       </tuv>
       <tuv lang="pl">
@@ -6752,7 +6872,7 @@
       <tuv lang="en-US">
         <seg>Telltale and the Telltale Games logo are trademarks of Telltale, Inc.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240706T102655Z">
+      <tuv lang="pl">
         <seg>Telltale oraz logo Telltale Games są znakami handlowymi Telltale, Inc.</seg>
       </tuv>
     </tu>
@@ -7374,6 +7494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To combine items, select an item and tap one of the empty circles on the left to place it, then select the plus sign to combine them.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>To combine items, select an item and tap one of the empty circles on the left to place it, then select the plus sign to combine them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To display your inventory, move the cursor to the right edge of the screen and select the tab that appears.  To examine the coffin, select the magnifying glass, then select the coffin.</seg>
       </tuv>
       <tuv lang="pl">
@@ -7386,6 +7514,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>By wyświetlić ekwipunek, naciśnij Przycisk - na swoim Wii Remote.  By zbadać trumnę, zaznacz szkło powiększające lub naciśnij przycisk 2, po czym zaznacz trumnę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To display your inventory, tap the tab on the right side of the screen. To examine the coffin, select the magnifying glass, then select the coffin.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>To display your inventory, tap the tab on the right side of the screen. To examine the coffin, select the magnifying glass, then select the coffin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7422,6 +7558,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To select an object, tap it.  Try selecting the voodoo instructions on the mast.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>To select an object, tap it.  Try selecting the voodoo instructions on the mast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To select an object, walk up to it until the selection icon appears on your target. Then press the cross button to select it.  You can also use L1 and R1 to cycle through selectable items.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>To select an object, walk up to it until the selection icon appears on your target. Then press the cross button to select it.  You can also use L1 and R1 to cycle through selectable items.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To use an item from your inventory on objects in the world, tap an item in your inventory to select it. Then tap the X to close your inventory, and tap the object you want to use the item on.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>To use an item from your inventory on objects in the world, tap an item in your inventory to select it. Then tap the X to close your inventory, and tap the object you want to use the item on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To view maps, move the Pointer to the right edge of the screen and select the tab. Examine your map by selecting the magnifying glass with the A Button, then select the map.</seg>
       </tuv>
       <tuv lang="pl">
@@ -7434,6 +7594,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>By chodzić, klikaj i przeciągaj myszką tam, gdzie chcesz dojść.  Spróbuj przejść do masztu po twojej lewej stronie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To walk around, hold and drag in the direction you want to go.  Try walking toward the mast on the left.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>To walk around, hold and drag in the direction you want to go.  Try walking toward the mast on the left.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8766,18 +8934,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>You'll have to do better than that, lad</seg>
+        <seg>You'll have to do better than that, lad!</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Oj, chyba nie wyszło tak jak trzeba, chłopcze!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You'll have to do better than that. Lad!</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg>Oj, chyba nie wyszło tak ja trzeba. Chłopcze!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10528,7 +10688,7 @@
       <tuv lang="en-US">
         <seg>[screaming][filter: through a tube]  HEY!  WHAT HAPPENED TO ME OTHER LEG!?</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240706T085309Z">
+      <tuv lang="pl">
         <seg>HEJ!  CO SIĘ STAŁO Z MOJĄ DRUGĄ NOGĄ?!</seg>
       </tuv>
     </tu>
@@ -11370,14 +11530,6 @@
       </tuv>
       <tuv lang="pl">
         <seg>Układ?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>{Confused} A snap.</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -12336,7 +12488,7 @@
       <tuv lang="en-US">
         <seg>{Embarrassed} [sheepish] Ooh, the Pox is blowing out to sea!  Hope that doesn't come back to bite me in the fundament.  {Sarcastic} Well, I'm sure it'll be fine.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240706T091146Z">
+      <tuv lang="pl">
         <seg>Och! Ospa rozwiewa się po morzu!  Byle nie zawróciła i nie złapała mnie pod plecami.  Dobra, jakoś to będzie.</seg>
       </tuv>
     </tu>
@@ -12882,14 +13034,6 @@
       </tuv>
       <tuv lang="pl">
         <seg>Przez wzgląd na ciupę, flagę i ogólną aurę wypaczonej sprawiedliwości, wnoszę, że to gmach sądu Wyspy Rozbitków.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>{Incredulous} Hmm.</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -13442,14 +13586,6 @@
       </tuv>
       <tuv lang="pl">
         <seg>Ciekawie.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>{Stern} A sna-OW!</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -14712,7 +14848,7 @@
       <tuv lang="en-US">
         <seg>{cocky}Elaine thought I was an idiot for buying the "auto-navigation" option, but who's the idiot now, huh?{default}</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240706T095851Z">
+      <tuv lang="pl">
         <seg>Elaine wyzwała mnie od matołów za zakup opcji z autonawigacją. I kto jest teraz matołem, co?</seg>
       </tuv>
     </tu>
@@ -17902,7 +18038,7 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>{stern}[Annoyed] And now the dock is smoldering. Perfect.</seg>
+        <seg>{stern}[Annoyed] And now the dock is smoldering.  Perfect.</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Teraz dok się tli. Idealnie.</seg>
@@ -19335,7 +19471,7 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">74_1_</prop>
+      <prop type="path">74_69_1_</prop>
       <tuv lang="en-US">
         <seg>Any unsaved progress in your current game will be lost.</seg>
       </tuv>
@@ -19345,7 +19481,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2058_0_</prop>
+      <prop type="path">2058__0_</prop>
       <tuv lang="en-US">
         <seg>Audio Settings</seg>
       </tuv>
@@ -19355,7 +19491,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2397_2_</prop>
+      <prop type="path">2397__2_</prop>
       <tuv lang="en-US">
         <seg>CHAPTER 1</seg>
       </tuv>
@@ -19365,7 +19501,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2057_0_</prop>
+      <prop type="path">2057__0_</prop>
       <tuv lang="en-US">
         <seg>Gameplay Settings</seg>
       </tuv>
@@ -19375,7 +19511,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2059_0_</prop>
+      <prop type="path">2059__0_</prop>
       <tuv lang="en-US">
         <seg>Graphics Settings</seg>
       </tuv>
@@ -19385,7 +19521,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2220_0_GUYBRUSH</prop>
+      <prop type="path">2220_2192_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>Nope.  Nothing but a bunch of lazy crewmen.  {disgust}I can't believe I spent so much time recruiting those guys.{default}</seg>
       </tuv>
@@ -19395,7 +19531,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">441_0_GUYBRUSH</prop>
+      <prop type="path">441_435_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>Ow!</seg>
       </tuv>
@@ -19405,7 +19541,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2312_0_</prop>
+      <prop type="path">2312_2270_0_</prop>
       <tuv lang="en-US">
         <seg>Ready to start</seg>
       </tuv>
@@ -19415,7 +19551,17 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2397_0_</prop>
+      <prop type="path">_2417_0_</prop>
+      <tuv lang="en-US">
+        <seg>Sometimes after certain events, characters will have new things to say.  Try selecting Elaine to talk to her.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Sometimes after certain events, characters will have new things to say.  Try selecting Elaine to talk to her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">tomi_1.po</prop>
+      <prop type="path">2397__0_</prop>
       <tuv lang="en-US">
         <seg>TALES OF MONKEY ISLAND</seg>
       </tuv>
@@ -19425,7 +19571,27 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">1855_0_</prop>
+      <prop type="path">_2409_0_</prop>
+      <tuv lang="en-US">
+        <seg>Thanks for playing the Tales of Monkey Island demo! This is just the beginning - play the full series to join Guybrush on his exciting piratey quest!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Thanks for playing the Tales of Monkey Island demo! This is just the beginning - play the full series to join Guybrush on his exciting piratey quest!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">tomi_1.po</prop>
+      <prop type="path">_2399_0_</prop>
+      <tuv lang="en-US">
+        <seg>Welcome to Tales of Monkey Island! To join Guybrush on the first chapter of his adventures, select New Game.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Welcome to Tales of Monkey Island! To join Guybrush on the first chapter of his adventures, select New Game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">tomi_1.po</prop>
+      <prop type="path">1855__0_</prop>
       <tuv lang="en-US">
         <seg>What can you tell me about this bottle?</seg>
       </tuv>
@@ -19435,7 +19601,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2433_0_GUYBRUSH</prop>
+      <prop type="path">2433__0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>[read like “Is that you, plunder bunny?”] Plunder bunny?</seg>
       </tuv>
@@ -19445,7 +19611,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">1744_0_DESINGE</prop>
+      <prop type="path">1744_1723_0_DESINGE</prop>
       <tuv lang="en-US">
         <seg>{Angry} Are you outta your grog-addled mind?!? No!</seg>
       </tuv>
@@ -19455,7 +19621,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">1533_0_GUYBRUSH</prop>
+      <prop type="path">1533_1520_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>{confused}What?</seg>
       </tuv>
@@ -19465,7 +19631,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">732_0_GUYBRUSH</prop>
+      <prop type="path">732_720_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>{confused}What?</seg>
       </tuv>
@@ -19475,7 +19641,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2219_0_GUYBRUSH</prop>
+      <prop type="path">2219_2191_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>{default}I wonder if there's anything useful down there...</seg>
       </tuv>

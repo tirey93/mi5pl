@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Standard)</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>(Standard)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Widescreen)</seg>
       </tuv>
       <tuv lang="pl">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>(Wzdycha).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*Squawk* It's me, Guybrush Threepwood, Mighty Pirate!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>*Squawk* It's me, Guybrush Threepwood, Mighty Pirate!</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,6 +406,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>????</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>????</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A B C</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>A B C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A big statue that looks like someone playing a musical salamander.</seg>
       </tuv>
       <tuv lang="pl">
@@ -514,6 +546,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Ach, więc to Bóg musiał być tym, który namówił cię na założenie spodenek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ah.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Ah.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aha!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Aha!</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Arrr!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Arrr!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Arrr, keep yur poxy hand out of me grog!</seg>
       </tuv>
       <tuv lang="pl">
@@ -814,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Au revoir!{default}</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Au revoir!{default}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Audio Settings</seg>
       </tuv>
       <tuv lang="pl">
@@ -834,6 +898,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Aj! To była by dla mnie przyjemność żeglować z kimś tak dowcipnym, jak ty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aye! {Sarcastic}It could be a pleasure to sail with a refined wit such as yourself.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Aye! {Sarcastic}It could be a pleasure to sail with a refined wit such as yourself.</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +962,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Tak jest!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Back</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Back</seg>
       </tuv>
     </tu>
     <tu>
@@ -1150,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CLAMPAXIA</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>CLAMPAXIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cage</seg>
       </tuv>
       <tuv lang="pl">
@@ -1366,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Close</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Close Inventory</seg>
       </tuv>
       <tuv lang="pl">
@@ -1414,10 +1510,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Combine</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Combine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Combine Items</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Połącz Przedmioty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combine With</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Combine With</seg>
       </tuv>
     </tu>
     <tu>
@@ -1574,6 +1686,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DSHRAHG</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>DSHRAHG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Daniel Herrera</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Daniel Herrera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dave Grossman</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Dave Grossman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>David Bogan</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>David Bogan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>De Singe</seg>
       </tuv>
       <tuv lang="pl">
@@ -1598,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DeSinge</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>DeSinge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DeSinge's examination table can be moved by using A and D to rotate left and right, or W and S to incline and decline.</seg>
       </tuv>
       <tuv lang="pl">
@@ -1610,6 +1762,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Fotel operacyjny DeSinge'a można obracać oraz nachylać w górę i w dół używając +Control Pada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DeSinge's examination table can be moved by using the left and right arrows to rotate, or the up and down arrows to incline and decline.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>DeSinge's examination table can be moved by using the left and right arrows to rotate, or the up and down arrows to incline and decline.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1694,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Derek Sakai</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Derek Sakai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Desingeograph of Guybrush's Hand</seg>
       </tuv>
       <tuv lang="pl">
@@ -1730,6 +1898,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>A nie byłeś duchem?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Diorama</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Diorama</seg>
       </tuv>
     </tu>
     <tu>
@@ -1894,10 +2070,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ESK'RGOH</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>ESK'RGOH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Eek!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Eek!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Eek.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Eek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Effects: Adjust the volume of sound effects.</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Efekty: Reguluje głośność efektów dźwiękowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Elaine</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Elaine</seg>
       </tuv>
     </tu>
     <tu>
@@ -1958,6 +2166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Equip</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Equip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Er.</seg>
       </tuv>
       <tuv lang="pl">
@@ -1970,6 +2186,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Nawet z mieczem Róż Piżama Pierre'a nie przerazi nikogo w tej różowej piżamce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Examine</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Examine</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2234,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Lepiej będę na nią uważał.  Aj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FALHALA</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>FALHALA</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,6 +2454,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GOODGREEFIA</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>GOODGREEFIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game</seg>
       </tuv>
       <tuv lang="pl">
@@ -2242,6 +2482,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Gra zapisana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game paused.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Game paused.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2518,6 +2766,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Guybrush</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Guybrush</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Guybrush Threepwood!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Guybrush Threepwood!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Guybrush finally managed to reverse Flotsam's winds, allowing him to set sail for Elaine.  His hand, however, has other plans... or maybe it's just being a jerk.</seg>
       </tuv>
       <tuv lang="pl">
@@ -2546,6 +2810,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Guybrush wylądował na plaży Wyspy Rozbitków z ręką zainfekowaną voodoo-chorobą. Nie wie też gdzie jest jego piękna i ukochana żona, Elaine.  Powitał go redaktor naczelny Davey Szkrabród, który wyjaśnił mu, że jedyną osobą, która może pomóc mu wydać się z wyspy jest Głęboki Flak.  Szkrabród obiecał wyjawić lokację Głębokiego Flaka pod warunkiem, że Guybrush stworzy jakieś ciekawe pirackie newsy. Guybrush przystępuje do działania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Guybrush?</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Guybrush?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HAIGHNO</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>HAIGHNO</seg>
       </tuv>
     </tu>
     <tu>
@@ -2642,6 +2922,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Za stary jestem na niego.  Ale z tego, co mówią tutejsi ludzie, można by pomyśleć, że to diabeł wcielony!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heh.{default}</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Heh.{default}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2862,6 +3150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hmm.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Hmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hmm.  Looks like I've only got a couple of steps left.</seg>
       </tuv>
       <tuv lang="pl">
@@ -2922,6 +3218,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Hmmm, gdzie ja wcześniej widziałem te twarze?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hmmm.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Hmmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hmmm...</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Hmmm...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3302,14 +3614,6 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>I found a scroll in a bottle!</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg>Znalazłem zwój w butelce!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>I found the root beer!</seg>
       </tuv>
       <tuv lang="pl">
@@ -3520,7 +3824,7 @@
       <tuv lang="en-US">
         <seg>I should probably come back after he's done with his patient.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240706T085424Z">
+      <tuv lang="pl">
         <seg>Zajrzę tu, jak skończy ze swoim pacjentem.</seg>
       </tuv>
     </tu>
@@ -3822,6 +4126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IKKPTOO</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>IKKPTOO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ick, this cheese wheel's starting to go soft.  Maybe I shouldn't be storing it in my pants.</seg>
       </tuv>
       <tuv lang="pl">
@@ -3834,6 +4146,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Bożek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ieee!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Ieee!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ieeee!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Ieeee!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4246,6 +4574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jacques</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Jacques</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jail</seg>
       </tuv>
       <tuv lang="pl">
@@ -4258,6 +4594,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Rzeźby w Więzieniu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Joaquin D'Oro</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Joaquin D'Oro</seg>
       </tuv>
     </tu>
     <tu>
@@ -4470,10 +4814,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Later</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Later</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Later?  But she could be in danger!{worried}  Or dead!  {surprised}Or worse!</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Później?  Ale może jej coś grozić! Albo nie żyje!  Albo gorzej!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LeChuck</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>LeChuck</seg>
       </tuv>
     </tu>
     <tu>
@@ -4606,6 +4966,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MAPLACIEA</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>MAPLACIEA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MEMLEST</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>MEMLEST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine</seg>
       </tuv>
       <tuv lang="pl">
@@ -4618,6 +4994,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Maszt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Main Menu</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Main Menu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4642,6 +5026,30 @@
       </tuv>
       <tuv lang="pl">
         <seg>Mapa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mark Darin</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Mark Darin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marketing text goes here.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Marketing text goes here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marshall</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Marshall</seg>
       </tuv>
     </tu>
     <tu>
@@ -4726,6 +5134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Michael Land</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Michael Land</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Microscope</seg>
       </tuv>
       <tuv lang="pl">
@@ -4738,6 +5154,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Szczęśliwa Mapa Mike'a Ironbutta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mike Stemmle</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Mike Stemmle</seg>
       </tuv>
     </tu>
     <tu>
@@ -4862,6 +5286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NOSTLAGUHH</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>NOSTLAGUHH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nah.</seg>
       </tuv>
       <tuv lang="pl">
@@ -4942,6 +5374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No Problem!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>No Problem!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No one allowed in there but Keelhauler employees, Leapwood.  You thinking of becoming a reporter?</seg>
       </tuv>
       <tuv lang="pl">
@@ -4985,7 +5425,7 @@
         <seg>No, don't!</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Absolutnie!</seg>
+        <seg>Nie, zostańmy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5158,6 +5598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>OWCHEE</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>OWCHEE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Of course not.  YOU may be silly, but I'm not!  Ha!</seg>
       </tuv>
       <tuv lang="pl">
@@ -5214,10 +5662,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>Okay</seg>
+        <seg>Oh.</seg>
       </tuv>
       <tuv lang="pl">
-        <seg>Tak jest</seg>
+        <seg>Oh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay</seg>
+      </tuv>
+      <tuv lang="pl" changeid="dapyt" changedate="20240710T120320Z">
+        <seg>Tak jest2</seg>
       </tuv>
     </tu>
     <tu>
@@ -5298,6 +5754,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Au!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ow.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Ow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>POLLYGONUS</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>POLLYGONUS</seg>
       </tuv>
     </tu>
     <tu>
@@ -5502,6 +5974,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press SELECT to continue</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Press SELECT to continue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press Space to Continue</seg>
       </tuv>
       <tuv lang="pl">
@@ -5558,6 +6038,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Purchase</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Purchase</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Put Away</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Put Away</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pyrite Parrot</seg>
       </tuv>
       <tuv lang="pl">
@@ -5602,6 +6098,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Koszyk ze Szklanymi Jednorożcami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Randy Tudor</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Randy Tudor</seg>
       </tuv>
     </tu>
     <tu>
@@ -5704,7 +6208,7 @@
       <tuv lang="en-US">
         <seg>Ron Gilbert</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240706T102615Z" creationid="damia" creationdate="20240706T102615Z">
+      <tuv lang="pl">
         <seg>Ron Gilbert</seg>
       </tuv>
     </tu>
@@ -5754,6 +6258,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>DLA NAUKI!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SHUTTLEMOC</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>SHUTTLEMOC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sacre merde!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Sacre merde!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5930,6 +6450,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Znak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sir?</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Sir?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6134,6 +6662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Starting a new game will overwrite your existing save in slot number 1.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Starting a new game will overwrite your existing save in slot number 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>States and/or other countries. © 1990-2009 Lucasfilm Entertainment Company Ltd.</seg>
       </tuv>
       <tuv lang="pl">
@@ -6270,6 +6806,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>THINKIKAN</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>THINKIKAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Take Out</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Take Out</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tales of Monkey Island</seg>
       </tuv>
       <tuv lang="pl">
@@ -6320,8 +6872,8 @@
       <tuv lang="en-US">
         <seg>Telltale and the Telltale Games logo are trademarks of Telltale, Inc.</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240706T100415Z">
-        <seg>Telltale oraz logo Telltale Games są zażółć znakami handlowymi Telltale, Inc.</seg>
+      <tuv lang="pl">
+        <seg>Telltale oraz logo Telltale Games są znakami handlowymi Telltale, Inc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6894,6 +7446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Threepwood!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Threepwood!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Throw me the rope!</seg>
       </tuv>
       <tuv lang="pl">
@@ -6934,6 +7494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To combine items, select an item and tap one of the empty circles on the left to place it, then select the plus sign to combine them.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>To combine items, select an item and tap one of the empty circles on the left to place it, then select the plus sign to combine them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To display your inventory, move the cursor to the right edge of the screen and select the tab that appears.  To examine the coffin, select the magnifying glass, then select the coffin.</seg>
       </tuv>
       <tuv lang="pl">
@@ -6946,6 +7514,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>By wyświetlić ekwipunek, naciśnij Przycisk - na swoim Wii Remote.  By zbadać trumnę, zaznacz szkło powiększające lub naciśnij przycisk 2, po czym zaznacz trumnę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To display your inventory, tap the tab on the right side of the screen. To examine the coffin, select the magnifying glass, then select the coffin.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>To display your inventory, tap the tab on the right side of the screen. To examine the coffin, select the magnifying glass, then select the coffin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6982,6 +7558,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To select an object, tap it.  Try selecting the voodoo instructions on the mast.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>To select an object, tap it.  Try selecting the voodoo instructions on the mast.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To select an object, walk up to it until the selection icon appears on your target. Then press the cross button to select it.  You can also use L1 and R1 to cycle through selectable items.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>To select an object, walk up to it until the selection icon appears on your target. Then press the cross button to select it.  You can also use L1 and R1 to cycle through selectable items.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To use an item from your inventory on objects in the world, tap an item in your inventory to select it. Then tap the X to close your inventory, and tap the object you want to use the item on.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>To use an item from your inventory on objects in the world, tap an item in your inventory to select it. Then tap the X to close your inventory, and tap the object you want to use the item on.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To view maps, move the Pointer to the right edge of the screen and select the tab. Examine your map by selecting the magnifying glass with the A Button, then select the map.</seg>
       </tuv>
       <tuv lang="pl">
@@ -6994,6 +7594,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>By chodzić, klikaj i przeciągaj myszką tam, gdzie chcesz dojść.  Spróbuj przejść do masztu po twojej lewej stronie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To walk around, hold and drag in the direction you want to go.  Try walking toward the mast on the left.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>To walk around, hold and drag in the direction you want to go.  Try walking toward the mast on the left.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7210,6 +7818,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Praktycznie Nienaprawialna Łódź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VRUM</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>VRUM</seg>
       </tuv>
     </tu>
     <tu>
@@ -7974,6 +8590,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Winslow</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Winslow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Winslow!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Winslow!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Winslow! [trying to speak quickly]  Setacoursefor [hand covers mouth] mpphmphmphmph-mph!</seg>
       </tuv>
       <tuv lang="pl">
@@ -8302,18 +8934,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>You'll have to do better than that, lad</seg>
+        <seg>You'll have to do better than that, lad!</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Oj, chyba nie wyszło tak jak trzeba, chłopcze!</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>You'll have to do better than that. Lad!</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg>Oj, chyba nie wyszło tak ja trzeba. Chłopcze!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8446,6 +9070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[angry] Arrgh!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[angry] Arrgh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[angry] I don't know, but when I find the scupperscraper, I'll shove one of me bottles so deep up his fundament....</seg>
       </tuv>
       <tuv lang="pl">
@@ -8542,6 +9174,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[as though unexpectedly tickled or physically pleasured] Ohhhh.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[as though unexpectedly tickled or physically pleasured] Ohhhh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[as though unexpectedly tickled or physically pleasured] Oooooh.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[as though unexpectedly tickled or physically pleasured] Oooooh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[awestruck]{Surprised} Whoah.</seg>
       </tuv>
       <tuv lang="pl">
@@ -8559,6 +9207,14 @@
     <tu>
       <tuv lang="en-US">
         <seg>[cheery][filter: through a tube] Bon jour!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[cheery][filter: through a tube] Bonjour!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[cheery][filter: through a tube] Bonjour!</seg>
       </tuv>
       <tuv lang="pl">
         <seg>[cheery][filter: through a tube] Bonjour!</seg>
@@ -8614,6 +9270,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[dazed] Ook.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[dazed] Ook.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[despondent] My ship!  {worried}My booty!  {whiney}My collection of autographed sextants!{default}</seg>
       </tuv>
       <tuv lang="pl">
@@ -8650,6 +9314,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Hej!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[excited] Eek-eek-eek!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[excited] Eek-eek-eek!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8790,6 +9462,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[happy] Arrrrr!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[happy] Arrrrr!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[happy] {Happy} Okay, let's figure out the final wind idol thingie, and get the heck--</seg>
       </tuv>
       <tuv lang="pl">
@@ -8846,6 +9526,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[in pain]  Ieeee!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[in pain]  Ieeee!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[in pain]Agh!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[in pain]Agh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[in pain][filter: through a tube]Argh, my spleen!</seg>
       </tuv>
       <tuv lang="pl">
@@ -8874,6 +9570,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Niby jak takie szelki mogą działać?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[interested] ook-ook-ook!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[interested] ook-ook-ook!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9054,6 +9758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[mumbling]... grrr...</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[mumbling]... grrr...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[mumbling]... stupid club ...</seg>
       </tuv>
       <tuv lang="pl">
@@ -9170,6 +9882,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Ostatni raz mówię: LeChuck, nie jestem w tobie zakochana!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[pickup1] Guybrush!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[pickup1] Guybrush!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[pickup1] Har-har-harrrr!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[pickup1] Har-har-harrrr!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9678,6 +10406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[pickup1][read with urgency] Winslow!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[pickup1][read with urgency] Winslow!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[pickup1][read with urgency]I said, make way to the [hand covers mouth] mph mph mphmph!</seg>
       </tuv>
       <tuv lang="pl">
@@ -9730,6 +10466,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Cokolwiek zrobisz, beczka grogu nigdy nie będzie piwem korzennym.  Zaraz odnajdę korzenie tego problemu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[playing with action figures] Arrgh!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[playing with action figures] Arrgh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[playing with action figures] En garde!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[playing with action figures] En garde!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9918,6 +10670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[scared][ Eeeeeek!]</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[scared][ Eeeeeek!]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[scheming] Hmmm.  A pirate hunter, eh?</seg>
       </tuv>
       <tuv lang="pl">
@@ -9928,7 +10688,7 @@
       <tuv lang="en-US">
         <seg>[screaming][filter: through a tube]  HEY!  WHAT HAPPENED TO ME OTHER LEG!?</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240706T085309Z">
+      <tuv lang="pl">
         <seg>HEJ!  CO SIĘ STAŁO Z MOJĄ DRUGĄ NOGĄ?!</seg>
       </tuv>
     </tu>
@@ -10062,6 +10822,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[sneezing] Ah-choo!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[sneezing] Ah-choo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[snooty] {Confused} Hmph.  How silly of me. {Arrogant} Threepwood would never be clever enough to get through that door.</seg>
       </tuv>
       <tuv lang="pl">
@@ -10090,6 +10858,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Err</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[straining] {Angry} Grrrrr...</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[straining] {Angry} Grrrrr...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10154,6 +10930,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Eee...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[trying to get a word in edgewise] {Worried} Er...</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>[trying to get a word in edgewise] {Worried} Er...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10422,6 +11206,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Amazed} Mon dieu!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Amazed} Mon dieu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Amazed} My particular speciality is insult arm-wrestlin' {Default} which I use to defend my bar from hostile takeovers.</seg>
       </tuv>
       <tuv lang="pl">
@@ -10446,6 +11238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Angry} Grrr.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Angry} Grrr.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Angry} ID?!? I don't got to show you no stinkin' ID!</seg>
       </tuv>
       <tuv lang="pl">
@@ -10462,10 +11262,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Angry} Yeah! Can't you see we're busy here!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Angry} Yeah! Can't you see we're busy here!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Angry} [angry] The thing with the seahorse on it!</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Ten patyk z konikiem morskim!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{Angry} [straining] Grrrrr...</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Angry} [straining] Grrrrr...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10718,10 +11534,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>{Confused} A snap.</seg>
+        <seg>{Confused} And what, pray tell, might I be findin' myself doin' if I joined {Sarcastic} this crew of mighty pirates?</seg>
       </tuv>
       <tuv lang="pl">
-        <seg></seg>
+        <seg>{Confused} And what, pray tell, might I be findin' myself doin' if I joined {Sarcastic} this crew of mighty pirates?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11046,6 +11862,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Confused}Really?</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Confused}Really?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Confused}What was it I was supposed to be doing?</seg>
       </tuv>
       <tuv lang="pl">
@@ -11134,6 +11958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Default} Davey.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Default} Davey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Default} Deep Gut's my secret source for off-island news stories.  {Cocky} And it's a good thing, too!  {Default} Without the Gut's uncanny inter-island scoops, the Keelhauler Gazette would never be able to compete with those [angry] {Angry} snooty prima donnas over at the Flotsam Times!</seg>
       </tuv>
       <tuv lang="pl">
@@ -11198,6 +12030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Default} I would, but once I win the Melee championship, I'm gonna have to go on tour to win the tri-island dart thrower's championship.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Default} I would, but once I win the Melee championship, I'm gonna have to go on tour to win the tri-island dart thrower's championship.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Default} I'd better be careful around this ink.  I don't want to become Guybrush Threepwood, Spotty Pirate.</seg>
       </tuv>
       <tuv lang="pl">
@@ -11218,6 +12058,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Powiem ci, jak coś znajdę.  Jesteś pewien, że ten "Ninja" jest wartościowym skarbem, tak?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{Default} I'm open to persuasion, {Suspicious} what do you have in mind?</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Default} I'm open to persuasion, {Suspicious} what do you have in mind?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11310,6 +12158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Default} Right now, we're in a dead tie.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Default} Right now, we're in a dead tie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Default} Take it.  It's useless.</seg>
       </tuv>
       <tuv lang="pl">
@@ -11346,6 +12202,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Mamy tylko jeden statek... Wyjącą Narwalę.  Nie została przejęta przez wieki!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{Default} Well nowadays you can't throw a dart or...or play a game of checkers without bein' expected to toss in a witherin' bon mot.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Default} Well nowadays you can't throw a dart or...or play a game of checkers without bein' expected to toss in a witherin' bon mot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11486,10 +12350,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Default}[excited] Eek-eek-eek!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Default}[excited] Eek-eek-eek!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Devilish} Har!  My outer shell is {Default} meaningless, you fool!   Within my decaying flesh courses more {Surprised}voodoo power than your pitiful {Angry} mind can possibly imagine!</seg>
       </tuv>
       <tuv lang="pl">
         <seg>{Devilish} Har!  Moja zewnętrzna powłoka nie ma znaczenia!   Wewnątrz mego zbutwiałego ciała jest więcej mocy vooodoo, niż twój godny pożałowania móżdżek może sobie nawet wyobrazić!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{Disappointed}[dazed] Ook.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Disappointed}[dazed] Ook.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11608,7 +12488,7 @@
       <tuv lang="en-US">
         <seg>{Embarrassed} [sheepish] Ooh, the Pox is blowing out to sea!  Hope that doesn't come back to bite me in the fundament.  {Sarcastic} Well, I'm sure it'll be fine.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240706T091146Z">
+      <tuv lang="pl">
         <seg>Och! Ospa rozwiewa się po morzu!  Byle nie zawróciła i nie złapała mnie pod plecami.  Dobra, jakoś to będzie.</seg>
       </tuv>
     </tu>
@@ -11626,6 +12506,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Świetnie!  A teraz, jeśli pozwolisz, Redaktor Naczelny Davey Szkrabród ma nagłówek do zrobienia!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{Enthused} My particular speciality is insult arm-wrestlin' {Default} which I use to defend my bar {Stern}from hostile takeovers.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Enthused} My particular speciality is insult arm-wrestlin' {Default} which I use to defend my bar {Stern}from hostile takeovers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11670,6 +12558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Frustrated}[scared] Eeeeeek!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Frustrated}[scared] Eeeeeek!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Happy} "Deadline"</seg>
       </tuv>
       <tuv lang="pl">
@@ -11690,6 +12586,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Pirat, tak?  Cóż, uwierzę jak zobaczę.  Miło byłoby znów mieć autentycznego pirata z pierwszej ręki, gdzieś w okolicach naszej Wyspy Rozbitków. A to dlatego, że od ponad sześciu miesięcy nie miałem okazji napisać żadnej, do szpiku kości pirackiej, opowieści!  Nic tak nie podnosi dziennikarskiej cnoty jak obietnica o dobrej pirackiej opowieści, wiem co mówię...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{Happy} Aha!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Happy} Aha!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12038,6 +12942,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Happy} Yeah! We never miss a shot!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Happy} Yeah! We never miss a shot!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Happy} [enthusiastic] All right!!!</seg>
       </tuv>
       <tuv lang="pl">
@@ -12126,18 +13038,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>{Incredulous} Hmm.</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg></seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
         <seg>{Incredulous} Hmm.  {Default} Y'know, I'd better just take all of 'em.</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Wiesz, lepiej wezmę je wszystkie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{Incredulous} Hmmm.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Incredulous} Hmmm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12194,6 +13106,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Być może w końcu wymyślę jakiś sposób, jak się dostać na tą łódź...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{Incredulous} Moi?</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Incredulous} Moi?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12330,6 +13250,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Jak chcia?,bys do?,?.czy?? do mej za?,ogi pot?T??nych pirat??w?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{Sad} A greedy Australian is making a grab for my bar!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Sad} A greedy Australian is making a grab for my bar!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12582,6 +13510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Sarcastic} Yeah! And unless you're good enough to compete</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Sarcastic} Yeah! And unless you're good enough to compete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Sarcastic} Yeah! Busy makin' holes in the wall.</seg>
       </tuv>
       <tuv lang="pl">
@@ -12650,14 +13586,6 @@
       </tuv>
       <tuv lang="pl">
         <seg>Ciekawie.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en-US">
-        <seg>{Stern} A sna-OW!</seg>
-      </tuv>
-      <tuv lang="pl">
-        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -12838,6 +13766,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Stern} Kep'lah!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Stern} Kep'lah!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Stern} Make me!</seg>
       </tuv>
       <tuv lang="pl">
@@ -12890,6 +13826,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Zwykłe kręcenie tej tarczy prowadzi donikąd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{Stern} Sez you, swabbie!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Stern} Sez you, swabbie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{Stern} Shh!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Stern} Shh!</seg>
       </tuv>
     </tu>
     <tu>
@@ -12982,6 +13934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Stern} We'd advise that you take a long walk off a short pier!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Stern} We'd advise that you take a long walk off a short pier!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Stern} What kind of cheesy ancient civilization worships manatees?</seg>
       </tuv>
       <tuv lang="pl">
@@ -13030,10 +13990,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{Surprised} Ack!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Surprised} Ack!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{Surprised} Despondent?! {Confused} Over Pongo? {Sarcastic} Don't be silly!</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Ja przygnębiony? Przez Pongo? Nie bądź śmieszny!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{Surprised} Eep!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{Surprised} Eep!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13582,6 +14558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{angry}Grrrr...</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{angry}Grrrr...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{angry}Hey!  Keep yer grubby mitts off me bottle breaker!</seg>
       </tuv>
       <tuv lang="pl">
@@ -13864,7 +14848,7 @@
       <tuv lang="en-US">
         <seg>{cocky}Elaine thought I was an idiot for buying the "auto-navigation" option, but who's the idiot now, huh?{default}</seg>
       </tuv>
-      <tuv lang="pl" changeid="damia" changedate="20240706T095851Z">
+      <tuv lang="pl">
         <seg>Elaine wyzwała mnie od matołów za zakup opcji z autonawigacją. I kto jest teraz matołem, co?</seg>
       </tuv>
     </tu>
@@ -13922,6 +14906,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>{cocky}Jacques, nie małpuj mi się tam i chodź mi pomóż!  Dam ci banana, chcesz banana?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{cocky}LeChuck!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{cocky}LeChuck!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15430,6 +16422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{devilish}Bwah-ha-harrrrrrr!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{devilish}Bwah-ha-harrrrrrr!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{devilish}Do ya mind?  {angry}I be in the middle of an unholy ceremony here!</seg>
       </tuv>
       <tuv lang="pl">
@@ -15442,6 +16442,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>{devilish}Har!  Nie zniszczysz mnie tak łatwo, Threepsiup!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{devilish}Harr-harr-harrrr!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{devilish}Harr-harr-harrrr!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15502,6 +16510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{disgust}Ugh!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{disgust}Ugh!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{disgust}What a crummy sconce.</seg>
       </tuv>
       <tuv lang="pl">
@@ -15514,6 +16530,22 @@
       </tuv>
       <tuv lang="pl">
         <seg>Wyglądasz jak coś, co kot zjadł, a później wyrzygał na podłogę!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{disgust}[quick and disgusted]  Ew.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{disgust}[quick and disgusted]  Ew.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{disgust}[shuddering] Gewghh...{default}</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{disgust}[shuddering] Gewghh...{default}</seg>
       </tuv>
     </tu>
     <tu>
@@ -15802,6 +16834,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Spoko kula!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{happy}Elaine!{default}</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{happy}Elaine!{default}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16718,6 +17758,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{stern}Grrrr...</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{stern}Grrrr...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{stern}Hemlock?</seg>
       </tuv>
       <tuv lang="pl">
@@ -16990,7 +18038,7 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>{stern}[Annoyed] And now the dock is smoldering. Perfect.</seg>
+        <seg>{stern}[Annoyed] And now the dock is smoldering.  Perfect.</seg>
       </tuv>
       <tuv lang="pl">
         <seg>Teraz dok się tli. Idealnie.</seg>
@@ -17066,6 +18114,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Czas się poddać!  Przejmuję ten statek!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{stern}[making light sabre noises] Vooom, vooom!{default}</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{stern}[making light sabre noises] Vooom, vooom!{default}</seg>
       </tuv>
     </tu>
     <tu>
@@ -17430,6 +18486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{surprised}Ta-daaaa!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{surprised}Ta-daaaa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{surprised}That picture of my boney hand is really creeping me out,{default} but for some reason I just can't look away.{suspicious}[fake De Singe's french accent] Jacques! Dispose of that for me! {confused}[normal voice]... no? {default}*sigh*</seg>
       </tuv>
       <tuv lang="pl">
@@ -17666,6 +18730,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Czy czegoś ci potrzeba?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{surprised}[shouting] Elaine!{default}</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{surprised}[shouting] Elaine!{default}</seg>
       </tuv>
     </tu>
     <tu>
@@ -17938,6 +19010,14 @@
       </tuv>
       <tuv lang="pl">
         <seg>Ja?  Ukradłem?  Ja bym nawet nie wiedział gdzie... Hej, patrz tam!  Trójgłowa małpa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{suspicious}Murray?{default}</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>{suspicious}Murray?{default}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18391,7 +19471,7 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">74_1_</prop>
+      <prop type="path">74_69_1_</prop>
       <tuv lang="en-US">
         <seg>Any unsaved progress in your current game will be lost.</seg>
       </tuv>
@@ -18401,7 +19481,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2058_0_</prop>
+      <prop type="path">2058__0_</prop>
       <tuv lang="en-US">
         <seg>Audio Settings</seg>
       </tuv>
@@ -18411,7 +19491,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2397_2_</prop>
+      <prop type="path">2397__2_</prop>
       <tuv lang="en-US">
         <seg>CHAPTER 1</seg>
       </tuv>
@@ -18421,7 +19501,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2057_0_</prop>
+      <prop type="path">2057__0_</prop>
       <tuv lang="en-US">
         <seg>Gameplay Settings</seg>
       </tuv>
@@ -18431,7 +19511,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2059_0_</prop>
+      <prop type="path">2059__0_</prop>
       <tuv lang="en-US">
         <seg>Graphics Settings</seg>
       </tuv>
@@ -18441,7 +19521,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2220_0_GUYBRUSH</prop>
+      <prop type="path">2220_2192_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>Nope.  Nothing but a bunch of lazy crewmen.  {disgust}I can't believe I spent so much time recruiting those guys.{default}</seg>
       </tuv>
@@ -18451,7 +19531,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">441_0_GUYBRUSH</prop>
+      <prop type="path">441_435_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>Ow!</seg>
       </tuv>
@@ -18461,7 +19541,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2312_0_</prop>
+      <prop type="path">2312_2270_0_</prop>
       <tuv lang="en-US">
         <seg>Ready to start</seg>
       </tuv>
@@ -18471,7 +19551,17 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2397_0_</prop>
+      <prop type="path">_2417_0_</prop>
+      <tuv lang="en-US">
+        <seg>Sometimes after certain events, characters will have new things to say.  Try selecting Elaine to talk to her.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Sometimes after certain events, characters will have new things to say.  Try selecting Elaine to talk to her.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">tomi_1.po</prop>
+      <prop type="path">2397__0_</prop>
       <tuv lang="en-US">
         <seg>TALES OF MONKEY ISLAND</seg>
       </tuv>
@@ -18481,7 +19571,27 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">1855_0_</prop>
+      <prop type="path">_2409_0_</prop>
+      <tuv lang="en-US">
+        <seg>Thanks for playing the Tales of Monkey Island demo! This is just the beginning - play the full series to join Guybrush on his exciting piratey quest!</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Thanks for playing the Tales of Monkey Island demo! This is just the beginning - play the full series to join Guybrush on his exciting piratey quest!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">tomi_1.po</prop>
+      <prop type="path">_2399_0_</prop>
+      <tuv lang="en-US">
+        <seg>Welcome to Tales of Monkey Island! To join Guybrush on the first chapter of his adventures, select New Game.</seg>
+      </tuv>
+      <tuv lang="pl">
+        <seg>Welcome to Tales of Monkey Island! To join Guybrush on the first chapter of his adventures, select New Game.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">tomi_1.po</prop>
+      <prop type="path">1855__0_</prop>
       <tuv lang="en-US">
         <seg>What can you tell me about this bottle?</seg>
       </tuv>
@@ -18491,7 +19601,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2433_0_GUYBRUSH</prop>
+      <prop type="path">2433__0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>[read like “Is that you, plunder bunny?”] Plunder bunny?</seg>
       </tuv>
@@ -18501,7 +19611,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">1744_0_DESINGE</prop>
+      <prop type="path">1744_1723_0_DESINGE</prop>
       <tuv lang="en-US">
         <seg>{Angry} Are you outta your grog-addled mind?!? No!</seg>
       </tuv>
@@ -18511,7 +19621,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">1533_0_GUYBRUSH</prop>
+      <prop type="path">1533_1520_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>{confused}What?</seg>
       </tuv>
@@ -18521,7 +19631,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">732_0_GUYBRUSH</prop>
+      <prop type="path">732_720_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>{confused}What?</seg>
       </tuv>
@@ -18531,7 +19641,7 @@
     </tu>
     <tu>
       <prop type="file">tomi_1.po</prop>
-      <prop type="path">2219_0_GUYBRUSH</prop>
+      <prop type="path">2219_2191_0_GUYBRUSH</prop>
       <tuv lang="en-US">
         <seg>{default}I wonder if there's anything useful down there...</seg>
       </tuv>
