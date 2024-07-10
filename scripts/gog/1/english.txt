@@ -4171,6 +4171,8 @@ Weird Door Face
 [pickup1][loudly across ships, push the "I"]Is there anything I can do?
 2067)  GUYBRUSH
 Maybe Elaine has some bright ideas.
+2068)  PARROT
+*Squawk* It's me, Guybrush Threepwood, Mighty Pirate!
 2069)  
 Use map on calendar
 E-W-E
