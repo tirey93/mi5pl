@@ -4888,6 +4888,8 @@ Use your Nunchuk's Control Stick or press and hold the A Button and aim the Poin
 DeSinge's examination table can be moved by using the +Control Pad to rotate left and right, or incline and decline.
 2415)  
 To display your inventory, press the - Button on your Wii Remote.  To examine the coffin, select the magnifying glass or press the 2 Button, then select the coffin.
+2416)  
+
 2417)  
 Marketing text goes here.
 2418)  

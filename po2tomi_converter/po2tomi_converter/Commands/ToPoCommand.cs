@@ -38,14 +38,44 @@ namespace po2tomi_converter.Commands
             var translations = new List<Translation>();
             foreach (var lineEngGog in _linesEngGog)
             {
-                if (lineEngGog.Number == 2413)
+                if (lineEngGog.Number == 2073)
                 {
+
+                }
+                if(!_dictEngSteam.ContainsKey(lineEngGog.Number + shift))
+                {
+                    var newShift = FindInSteam(lineEngGog, shift, _dictEngSteam);
+                    if (newShift != null)
+                        shift = newShift.Value;
+                    else
+                    {
+                        translations.Add(new Translation
+                        {
+                            SteamEngLine = null,
+                            PlLine = lineEngGog,
+                            GogEngLine = lineEngGog
+                        });
+                        continue;
+                    }
                 }
                 if (lineEngGog.Content != _dictEngSteam[lineEngGog.Number + shift].Content)
                 {
                     var newShift = FindInSteam(lineEngGog, shift, _dictEngSteam);
+                    if (newShift == null)
+                    {
+                        translations.Add(new Translation
+                        {
+                            SteamEngLine = null,
+                            PlLine = lineEngGog,
+                            GogEngLine = lineEngGog
+                        });
+                        continue;
+                    }
                     for (int i = 0; i < newShift - shift; i++)
                     {
+                        if (!_dictEngSteam.ContainsKey(lineEngGog.Number + shift + i))
+                            continue;
+
                         var steamTranslation = new Translation
                         {
                             SteamEngLine = _dictEngSteam[lineEngGog.Number + shift + i],
@@ -54,15 +84,14 @@ namespace po2tomi_converter.Commands
                         };
                         translations.Add(steamTranslation);
                     }
-                    shift = newShift;
+                    shift = newShift.Value;
                 }
-                var translation = new Translation
+                translations.Add(new Translation
                 {
                     SteamEngLine = _dictEngSteam[lineEngGog.Number + shift],
                     PlLine = _dictPl[lineEngGog.Number + shift],
                     GogEngLine = lineEngGog
-                };
-                translations.Add(translation);
+                });
             }
 
             var poResult = new StringBuilder();
@@ -94,6 +123,22 @@ namespace po2tomi_converter.Commands
             File.WriteAllText(_settings.PoFileLocation, poResult.ToString());
         }
 
+        private int? FindInSteam(Line gogLine, int shift, Dictionary<int, Line> dictEngSteam)
+        {
+            var result = shift - 5;
+            for (int i = 0; i < _maxLineNumberSteam - gogLine.Number + shift + 5; i++)
+            {
+                result = result + 1;
+                if (!dictEngSteam.ContainsKey(gogLine.Number + result))
+                    continue;
+                if (dictEngSteam[gogLine.Number + result].Content == gogLine.Content)
+                {
+                    return result;
+                }
+            }
+
+            return null;
+        }
         private static string SetMarkup(Translation translation, int i)
         {
             if (translation.SteamEngLine != null && translation.GogEngLine != null)
@@ -109,20 +154,6 @@ namespace po2tomi_converter.Commands
                 return $"_{translation.GogEngLine.Number}_{i}_{translation.GogEngLine.Author}";
             }
             return string.Empty;
-        }
-
-        private int FindInSteam(Line gogLine, int shift, Dictionary<int, Line> dictEngSteam)
-        {
-            var result = shift - 5;
-            for (int i = 0; i < _maxLineNumberSteam - gogLine.Number + shift + 5; i++)
-            {
-                if (dictEngSteam[gogLine.Number + result].Content == gogLine.Content)
-                {
-                    return result;
-                }
-                result = result + 1;
-            }
-            return result;
         }
 
         private static string ToPo(string markup, string engStr, string plStr)
@@ -156,6 +187,7 @@ namespace po2tomi_converter.Commands
                 }
             }
 
+            matchedLines.Add(currentLine);
             return matchedLines;
         }
     }

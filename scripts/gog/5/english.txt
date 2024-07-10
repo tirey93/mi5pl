@@ -1,0 +1,4760 @@
+1)  
+Load
+2)  
+Off
+3)  
+Okay
+4)  
+On
+5)  
+Quit
+6)  
+Save
+7)  
+Save & Load
+8)  
+Settings
+9)  
+Are you sure
+you want to quit?
+10)  
+Music
+11)  
+Sounds
+12)  
+Voice
+13)  
+Full Screen
+14)  
+Quality
+15)  
+Pop-Up Text
+16)  
+Subtitles
+17)  
+Sorry, you can't save right now.
+18)  
+(AUTOSAVE)
+19)  
+Empty...
+20)  
+New Game
+21)  
+Yes
+22)  
+No
+23)  
+Graphics Settings
+24)  
+Audio Settings
+25)  
+Gameplay Settings
+26)  
+Resolution
+27)  
+Hint Frequency
+28)  
+Ready to start a new game?
+29)  
+Yes, I am!
+30)  
+Oops, no!
+31)  
+Yes, quit!
+32)  
+No, don't!
+33)  
+Saving Game...
+34)  
+Delete this saved game?
+35)  
+CHAPTER 5
+
+RISE OF THE PIRATE GOD
+36)  
+Sorry!
+
+Saving and loading are
+disabled in trial mode!
+37)  
+Game Paused
+Press Space to Continue
+38)  
+<< Back
+39)  
+Are you sure you want to overwrite this saved game?
+40)  
+Are you sure you want to load this game?
+Any unsaved progress in your current game will be lost.
+41)  ELAINE
+{worried}[stunned] Guybrush?
+42)  GUYBRUSH
+It's locked.
+43)  GUYBRUSH
+{stern}Nah.
+44)  GUYBRUSH
+Nope.
+1038)  GUYBRUSH
+Nope.
+45)  GUYBRUSH
+Um, no.
+46)  GUYBRUSH
+{stern}Um, I don't want to part with this right now.
+47)  GUYBRUSH
+Uh-uh.
+48)  GUYBRUSH
+I don't think so.
+49)  
+Sign
+50)  
+Locket
+51)  
+Winslow
+52)  
+Exit
+53)  
+Rug
+54)  
+Skull
+55)  
+Skull Candle
+56)  
+Grog Barrel
+57)  
+LeChuck
+58)  
+Root Beer
+59)  
+Enchanted Cutlass of Kaflu
+60)  
+Elaine
+61)  
+Wheel
+62)  
+Main Mast
+63)  
+Resume
+Game
+64)  
+Sock
+65)  GUYBRUSH
+{stern}I'm not grabbing THAT with my hook. It'll tarnish it.
+66)  GUYBRUSH
+{stern}According to the official Hook Hand manual, that is a completely inappropriate way to use my hook.
+67)  
+Guybrush Threepwood… is dead.
+68)  
+Galeb revealed that LeChuck was once able to return to the Land of the Living using a Voodoo Spell that is now hidden somewhere in the Afterlife.
+69)  
+Guybrush managed to scrounge up the gold coins needed for the Ferryman to take him to the Center of the Crossroads where he met a strange old man named Galeb.
+70)  
+With the help of Franklin the dog, Guybrush found LeChuck's hidden chest containing the spell to return to the Land of the Living, but it was locked!
+71)  
+Foiling the Thief's plans to steal it, Guybrush and Franklin get the spell, leaving Guybrush with the task of gathering all the cryptic voodoo ingredients.
+72)  
+Using the Spirit photo with the locket allowed Guybrush to possess his own body, but the effects are only temporary.
+73)  GUYBRUSH
+{stern}No way am I doing ANYTHING with this ring!  Elaine would kill me if anything happened to it!
+74)  
+Close Inventory
+75)  
+Combine Items
+76)  
+Examine Mode Off
+77)  
+Examine Mode On
+78)  
+No Inventory Selected
+79)  
+Apply
+80)  
+Finale
+81)  
+Ocean Floor
+82)  
+Jungle Clearing
+83)  
+Deep in the Caribbean
+84)  
+Written By
+85)  
+Mark Darin
+86)  
+Programmed By
+87)  
+Randy Tudor
+88)  
+Music By
+89)  
+Michael Land
+90)  
+Choreography By
+91)  
+Eric Parsons
+Daniel Herrera
+92)  
+Art Direction
+93)  
+Derek Sakai
+David Bogan
+94)  
+Story By
+95)  
+Mark Darin
+Mike Stemmle
+Dave Grossman
+96)  
+Based on Characters Created By
+97)  
+Ron Gilbert
+98)  
+To Be Continued in 
+
+Chapter 5
+
+"RISE OF THE PIRATE GOD"
+99)  
+Open Inventory
+100)  
+LucasArts and the LucasArts logo are trademarks of Lucasfilm Ltd. in the United
+States and/or other countries. © 1990-2009 Lucasfilm Entertainment Company Ltd.
+Telltale and the Telltale Games logo are trademarks of Telltale, Inc.
+101)  
+Hook
+102)  
+Dead Seagull
+103)  
+Morgan LeFlay
+104)  
+Elaine's Ring
+105)  
+Ocean
+106)  GUYBRUSH
+{cocky}I wonder whatever happened to my hand.  I hope it's happy.
+107)  ROCKRIB
+[voice only] How about a towel, sir?
+108)  GUYBRUSH
+Thanks.
+109)  
+After climbing from his own grave, Guybrush finds himself in a pirate purgatory, desperate to find a way back to the Land of the Living to return to Elaine before LeChuck takes over.
+110)  GUYBRUSH
+My pirate-y plunder sense is tingling, arrr!
+111)  GUYBRUSH
+I wonder what other treasures I can steal, er, liberate from here?
+112)  
+Commemorative Picture of Guybrush
+113)  
+La Esponja Grande
+114)  
+Raft
+115)  
+Bones
+116)  
+Esponja Grande Sign
+117)  
+Treasure Chest
+118)  
+Stack of Shells
+119)  
+Bugeye
+120)  
+Stinky
+121)  
+Hooded
+122)  
+Nasty
+123)  
+Bugged Out
+124)  
+Fisheyed
+125)  
+Lazyeyed
+126)  
+Crosseyed
+127)  
+Tweaking
+128)  
+Meanie
+129)  
+Monkey
+130)  
+Geezer
+131)  
+Gomer
+132)  
+Go!
+133)  
+Bathroom Door
+134)  
+Dart Board
+135)  
+Narwhal Head
+136)  
+Well Worn Rug
+137)  
+W.P. Grindstump
+138)  
+Morgan's sacrifice allowed Guybrush to complete the Voodoo Spell and open a gateway to the Land of the Living.
+139)  
+Guybrush jumped through the portal to confront LeChuck, only to find that he's still a ghost and that he can't actually touch anything in the physical realm.  And, worst of all, Elaine has willingly become LeChuck's demon bride!
+140)  
+Guybrush enlists the help of Winslow, Anemone and a clam to recover DeCava's locket, the key to possessing his own body.
+141)  
+Spirit gum may not be so tasty, but it worked great for sticking body and ghost together!   Zombie Guybrush is ready for revenge!
+142)  
+Another attempt to claim the Cutlass of Kaflu failed; instead, Elaine tried to use it against him. Guybrush decided that the big sponge was keeping her under LeChuck's power and it had to be shrunk!
+143)  
+With a new diet spell given to him by Galeb, Guybrush managed to gather more voodoo ingredients and return La Esponja Grande to its former tiny state.  Not too pleased with this, LeChuck takes it upon himself to personally beat Guybrush to a pulp.
+144)  
+Guybrush gave up his last Shred of Life to allow Morgan and Elaine to attack LeChuck from both sides and destroy him, but when it was over, he found himself alone in the center of the Crossroads.
+145)  
+Feast for the Senses Menu
+146)  GUYBRUSH
+{Confused} I can't believe it! {Angry} I've been buried alive... AGAIN!
+147)  GUYBRUSH
+[Holds his left hand up] {Surprised} Hey! My hand is back! [notices that it's ghostly translucent]{Worried} Uh oh... this REALLY can't be good. [Looks around, confused] {Confused} Where am I?
+148)  GUYBRUSH
+{incredulous}What did you say your name was again?
+149)  GALEB
+{shifty}Galeb.
+150)  GALEB
+[lying]{cocky} Gabel.
+151)  GALEB
+[lying]{shifty} Nor Treblig.
+152)  GALEB
+[lying]{cocky} Vickie.
+153)  GUYBRUSH
+{Happy} On your feet, Mo!
+154)  MORGAN
+{Sad} I'm useless.  I can barely even lift my sword.
+155)  SWORDFIGHTER
+{Stern} There certainly is a foul smell comin' from this fight!
+156)  GUYBRUSH
+{Happy} See, in some ways you are stronger than me!
+157)  GUYBRUSH
+{Confused} Hi there.  I'm Guybrush Threepwood, Mighty Pirate™, and... I think I may be dead.
+158)  FERRYMAN
+{Default}Aye.
+159)  GUYBRUSH
+{Cocky} Is there any chance you can take me back to the land of the living?
+160)  FERRYMAN
+Nay.
+161)  GUYBRUSH
+{Confused} Where are you going in this boat?
+162)  FERRYMAN
+To the Crossroads.
+163)  GUYBRUSH
+{Confused} How much does it cost?
+164)  FERRYMAN
+{Default}The golden eyes of everlasting sleep.
+165)  GUYBRUSH
+...eyes of everlasting sleep?   {Disgust} I have to give you my eyes?
+166)  FERRYMAN
+[creepy] Nay-
+167)  GUYBRUSH
+{Incredulous} I mean I know that I'm dead, but I'm still rather attached to my eyes!
+168)  FERRYMAN
+You do not--
+169)  GUYBRUSH
+{Whiney} Can I still see without them?  I'm still really new to this whole "being dead" thing.
+170)  GUYBRUSH
+{Surprised} OH! “Golden eyes of everlasting sleep”, I get it! {Stern} But wait... I wasn't buried with any coins.
+171)  FERRYMAN
+Humph, typical pirate.  No coins, {Default}no Crossroads.
+172)  GUYBRUSH
+{Cocky} Nice outfit!
+173)  GUYBRUSH
+{Incredulous} Can I ride the Ferry for free?
+174)  GUYBRUSH
+{Whiney} Can you loan me a dollar?
+175)  GUYBRUSH
+{Confused} Why is there a Grog machine in the afterlife?
+176)  FERRYMAN
+For the Thirst of Eternal Waiting.
+177)  GUYBRUSH
+{Stern} Hmm, fair enough.
+178)  GUYBRUSH
+{Surprised} This boat looks immaculate...{incredulous} you'd never suspect it hauls around dead people all day.
+179)  GUYBRUSH
+{Surprised} I think you missed a spot.
+180)  FERRYMAN
+[creepy] Nay.
+487)  FERRYMAN
+[creepy] Nay.
+181)  GUYBRUSH
+{Cocky} There is a big smudge of filth right there...
+182)  FERRYMAN
+[flustered]{Angry} What?! Ah, pig knuckles!  I just polished that too!  [mumbled]... rotten kids...
+183)  GUYBRUSH
+{Happy} Here you are, two gold coins!  Please take me to the Crossroads!
+184)  FERRYMAN
+[dropping character to read the prepared disclaimer]{Legal}Please enter the boat single file.  While the boat is in motion, you must keep your hands and feet inside the boat at all times. The Ferry to the center of the Crossroads is not responsible for any belongings left on the boat after departure.
+185)  GUYBRUSH
+{Suspicious} No, thanks, I don't have any money.
+186)  GALEB
+{Shifty} Is that so?  Well, let's just see what ya have on ya.
+187)  GALEB
+{Stern} Hmmm... {Disgust} just as I thought, You're not broke, you're just cheap!  {Cocky} That's okay, no one is FORCING you to buy this lovely commemorative photo of your very own spirit taking its first baby steps towards its final destiny.  {Stern} Nope.  Not forcing you at all.
+188)  GUYBRUSH
+{Stern}That's fine, just stay out of my pockets, will ya?
+189)  GUYBRUSH
+{happy}Excuse me...  I have a few questions for you...
+190)  GALEB
+{cocky}What's on your mind, Threepwood?
+191)  GUYBRUSH
+{happy}Hello.
+192)  GUYBRUSH
+{stern}Do you know the Voodoo Lady?
+193)  GUYBRUSH
+{incredulous}Has anyone ever been able to return to the land of the living?
+194)  GUYBRUSH
+{incredulous}Are you sure no one has ever been able to return to the land of the living?
+195)  GUYBRUSH
+{happy}That's what I need to do!
+196)  GUYBRUSH
+{confused}How did LeChuck escape?
+197)  GALEB
+{cocky}What?  What did I say?
+198)  GUYBRUSH
+That he surfed his way out.
+199)  GUYBRUSH
+{stern}What happened to the spell LeChuck used to return to the land of the not dead?
+200)  GALEB
+{shifty}Some say it is locked away in a vile treasure chest and hidden somewhere in the Crossroads. [lying] But no one knows for sure.
+201)  GUYBRUSH
+{suspicious}What are you doing here?
+202)  GALEB
+{default}You might say I'm a lost soul, trying to find my way, but I can't seem to find my guide dog.{happy} I've been here a long time, so if you get lost and need some guidance, you come see me.
+203)  GUYBRUSH
+{incredulous}Are you lying to me?
+204)  LECHUCKDEMON
+{Surprised} Oh come on, I broke yer spirit, not yer back! {Angry} Get over here and push!
+205)  LECHUCKDEMON
+[angry]{Surprised} And why not? {Angry} Do you know the number of times that boney buccaneer has{Enraged}  killed ME?!
+206)  LECHUCKDEMON
+{Default} I will become the Demon Pirate God, and you {Devilish} will be my Goddess! {Angry} And this time,{Devilish}  there will be no Guybrush Threepwood to spoil our wedding plans! [hearty laugh!]{Happy} Ha ha ha ha haarr!!!
+207)  SWORDFIGHTER
+{Happy} Ahoy, matey!  I see another swordsman be comin' to challenge me for entrance into an afterlife full of swordplay and swashbuckling!  {Cocky} Very well, let's test your wit!
+208)  GUYBRUSH
+{Happy} Thank goodness you're all right!
+209)  SWORDFIGHTER
+{Stern} Hey, I be talkin' to ya!
+210)  MORGAN
+{Sad} No I'm not all right.  I'm dead.  Apparently you are too, now go away.
+211)  GUYBRUSH
+{Cocky} Well, you'll be happy to know that I obliterated your murderer!
+212)  MORGAN
+{Happy} You destroyed LeChuck?!
+213)  SWORDFIGHTER
+{Confused} Uh, hello?  Swordfighter, looking for a challenge over here...
+214)  GUYBRUSH
+{Incredulous} Look, I'm not planning on sticking around this land of the creepy,{Cocky} I've got unfinished business with LeChuck and my WIFE is still in danger!
+215)  MORGAN
+Forget it.  I'm a worthless, backstabbing, traitor with poor communication skills.  I don't even deserve to be your friend.
+216)  SWORDFIGHTER
+Anyone?
+217)  GUYBRUSH
+{Incredulous} All you need is to get a little fight back in you.{Happy}  Come on, grab your sword and fight me!
+218)  MORGAN
+No.  I won't fight an unarmed man.
+219)  SWORDFIGHTER
+{Happy} I be armed. Fight me, fight me!
+220)  GUYBRUSH
+Well, I'm not done with you yet, lady!  I'll be back!
+221)  SWORDFIGHTER
+*sigh*{Whiney} [speaking go himself]Fine, I'll just wait over here then.
+222)  SWORDFIGHTER
+{Cocky} I'm the most cunning pirate on the seven seas! Do you know what my IQ is, boy?
+223)  MORGAN
+{Sad} Seriously, on a scale of one to ten, how terrible a person am I?
+224)  GUYBRUSH
+{Cocky} Negative one. If that.
+225)  SWORDFIGHTER
+{Cocky} I once owned a dog that was smarter than you.
+226)  MORGAN
+{Sad} It's hopeless. I can't believe I once studied under the greatest swordsman in the Caribbean.
+227)  GUYBRUSH
+{Cocky} He must have taught you everything you know.
+228)  MORGAN
+{Sad} I died a failure. I used to dream that somebody would call me the greatest Pirate Hunter in the world.
+229)  SWORDFIGHTER
+{Stern} You make me want to puke.
+230)  GUYBRUSH
+{Happy} I bet people say that about you all the time!
+231)  MORGAN
+{Sad} My career as a pirate hunter was about as successful as my career as a marathon runner.
+232)  SWORDFIGHTER
+{Cocky} Nobody's ever drawn blood from me and nobody ever will.
+233)  GUYBRUSH
+{Incredulous} You run that fast?
+234)  SWORDFIGHTER
+{Happy} Yes!  Now we're talking!  I'm getting in on this action!
+235)  SWORDFIGHTER
+{Cocky} Smaller men quiver at my unmistakably masculine swagger.
+236)  MORGAN
+{Sad} The way I wave this sword around... it's like I'm a little boy.
+237)  GUYBRUSH
+{Cocky} Believe me, you're all woman.
+238)  MORGAN
+{Fierce} You know what? You're right!  I was a darn good Pirate Hunter!  {Questioning} Sure I made a couple of bad decisions, and my enunciations could apparently use some work,{Cocky} but as long as we are both here in the Crossroads, I can still make it up to you.
+239)  SWORDFIGHTER
+{Cocky} [interrupting] You can't match my witty repartee!
+240)  MORGAN
+{Fierce} I could, if you would use some breath spray!
+241)  SWORDFIGHTER
+{Surprised}  Wow!{Incredulous} I didn't think the ya had it in ya, lass!{Happy} Now my head and I can move on and YOU can be the guardian!  You just have to stay here until someone comes and challenges you!
+242)  MORGAN
+{Sarcastic} Yeeeah, that's not gonna happen.
+243)  SWORDFIGHTER
+{Incredulous} Well, you deal with that on your time,{Happy} I'm off to battle on the endless seas of Davey Jones locker!
+244)  MORGAN
+You know what?{Happy} I think I will stay here and challenge the weak and unworthy for a while!
+245)  GUYBRUSH
+{Happy} I knew you had it in ya, Mo!
+246)  MORGAN
+{Serious} Listen... I am sorry for the way I betrayed you.  If there is any way I can help you, just ask.
+247)  GUYBRUSH
+{happy} Greetings, fellow dead guy!  {cocky} I'm Guybrush Threepwood Migh-
+248)  TREASUREHUNTER
+{stern} Yeah, I know who ya are.
+249)  GUYBRUSH
+{confused} You do?  {proud} Wow, I knew I was getting pretty famous, but who knew my legend {surprised} extended into the afterlife!
+250)  TREASUREHUNTER
+{sarcastic} Legend, shmegend.  We bumped {stern} into each other back on Spoon Isle.
+251)  GUYBRUSH
+{happy} How goes the treasure hunt?
+252)  TREASUREHUNTER
+{enthused} Fantastic!
+253)  GUYBRUSH
+{Happy} Hey Morgan,{Confused} are you any good at lock picking?  {Happy}There is a powerful voodoo spell in here that we can use to get back to living world!
+254)  MORGAN
+{Cocky} Hmmm, the lock is too small for my sword to fit in.  You need to find someone with excellent lock picking skills I'd say.
+255)  GUYBRUSH
+{Stern} LeChuck's chest is locked.  {Confused} I don't suppose you can open it?
+256)  GALEB
+{Confused} Open someone else's property... {Disguseted}what am I, some kind of criminal?  {Shifty}I'm more of a welcomer.  {Happy}Hello, chest!  Welcome to the Crossroads!  {Shifty}See, that kind of thing.
+257)  THIEF
+Welcome, welcome fellow thief! You are a thief aren't you?  Of course you are, you wouldn't be here if you weren't, am I right?
+258)  GUYBRUSH
+Of course I'm a thief!
+259)  THIEF
+Excellent!  Make yourself at home.  Feel free to look around.  We have many valuable stolen items here!  I keep them around as trophies!
+260)  GUYBRUSH
+[confused]{confused}I didn't say anything.
+261)  THIEF
+{stern}Are you sure?  {shifty}I thought you might have said there was something behind me.
+262)  THIEF
+I can't have this place full of thieves all the time or people will stop coming in, you know what I mean?
+263)  GUYBRUSH
+Well, thank you for being so... accommodating?
+264)  THIEF
+Speak nothing of it, friend!  Feel free to come back at a later time!
+265)  GUYBRUSH
+[confused]{confused} There's a ... three headed... monkey?
+266)  THIEF
+[feigning surprise]{sarcastic}There is?!  Well I had better turn around and look at it.
+267)  THIEF
+[being obvious] Why, I don't see anything over here...
+268)  THIEF
+[being obvious]Are you sure you meant behind me?
+269)  THIEF
+[being obvious] Maybe if I try squinting...
+270)  THIEF
+[being obvious] Okay, I'm going to keep looking for just a little bit longer, but then I'm turning around.
+271)  GUYBRUSH
+{cocky}Excuse me...
+272)  THIEF
+{evil}What is it, friend?
+273)  GUYBRUSH
+{angry}Hey, the last time I was in here, you robbed me!
+274)  THIEF
+{cocky}Aye, Of course I did.  {shifty}And you robbed me as well, if I remember correctly.
+275)  GUYBRUSH
+[friendly, like old buddies]{happy} Ahh, you got me!
+276)  THIEF
+[friendly, like old buddies]{happy}Ah, ha ha!  What's a few stolen items amongst thieves, eh?
+277)  GUYBRUSH
+Good times, good times!
+278)  GUYBRUSH
+{surprised}What happened to your hands?
+279)  THIEF
+{evil}LeChuck happened to them.  I guess he still held a grudge from when we stole the summoning turtle from him when he was human.  Came back and slaughtered us all.
+280)  GUYBRUSH
+{confused}Doesn't having no hands get in the way of your thievery?
+281)  THIEF
+{cocky}Not if you are good!  I can lift a wallet with my teeth, {shifty}crack a safe with my toes, {happy}and loot an entire treasure hold using just my... err... cheeks.
+282)  GUYBRUSH
+[quick and flat] {disgusted}Ew.
+283)  GUYBRUSH
+Do you think you can unlock this completely non-valuable treasure chest for me?  There is a worthless slip of paper inside that I really need.  I'll let you keep the chest in exchange!
+284)  THIEF
+Sure, friend.  In fact, I already unlocked the chest while you were talking, but I'm afraid it's empty.
+285)  GUYBRUSH
+What?!
+286)  THIEF
+See for yourself.
+287)  GUYBRUSH
+{Happy} Hey you.
+288)  MORGAN
+{Cocky} What's up?
+289)  GUYBRUSH
+{Happy} How's the Sword fighting gig going, Mo?
+290)  MORGAN
+{Cocky} You know, it's not bad.{Happy} I've already defeated 3 total posers and 1 half decent fencer.{Cocky} It's not quite the same thrill I got from being a hired mercenary, but it'll do for now.
+291)  GUYBRUSH
+Never mind.
+292)  GUYBRUSH
+{Confused} Part of the Spell requires a sacrifice made to ME.
+293)  MORGAN
+{Sarcastic} That sounds pretty complicated. Maybe you should focus on the other ingredients first.
+294)  GUYBRUSH
+{Incredulous} Yeah, good idea.
+295)  GUYBRUSH
+{Whiney} I still need something for "Sacrifice."
+296)  MORGAN
+{Dismissive} Why don't you go use the items you have already found first.  I'll try to think of something.
+297)  GUYBRUSH
+{Incredulous} Hey Mo, I still need one more thing for the Crossroads spell.{Confused} Some kind of sacrifice.{Whiney} I can't find it anywhere!
+298)  MORGAN
+{Cocky} Yeah, I've been thinking about that.  I think I have an idea.  {Happy} Come on, I'll show you.
+299)  GUYBRUSH
+[confused]{confused} Okay, where is this sacrifice?  I... I don't see anything.
+300)  MORGAN
+{Serious} Right here.
+301)  GUYBRUSH
+Right. [dramatic pause]{stern} Thank you.
+302)  MORGAN
+*clears throat*[breaking the tension]  {Sarcastic} Well don't just stand there, get on with the spell.
+303)  GUYBRUSH
+{surprised} Of course, the spell!  {Confused} Wait, I don't know what else I'm-
+304)  GUYBRUSH
+[process: in the distance]{Worried} Waaahhhhhaaaahhh!
+305)  LECHUCKDEMON
+{Surprised} What was that?
+306)  GUYBRUSH
+{Stern} You won't get away with this LeChuck... {Suspicious} whatever it is you're doing! {Stern} I've opened the Crossroads themselves to stop you!
+307)  GUYBRUSH
+{Confused} Why me?  {Worried} Why not just get it yourself?
+308)  GUYBRUSH
+{Confused} Why didn't you just get the Merfolk to do it?
+309)  GUYBRUSH
+{Whiney} The Voodoo Lady said-
+310)  ELAINE
+[angry, bitchy] {Stern} The Voodoo Lady?!
+311)  LECHUCKPRIME
+[conversational]{Default} By the way, does anyone know if she has a name?  {Surprised} It feels weird just calling her “Voodoo Lady”...
+312)  LECHUCKPRIME
+{Devilish} But I'll be taking care of her soon too!
+313)  LECHUCKPRIME
+{Happy} Har ha ha harr! {Devilish} I have infused the Cutlass of Kaflu with demonic power that no mortal can touch!
+314)  LECHUCKPRIME
+{Devilish} Isn't that right, Elaine?
+315)  LECHUCKPRIME
+{Devilish} It ain't so easy bein' a ghost, now is it, Mr. Threepwood.  {Angry} Well, that's how I felt all those years ago when {Enraged} I was a simple ghost pirate roaming the seas.
+316)  LECHUCKPRIME
+{Devilish} And NOW you are about to know how it felt when you {Angry} ripped my spiritual essence to shreds when you {Enraged} doused me with that ghost destroying voodoo root beer!
+317)  GUYBRUSH
+{Scared} Uh oh!  {Surprised} YEAAAHHHGGHH!!!
+318)  GUYBRUSH
+{Surprised} AHHH!  Talking crabs!
+319)  GUYBRUSH
+{scared} Hello, anyone in there?
+320)  GUYBRUSH
+{worried} Voodoo Lady?
+321)  GUYBRUSH
+{Suspicious}You mean the Cutlass of Kaflu?
+322)  VOODOOLADYCRAB
+You must figure that out for yourself. Go now, find your body. Find a way for your spirit to possess it. But remember, re-binding a soul to a body is not as simple as taking yourself over – you're rebelling against the natural state of things and the universe will push back.
+323)  GUYBRUSH
+[a bit woozy]{Whiney} Woah!  This whole jumping between realms things is gonna take some getting used to.
+324)  GUYBRUSH
+{Happy} Hey!  It's Jacques the monkey!  Hey, little guy!  Huh, I wonder why his eyes are all funky again?
+325)  GUYBRUSH
+{Incredulous} Yep, that's my body all right!  {Confused} What is it doing here?
+326)  GRINDSTUMP
+{Excited} This is your wake!  {Thinking} We were going to erect a statue in your honor after the pox was cured,{Disappointed} but that caused LeChuck to return to pillaging and plundering {Serious} and people were calling to burn your body in effigy instead.
+327)  GRINDSTUMP
+{Sarcastic} In the end we settled somewhere in the middle and {Proud} decided you'd become our new dartboard.
+328)  GUYBRUSH
+{Surprised} BOOOO!!!{Evil} I'm a scaaaaary ghost!
+329)  GRINDSTUMP
+{Surprised} Gah!  Quit that! {Angry} You aren't scary, you just screwed up my concentration!
+330)  GUYBRUSH
+{Happy} Yo, Bugeye!
+331)  BUGEYE
+{angry} Wadda ya want, pipsqueak?
+332)  GUYBRUSH
+{surprised} Oooooooooo!!  I'm a ghost! {confused} Aren't you guys scared of me?
+333)  BUGEYE
+{Cocky} Well, you weren't very threatening while you were alive, {Incredulous}and I'm afraid the new “pirate ghost” thing just isn't helping.
+334)  BUGEYE
+{Evil} Are you mocking me, boy?!
+335)  GUYBRUSH
+{Incredulous} Arrrrr, Does it LOOK like I'm mocking you?
+336)  GRINDSTUMP
+{Surprised} Ooff!!
+337)  GRINDSTUMP
+{Serious} All right, that's enough!  I think you need some time to calm down, lad!  It's off to the drunk tank for you!
+338)  GRINDSTUMP
+{Stern} And you, don't slime up the place while I'm gone!
+339)  BUGEYE
+{Cocky} Well, I guess not.  Yer just really ugly.
+340)  BUGEYE
+{Angry} Ahh, I've had enough of you!
+341)  GUYBRUSH
+{Whiney} Brrrr!  I don't remember my body being this cold!
+342)  GRINDSTUMP
+{Surprised} AHHH!  Great Jumping Jibbets!  It's ALIVE!!
+343)  BUGEYE
+{Angry} It ain't alive, it's some kind of voodoo zombie!
+344)  GRINDSTUMP
+Quick, chop its head off!
+345)  GUYBRUSH
+{Scared} WHAT?!  Wait a second!
+346)  BUGEYE
+{Stern} Don't worry, your honor, {Cocky} a good whomp in the choppers oughtta take care of this one.
+347)  BUGEYE
+{Cocky} Back for another round, zombie boy?
+348)  GUYBRUSH
+{Angry} Bring it on, Bug Juice!
+349)  GUYBRUSH
+{Scared} I'm sure we can talk this out...
+350)  GUYBRUSH
+{Evil} I'm Guybrush Threepwood!  I mean to kill you all!
+351)  GRINDSTUMP
+{Confused} You do?!{Happy} Terrific. Off to jail with you!
+352)  GRINDSTUMP
+[talking to Bugeye]{Stern} You there, I'll be back shortly.{Sarcastic} I'm taking this body to the jail.
+353)  BUGEYE
+[sarcastic]{Incredulous} Sure, if the ladies come callin' I'll tell 'em that's where you went.
+354)  GUYBRUSH
+{Surprised} I'M BAAAAACK!
+355)  GRINDSTUMP
+{Surprised} Hold your ground or I'll take you down m'self!{Angry}  Ghosts are one thing, but I really hate zombies!
+356)  GUYBRUSH
+{Angry} Bring it on, Grand Rump!!
+357)  GRINDSTUMP
+[throws something heavy] Ehhgh!!
+358)  GUYBRUSH
+{Surprised} I surrender!
+359)  GUYBRUSH
+{Confused} So, how did you get out of the Manatee and end up on Flotsam?
+360)  BUGEYE
+{Stern} I don't want to talk about it.
+361)  BUGEYE
+{Stern} I said I don't want to talk about it.
+362)  GUYBRUSH
+{Incredulous} Come on, how did you get out of the Manatee and end up on Flotsam?
+363)  BUGEYE
+{Angry} I REALLY do not want to talk about it!
+364)  GUYBRUSH
+{Suspicious} You gotta tell me how you got out of the Manatee and ended up on Flotsam!
+365)  BUGEYE
+{Evil} What part of “Don't want to talk about it” didn't you understand?
+366)  GUYBRUSH
+[takes a breath to begins talking, but stops]{Embarrassed}
+367)  BUGEYE
+[glares]{Angry} Grrrrrr.
+368)  GUYBRUSH
+{Confused} What ever happened to that locket DeCava had?
+369)  BUGEYE
+{Cocky} Probably at the bottom of the ocean with the rest of... {Worried} well.  It's at{Stern} the bottom of the ocean.
+370)  GUYBRUSH
+{Confused} Can you give me some of that "Spirit Gum"?
+371)  VOODOOLADYCRAB
+I cannot risk coming out of hiding to aid you, Guybrush.  But I was chewing some when I was imprisoned back on Flotsam. I may have left some back in the jail cell.
+372)  VOODOOLADYCRAB
+Remember, spirit gum contains some ingredients from the spirit realm, so it retains some ghostly properties!  Be careful with it!
+373)  GUYBRUSH
+{Hurt} Oof!
+374)  WINSLOW
+{Confused} Cap'n Threepwood?
+375)  WINSLOW
+[snapping to attention]{Happy} Captain on deck!
+376)  GUYBRUSH
+{Confused} Mr. Winslow? {Incredulous} Relax, I'm not the captain anymore, I'm dead.
+377)  WINSLOW
+{Stern} It was that nasty LeChuck fellow, sir! Oh, you were right about that one!  First he knocked me off the ship, then he kidnapped your lovely wife, [pause for drama]and then...
+378)  GUYBRUSH
+Yes?
+379)  WINSLOW
+...Then he...{Sad}oh, I can hardly say it, sir....
+380)  GUYBRUSH
+{Worried} Did he make you kill someone?  Force you to turn on your family and loved ones?
+381)  WINSLOW
+{Sad} He took down the MAP, sir!   How does one expect to get ANYWHERE without a map?!
+382)  GUYBRUSH
+Mr. Winslow?
+383)  WINSLOW
+{Happy} Yes sir?
+384)  GUYBRUSH
+{Incredulous} Why is there a monkey on your raft?
+385)  WINSLOW
+{Cocky} Actually, the raft belongs to the monkey, sir.  LeChuck tried to convince your wife that "RIGHT HERE" was his this creature's natural habitat!
+386)  GUYBRUSH
+{Confused} What happened to the Narwhal?
+387)  WINSLOW
+{Concerned} After LeChuck knocked me off, he simply set it adrift at sea.
+388)  GUYBRUSH
+{Happy} Hello, little monkey...
+389)  WINSLOW
+{Concerned} I wouldn't, sir!  He's still a bit frustrated that we can't agree on the props we need for our new game: Rock, Paper,  ... and I say “Fountain Pen”.  He disagrees and gets rather... bitey about it!
+390)  GUYBRUSH
+{Confused} What's this stuff?
+391)  WINSLOW
+{Cocky} Those are the pieces I need to play a game I'm inventing called Rock, Paper, Fountain Pen.
+392)  GUYBRUSH
+{Confused} Hey, how'd my body get back here?
+393)  GRINDSTUMP
+{Thinking} We came to check on you and found it just layin' around. {Happy} We figured you were dead again, so we just put ya back here.
+394)  GUYBRUSH
+{Stern} Okay, LeChuck, you caught me off guard {Angry} ONCE by making Elaine spray me with root beer-
+395)  ELAINEDEMON
+{Devilish} Are you ready this time?
+396)  GUYBRUSH
+{Seductive} Ready for what, sweetums?
+397)  GUYBRUSH
+{Surprised} Arrggrggrggrggle!
+398)  ELAINEDEMON
+{Devilish} Back for more?
+399)  GUYBRUSH
+{Surprised} Aw, shoo-brrggbrrgbrgle!
+400)  GUYBRUSH
+{Whiney} Ooof!
+401)  BUGEYE
+{Stern} Hey you!  Pipe down, we're in the middle of a pirate wake here!
+402)  GUYBRUSH
+{Confused}A what?  [notices his body] {Happy} Yup, that's me! [then disappointed] {Suspicious} This is a pretty disappointing wake.
+403)  GRINDSTUMP
+{Disappointed} Yeah, well LeChuck's killing spree may have hindered the turnout a bit.
+404)  GRINDSTUMP
+{Excited} Hold on, Threepwood! {Stern} LeChuck may still be out there somewhere waiting to skewer us all!
+405)  GRINDSTUMP
+{Serious} Until this crisis blows over, the only safe places on Flotsam Island are {Proud}my club and my jails!
+406)  GUYBRUSH
+{Angry} Argh!  I can't make the door knob turn. {Stern} Stupid ghostly limitations!
+407)  GUYBRUSH
+{Confused} How come there's only one of these?  I thought ALL probationary members had to wear blindfolds?
+408)  GRINDSTUMP
+{Confused} Probationary members? {Sarcastic} There are no Probationary members here.
+409)  GUYBRUSH
+{cocky} That's the blindfold I wore back when I had my first bar fight here.  
+{Embarrassed} Although, technically, it was my Pox-infested hand that did most of the fighting... {Incredulous} Ah, good ol' Lefty, I hope he's happy, {Confused} wherever he is.
+410)  GUYBRUSH
+{Surprised} Root beer, {Scared} Yikes!  I better not stand under that!  I don't want it splashing down on me!
+411)  GUYBRUSH
+Barrel-aged root beer.
+412)  GUYBRUSH
+{Angry} Who posed me like this? I look like a pirate panhandler!
+413)  GRINDSTUMP
+[snickers]
+414)  BUGEYE
+[snickers]
+415)  GUYBRUSH
+{Default} A mug full of root beer. {Happy} Now all I need is some ice cream, and my corpse'll be able to enjoy a cool, refreshing root beer float.
+416)  GUYBRUSH
+[kinda surprised]{Cocky} The mug is still full of root beer.
+417)  GUYBRUSH
+{Incredulous} Please stop throwing darts at me.
+418)  GRINDSTUMP
+{Confused} What do you care, you're dead?
+419)  GUYBRUSH
+{Whiney} But I need my body.  I'm not done with it.
+420)  GRINDSTUMP
+{Happy} Sorry.  Just be grateful that I'm not a very good shot!
+421)  GUYBRUSH
+{Happy} I surrender!  Take me to jail!
+422)  GRINDSTUMP
+{Confused} For what?
+423)  GUYBRUSH
+{Confused} For... kidnapping... my own body.
+424)  GRINDSTUMP
+{Happy} Good enough!  Let's go!
+425)  GRINDSTUMP
+{Happy} You got it!
+426)  GUYBRUSH
+{Incredulous} So, ever seen a ghost before?
+427)  GUYBRUSH
+{Incredulous} Gimme a drink, Grindstump!
+428)  GRINDSTUMP
+{Stern} I'm afraid your bar privileges expired when you did, Threepwood. {Sarcastic} In your next life, try to settle your debts before you get killed, hmmm?
+429)  
+Club 41
+430)  GRINDSTUMP
+[Reuse from previous ep, w/ added processing]Order! Order! I hereby call for the release of Guybrush Threepwood and the immediate imprisonment of LeChuck and the Voodoo Lady!  To the brig with both of them!
+431)  PIRATECROWD
+The Pox! The Curse is lifted! Yay!
+432)  LECHUCK
+[re-use line from 104 w/ processing] Unholy THIS!
+433)  GUYBRUSH
+[re-use from 104 w/ processing]Arrghh!!!
+434)  ELAINE
+[re-use from 104 w/ processing] Guybrush!
+435)  GUYBRUSH
+[process: buried in a coffin underground] Where am I? I can't see a thing!
+436)  GUYBRUSH
+[process: buried in a coffin underground] Helloooo?  It's dark in here!
+437)  GUYBRUSH
+[process: buried in a coffin underground] Anyone?
+438)  GUYBRUSH
+[process: buried in a coffin underground] I think I feel dirt!
+439)  GUYBRUSH
+[process: buried in a coffin underground] I definitely have mud in my teeth...
+440)  GUYBRUSH
+[process: buried in a coffin underground] Where is all this dirt coming from?  Maybe I'll just take some, to get it out of the way...
+441)  GUYBRUSH
+[process: buried in a coffin underground] Hey!  I think I can see some light!
+442)  GUYBRUSH
+Lemme just grab some more of this dirt...[digging reveals a hole he can climb out of]Hey!
+443)  GUYBRUSH
+{Surprised} Wow, you do pretty good in tips!
+444)  FERRYMAN
+{Angry} Do not touch!
+445)  GUYBRUSH
+{Cocky} Let me just count that up for you.
+446)  GUYBRUSH
+{Scared} Okay, okay.
+447)  GUYBRUSH
+[reading] Guybrush Threepwood, Mitey Pirate™!
+449)  GUYBRUSH
+[reading] Guybrush Threepwood, Mitey Pirate™!
+448)  GUYBRUSH
+{Stern} At least they finally got the last name right.
+450)  GUYBRUSH
+{Confused} Wait, was someone implying that I have mites?!
+451)  GUYBRUSH
+Hmm, nothing.
+452)  GUYBRUSH
+{Happy} Mmmm, cool refreshing Grog on the Go!  For when you need that extra something to face your day!
+453)  GUYBRUSH
+{Incredulous} Diet Grog is sold out.  I guess even Ghost Pirates need to watch their figure.
+454)  GUYBRUSH
+{default} Grog XD. {cocky} This must be that new high-energy grog that all the kids are drinking these days.
+455)  GUYBRUSH
+{Incredulous} Aw, I guess there's no Cherry Grog.  Shoot, that's my second favorite flavor, right after Purple.
+456)  GUYBRUSH
+It's sold out.
+457)  GUYBRUSH
+[pickup2]It's sold out. {Disgust} Which is fine by me, the kerosene and battery acid tend to keep me up at night.
+458)  GUYBRUSH
+{Surprised} Hey, it made change for me!
+459)  GUYBRUSH
+Looks like this machine only takes bills.
+460)  GUYBRUSH
+{Surprised} Nice gondola! {Incredulous} It's so clean, despite the fact that it's basically moving through a river of ectoplasmic sludge!
+461)  FERRYMAN
+[creepy] Aye.
+978)  FERRYMAN
+[creepy] Aye.
+462)  GUYBRUSH
+{Surprised} Seriously!  That boat is SPOTLESS! {Cocky} I am very impressed!
+463)  GUYBRUSH
+{Incredulous} You must clean it every chance you get to keep it so clean.
+464)  GUYBRUSH
+{Disgust} Eww, his water is kinda... slimy.  Where does it go?
+465)  FERRYMAN
+The Center of the Crossroads.
+466)  GUYBRUSH
+{Disgust} It's wet and slimy. It reminds me of my old pet salamander, Mr. Wiggly!
+467)  GUYBRUSH
+{Incredulous} He's got plenty of money in there.  I'll just take a little.
+468)  GUYBRUSH
+{Incredulous} Maybe just a little more.
+469)  GUYBRUSH
+[pickup2]{Whiney} Aw, looks like I got the last one.
+470)  GUYBRUSH
+{Angry} Aw man, it's broken!  This thing ate my dollar!
+471)  GUYBRUSH
+{Stern} Stupid broken machine!
+472)  GUYBRUSH
+Hi, it's me again.
+473)  GUYBRUSH
+{Confused} How much does it cost again?
+474)  GUYBRUSH
+{Surprised} Oh, right.  Two gold coins.
+475)  GUYBRUSH
+{Cocky} I'll be back when I find some coins.
+476)  GUYBRUSH
+Bye.
+2167)  
+Bye.
+477)  GUYBRUSH
+{Confused} Am I really dead?
+478)  FERRYMAN
+[creepy]Aye.
+479)  GUYBRUSH
+{Confused}Am I really REALLY dead?
+480)  GUYBRUSH
+{Cocky} So I'm COMPLETELY dead?
+481)  GUYBRUSH
+{Confused} I'm not just mostly dead?
+482)  FERRYMAN
+Ay-{Angry} Okay look,  you do still have a TINY shred of life you seem to be hanging on to, but for all intents and purposes, let's just call it DEAD dead!
+483)  GUYBRUSH
+{Confused} You don't see one of those every day.
+484)  GUYBRUSH
+{Happy} Here is some cash for the ride!
+485)  FERRYMAN
+{Legal} Exact change only.
+486)  GUYBRUSH
+{Confused}Seriously?!{Stern} You won't even make change for me?
+488)  GUYBRUSH
+[Disgruntled grunt]{Stern} Grrff!
+489)  GUYBRUSH
+{Confused} What can I do with-
+490)  FERRYMAN
+{Angry}Be gone, pirate.{Default} Do not soil the Gondola of Death!
+491)  GUYBRUSH
+{Happy} Great!  Now, what am I thirsty for?
+492)  GUYBRUSH
+{Incredulous} Awww... I think the rest of my bills are too wrinkly for the machine. {Cocky} Oh well, I’m pretty sure everything is sold out anyway.
+493)  GUYBRUSH
+{suspicious}Where did the creepy boat man go?
+494)  GALEB
+{happy}His only job is to ferry arriving souls to the Crossroads where they can choose their eternal destination.  Once he's done his job, he'll no longer appear to you. [lying] {shifty}Also, he said he had to leave early for his sister's baby shower.
+495)  GUYBRUSH
+[expression of pain]Brrbrreeuuch!
+496)  GUYBRUSH
+{Confused} This must be the center of the Crossroads.
+497)  GALEB
+{Stern} Yes.  This is the point at which every soul must choose their ultimate pirate path: You may choose sword mastery, thievery or treasure hunter-y.
+498)  GUYBRUSH
+{Happy} How piratey!
+499)  GUYBRUSH
+The center of the Crossroads.
+500)  GUYBRUSH
+Hey, ol' creepy bones left his tip jar! I'll just hold on to it... for safe keeping!
+501)  GUYBRUSH
+{Happy} I'd like to buy that spirit photo please!{Incredulous}  I think my wife will get a kick out of it once I figure out how to get back to her!
+502)  THIEF
+Welcome back, friend.
+503)  THIEF
+{surprised}There's something behind me you say?  I better have a look!
+504)  GUYBRUSH
+{cocky}There's something... uhh....
+505)  THIEF
+{surprised}Ooh, where?
+506)  GUYBRUSH
+I wonder what this would feel like in my pocket.
+507)  GUYBRUSH
+Oooh, shiny!
+508)  GUYBRUSH
+{confused} Hmm... it's surprisingly light.
+509)  GUYBRUSH
+Yoink!
+510)  GUYBRUSH
+Peg legs?  How did he manage to steal all of these without the wearers noticing?
+511)  GUYBRUSH
+Nah, that thing was a pain to carry around.  I think I'll leave it.
+512)  GUYBRUSH
+This is nice.  Where did you get this from?
+513)  THIEF
+Ah, that I stole from Cap'n' Blood Beard himself just after his crew mutinied and made him walk the plank... from the crow's nest!
+514)  GUYBRUSH
+What's the story behind this?
+515)  THIEF
+I lifted that right out of the pocket of Betsy Bilgewater! Stealing that was easy, trying to steal a kiss got me a swift kick to the buoys!
+516)  GUYBRUSH
+How did you manage to steal this?!
+517)  THIEF
+Funny story, I was runnin' a con on Deadeye Drake, tryin' to get at his collection of gold cannonballs, when he hauls out this thing and asks if he can have it shipped back home!  Ha ha!  I even charged him 300 pieces of eight to do it!  Oh, how that guy survived as a pirate for more than 2 years is beyond me!
+518)  GUYBRUSH
+Wow!  You stole this?
+519)  THIEF
+Actually, that was already there when I got here.
+520)  THIEF
+I hate to be a bad host, but I'm afraid you have got to be moving on!
+521)  GUYBRUSH
+Oh, okay then.
+522)  THIEF
+Time to go, friend.
+523)  GUYBRUSH
+Oh, right.
+524)  THIEF
+{enthused}'Til next time, friend.
+525)  THIEF
+Well, if there was something behind me, it must be gone now, am I right, friend?
+526)  GUYBRUSH
+Um, yeah, sure.
+527)  GUYBRUSH
+{surprised}Hey, wait a minute!  Some of my stuff is gone!  That two bit thief robbed me! [admiring] Pretty smoothly too!
+528)  GUYBRUSH
+Good luck with the pilfering!  I gotta go!
+529)  THIEF
+Come back soon, friend.
+530)  GUYBRUSH
+{stern}I need to get out of here and return to the land of the living.  Can you help me?
+531)  THIEF
+{suspicious}Not in the slightest, friend.  {shifty}Maybe you should talk to Galeb, but then, you can't believe everything that guy says.
+532)  GUYBRUSH
+{incredulous}So what kind of thievery skills do you have?
+533)  THIEF
+{cocky}The usual, friend; pick pocketing, {shifty}lock picking, safe cracking,{stern} and creating artificial buying pressure for a generally a low-trading volume issuer in the over-the-counter securities market.
+534)  GUYBRUSH
+[pause]{worried} Yeah, me too.
+535)  GUYBRUSH
+{suspicious}Did you steal everything in here?
+536)  THIEF
+{cocky}Most of it, friend.
+537)  GUYBRUSH
+{happy}Well, keep up the good work!
+538)  THIEF
+{enthused}Oh, I am, friend.
+539)  GUYBRUSH
+{Whiney} Come on, why won't you fight me.
+540)  MORGAN
+{Questioning} [depressed] What's the point.  You don't even have a sword.
+541)  GUYBRUSH
+{Proud} I still have my razor sharp wit!
+542)  MORGAN
+Great, use it on THAT guy.  He seems to want to fight.
+543)  MORGAN
+{Questioning} Ugh, fine!
+544)  MORGAN
+{Questioning}[depressed] What's the point.
+545)  SWORDFIGHTER
+{Happy} Ah ha!  Come to test your steel and wits against me, lad?{Cocky} Well, I hope you have sharpened both 'cause-
+546)  GUYBRUSH
+{Incredulous} No thanks.{Suspicious} How long has Morgan been sitting there?
+547)  SWORDFIGHTER
+{Confused} Err, can't say for sure.{Incredulous} She's been here since before LeChuck did me in, that's fer certain. Just sittin' there.  She won't even insult swordfight me.  Every time I toss out a taunt,{Surprised} she just agrees with me!
+548)  GUYBRUSH
+{Cocky} Pardon me, mind if I borrow this?
+549)  SWORDFIGHTER
+{Surprised} Hey!{Stern}  LeChuck stuck that in me for a reason, you know.
+550)  GUYBRUSH
+{Confused} LeChuck?
+551)  SWORDFIGHTER
+{Cocky} Aye, he came back after me and me mates stole some gold turtle from him.  He chopped off me head and asked me to hold that for him.
+552)  GUYBRUSH
+...In your decapitated head?
+553)  SWORDFIGHTER
+Yeah....[realizing]{Whiney} Oh, he just wanted to kill me, huh?
+554)  GUYBRUSH
+{Cocky} That'd be my guess.
+555)  SWORDFIGHTER
+Aye, that makes sense.
+556)  GUYBRUSH
+{Happy} Good luck with the sword fighting gig.  I'll be back!
+557)  MORGAN
+{Sarcastic} *sigh* I'm not sure what you meant by that, but I interpret it as "Morgan, you are a big fat loser!"
+558)  GUYBRUSH
+{Confused} No!  I was talking to-
+559)  MORGAN
+{Questioning} Forget it.{Sad}  I'm useless.
+560)  SWORDFIGHTER
+{Cocky} Ha!  That be a poor insult!
+561)  GUYBRUSH
+{Surprised} What?{Confused}  No, I thought I was talking to the lady!
+562)  SWORDFIGHTER
+Aye, even that would have been a better comeback,{Happy} but it's too late now!  I win!
+563)  GUYBRUSH
+But-
+564)  MORGAN
+{Sad} If he's the winner, then I must be the loser.
+565)  GUYBRUSH
+{surprised} YIKES, flying sand fleas!
+566)  PARROT
+*Squawk* It's me. Guybrush Threepwood, Mighty Pirate™!
+567)  GUYBRUSH
+{stern} Hey, so this is what happened to my Cursed Pyrite Parrot of Petaluma {confused} after DeSinge obliterated it!
+568)  GUYBRUSH
+{sarcastic} Oh, great.  More tiny parrots.
+569)  GUYBRUSH
+{confused} I guess since he got atomized into a million bits, {sarcastic} there are gonna be a LOT of these guys.
+570)  GUYBRUSH
+{sarcastic} Okay, I guess this is the only treasure I'm gonna get.  {stern} Stupid cursed whispery parrot!
+571)  GUYBRUSH
+{cocky} Gotcha!
+572)  GUYBRUSH
+{confused} Shoot, they're too small!  {stern} They just slip right through my fingers!
+573)  GUYBRUSH
+{cocky} Ah ha! Now I gotcha, tiny little parrots!
+574)  GUYBRUSH
+{confused} Aw, they're like tiny annoying golden mosquitoes!
+575)  GUYBRUSH
+{surprised} Hey!  My parrots are leaving!  {worried} Come back little guys! {whiney} Oh well.  There are {default} probably plenty more.
+576)  GUYBRUSH
+{whiney} Aw, why do they keep leaving me?
+577)  VOODOOLADYCRAB
+Fool Threepwood, what have you done?
+578)  VOODOOLADYCRAB
+Why did you open the Crossroads?!  With the barriers shattered, LeChuck is now beyond all control, plundering voodoo energy directly from the Spirit Realm! Thanks to you, reality itself could unravel like a cheap rug!!
+579)  GUYBRUSH
+{Confused} Me?  What about you,{Incredulous} miss "All-Knowing, All-Seeing, Voodoo Puppet Mistress-y Person"?
+580)  VOODOOLADYCRAB
+I'm afraid LeChuck made fools of us all this time, Guybrush.  But hope is not yet lost.
+581)  VOODOOLADYCRAB
+The voodoo root beer only affects spiritual manifestations in the physical realm.  If you can manage to repossess your body, you may yet be able to use LeChuck's weapon against him!
+582)  VOODOOLADYCRAB
+I must go now, Guybrush.  It is too dangerous for me to let my true whereabouts be known.
+583)  GUYBRUSH
+{Disgust}[creeped out by the crabs]  Eeugh... I hope this is just a phase she's going through.
+584)  GUYBRUSH
+{Confused} Hey, Galeb?   Hellooooo?  Huh, looks like he wandered off.
+585)  GUYBRUSH
+Maybe he'll turn up later.
+586)  GUYBRUSH
+{happy}It's the spell LeChuck used to escape back into the living world!
+587)  GUYBRUSH
+[reading] {default}The physical and spiritual realms co-exist as do night and day; to journey from one to the other a pirate must know his way.  Search around you and within you to find these things, and at the center of the Crossroads, present them in a ring.
+588)  GUYBRUSH
+[reading] The journey is confusing, something must GUIDE your way
+589)  GUYBRUSH
+[reading]And you must have an ANCHOR, to insure that you will stay.
+590)  GUYBRUSH
+[reading] What gives you COURAGE to face the dangers to come
+591)  GUYBRUSH
+[reading]And a SACRIFICE in your name that cannot be undone.
+592)  GUYBRUSH
+{Happy} One bottle of liquid courage, check!
+593)  GUYBRUSH
+{Happy} Anchors aweigh! Check!
+594)  GUYBRUSH
+{Cocky} Okay, all I need is "A sacrifice in my name..."  {Confused} Where the heck am I supposed to find that?!
+595)  GUYBRUSH
+{Happy} I found a spell that will let me return to the land of the living!
+596)  MORGAN
+{Excited} Really?!  That's great!  How do we use it?
+597)  GUYBRUSH
+First, I need to gather a bunch of ingredients,{Confused} but I am having some trouble figuring out what they are supposed to be. Maybe you can help?
+598)  MORGAN
+{Happy} Maybe, what are the items?
+599)  GUYBRUSH
+{Incredulous}"I must have an anchor, to ensure that I will stay."
+600)  GUYBRUSH
+{Incredulous}"The journey is confusing, something must guide your way"
+601)  MORGAN
+{Sarcastic} Sounds like you need something to point you in the right direction.
+602)  GUYBRUSH
+{Incredulous}"What gives you courage to face the dangers to come."
+603)  MORGAN
+{Sarcastic} Courage huh? I just thought you pirates were a judgment impaired lot to begin with!
+604)  MORGAN
+{Sarcastic} I don't know.  What do you pirates use when you stupidly take on insurmountable dangers without an ounce of fear?
+605)  GUYBRUSH
+{Confused} Pirates do that?{Happy}  Boy, I need to learn how they do that!
+606)  GUYBRUSH
+{happy}I'm looking for a few items to complete a voodoo spell.  Think you might be able to help me find some?
+607)  THIEF
+{suspicious}Voodoo huh... that's dangerous stuff.  I'll see what I can do, friend. {happy} What do you need?
+608)  THIEF
+{enthused}Heh, maybe you should ask Galeb.  That guy is always lost!
+609)  THIEF
+{confused}And anchor huh... Like a literal anchor? Or are we speaking metaphorically about something that keeps you grounded so that you don't get yourself in trouble so often?
+610)  GUYBRUSH
+{confused}I don't know.
+611)  THIEF
+[chuckles to himself] {enthused}Courage ain't exactly my strong point, that's why I prefer to stick to the shadows.  I don't like direct confrontation,  you know?
+612)  GUYBRUSH
+{happy}Boy, do I!
+613)  THIEF
+[panicking]{scared} Like when LeChuck came back for us!  I had nowhere to hide!   It was a brutal slaughter, I never had a chance!
+614)  THIEF
+{scared}You got me all worked up now.  Hang on, I've got to steel my nerves.
+615)  THIEF
+[sigh of relief]{happy} That's better.
+616)  GUYBRUSH
+{cocky}Wow, I guess you are NOT the person to ask about courage!
+617)  GUYBRUSH
+{default}"A sacrifice in your name that cannot be undone."
+618)  THIEF
+{cocky}Good luck with that one, friend.  I'm not exactly one to sacrifice anything for anyone!
+619)  GUYBRUSH
+{Angry}Here I come, LeChuck!
+620)  GUYBRUSH
+{Angry}We're not finished yet, LeChuck!
+621)  GUYBRUSH
+[emotes while jumping] Erp!
+622)  GUYBRUSH
+{Confused} And why am I posed like that?
+623)  GRINDSTUMP
+{Happy} It's zany. The customers love it.
+624)  BUGEYE
+{Cocky} What?  That's exactly the way I remember you.
+625)  GUYBRUSH
+{Happy} Hi everyone, I'm back!
+626)  GRINDSTUMP
+{Serious} Shhhh, I be tryin' to concentrate here.
+627)  GUYBRUSH
+{Confused} Seriously, how did you get out of the Manatee and end up on Flotsam?
+628)  GUYBRUSH
+{Cocky} I bet I can guess!
+629)  GUYBRUSH
+{Incredulous} No, no. Let me guess!
+630)  GUYBRUSH
+{Happy} I'm gonna go ahead and guess.
+631)  GUYBRUSH
+{Cocky} You took the Gross out Subway again, didn't you?
+632)  BUGEYE
+{Stern} Wrong, now buzz off.
+633)  GUYBRUSH
+{Confused} You dressed up like a throat grub and snuck out through the blow hole!
+634)  BUGEYE
+{Disgust}Manatees don't have blow holes. {Stern} Plus, that's really stupid.  Now leave me alone.
+635)  GUYBRUSH
+{Cocky} You ignited the gasses in the stomach which resulted in a{Surprised} catastrophic explosion destroying everything within a 25 mile radius?
+636)  BUGEYE
+{Incredulous} And yet, here I am without a scratch on me.
+637)  GUYBRUSH
+{Proud} So was I right?
+638)  BUGEYE
+{Stern} You're an idiot.
+639)  GUYBRUSH
+{Stern}Hmmm... perhaps you...{Incredulous} waited around until the mating ritual, made your way to the tongue and{Happy} escaped when the manatee went in for the kiss.
+640)  BUGEYE
+[shocked and angry]{Surprised} Hey!  Who told you that! {Angry} That's private information!
+641)  GUYBRUSH
+{Confused} And once free from the manatee you...
+642)  GUYBRUSH
+{confused}...were captured by{Surprised} a passing fishing boat who{incredulous} made you dress up like a princess for their entertainment until you{Evil}  killed them all and fled to flotsam!
+643)  BUGEYE
+{Stern} I don't wear a dress for no one, Stinkwood!{Angry}  You best watch your tongue before I lose my temper!
+644)  GUYBRUSH
+{Confused}... befriended a mer-person{Cocky} who you ended up riding all the way to the shores of Flotsam.
+645)  GUYBRUSH
+{Confused}... you found a secret tunnel at{Happy} the bottom of the ocean that ran along the sea floor,{Proud} into the sewage system of flotsam and let out right here in Club 41!
+646)  BUGEYE
+{Cocky} That's incredible! {Incredulous} I can't imagine how you could possibly be more wrong!{Angry}  Now shove off!
+647)  BUGEYE
+{Surprised} That's impossible!  No one knows about that!
+648)  GUYBRUSH
+[Says something mocking] {Embarrassed} "Look at me, I'm Bugeye! I like to get in on Manatee make out sessions and ride merfolk around!"
+649)  GUYBRUSH
+{Surprised} YOWCH!
+650)  WINSLOW
+{Concerned} Are you all right, sir?
+651)  GUYBRUSH
+{Hurt} I think I just had the spirit knocked out of me!
+652)  WINSLOW
+{CockY} Ah yes, that WOULD explain the girlish scream, sir!
+653)  GUYBRUSH
+{Surprised} Oow!!
+654)  WINSLOW
+{Cocky} Back so soon, sir?
+655)  GUYBRUSH
+{Hurt} Yeah, maybe I should try a different approach.
+656)  GUYBRUSH
+{Surprised} Ouch!!
+657)  WINSLOW
+{Happy} Welcome back sir!
+658)  GUYBRUSH
+{Hurt} Brrzrk!! [shakes off the weird sensation]{Confused} Hey, what happened?
+659)  WINSLOW
+{Concerned} I don't know sir.  The locket sparked a couple of times and before I could say "sexyfish" you were back here!
+660)  GUYBRUSH
+{Suspicious} Sexyfish?
+661)  WINSLOW
+{Cocky} It's an expression, sir. Something I picked up while on my tour of the exotic Limbo Islands!
+662)  GUYBRUSH
+[changing the subject]{Incredulous} So what you're saying is, the effects of the locket are temporary.
+663)  WINSLOW
+{Concerned}That does appear to be the case, sir.
+664)  GUYBRUSH
+[sarcastic]Well that's just great!
+665)  GUYBRUSH
+{Hurt}Wrrezk!! [shakes off the weird sensation]
+666)  WINSLOW
+{Happy} Welcome back, sir.
+667)  GUYBRUSH
+Hi, Galeb.
+671)  GUYBRUSH
+Hi, Galeb.
+668)  GALEB
+{Sarcastic} Oh, hello again, Dryrub.
+669)  GUYBRUSH
+{Stern} It's Guybrush.
+670)  GALEB
+{Confused} That's what I said.
+672)  GALEB
+Oh, hello again.
+673)  GUYBRUSH
+{Confused} How did you say I could close the rips in the Crossroads?
+674)  GALEB
+{Sarcastic}Yes.  I assume you are still carrying around that last shred of life you came here with. {Suspicious} If you were to give that up, the rips in the Crossroads should close right up.
+675)  GUYBRUSH
+Really?
+676)  GALEB
+{Sarcastic} Of course you'd be stuck here for good. And LeChuck is probably already powerful enough to destroy every living thing on the planet, so I don't see what good it'd do.
+677)  GUYBRUSH
+{cocky} Where have you been?
+678)  GALEB
+{Enthused} Oh, I don't know... just wandering I guess.
+679)  GUYBRUSH
+{Confused} Do you still have the photo of my spirit you took when I first arrived?
+680)  GALEB
+I'm sure I have it somewhere... Are you lookin' to buy it now?
+681)  GUYBRUSH
+Maybe.
+682)  GALEB
+{Happy} Well, if you've got that cash, I've got the picture.
+683)  GUYBRUSH
+See ya later, Galeb.
+684)  GALEB
+{Happy} Sure.  Anything's possible.
+685)  GUYBRUSH
+{Confused} How much is it?
+686)  GALEB
+{Happy} That should cover it.  Enjoy the memories!
+687)  GUYBRUSH
+{disgust}Eeew, gross. That other window sill is covered with chewed gum.
+688)  GUYBRUSH
+{suspicious}Hey, somebody stashed something behind this loose brick.
+689)  GUYBRUSH
+{surprised}It's a diary!
+690)  GUYBRUSH
+{worried}Uh oh... I'm losing possession of my body again...
+691)  GUYBRUSH
+{surprised}Uh oh...
+692)  GUYBRUSH
+{surprised}Ah, shoot!
+693)  GUYBRUSH
+{surprised}Here we go again!
+694)  GUYBRUSH
+{whiney}Oh, great.  I'm in jail. Again.
+695)  GUYBRUSH
+[deep breath] {embarrassed}Okay.  I can't believe I'm actually about to do this...
+696)  GUYBRUSH
+[chewing sounds] * smack smack smack *
+697)  GUYBRUSH
+[evaluating the taste]{cocky} Hmm... dust... spit... and just a hint of lavender. Otherwise it's completely tasteless.
+698)  GUYBRUSH
+{surprised}Woah, that is one big wad of gum stuck up there.
+699)  GUYBRUSH
+{incredulous}This stalactite of gum looks pretty fresh...
+700)  GUYBRUSH
+{disgust}No thanks.  It's completely flavorless and NOT Spirit Gum.  [afterthought]{cocky} Oh, and it's already been in someone else's mouth.
+701)  GUYBRUSH
+{disgust}Eeeww... disgusting!  It tastes like... ear wax!
+702)  GUYBRUSH
+{cocky}Nope, that didn't do anything. Guess that wasn't the Spirit Gum.
+703)  GUYBRUSH
+{disgust}Ugh... bile and squid ink!  THIS certainly isn't Spirit Gum!
+704)  GUYBRUSH
+{disgust}Hmmm... rotten clam flavor!  No Spirit Gum here.
+705)  GUYBRUSH
+[shocked]{disgust} AHH!  This one had a tooth in it!  I'm never going to find the Spirit Gum this way!
+706)  GUYBRUSH
+{disgust}This isn't spirit gum.  This tastes like cat litter!
+707)  GUYBRUSH
+[sarcastic]{cocky}Mmmm... sour milk.  That's a taste that gonna linger.
+708)  GUYBRUSH
+{surprised}Blueberry. [pause]  ...{stern} I don't care for blueberry. And it's not the Spirit Gum.
+709)  GUYBRUSH
+{surprised}I think this is... chocolate and... pickle flavored. [pause, then spits] {disgust}Ptew, ptew!
+710)  GUYBRUSH
+{disgust}Gah!  Turkey and mashed potatoes... delicious!  {cocky}In GUM form, not so much.
+711)  GUYBRUSH
+{cocky}Let's see how Spirit Gum reacts to a little Root Beer.
+712)  GUYBRUSH
+{disgust}Ugh.  That brings back unpleasant memories.  [of being zapped with root beer himself]
+713)  GUYBRUSH
+{surprised}Hey, now THIS is delicious! And tingly!  And...
+714)  GUYBRUSH
+[ as the spell takes effect]{happy} Woah!! Now THAT is Spirit Gum!
+715)  BUGEYE
+{angry}Hey, keep it down over there!
+716)  BUGEYE
+{whiney}Hey!  Don't you leave me here!  Come on!  At least give me some gum!
+717)  GUYBRUSH
+{happy}Bugeye!  We're neighbors!
+718)  BUGEYE
+{disgust}Shut your cheese hole, zombie boy!  You're the reason I'm in here, ya know!
+719)  GUYBRUSH
+{cocky}All right, all right... I'll keep it down!
+720)  GUYBRUSH
+{cocky}How are ya doing over there, neighbor?
+721)  BUGEYE
+{angry}Grrrr!
+722)  GUYBRUSH
+{cocky}May I borrow a cup of sugar?
+723)  GUYBRUSH
+{happy}Do ya like how I decorated the place before you got there?
+724)  GUYBRUSH
+{cocky}I think your dog was on my lawn again last night...
+725)  GUYBRUSH
+[pickup2]{Cocky} Ah ha! Prepare to meet your... [tries to take the cutlass but it won't move]{Disgust} Oh come on!
+726)  LECHUCKPRIME
+{Happy} Problem?
+727)  GUYBRUSH
+{Whiney} Why can't I grab anything?
+728)  ELAINEDEMON
+{Stern} That's just one of the side effects of {Sarcastic} being a fleshless specter!  {Serious} Good thing ya are, though.  {Default} Just one slice of that re-enchanted blade is enough to destroy {Evil} anything that it touches in this {Devilish} mortal world!
+729)  GUYBRUSH
+{Happy} Finally!  {Worried}
+730)  LECHUCKPRIME
+{Happy} Ha ha ha!! {Devilish} Do you think I am some kind of dolt, Threepwood?!
+731)  LECHUCKPRIME
+{Surprised} You opened the Crossroads?  {Happy} Ha ha har! Then I suppose I have to thank you for {Devilish} doing my bidding for a second time!
+732)  GUYBRUSH
+{Incredulous} Look, if I ask real nice {Confused} will you go away?  {Whiney} I only opened the Crossroads to get back to Elaine.
+733)  GUYBRUSH
+{Cocky} Quake in fear LeChuck, {Proud} before you stands the man who tore open the {Stern} Crossroads themselves!
+734)  GUYBRUSH
+{Suspicious} So you admit, {Cocky} I am better than you!
+735)  GUYBRUSH
+{Happy} Ah, {Cocky} too chicken to face the Leviathan yourself, huh?
+736)  LECHUCKPRIME
+{Surprised} Merfolk?!  [Uncomfortable] To be honest, those fish-people creep me out. [boasting] Besides, {Devilish} manipulating you was MUCH more fun!  I was counting on YOUR abilities to bring the sponge to me!
+737)  
+The Voodoo Lady told me about the sponge.
+738)  GUYBRUSH
+{Incredulous} Dolt?
+739)  GUYBRUSH
+{Confused} Seriously, who uses the word "dolt" anymore?
+740)  GUYBRUSH
+{Angry} I've told you a million times, LeChuck, I'm already married to-
+741)  GUYBRUSH
+Do you have any idea how to reverse this spell?
+742)  THIEF
+Hmmm... that looks like a Voodoo enchantment, friend.  I'm afraid I can't help you with that.
+743)  GUYBRUSH
+I'm not going to start throwing all my stuff at that sponge unless I know it'll do some good!
+744)  GALEB
+{Suspicious} Feast of the Senses,{Sarcastic} trying to watch your figure, eh porky?
+745)  GUYBRUSH
+{Surprised} What? {Stern}  No it's not for me, obviously.  It's for-
+746)  GALEB
+Don't worry, Carniferouswood-
+747)  GUYBRUSH
+{Incredulous} Oh come on, that doesn't even sound like "Threepwood."
+748)  GALEB
+{Happy} Losing weight is easy if you follow a strict diet. {Cocky} Here, try this...
+749)  GUYBRUSH
+{Stern} No, I don't need a diet, I ... oh, never mind.
+750)  GUYBRUSH
+{default}Like a sponge, are you bloated in your hips and thighs, block out the SIGHT with a cover for your eyes.
+751)  GUYBRUSH
+The smallest mouth snacks on a tiny whispered word, a SOUND so petite it is barely heard.
+752)  GUYBRUSH
+A light TOUCH for an appetizer, stay true and thrive.  A delicate feather, plucked from a bird half-alive!
+753)  GUYBRUSH
+Your SIXTH SENSE is bloated with fates not yet dealt. You'll find that a Secret will help tighten your belt.
+754)  GUYBRUSH
+Fight the SMELL of the after dinner treat, Eliminate odor and the urge to eat.
+755)  GUYBRUSH
+To keep off the weight you need food with no flavor, find a TASTE so bland there is nothing to savor.
+756)  GUYBRUSH
+{cocky}Hmmm... Diet of the Senses....
+757)  GUYBRUSH
+[remembering]{cocky} "A TASTE so bland there is nothing to savor."  This ABC gum should fit the bill.
+758)  GUYBRUSH
+[reading] "Old Brute - The pirate alternative to bathing." {Cocky} This might help stave off that Fresh Corpse smell I'm starting to notice.
+759)  GUYBRUSH
+Hey, what's in this thing?
+760)  THIEF
+That?  Oh that's a secret.
+761)  GUYBRUSH
+Oooh, what kind of secret?
+762)  THIEF
+If I knew that, it wouldn't be a secret!
+763)  GUYBRUSH
+Can I take it?
+764)  THIEF
+No.  You can't even STEAL it. It has to be SHARED with you.
+765)  GUYBRUSH
+Okay, SHARE it with me.
+766)  GUYBRUSH
+{incredulous} You wouldn't happen to be keeping a secret that you'd like to share with me, would you?
+767)  GALEB
+{Suspicious}A secret... Yes I think I have a secret, but you cannot tell anyone!
+768)  GUYBRUSH
+{Surprised} What is it?
+769)  GALEB
+{Stern} Well, just between you and me... {Sarcastic} I think I may be just a little bit off in the head.
+770)  GUYBRUSH
+{Stern} True, but that's hardly a secret!
+771)  GUYBRUSH
+{whiney} Sorry guys.  {confused} I need to keep you in a more contained space than my jacket pockets!
+772)  GUYBRUSH
+{happy}Awww, they're so cute!  I can barely hear their tiny voices squawking out "I'm Guybrush Threepwood, Mighty Pirate™!"
+773)  GUYBRUSH
+{Surprised} HEY!
+774)  GUYBRUSH
+{Happy} Back in my regular digs.  {Cocky} Only slightly worse for wear, {Incredulous} considering.
+775)  GRINDSTUMP
+Yer throwin' off me shots!
+776)  GUYBRUSH
+{Stern} I think we've all learned by now that root beer and the spectrally afflicted don't mix.
+777)  GUYBRUSH
+{Stern} My body is perfectly positioned for another root beer shower.{Incredulous} Great...
+778)  GUYBRUSH
+{Default} A keg of grog. {Cocky} If not carefully stored, it will go skunky. {Incredulous} Not that anyone would taste the difference.
+779)  GUYBRUSH
+{Cocky} Banang. It's like grog for monkeys. {Incredulous} And a leading cause of simian diabetes.
+780)  GUYBRUSH
+{Happy} Banaaaaaaaaaang.
+781)  GUYBRUSH
+{Default} The bulls eye hasn't seen any action in quite some time. {Incredulous} A testament to Judge Grindstump's assassin-like focus.
+782)  GUYBRUSH
+{Surprised} At least someone thought to get a nice wreath for my wake.
+783)  GRINDSTUMP
+{Confused} What, that? {Thinking} Eh, it was brought in as kindling when we decided to burn your body.
+784)  GUYBRUSH
+[Soto, disappointed] {Whiney} Oh.
+785)  GUYBRUSH
+{Incredulous} Hyper-flammable mourner's kindling.
+786)  GUYBRUSH
+{Embarrassed} Guybrush Threepwood, mighty...{Whiney} sigh.
+787)  GUYBRUSH
+{Confused} Is that a regular sized manatee or a baby giant manatee? {Incredulous} Hmm.
+788)  GUYBRUSH
+{Default} The once screaming Narwhal. {Worried} Goodnight, prince of the deep.
+789)  GUYBRUSH
+{Happy} Hi ya, rug.
+790)  GUYBRUSH
+[Talking like Murray]{Stern} I'm MURRAY!{Evil} The demonic candelabra! Tremble before my wax-caked forehead! Ha ahh...
+791)  GUYBRUSH
+La Esponja Grande is sucking up the Voodoo energy from the Crossroads and transferring it to LeChuck.
+792)  GUYBRUSH
+Maybe I can just push it....  EEnnhhhghh...nope.
+793)  GUYBRUSH
+Forget it!  It's stuck in there.
+794)  GUYBRUSH
+This blindfold ought to do the trick.
+795)  GUYBRUSH
+Bon voyage, my barely audible buddies.
+796)  GUYBRUSH
+One sponge shrinking secret, coming up!
+797)  GUYBRUSH
+Fights odor and wetness for the active pirate... and sponges.
+798)  GUYBRUSH
+Here ya go, sponge.  Chew on this for a while.
+799)  GUYBRUSH
+{Worried} Uh oh.  I hope that's not indigestion...
+800)  GUYBRUSH
+{surprised}Ahhhaahhhhahh!!!!
+801)  GUYBRUSH
+{Whiney} Well, so is he!
+802)  ELAINE
+[cold] {Stern} I'm sorry, Guybrush.
+803)  LECHUCKPRIME
+{Happy} "My demon bride..." {Devilish} Kinda gets you all choked up in here, doesn't it?
+804)  GUYBRUSH
+[witnessing his WORST nightmare] {Surprised} Plunder bunny....{Worried}  no.
+805)  GUYBRUSH
+{cocky}That's my Laneypoo!
+806)  LECHUCKPRIME
+{surprised}[cries out in pain] Arrghh!!!
+807)  LECHUCKPRIME
+{default}Excuse us a moment Guybrush.  {devilish}The wifey and I need to have a little private talk.
+808)  GUYBRUSH
+{scared}Ahhheeeiieee!!
+809)  LECHUCKPRIME
+{default}A futile, {devilish}if admirably treacherous gesture, my buttercup.  Even without La Esponja's help, I've already sucked up so much power{happy} that I can simply step into the Crossroads and take as much Voodoo Energy as I desire.
+810)  LECHUCKPRIME
+{happy}[looking back through the rip]Ha ha ha! You see!? {devilish}You can temporarily destroy my body, Elaine, but you cannot damage me spirit!
+811)  LECHUCKPRIME
+{surprised}OW, my spirit!
+812)  MORGAN
+{strained}Take THAT you big, {stern}ugly, undead, voodoo stealing, bunch-backed toad!
+813)  GUYBRUSH
+{default}[Dazed] Morgan?  What are you doing here?  And where did you get that sword?
+814)  MORGAN
+{terrified}[hurried, dodging the question Guybrush just asked her]  Look we can kill LeChuck, but we have to {stern}find a way to take him on in both the Physical and the Spiritual plane at the same time!
+815)  GUYBRUSH
+{surprised}[panicked] Do what now?
+816)  MORGAN
+{terrified}uh oh, LOOK OUT!
+817)  LECHUCKPRIME
+{angry}[grunt1]
+818)  LECHUCKPRIME
+[grunt2]
+819)  LECHUCKPRIME
+{angry}[grunt3]
+820)  LECHUCKPRIME
+[Dazed grunt4]
+821)  LECHUCKPRIME
+[Dazed grunt5]
+822)  GUYBRUSH
+{Confused} Hello?
+823)  ANEMONE
+[Off screen] Swim away! I'll zap you with this eel!
+824)  GUYBRUSH
+Anen-no-me?
+825)  ANEMONE
+Guybrush?
+826)  GUYBRUSH
+{Confused} What are you doing in there?
+827)  ANEMONE
+What YOU should be doing! Hiding from HIM.
+828)  GUYBRUSH
+{Whiney} Oh man, what did he do to you?
+829)  ANEMONE
+Nothing yet, thank Poseidon.
+830)  GUYBRUSH
+{Incredulous} Look, I know Winslow can be a bit forward, if not a bit bawdy, but he's got a good heart.
+831)  ANEMONE
+No, not sweet Reggie! I mean... LeChuck.
+832)  GUYBRUSH
+[After being corrected by Anemone]{Suspicious}  Ahh, I see.
+833)  ANEMONE
+He destroyed Spinner Cay! The sails of his undead pirate ship are filled with the winds of the apocalypse!
+834)  GUYBRUSH
+{Whiney} That's not good. Look, come out and let's talk about this.
+835)  ANEMONE
+No, I'm too frightened!
+836)  GUYBRUSH
+{Whiney} I need your help out here.
+837)  ANEMONE
+For what?
+838)  GUYBRUSH
+Well, unfortunately I'm currently a ghost so I can't touch anything.
+839)  ANEMONE
+A ghost! How?! What happened?
+840)  GUYBRUSH
+I'll give you one guess.
+841)  ANEMONE
+Killed! By HIM! I'll stay in here, thank you! Where it's safe.
+842)  GUYBRUSH
+{Suspicious} Can I get you to come out?
+843)  ANEMONE
+No! I don't trust anyone. Well... maybe Reggie.
+844)  GUYBRUSH
+{Confused} Wait. Winslow?{Incredulous} That salty dog.
+845)  ANEMONE
+Despite our taxonomic differences, Winslow understands me.
+846)  GUYBRUSH
+{Confused} [To himself] I wonder how that works... logistically.
+847)  ANEMONE
+But now I'll never see him again.
+848)  GUYBRUSH
+{Confused} Are you okay?
+849)  ANEMONE
+No! Spinner Cay has been destroyed!
+850)  GUYBRUSH
+{Suspicious} You want to come out and talk?
+851)  ANEMONE
+No!
+852)  GUYBRUSH
+{Cocky} You and Winslow are...{Embarrassed} you AND Winslow?
+853)  ANEMONE
+I'd never assume he would have me has his life partner.  But we have shared our love.
+854)  GUYBRUSH
+{Surprised} Whoa.{Incredulous} Too Much Information!
+855)  ANEMONE
+And now I'll never see him again.
+856)  GUYBRUSH
+{Incredulous} It's not that scary out here.
+857)  ANEMONE
+I could be skewered by LeChuck's fiery harpoon at any second!
+858)  GUYBRUSH
+{Cocky} It's not that bad.
+859)  GUYBRUSH
+{Happy} Winslow isn't too far away!
+860)  ANEMONE
+He's come to see me?
+861)  GUYBRUSH
+{Confused} Umm...{Happy} sure.
+862)  ANEMONE
+I knew what we had was special.
+863)  GUYBRUSH
+{Suspicious} I don't know if "special" is the word I'd use.
+864)  ANEMONE
+Where is my Reggie?
+865)  GUYBRUSH
+{Happy} He's in a raft floating above us!
+866)  ANEMONE
+Then why doesn't he come down here and rescue me?
+867)  GUYBRUSH
+{Confused} It's like a hundred fathoms or something, he'd drown.
+868)  ANEMONE
+You're here.
+869)  GUYBRUSH
+{Suspicious} I'm...special?
+870)  ANEMONE
+[Referencing Guybrush who JUST said this sentence to Anemone] I'm not certain special is the word I would use.
+871)  GUYBRUSH
+{Incredulous} I'm not sure how to say this, but what was your relationship...{Confused}like?
+872)  ANEMONE
+It was a rare thing. Like a perfectly formed pearl in the mouth of a clam.
+873)  GUYBRUSH
+{Embarrassed} Out of morbid curiosity, does he get into the water or do you shimmy up onto land?
+874)  ANEMONE
+[Offended] Why! I!
+875)  GUYBRUSH
+{Surprised} Forget it, forget it!
+876)  ANEMONE
+If you're so curious, you can find your own Vaycaylian, not that any of us would have you.
+877)  GUYBRUSH
+{Incredulous} Tempting... but I'll stick with my{Happy} bipedal plunder bunny.
+878)  GUYBRUSH
+{Cocky} You and Winslow were pretty hot and heavy?
+879)  ANEMONE
+Weight is negligible under the water.
+880)  GUYBRUSH
+{Incredulous} Huh.{Confused} I THINK I'm grossed out.
+881)  GUYBRUSH
+{Happy} What did Winslow's note say?
+882)  ANEMONE
+[Loving sigh] It was a lovely haiku! That man can say so much with such few words.
+883)  GUYBRUSH
+{Suspicious} I've always found him a bit long winded.
+884)  ANEMONE
+Only in his ability to hold his breath!
+885)  GUYBRUSH
+{Disgust}[TMI!] Ugh...
+886)  GUYBRUSH
+{Happy} Another note from Winslow?
+887)  ANEMONE
+And another beautiful poem. Seventeen succulent syllables. Sigh...
+888)  GUYBRUSH
+{Happy} Anemone! Winslow dropped a note down to you! It's sitting right over there.
+889)  ANEMONE
+Mi amore!
+890)  ANEMONE
+[Reading a love note]It's a love note! Hehehe!
+891)  GUYBRUSH
+{Incredulous} Oh, come on, that's probably just you!
+892)  GUYBRUSH
+{Happy} Winslow dropped another note!
+893)  ANEMONE
+His love overfloweth!
+894)  GUYBRUSH
+{Cocky} He's got a lot of it to give I guess.
+895)  GUYBRUSH
+{Happy} I'll be back later.
+896)  ANEMONE
+Be careful!
+897)  GUYBRUSH
+{Happy} You could probably beat me without lifting a finger!
+898)  GUYBRUSH
+{Confused} Are you saying that you stink,{Incredulous} because I would have to agree.
+899)  GUYBRUSH
+{Happy} I'd say a perfect 10.
+900)  GUYBRUSH
+{Confused} Why?{Cocky}  Can't do the math yourself?
+901)  GUYBRUSH
+{Happy} I think you are a wonderful, smart, charming person!
+902)  GUYBRUSH
+{Happy} Well, dogs are very smart creatures!
+903)  GUYBRUSH
+{Happy}Anepolme is hiding out in a cave below your raft!
+904)  WINSLOW
+{Surprised} What's this? {Happy}My scale-clad-steady is but a few leagues beneath my heart?
+905)  GUYBRUSH
+That's right.
+906)  WINSLOW
+Ask Anemone to swim to me! {Enthused}Swim to me, my sweetheart!
+907)  GUYBRUSH
+{Confused} Well, the problem is LeChuck.{Suspicious}  A-nem-neme's terrified and hiding out until all of his pirate-apocalypse-mongering blows over.
+908)  GUYBRUSH
+{Cocky} Well, that explains your flea problem.
+909)  GUYBRUSH
+{Confused} What are you doing out here?
+910)  WINSLOW
+{Happy} Sailing, sir!
+911)  GUYBRUSH
+{Incredulous} Sailing?
+912)  WINSLOW
+{Sarcastic} Well, rafting, at least.
+913)  WINSLOW
+{Sad} How tragic...
+914)  GUYBRUSH
+{Happy} You are an amazingly skilled swordfighter!
+915)  GUYBRUSH
+{Disgust} Ugh, don't even say that!  I might start vomiting too.
+916)  GUYBRUSH
+{Happy} Well I think you did a darn good job!
+917)  GUYBRUSH
+{Incredulous}Your{Confused} fishy friend{Incredulous} is holed up in the Leviathan's old cave and refuses to leave it.
+918)  WINSLOW
+{Sad} Poor thing, probably as frightened as a foul-hooked haddock.
+919)  GUYBRUSH
+{Happy} Your career is brilliant!  Your name is feared throughout the Caribbean!
+920)  GUYBRUSH
+{Incredulous} That's probably because you always back down from a fight.
+921)  GUYBRUSH
+{Cocky} Trust me, you are NO "little boy"!
+922)  GUYBRUSH
+{Cocky} Perhaps you could drop something down to Astemmelle, something to show your, *ahem*,{Suspicious} affection?
+923)  WINSLOW
+{Happy} A capital idea! Perhaps a poem!{Enthused} A haiku even!{Happy} I became a master of the haiku while working on the Sashimi Islands.
+924)  GUYBRUSH
+{Incredulous} Whatever, as long as it sinks.
+925)  WINSLOW
+Don't you worry, while waiting for the currents to cooperate, I've been working on a game I've entitled "Rock, Paper, Pen."
+926)  GUYBRUSH
+{Confused} How is it played?
+927)  WINSLOW
+Well, paper beats rock.  And then the player must shame the paper into defeat by filling it full of lewd phrases using the pen.
+928)  GUYBRUSH
+{Happy} Nothing like a good shaming.
+929)  WINSLOW
+Anyway, I have all the materials I need to write my dear Anemone a haiku.
+930)  WINSLOW
+May my sinking stone lift quivering spirits!
+931)  GUYBRUSH
+{Happy} Mr. Winslow,{Cocky} perhaps Applebe could use another poem?
+932)  WINSLOW
+{Enthused} A man of my own philosophy!{Happy} If you wish to land a lover, you must give the full court press!
+933)  GUYBRUSH
+{Happy} I just thought it might be nice.
+934)  WINSLOW
+{Enthused} Another haiku!
+935)  WINSLOW
+{Cocky} "Shiny, shimmering, slimy..." [Winslow trials off]
+936)  WINSLOW
+{Happy} Good thinking!
+937)  GUYBRUSH
+{Cocky} Oh, is that why you walk that way?{Confused}  I thought it was just gas.
+938)  SWORDFIGHTER
+{Cocky} That insult be a weak one indeed,{Happy}  I win!
+939)  MORGAN
+{Sad} [defeated]*Sigh*
+940)  MORGAN
+{Sad} You know what, you're probably right.
+941)  GUYBRUSH
+Mr. Winslow,{Cocky} would you mind pushing the button on that locket for your old captain?
+942)  WINSLOW
+{Happy} Certainly, sir.
+943)  GUYBRUSH
+{Confused} Hmm... nothing happened. I should have possessed the Voodoo Lady.{Whiney}  I guess no one is home on the other end.
+944)  MORGAN
+{Terrified} Ten?!{Sad}  Oh god, I AM a terrible person!
+945)  MORGAN
+{Questioning} Okay, I get it.{Sad} I'm stupid too.
+946)  MORGAN
+{Happy} Awww, really?
+947)  SWORDFIGHTER
+{Confused} Awww, really?
+948)  WINSLOW
+{Suspicious} Hmm.
+949)  MORGAN
+{Sad} [kind hurt] Flea problem?
+950)  SWORDFIGHTER
+{Confused} You call that an insult?
+951)  MORGAN
+{Sad} Yeah, sometimes I make MYSELF sick!
+952)  SWORDFIGHTER
+{Stern} That didn't even make sense.
+953)  SWORDFIGHTER
+{Proud} Well, I suppose that is true...
+954)  MORGAN
+{Sad} Just like this one.
+955)  SWORDFIGHTER
+{Incredulous} That's the best you've got?
+956)  MORGAN
+{Sad} Humph!
+957)  GUYBRUSH
+{Happy} That's all for now, Mr. Winslow.
+958)  WINSLOW
+{Happy} Very good, sir.
+959)  WINSLOW
+{Cocky} I say...
+960)  WINSLOW
+{Happy} Captain Threepwood! My beloved has sent me a sign! I best prepare myself for our reunion!
+961)  WINSLOW
+Sniff, sniff. {Surprised}Mizzens!{Concerned} I haven't smelled this rotten since languishing in my own filth while doing my time in the hold of Captain Liverbottom's trader ship!
+962)  GUYBRUSH
+{Confused} What's that?
+963)  WINSLOW
+{Happy} Deodorant, captain!{Cocky} Bought from the apothecary in Woodtick I believe...
+964)  GUYBRUSH
+{Cocky} Winslow, the locket isn't a sign from Anemone. She loved your poem, but I sent that locket up here. I can't touch it but it's the thing that's going to reunite my ghost with my body.
+965)  WINSLOW
+Oh. Most important then.
+966)  GUYBRUSH
+Most.
+967)  WINSLOW
+{Happy} Well, I'll hang it here as if it were our map!{Enthused} Remember our map sir?
+968)  GUYBRUSH
+{Confused} How could I forget?
+969)  WINSLOW
+{Happy} Let this locket lead you back to your body the way our {Enthused}map has lead us to adventure! [BIG on adventure]
+970)  GUYBRUSH
+{Cocky} The Voodoo Lady's locket transfers spirits to bodies based on which way that little arrow button is pointing.{Whiney} I can't press it, though.{Happy}  But I bet Winslow wouldn't mind helping.
+971)  GUYBRUSH
+{Cocky} Ah, the often overlooked ability to interact with the corporeal world...
+972)  WINSLOW
+{Cocky} If I may say, sir. You may want to leave that there, lest your soul be ripped back out of your body and the locket is left lord knows where.
+973)  GUYBRUSH
+{default}Hmm.
+974)  WINSLOW
+{Happy} I'll look after it.
+975)  GUYBRUSH
+{Happy} Right-o, if I can't trust my Winslow, who can I?
+976)  GUYBRUSH
+{Incredulous} Going to leave that there.
+977)  GUYBRUSH
+{Incredulous} Winslow's deodorant. {Happy} Luckily my spiritual essence smells of lavender and honey.
+979)  GUYBRUSH
+{Suspicious} Can we go to the Crossroads now?
+980)  FERRYMAN
+[creepy] Pay me.
+981)  FERRYMAN
+[interrupting and frustrated] {Angry}It's a metaphor, you Philistine! (sigh)  Just give me the two gold coins that were placed on your eyes when you were buried.
+982)  FERRYMAN
+Cleanliness is next to godliness.
+983)  GUYBRUSH
+Oh, do you go there, too?
+984)  GALEB
+{Happy} Oh-ho, a new arrival! [ he snaps Guybrush's picture with an annoying flash]
+985)  GUYBRUSH
+{Angry} Hey!
+986)  GALEB
+Sorry ‘bout that, but without the Flash of Enlightenment ol' Galeb can't get a good exposure!  Come, buy a souvenir picture.
+987)  GUYBRUSH
+{confused}Where am I? And what IS the Crossroads, anyway?
+988)  GALEB
+{excited}The Crossroads are where the physical and spiritual realms meet -and where your journey into the afterlife begins.   From here you can choose your final fate and fulfill your pirate destiny in Fiddler's Green!  {cocky}Or maybe you'll just mope about like a schlub.  Personally, you look like a bit of a moper to me.
+989)  GALEB
+{happy}Can you be a bit more specific, maybe a name? I've known a lot of voodoo ladies in my time.
+990)  GUYBRUSH
+{incredulous}I, uh, never got her name.
+991)  GALEB
+[lying] {cocky}Nope.  Never.  No sir.  Can't be done.
+992)  GALEB
+{excited}Who ever told you a thing like that?  Of course it can be done!  Why, I remember a handsome young pirate who returned to the land of the living once, hoping to reunite with his one true love...
+993)  GALEB
+... {stern}“LeChuck,” I think his name was.
+994)  GUYBRUSH
+{surprised}LeChuck?   {confused}But he came back to life as (in order) a ghost, a zombie, a demon, a living statue, and a killer walrus!{cocky}{stern}  I don't want to be ANY of those!
+995)  GALEB
+[musing to self]{cocky} Don't think that “true love” thing worked out too well for him, either... things started getting awfully crowded around here after he returned to the living.
+996)  GALEB
+[lying]{excited}He just grabbed himself a board, caught a gnarly wave and was outta here!
+997)  GALEB
+What? {happy} No, that'd be stupid.  LeChuck returned to the world of the Living with a powerful Voodoo spell that he obtained from the Other Side.
+998)  GALEB
+{Confused} Indeed, you ARE broke!  {Disgust} Well, when you DO get your hands on some cash {Shifty}(which'll probably be pretty soon, on account of you being a pirate ‘n' all), {Happy} don't forget to come back and purchase this lovely commemorative photo of your very own spirit entering the Crossroads!
+999)  GUYBRUSH
+{Confused} What?{Incredulous} Death must've scrambled your noggin.  LeChuck killed ME,  DeSinge killed you!
+1000)  MORGAN
+{Questioning} De Singe?
+1001)  GUYBRUSH
+{Confused} But you said—
+1002)  MORGAN
+{Sad} That's just great.  My one shot at redeeming myself and Mr. Mighty Pirate™ can't be bothered to properly listen to my death rattles.
+1003)  GUYBRUSH
+But—
+1004)  MORGAN
+{Strained} And on top of that, he sullies my reputation as a kick-butt pirate hunter by insinuating THAT I COULDN'T BEAT A WIMP-WRISTED WIG-WEARING SISSY BOY LIKE DESINGE WITH TWO ARMS TIED BEHIND MY BACK!
+1005)  GUYBRUSH
+Sorry?
+1006)  MORGAN
+{Sad} God, I'm depressed.
+1007)  GUYBRUSH
+I'm probably going to need some help getting out of here and you are my only friend.
+1008)  LECHUCKPRIME
+{Happy} Boy, was my face red when La Esponja Grande turned out to be so small!  {Devilish} But then, you took right care of that, didn't you? {Happy} Ha ha har!!
+1009)  GUYBRUSH
+{Whiney} Ya know, I kinda miss that guy...{Incredulous} kinda.
+1010)  WINSLOW
+{Suspicious} Between you and me, sir, I dare say that LeChuck wasn't trying to help these poor monkeys at all!
+1011)  GUYBRUSH
+{Happy} Hey, W.P.!
+1012)  GRINDSTUMP
+{Serious} Hold on a tic!  I've almost got my stroke back!
+1013)  GUYBRUSH
+{Cocky} Hi there.
+1014)  GUYBRUSH
+{Stern} Don't rub it in.
+1015)  GUYBRUSH
+{Suspicious} Why didn't you WARN ME that LeChuck had nefarious plans for La Esponja Grande?
+1016)  GUYBRUSH
+{Cocky} If you are worried about rug quality, perhaps you should consider upgrading to something with a knot density of 160-290 per sq. in,{Stern} but that's not really the issue here.
+1017)  GUYBRUSH
+{Cocky} Galeb told me I could.{Confused}  Nobody said it would have catastrophic effects.
+1018)  GUYBRUSH
+{Confused} You mean La Esponja Grande?
+1019)  GUYBRUSH
+{Cocky} You mean his face melting halitosis?
+1020)  GUYBRUSH
+{Incredulous} You mean enchanted root beer?
+1021)  GUYBRUSH
+{Incredulous} Hmm... I think that's what's left of DeCava's ship.
+1022)  GUYBRUSH
+{Worried} I hope the Voodoo Lady's locket isn't in an intestine somewhere.
+1023)  GUYBRUSH
+{Cocky} Sometimes, on my birthday, Elaine wears fishnets.  Sigh...
+1024)  GUYBRUSH
+{Incredulous} This being the "real" world, I still can't touch anything, so this fishnet has to stay here.
+1025)  GUYBRUSH
+{Happy} A fishnet woven of the finest of meshes!
+1026)  GUYBRUSH
+{Happy} The Voodoo Lady's locket! It's stuck up there on that seaweed...{Cocky} but it looks like it survived another harrowing voyage through a giant manatee.
+1027)  GUYBRUSH
+{Happy} Come here, locket!
+1028)  GUYBRUSH
+{Incredulous} The motion of my ocean isn't enough to jostle this seaweed.
+1029)  GUYBRUSH
+{Cocky} Maybe if I had some physical substance, I could get this seaweed moving!
+1030)  GUYBRUSH
+{Happy}[As if greeting an old friend] Clam!
+1031)  GUYBRUSH
+{Stern} Hmmph.
+1032)  GUYBRUSH
+{Cocky} Clam, I think we got off on the wrong foot...{Happy} hehehe...foot!
+1033)  GUYBRUSH
+{Whiney} Aww...I'm sorry I made light of you not having two feet.
+1034)  GUYBRUSH
+{Happy} Oogabooga!
+1035)  GUYBRUSH
+Giant manatee bones.{Happy} To think, my bout of Cyrano-styled romance has brought peace to these murky depths.
+1036)  GUYBRUSH
+{Proud} Yep, this WAS the home of La Esponja Grande.
+1037)  GUYBRUSH
+{Incredulous} It'd be improper to read someone's personal love letter. {Worried} Plus, I'm sure it's chock full of more Winslow than I can handle.
+1039)  GUYBRUSH
+{Happy} Up we go.
+1040)  GUYBRUSH
+{Surprised} Holy clam bubbles!{Happy} Locket saved!
+1041)  GUYBRUSH
+{Suspicious} I always felt like selling seashells by the seashore was folly.{Confused} I mean, head inland; far away from where I can find them for free.
+1042)  GUYBRUSH
+{Happy} Hiya, doggie!  Come here, boy.
+1043)  GUYBRUSH
+{Incredulous} Awww...  I wonder if he's lost.  I better take him with me.
+1044)  GUYBRUSH
+{Cocky} Do you know what that dog is doing over there?
+1045)  GUYBRUSH
+I found a dog. Is it yours?
+1046)  DOG
+[angry] Grrrrr!!!!
+1047)  GUYBRUSH
+{Scared} Yikes!  Maybe I should make friends with him first.
+1048)  GUYBRUSH
+{Happy} Hey, boy.  You look hungry.  Want a bone?
+1049)  DOG
+[happy] Bark bark!
+1050)  GUYBRUSH
+{Happy} Here ya go boy. {Incredulous} Poor thing.  You should probably come with me.
+1051)  GUYBRUSH
+{Cocky} Something to find your way, check!
+1052)  DOG
+Arf!
+1053)  GUYBRUSH
+{stern} Sit, stay. {Happy} Good dog!
+1054)  GUYBRUSH
+I still need a few more things for my Crossroads Escape spell!
+1055)  GUYBRUSH
+{Cocky} Are you missing a dog?  I found one who looks lost.
+1056)  GALEB
+{Stern}Bah! Filthy creatures! {Disgusted} They make me all itchy!
+1057)  GUYBRUSH
+{Surprised} Franklin! There ya are! {Happy} You're supposed to be finding LeChuck's hidden treasure for me!  What are you doing here?
+1058)  GALEB
+{Happy} Aww, such a cute little dog.  Is he yours?
+1059)  GUYBRUSH
+{Confused} Uh, no.
+1060)  DOG
+Bark bark!!
+1061)  GALEB
+{Disgust} What! Why, I never.
+1062)  GUYBRUSH
+{Surprised} That is one ugly chest!{Incredulous} Aw, man.  It's locked!  And I left my hook on my other body! {Confused}  Now how am I going to get it open?
+1063)  GUYBRUSH
+{happy} Go ahead, little guy!  {proud} Find LeChuck's hidden treasure chest!
+1064)  GUYBRUSH
+{confused} Hmmm... maybe he doesn't know what he's looking for.
+1065)  GUYBRUSH
+{worried} What's the matter boy?  {confused} Did you lose the scent?
+1066)  GUYBRUSH
+{happy} Okay, boy, dig me up a vile looking treasure chest!
+1067)  GUYBRUSH
+{confused} Hey!  Where are you going?  {stern} Bad dead dog!
+1068)  GUYBRUSH
+{confused} "Trezer!  All ye can dig!"  That's nice.
+1069)  GUYBRUSH
+{worried} Murray? [relieved] Whew!  {default} Thank goodness! {embarrassed} Not that I'm scared of Murray.  {stern} Murray is a punk.
+1070)  GUYBRUSH
+{angry} [talking to the sign] Ya hear that Murray, you're a PUNK!
+1071)  GUYBRUSH
+{scared} IIEEEEEEEEEP!!! [then laughs at himself, embarrassed]  {embarrassed} Heh... You're still a punk.
+1072)  GUYBRUSH
+{surprised} Whoa!  It's a treasure {happy} hunters dream in here!
+1073)  TREASUREHUNTER
+{happy} Aye, matey!  Help yerself!  {enthused} If there was ever a treasure in life you were meant to have, {happy} just do some diggin' and she'll be yours!
+1074)  GUYBRUSH
+{happy}Here ya go, boy!  Get a big whiff of this!
+1075)  DOG
+[angry bark] Grrrr! Bark bark bark!
+1076)  GUYBRUSH
+I think he's got the scent!
+1077)  GUYBRUSH
+What's the deal with this thing?
+1078)  THIEF
+Ah, that's an old one, friend.  They say that toe juice encrusted sock was once worn by LeChuck himself.
+1079)  THIEF
+The thief who stole it claimed he slipped it right off the zombie pirate's oozing undead foot without being noticed.  Funny how he showed up here in the afterlife still clutching the sock in his fist!
+1080)  GUYBRUSH
+Wow. You mind if I ... uh... steal it?
+1081)  LECHUCKDEMON
+{Enraged} Gah!  {Angry} Why won't this thing open?!  {Surprised} Elaine, get over here and help me! {Angry} I've spent MONTHS  getting those mangy Voodoo cursed monkeys into place so I could conjure up the entrance to the Crossroads!  {Enraged} I won't be thwarted now!
+1082)  ELAINE
+{Serious} You know, {Exhasperated} you didn't have to actually kill him!
+1083)  ELAINE
+{Stern} Look, {Dismissive} I let you capture me and I played along with your {Angry} stupid “nice guy” act because {Pleading} I thought that it would get Guybrush to realize {Dismissive} that the Voodoo Lady --
+1084)  LECHUCKDEMON
+{Enraged} Do NOT mention that woman in my presence! {Angry} That cursed voodoo witch will control {Enraged} my fate NO MORE!
+1085)  LECHUCKDEMON
+{Devilish} Now that I have La Esponja Grande,  I can use it to suck {Happy} pure, unlimited Voodoo Energy directly from the source!
+1086)  LECHUCKDEMON
+{Happy} YES!! THATS IT!
+1087)  GUYBRUSH
+{Worried} Elaine?  {Confused} What's going on here?
+1088)  ELAINE
+[Not sure what to do] {Worried} I... I'm Sorry...
+1089)  LECHUCKPRIME
+{Happy} I'll tell you what's going on here!  {Devilish} You've LOST!
+1090)  LECHUCKPRIME
+{Devilish} I now have full access to the unlimited Voodoo Power of the Crossroads themselves!  {Happy} This is my moment of ultimate triumph!
+1091)  LECHUCKPRIME
+{Surprised} And yet here you are, {Angry} ghost of Guybrush Threepwood,{Enraged}  trying to interfere with my {Angry} big moment with Elaine once again!  {Devilish} Well, come on and stop me!  Give it your best stab!
+1092)  GUYBRUSH
+{cocky}If I had the nose of a hound dog, the last place I would want to be is my pocket.
+1093)  GUYBRUSH
+{default}ABC gum. For the bubble blower on a budget.
+1094)  GUYBRUSH
+{default}Dirt can't hurt.
+1095)  GUYBRUSH
+{default}For some reason, I've been able to cling to this single shred of life.
+1096)  GUYBRUSH
+{happy}Mo' money, mo' ability to solve puzzles.
+1097)  GUYBRUSH
+{default}Here's a tip: glue down your tip jar.
+1098)  GUYBRUSH
+{angry}Gold coins. In LeChuck's haste to murder me and steal my wife, he forgot to put a couple of pennies on my eyes to secure my safe passage to the afterlife. Jerk.
+1099)  GUYBRUSH
+{cocky}A photo of my spirit. They say the ethereal camera of the afterlife subtracts ten pounds.
+1100)  GUYBRUSH
+{default}A ghostly sword of the afterlife.
+1101)  GUYBRUSH
+{disgust}The Sock of LeChuck.  It has the fetid stench of undead athlete's foot.
+1102)  MORGAN
+{terrified}Guybrush!  {sad}What're you doing?!
+1103)  GUYBRUSH
+{cocky}An anchor. I'm not going to let it hold me down.
+1104)  GUYBRUSH
+{beaten}It's the only way...
+1105)  LECHUCKPRIME
+{surprised}What?
+1106)  MORGAN
+{stern}[stabbing forcefully] Yaahhhhhhhh!!!!
+1107)  ELAINE
+{angry}[stabbing forcefully] Yeeahhhhhgg!!!!
+1108)  GUYBRUSH
+{cocky}The Box of LeChuck. Locked with the, um, Lock of LeChuck
+1109)  GUYBRUSH
+[reading]{default} Grog.  "How else are you gonna ask out the cute wench at the bar."
+1110)  GUYBRUSH
+{happy}A perfectly good mug.
+1111)  GUYBRUSH
+{stern}A mug of root beer. What was once one of my favorite fountain treats will cause any spiritual matter to burn and pop.
+1112)  GUYBRUSH
+{cocky}A blindfold. Ingeniously designed to inhibit one's ability to see.
+1113)  GUYBRUSH
+{happy}A feather, ready to deliver the tiniest tickly touch.
+1114)  GUYBRUSH
+{stern}The Feast of the Senses.  I used this to embiggen La Esponja Grande, and now look at all the trouble it's caused.
+1115)  GUYBRUSH
+[weak] Is it over?  Hello?  Did we win?
+1116)  GUYBRUSH
+[with mixed feeling; melancholy] I guess we did.  *sigh*
+1117)  GUYBRUSH
+{happy}They make the tiniest squawk I've ever barely heard.
+1118)  GUYBRUSH
+{cocky}Old Brute deodorant. Bonsoir stinky pits!
+1119)  GUYBRUSH
+{stern}Shh, it's a secret.
+1120)  GUYBRUSH
+{default}[introverted] Courage, Anchor, Direction, Sacrifice.  Place these things {cocky}in a Ring at the center of the Crossroads. [amused] Heh.
+1121)  GUYBRUSH
+{default}No need to tip myself.
+1122)  GUYBRUSH
+{confused}[excited] Wow!  What a rush!
+1123)  ELAINE
+{happy}Guybrush!  {sarcastic}It's about time!
+1124)  ELAINE
+{surprised}[sweetly To Guybrush]After all these years and all of our adventures, {serious}two things are certain:{sarcastic} that I always have a plan, and {happy}that Guybrush Threepwood will always come for me when I need him most.
+1125)  WINSLOW
+{happy}Well, the important thing now is that LeChuck is gone!  {enthused}For good this time!
+1126)  ELAINE
+{happy}And YOU [Guybrush] are finally free from whatever fate was {serious}planned for you and LeChuck.
+1127)  GUYBRUSH
+{cocky}And that's what this whole "Esponja Grande" thing has {suspicious}been about, huh?
+1128)  GUYBRUSH
+{incredulous}Oh, you are gonna get it for that!
+1129)  ELAINE
+{happy}[being tickled] Ahh!  Ha ha ha ha ha!!
+1130)  GUYBRUSH
+{happy}[tickling] Ha ha ha ha!
+1131)  WINSLOW
+{enthused}TICKLE FIGHT!!!
+1132)  VOODOOLADY
+{mystical}So, my child.  Have you done as I asked?
+1133)  MORGANEPILOGUE
+{serious}I have.
+1134)  MORGANEPILOGUE
+{cocky}[She tries the name on] Ghost Pirate Hunter, Morgan LeFlay.
+1135)  GUYBRUSH
+{stern}This is the last remnant of my corporeal self. I shouldn't monkey around with it.
+1136)  VOODOOLADY
+{default}[soft ominous chuckle] Hmm hmm hmm.
+1137)  GUYBRUSH
+{embarrassed} Oh yeah, you were one of the guys {surprised} trying to beat up LeChuck!  {sarcastic} How'd that work out for you?
+1138)  GUYBRUSH
+{disgust} Ew.
+1139)  GUYBRUSH
+{cocky}I don't think I can muscle this thing open.
+1140)  GUYBRUSH
+{cocky}He does smell a bit off, but I don't want to mess with his olfactory senses.
+1141)  TREASUREHUNTER
+{angry} [Revealing a big hole in his stomach]You tell me, smart guy....
+1142)  GUYBRUSH
+{embarrassed} So, um, if you don't mind me asking, {worried} how'd you wind up with that massive hole in your gut?
+1143)  TREASUREHUNTER
+{surprised} Mind?  Why should {stern} I mind relieving the horrifying moment of my demise?
+1144)  GUYBRUSH
+{confused} Uhmm...
+1145)  TREASUREHUNTER
+{angry} That was rhetorical.
+1146)  GUYBRUSH
+{worried} Oh.
+1147)  TREASUREHUNTER
+{suspicious} As you recall, when me and the boys heard {cocky} that the infamous Demon Pirate LeChuck had been turned into a human, {evil} we thought we could make our reps by giving him a good pirate thrashing.
+1148)  GUYBRUSH
+{sarcastic} I remember.  Even as a human, {cocky} LeChuck was too much for you guys.
+1149)  TREASUREHUNTER
+{worried} Aye, but I got in a good left hook or two before he got away.
+1150)  GUYBRUSH
+{sarcastic} So?
+1151)  TREASUREHUNTER
+{stern} So, after Captain McGillicutty's "unfortunate" demise, we decided to start up our own little swashbuckling crew on Spoon Island.  {enthused} Nice place.  Lots of fish.
+1152)  GUYBRUSH
+{Happy} Man overboard!
+1153)  WINSLOW
+{Surprised} Good heavens, sir!
+1154)  GUYBRUSH
+{confused} What does this all have to do with the hole?
+1155)  TREASUREHUNTER
+{angry} I'm getting to it!
+1156)  GUYBRUSH
+{worried} Sorry.
+1157)  TREASUREHUNTER
+{cocky} So anyway, we were right in the middle of "procuring" a suitable ship for pirating, when suddenly BAM!  My Pox is cured!
+1158)  GUYBRUSH
+{surprised} I did that!
+1159)  TREASUREHUNTER
+{sarcastic} Well, goody for you.  {suspicious} Unfortunately, I didn't have long to enjoy my clean bill of health before the {evil} Evil Demon LeChuck sailed up, stuck one of those {angry} newfangled Hungarian cannons in my stomach, and pulled the trigger.  {concerned} Guess he remembered that left hook.
+1160)  GUYBRUSH
+{sarcastic} Y'know, you could've just said "LeChuck shot me with a cannon."
+1161)  TREASUREHUNTER
+{enthused} What's wrong with a little colorful narrative?
+1162)  GUYBRUSH
+{sarcastic} So LeChuck sailed all the way back to Spoon Isle {confused} just to kill you with a cannon?
+1163)  TREASUREHUNTER
+{concerned} No, he didn't stop there.  That demonic menace also {stern} killed me mates AND destroyed most of Spinner Cay!
+1164)  GUYBRUSH
+{proud} I've been told by a marginally reliable source that {embarrassed} LeChuck may have buried something important around here.
+1165)  TREASUREHUNTER
+{surprised} LeChuck?  Ha!  {angry} He should bury {surprised} HIMSELF if he knows {angry} what's good for him!
+1166)  GUYBRUSH
+{confused} So you don't know anything about it?
+1167)  TREASUREHUNTER
+{stern} No, but there are a LOT of X's here.  Hard to tell what's buried where.
+1168)  GUYBRUSH
+{sarcastic} There sure are a lot of X's around here.
+1169)  TREASUREHUNTER
+{cocky} Well now, aren't we the observant spirit!  {suspicious} Were you some sort of scout in your former life, {stern} or were your age-dulled senses restored to the fullness of youth after you passed away?
+1170)  GUYBRUSH
+{surprised} I'm a Mighty Pirate™!
+1171)  TREASUREHUNTER
+{sarcastic} Of course you are.  {angry} We're all Mighty Pirates™ down here, schmuck.  {cocky} And THIS is the treasure hunter's paradise, {happy}with never-ending caches of pirate booty found under each and every X, {enthused} as far as the eye can see!
+1172)  GUYBRUSH
+{happy} Wow!
+1173)  GUYBRUSH
+{sarcastic} So let me get this straight - there's fabulous {confused} pirate treasure under each and every one of these X's?
+1174)  TREASUREHUNTER
+{suspicious} What, ya still got grave dirt in yer ears?  {surprised} Try it yerself!
+1175)  GUYBRUSH
+{confused} You haven't lost a dog, have you?
+1176)  TREASUREHUNTER
+{confused} A dog?  What would {sarcastic} a pirate need with a dog?  {suspicious} Silly creatures, always sliding back and forth on the poop deck, {stern} barking while you try to sneak up on an enemy, {angry} who needs 'em?  Now a {surprised} parrot, THAT'S a good {enthused} pet for a pirate.
+1177)  GUYBRUSH
+{cocky}I'll be keeping the animal cruelty to a minimum today, thank you.
+1178)  GUYBRUSH
+{incredulous}My guess is he'd take me right back to the Ferryman. Not a good plan.
+1179)  GUYBRUSH
+{cocky} I've been talking to this Galeb guy at the center of the Crossroads...
+1180)  TREASUREHUNTER
+{confused} Funny looking fellah?
+1181)  GUYBRUSH
+{proud} Yeah.
+1182)  TREASUREHUNTER
+{concerned} That's odd, he told me his {stern} name was "Squinky."
+1183)  GUYBRUSH
+{embarrassed} I think he lies a lot.
+1184)  TREASUREHUNTER
+{stern} A lot of people lie a lot... {suspicious} the trick is figuring out when they're telling the truth.
+1185)  GUYBRUSH
+{sarcastic} And how do you do that?
+1186)  TREASUREHUNTER
+{sarcastic} If I knew that I might not be hanging out in a {stern} field full of X's with a hole where my {angry} liver,  lungs and kidneys used to be.
+1187)  WINSLOW
+{Concerned} Per'aps you could use your special breath-holding ability to go poke about below for me?
+1188)  GUYBRUSH
+{Happy} Hmm... good idea Winslow.{Cocky} I'm on the hunt for the Voodoo Lady's locket.  I'll report back in a jiffy.
+1189)  GUYBRUSH
+{Happy} I've got the locket...{Confused} now how do I bind my spirit back to myself when it's only got a picture of my old body?
+1190)  GUYBRUSH
+{Whiney} Can't touch anything, let alone press a button, as a spirit.
+1191)  GUYBRUSH
+{Cocky} I should ask Winslow to press the button for me.
+1192)  GUYBRUSH
+{Whiney} I'm as useless as spectacles on a barnacle out here.{Confused} If I could get Anemone out of her cave, maybe that would help.
+1193)  GUYBRUSH
+{Happy} The locket's on the move... {Cocky}I just need to find something to lift it free.
+1194)  GUYBRUSH
+{Happy} There's Winslow's haiku! I bet Anemone would like to know about that.
+1195)  GUYBRUSH
+{embarrassed} It's been, er, interesting, catching up, {cocky} but I've got five or six impossible things to do, and I don't have time to listen to you kvetch.
+1196)  TREASUREHUNTER
+{stern} Fine.  More treasure for me.
+1197)  GUYBRUSH
+{Whiney} Hmm. This locket is stuck. Maybe Mr. Clam has something to say about this.
+1198)  GUYBRUSH
+{Cocky} Hmm.. I bet Van Winslow could cook up another Haiku for his mer-person sweetheart.
+1199)  GUYBRUSH
+{Happy} Then maybe I can finagle that locket off of the seaweed.
+1200)  GUYBRUSH
+{Confused} Would you come out for Winslow?
+1201)  ANEMONE
+I would venture out of the safety for a mere sign of my dear Reginald.
+1202)  GUYBRUSH
+{Happy} A MERE sign? A MER-sign perhaps? [wink wink nudge nudge]
+1203)  GUYBRUSH
+[Flat, his joke has failed]{Whiney} I'll go see what I can do.
+1204)  GUYBRUSH
+{Cocky} I bet if I can get Señor Clam to cooperate AND get my locket on the move again, maybe I can jostle it free.
+1205)  GUYBRUSH
+{confused} Hmm... this look as good a spot as any.
+1206)  GUYBRUSH
+{disgust} Shoot!  This jar would be a great place to keep the tiny squawkers, {worried} but I can't get close enough to catch 'em!
+1207)  THIEF
+Hey, did you bring a dog in here?  'Cause that will get ya banned for life in here, friend.
+1208)  GUYBRUSH
+No, of course not!  I just have a bit of a cold.  *Carf Carf*  See?
+1209)  GUYBRUSH
+{happy}I found a lonely dog in another part of the Crossroads.  Is he yours?
+1210)  GALEB
+[lying]{shifty}Dog? I don't remember ever owning a dog.
+1211)  GUYBRUSH
+{cocky}I let Franklin get LeChuck's scent so he could find the treasure, but he came here instead!
+1212)  GALEB
+{cocky}Hmmm, curious. [lying]{shifty} Maybe I am LeChuck!
+1213)  GUYBRUSH
+{incredulous}Are you?
+1214)  GALEB
+{happy}Nope.
+1215)  GUYBRUSH
+{cocky}Do you still have the Spirit Photo?
+1216)  GALEB
+{stern}You got any money yet?
+1217)  GUYBRUSH
+{happy}Talk to you later.
+1218)  GALEB
+{cocky}Sure, why not.
+1219)  GUYBRUSH
+{Suspicious} What are you hiding, Galeb?
+1220)  GALEB
+{Shifty} More than meets the eye!
+1221)  GUYBRUSH
+{proud} I got myself a genuine buried treasure, {surprised} but it's locked!  Any chance you {confused} know how to open it?
+1222)  TREASUREHUNTER
+{sarcastic} What would you want to open up a hideous box like that for?  {stern} Trust me, nothing but trouble can come from a chest like that!
+1223)  GUYBRUSH
+{Confused} I'm not supposed to sacrifice myself.  I think someone else needs to make a sacrifice for me.
+1224)  GALEB
+{Suspicious} I thought I heard my dog over here.  I guess I was wrong.
+1225)  BUGEYE
+{Cocky} But it looks like you're acting up again.  {Stern} Ready for another round, zombie boy?
+1226)  GRINDSTUMP
+{Excited} Captain Threepwood, as I live and breathe!
+1227)  GRINDSTUMP
+{Happy} I'll just leave him there until he cools off.
+1228)  VOODOOLADYCRAB
+It can create a powerful spiritual bond that will bring your restless spirit and body together in harmony.
+1229)  VOODOOLADYCRAB
+It's also delicious!  It comes in lemon, cherry, and mutton flavors.  I always have some with me!
+1230)  GUYBRUSH
+{Happy} Ha ha!  {Sarcastic} I'm back, LeChuck.  {Proud} Now that I have my root beer proof (and only slightly rotting) body again I can touch anything I want. {Cocky} So get ready to be touched... to death!
+1231)  GUYBRUSH
+{whiney}Must... not... tell... secret....
+1232)  GUYBRUSH
+{whiney}I've got a secret.... [to himself] No Guybrush, NO!
+1233)  GUYBRUSH
+{incredulous}Psst...want to hear a secret?  [to himself]{stern} Pull yourself together man!
+1234)  GUYBRUSH
+{stern}THIS SECRET IS KILLING ME.
+1235)  GUYBRUSH
+{incredulous}MUST... TELL... SECRET
+1236)  GUYBRUSH
+{happy}I feel much better now.
+1237)  GUYBRUSH
+{happy}I collect tiny bean bag animals and sew tiny outfits for them!  [Big relief] Phew. Telling any secret, not necessarily this one, is a real load off.
+1238)  GUYBRUSH
+{whiney}Going to KEEP this secret!
+1239)  GUYBRUSH
+{cocky}I, too, question their hygiene, but no.
+1240)  GUYBRUSH
+{happy}As much as I'd like to, I can't just walk around tickling everyone I see.
+1241)  GUYBRUSH
+{stern}It's been my experience that people don't take well to involuntary blinding.
+1242)  GUYBRUSH
+{incredulous}You know what I went through to get this root beer?
+1243)  GUYBRUSH
+{stern}No time to be buying people drinks.
+1244)  GUYBRUSH
+{happy}Grog can't solve all my problems.  But it does help me face many of them.
+1245)  GUYBRUSH
+They can't open this for me.
+1246)  GUYBRUSH
+{cocky}Anchors are not known for their versatility.
+1247)  GUYBRUSH
+{cocky}I wouldn't wish that on my worst enemy. Which, coincidentally, is where this came from.
+1248)  GUYBRUSH
+{cocky}My dead scoutmaster would kill me if he saw me use a ghost sword like that.
+1249)  GUYBRUSH
+{cocky}Pirates don't bribe.  Or tip particularly well, for that matter.
+1250)  GUYBRUSH
+{cocky}They can get their own life.
+1251)  GUYBRUSH
+{stern}That doesn't need to be dirtied up.
+1252)  GUYBRUSH
+{whiny}It's no fun sharing Bugeye's embarrassing secrets if he's not going to hear it.
+1253)  GUYBRUSH
+{cocky}I haven't stuck gum to useless objects since middle school.
+1254)  GUYBRUSH
+{cocky}I think they're set in the gum department.
+1255)  GUYBRUSH
+{Confused} Are you still in there, Annennmone?
+1256)  ANEMONE
+As long as LeChuck is still alive, I'll be in here, thank you!
+1257)  GUYBRUSH
+{Confused} No need to go pushing seaweed around.
+1258)  GUYBRUSH
+If I close the Crossroads now I'll not only sacrifice my last shred of life, but also everyone on the other side with LeChuck!
+1259)  GUYBRUSH
+[falling]Waahhhhh!!!
+1260)  GUYBRUSH
+{cocky}Apparently I can close the rips between realms by sacrificing my last shred of life.  But then I'd be dead-dead instead of just 99 and 3/4 percent dead, soooo, I don't think I'll be doing that.
+1261)  VOODOOLADYCRAB
+Once you have possessed your body, you'll have to find a more permanent way to bind it to your soul.  I recommend Mix n' Mojo brand Spirit Gum.
+1262)  GUYBRUSH
+{Surprised} Galeb! {Confused} What are you doing over here?
+1263)  GALEB
+{Default} Standing, mostly.
+1264)  GUYBRUSH
+{Scared} What's going on with the Crossroads?{Confused}  I thought the spell would take me back, not just rip open the spiritual realm.  Is there any way to stop it?
+1265)  GALEB
+{Enthused} If you sacrifice your last shred of life in the main tear, that should do it.
+1266)  GALEB
+{Stern} But like I said, then you'd be stuck on this side for good and{Worried} LeChuck would be free to do what he wants on the other.
+1267)  GUYBRUSH
+{Cocky} Why are there other smaller rips in the Crossroads?
+1268)  GALEB
+{Sarcastic} Oh, those are for ambiance.  They create a nice mood light for those nice romantic nights.
+1269)  GUYBRUSH
+{Confused} The rips in reality are for mood lighting?
+1270)  GALEB
+{Surprised} Mood lighting, are you nuts!? {Stern} LeChuck must have discovered the Monkeys of Montevideo and used them to conjure up the location of the Crossroads in the physical world.  {Worried} That would have weakened the integrity of the fabric between the worlds.
+1271)  GUYBRUSH
+{Happy} En garde!
+1272)  SWORDFIGHTER
+{Happy} Yes!
+1273)  GUYBRUSH
+{Incredulous} Don't run off!
+1274)  MORGAN
+{Sarcastic} I don't think I'm allowed to.
+1275)  GUYBRUSH
+{Happy} I'll be back.
+1276)  MORGAN
+{Sarcastic} I'll be here.
+1277)  GUYBRUSH
+{Happy} I have an idea how to get out of here!
+1278)  MORGAN
+{Sad} Guybrush, forget it, we're dead.
+1279)  GUYBRUSH
+{Suspicious} Yeah, but LeChuck was once able to escape using a Voodoo Spell.{Happy} I just need to find it.
+1280)  MORGAN
+{Excited} Really?  There's a chance I can return to the living world and continue to take down pirates?{Cocky} Present company excluded, of course.
+1281)  GUYBRUSH
+Seems that way.
+1282)  MORGAN
+{Happy} Well if I can help in any way, let me know!
+1283)  GUYBRUSH
+{Confused} Still depressed about being dead?
+1284)  MORGAN
+{Cocky} It's not so bad.  I'm not so sure I'm ready to move on though.  Being a guardian for the Crossroads and fighting off the weak and unworthy is fun, but I don't think want to be stuck here for eternity.
+1285)  GUYBRUSH
+{Confused} Did Galeb try to sell you a picture of your spirit at the Crossroads too?
+1286)  MORGAN
+{Sarcastic} He tried,{Serious} but I don't like people taking pictures of me.  It's bad for my business.{Dismissive} Sounds like he got his camera fixed by the time you got here though.
+1287)  MORGAN
+{Questioning} Hmmm... I swear I saw something like that over in the Treasure Hunting area.
+1288)  GUYBRUSH
+{surprised}[peril] Elaine!
+1289)  ELAINE
+{surprised}[peril] Guybrush!
+1290)  GUYBRUSH
+{surprised}[peril] Plunderbunny!
+1291)  ELAINE
+{horrified}[peril] Picaroony!
+1292)  GUYBRUSH
+{scared}[peril] Laneykins!
+1293)  ELAINE
+{surprised}[peril] Threepy!
+1294)  GUYBRUSH
+{beaten}[Injured] Elaine!
+1295)  ELAINE
+{horrified}[terribly worried] Guybrush!
+1296)  
+Attack LeChuck!
+1297)  GUYBRUSH
+{stern}Attack LeChuck!
+1298)  
+Light the cannon!
+1299)  GUYBRUSH
+{stern}Light the cannon!
+1300)  ELAINE
+{stern}Yes, dear!
+1301)  GUYBRUSH
+{stern}Light the cannon again!
+1302)  ELAINE
+{serious}Be careful!
+1303)  ELAINE
+{serious}I feel fine, {worried}I'm sorry, Guybrush! LeChuck {horrified}will kill you!
+1304)  GUYBRUSH
+{default}I'll be all right!
+1305)  GUYBRUSH
+{default}You sure you have no lasting demon after-effects?
+1306)  ELAINE
+{stern}Just the burning desire to kill LeChuck!
+1307)  GUYBRUSH
+{stern}That's my girl.
+1308)  GUYBRUSH
+{default}[pickup2][injured] Whatever happens, you've got to stop LeChuck while he's between worlds! {stern}Promise me you won't give up and become his bride again!
+1309)  ELAINE
+{surprised}Don't talk like that! {worried}I love you!
+1310)  GUYBRUSH
+{angry}Promise me!
+1311)  ELAINE
+I promise.
+1312)  ELAINE
+{worried}I'll fight tooth and nail for you, Guybrush.
+1314)  GUYBRUSH
+{surprised}Be careful!
+1315)  ELAINE
+{worried}You be careful!
+1316)  GUYBRUSH
+{embarrassed}I think I broke the Crossroads. {incredulous} Have you noticed any tears in the fabric of reality in here?  Maybe behind one of these old trinkets?
+1317)  THIEF
+{suspicious}Can say that I have, friend.
+1318)  GUYBRUSH
+{cocky}I need stuff to shrink a giant voodoo sponge.  Have you seen any of these ingredients?
+1319)  THIEF
+{suspicious}Hmmm... Well, I do have this old secret lying around here somewhere.
+1320)  GUYBRUSH
+{incredulous}What kind of secret?
+1321)  THIEF
+Shhhh!!
+1322)  GUYBRUSH
+{confused}What?
+1323)  THIEF
+{stern}It's a secret.
+1324)  GUYBRUSH
+{sarcastic} Oh, I thought you might be using him to find buried treasure?
+1325)  TREASUREHUNTER
+{stern} Nah! Finding treasure {happy} is easy here!  Just dig {surprised} and get rich!
+1326)  GUYBRUSH
+{surprised} I found a voodoo spell to get me out of the Crossroads!
+1327)  TREASUREHUNTER
+{suspicious} Well aren't you special, Mister {sarcastic} "Too good to stay dead like the rest of us."
+1328)  GUYBRUSH
+{worried} I need these ingredients. {confused} Seen anything around that fits these descriptions?
+1329)  TREASUREHUNTER
+{suspicious} You need some kind of whisper, huh?  {confused} You know, every now and again I swear I 'ear a tiny voice around here saying {worried} [in a hitch pitched squeaky voice]"It's free: dry brush, scrap wood, my trees - try it!"
+1330)  TREASUREHUNTER
+{stern} I thought it might have been ol' Stan implanting subliminal messages {suspicious} in my head to buy some out of season {surprised} shrubberies.
+1331)  GUYBRUSH
+I'm working on another Voodoo spell.  {worried} Seen any of these items around?
+1332)  TREASUREHUNTER
+{stern} I dunno, I've dug up a lot of treasure here.  {suspicious} It's possible one of those things may be around here.
+1333)  MORGAN
+What?
+1357)  THIEF
+What?
+1334)  GUYBRUSH
+{Angry} Listen up, Sponge, it's time you lost some weight!{Cocky}  I still have my Feast of the Senses spell on my body.{Confused}  I just need to find someone who can help me reverse it.
+1335)  GALEB
+{Happy}That's the spirit! [then]{Sarcastic} Heh... spirit.
+1336)  SWORDFIGHTER
+{Happy} Arrr, matey!  Come to match wits against me?
+1337)  GUYBRUSH
+{Cocky} No thanks.
+1338)  SWORDFIGHTER
+{Whiney} Oh, I see.{Stern}  So ya just came over here to waste me time then.  Thanks.
+1339)  GUYBRUSH
+{Happy} You're welcome.
+1340)  GUYBRUSH
+{Happy} Hey Morgan.  Check out this little dog I found.  Isn't he cute?
+1341)  MORGAN
+{Terrified} Guybrush!! Were you carrying around that dog in your COAT?!
+1342)  GUYBRUSH
+Yeah. [what's wrong with that?]{Confused} What?
+1343)  MORGAN
+{Disgusted} Oh great now he's digging.  Please put him away.
+1344)  GUYBRUSH
+{Whiney} Geez, Mo, I figured you for more of an animal lover.
+1345)  MORGAN
+{Sarcastic} Sorry.  I think I'm still cranky from being recently dead.
+1346)  SWORDFIGHTER
+{Happy} So, yer ready to fight, eh?
+1347)  GUYBRUSH
+{Incredulous} I am, but not with you.  I just want to say thanks for the sword. So....{Happy} thanks.
+1348)  SWORDFIGHTER
+{Stern} Hmph.
+1349)  THIEF
+I don't know, friend.  You don't seem like the kind of person I can trust with a secret like this.
+1350)  GUYBRUSH
+Sure I am!  I still haven't told anyone that Elaine waxes her upper lip! ... Oh.  Shoot.
+1351)  THIEF
+But you're a thief, friend.  Everyone knows you can't trust a thief.
+1352)  GUYBRUSH
+Come on, share your secret with me.  I won't tell anyone.
+1353)  THIEF
+I'm afraid I just don't find you trustworthy enough.
+1354)  GUYBRUSH
+Nice secret you've got there.  Care to share it with me?
+1355)  THIEF
+Hmmm... normally I wouldn't trust a thief like yourself, but there is just something about you.
+1356)  GUYBRUSH
+Aw, that's just the enchanted voodoo charm talking.
+1358)  GUYBRUSH
+Nothing.
+1359)  GUYBRUSH
+Take a look at this!
+1360)  THIEF
+Nice find, friend.   Did you steal that yourself?
+1361)  GUYBRUSH
+I did.  I snatched it right off LeChuck's belt!
+1362)  THIEF
+Hmmm... I trust that you did.
+1363)  GUYBRUSH
+Yeah?  What if I told you that I stole this from a three-headed mermaid who had come here from the future riding a giant space turtle?
+1364)  THIEF
+I trust you, friend.  If you say it's true, then I believe you.
+1365)  GUYBRUSH
+{surprised}That pirate thief stole my Voodoo Trust Charm! [impressed] He's good!
+1366)  GUYBRUSH
+{incredulous}I'm looking or some ingredients for this spell.  Got any of these things around here?
+1367)  THIEF
+{suspicious}Hmmmm.   I do happen to have a certain "Secret" right over there, but I don't know if you are the right person to share it with.
+1368)  GUYBRUSH
+{cocky}It's the belt buckle LeChuck wore when he was human.  Funny how a smiling face always seems trustworthy.  Even on a skull.
+1369)  GUYBRUSH
+{cocky}Apparently it's a voodoo charm that helped make people trust LeChuck when he was human.
+1370)  GUYBRUSH
+Never fooled me though!  Nope.  Not me.  Never fooled for even one minute.
+1371)  GUYBRUSH
+{stern}That doesn't need to be charmed.
+1372)  GUYBRUSH
+{embarrassed} Can you show me how the treasure hunt works.
+1373)  TREASUREHUNTER
+{enthused} Sure, why not!  {happy} A pirate can never have too much treasure!
+1374)  TREASUREHUNTER
+{surprised}Splice the mainbrace!  {happy} Another bag of Gold!  I tell ya, {enthused} I'll never get tired of this!
+1375)  TREASUREHUNTER
+{enthused} Another treasure.  {happy} Sometimes it's good to be dead!
+1376)  TREASUREHUNTER
+{happy} Begad!  You'd think this would get old, {enthused} but it never does!
+1377)  TREASUREHUNTER
+{stern} Hey, get your own!  There is plenty of treasure here!
+1378)  GUYBRUSH
+{suspicious} It's an authentic scale replica of the anchor to the Mad Monkey.
+1379)  GUYBRUSH
+{happy} Nice treasure pile!
+1380)  TREASUREHUNTER
+{enthused} It is!  And you'd do well to {stern} keep your scurvy little fingers off of it.
+1381)  GUYBRUSH
+{disgust} Shoot!  They fly away {confused} every time I try to get close.
+1382)  GUYBRUSH
+{confused} Hey!  Where are you going? {worried} Come back!
+1383)  GUYBRUSH
+{happy}Ah, sweet lady freedom!!
+1384)  GUYBRUSH
+{worried}Uh oh.
+1385)  GUYBRUSH
+{worried}Not again.
+1386)  GUYBRUSH
+{proud}All right, corpsey body.  Let's go get that Cutlass of Kaflu, save Elaine and take down LeChuck once and for all!
+1387)  GUYBRUSH
+{incredulous}Hmmm... guess I'll head back to the bar.
+1388)  GUYBRUSH
+{angry}Free Guybrush Threepwood!  Free Guybrush Threepwood! No new taxes! Down with porcelain!
+1389)  BUGEYE
+{angry}Hey!  Lay off the banging or I'm gonna shove that mug up yer blow hole!
+1390)  GUYBRUSH
+[whispering] {embarrassed}Free Guybrush Threepwood!  Free Guybrush Threepwood!
+1391)  GUYBRUSH
+*sigh*{hurt} This just isn't the same.
+1392)  GUYBRUSH
+{Whiney} I'm big, bad Bugeye!  I keep a girly diary!  I wish I had hair so I could put it up in curls!
+1393)  GUYBRUSH
+{Happy} Winslow's game props.{Cocky}  I guess he gave up on it.
+1394)  GUYBRUSH
+{Happy} Wanna see some vacation photos Winslow?
+1395)  WINSLOW
+{Happy} Ah, yes.  A lovely picture of your ghost. {Cocky} You might want to consider framing it and hanging it in a nice crypt somewhere.
+1396)  GUYBRUSH
+{Cocky} I'll just cover up the Voodoo Lady...{Happy} Voila!
+1397)  GUYBRUSH
+[reading]{default} Dear diary, Well I am in jail.  Apparently I misunderstood when the mer-person I met asked if I needed a lift. I assumed that meant I could ride 'em all the way into town.
+1398)  GUYBRUSH
+[reading]Anyway, I'm hiding you for now in case they search me.  I don't want anyone knowing my personal inner thoughts. [not reading] Hmmm... what else is in here?
+1399)  GUYBRUSH
+[reading] Dear diary, I think that any moment now the manatees will start kissing.  I hope I can slip out just as he slips the tongue...[stops reading]
+1400)  GUYBRUSH
+{disgust}Eeww!  I think I've read enough.
+1401)  GRINDSTUMP
+[incredulous]  {Surprised} Have I ever-? {Sarcastic} I'm a judge, laddie. {Stern} My every waking hour is haunted by the harrowing curses of the despicable reprobates I've sent to the gallows.  To be frank,{Happy} your cheery spirit is something of a welcome respite.
+1402)  GUYBRUSH
+{Cocky} Yeah, I'm much more of an “existential crisis” ghost than a “mind-numbing horror” spirit. {Incredulous} All that wailing really does a number on your throat.
+1403)  GUYBRUSH
+{Default} I need to shrink La Esponja Grande with this voodoo spell. {Confused} Seen any of these items around?
+1404)  GRINDSTUMP
+{Serious} I outgrew scavenger hunts long ago-
+1405)  GUYBRUSH
+{Incredulous} -and normal sized pants, apparently-
+1406)  GRINDSTUMP
+[getting a little sarcastic]{Sarcastic} Hey, I have a smashing idea.  You're in a bar that's literally built out of random sea flotsam.    Maybe you should take a look around.
+1407)  LECHUCKPRIME
+{devilish}Think of all the times you've tried to destroy me!
+1408)  GUYBRUSH
+{cocky}To be fair, you were usually trying to kill me and steal my wife...
+1409)  LECHUCKPRIME
+{angry}All that pain! All that suffering! Now {devilish}just IMAGINE what I'm going to do to you...{enraged} THREEPWOOD.
+1410)  GUYBRUSH
+{Incredulous} I'm trying to put together a voodoo spell to-
+1411)  ANEMONE
+You get away from me with that voodoo stuff!  What if LeChuck can sense it and it leads him right here?
+1412)  GUYBRUSH
+{Cocky} I don't think it works that way.
+1413)  ANEMONE
+Well I'm playing it safe anyway!
+1414)  GUYBRUSH
+{Happy} I just thought you'd like to know that Van Winslow is leading an attack on LeChuck as we speak!
+1415)  ANEMONE
+Oh, so valiant!  I await his triumphant return!
+1416)  LECHUCKPRIME
+{enraged}ARR! [PUNCHES GUYBRUSH]
+1417)  GUYBRUSH
+{surprised}UGH! [Gets punched]
+1418)  LECHUCKPRIME
+{happy}HAHA! Try to fly away little Peepwood!
+1419)  GUYBRUSH
+{Cocky} I think your poem was a hit!
+1420)  WINSLOW
+{Cocky} Ah, it is an honor to think I may have brought a bit of peace to a frightened heart.
+1421)  GUYBRUSH
+{Confused} I keep getting kicked out of my body!
+1422)  WINSLOW
+{Cocky} Perhaps you need a new perspective on the situation, sir.  I always find it helps to leave for a while, then maybe come at the problem from a different point of view.
+1423)  WINSLOW
+{Happy} Ah, yes.{Cocky}  I thought you looked a bit more whispy than usual, sir.
+1424)  GUYBRUSH
+{Suspicious} And this is hardly the Screaming Narwhal...{Confused} what happened?
+1425)  GUYBRUSH
+{beaten}[Injured]  LeChuck, you've{default} kidnapped Elaine, you've strung me up in lame traps, zapped me with a voodoo doll, you've tried to {stern}force me to be your undead slave... but never tried to{angry} KILL me so... brazenly.
+1426)  LECHUCKPRIME
+{angry}Which is the greatest mistake I ever made!
+1427)  GUYBRUSH
+{beaten}[Getting up] Uh-uh.
+1428)  GUYBRUSH
+{scared}Waa! [Being grabbed by the neck by LeChuck]
+1429)  LECHUCKPRIME
+{happy}Mind the drop.
+1430)  GUYBRUSH
+{surprised}Ahhh! UGH! [Falls from the crow's nest and hits]
+1431)  LECHUCKPRIME
+{default}Ye always wanted to be a PIRATE, isn't that right?
+1432)  GUYBRUSH
+{beaten}[Really injured - think Mel Gibson at the end of every Lethal Weapon movie.  Read in "ye always wanted to be a pirate, isn't that right?] Or a fireman...or an astronaut... ya know.
+1433)  LECHUCKPRIME
+{devilish}Yer not a real pirate until you've had the plunderin' pleasure of being keelhauled on this ship. {happy}Many a crewman has seen the underside of this ship, but {angry}none were as snivelin' and sorry as you.
+1434)  ELAINE
+{angry}GRRYAH! [Attacks LeChuck]
+1435)  LECHUCKPRIME
+{surprised}YOW! [Scream of pain]
+1436)  ELAINE
+{horrified}STOP IT, {angry}you monstrous {evil}maggot mating ground!
+1437)  LECHUCKPRIME
+{happy}Hahaha! Elaine, not even you and your flimsy sword can stop me now.
+1438)  ELAINE
+{angry}Watch me try! UGH!
+1439)  LECHUCKPRIME
+{devilish}Arrr, did we enjoy our little swim?
+1440)  GUYBRUSH
+{beaten}[Hurt, out of breath, still a smart ass] Ruh...ruh...{cocky}refreshing...
+1441)  LECHUCKPRIME
+{happy}Ha! Ya look spent, swabby! {devilish}Per'aps you ought to rest a spell? Off to yer quarters!
+1442)  GUYBRUSH
+{surprised}[being thrown] Ahhh!
+1443)  GUYBRUSH
+{Cocky} I bet things have been pretty quiet in the ol' courthouse since I heroically gave my life to cure the Pox of LeChuck.
+1444)  GRINDSTUMP
+{Excited} It's true... {Thinking} without that "LeChucken Pox" voodoo poison coursing through our veins,{Happy} Flotsam's citizens have returned to their usual, “roguish-yet-not-entirely-evil” ways.
+1445)  GUYBRUSH
+{Surprised} LeChucken Pox! {Happy} Great name!{Confused} Why didn't I think of that?
+1446)  GRINDSTUMP
+{Disappointed} But with LeChuck on the loose,{Awe} the crime rate is going through the roof! {Disappointed} He did things to poor ol' Crimpdigit that we don't even have names for yet!
+1447)  GUYBRUSH
+{Stern} Oh.
+1448)  GUYBRUSH
+{Confused} Why's LeChuck committing undefined acts of evil on the citizens of Flotsam?
+1449)  GRINDSTUMP
+{Sarcastic} He thinks we're hiding that Voodoo Lady chippie, {Disappointed}and he won't take “No, ouch, stop stabbing me” for an answer.
+1450)  GUYBRUSH
+{Suspicious} So, ARE you hiding the Voodoo Lady?
+1451)  GRINDSTUMP
+{Angry} Absolutely not! {Stern} That witch is nothing but trouble with a capital T, and that rhymes with V, and that stands for Voodoo.
+1452)  LECHUCKPRIME
+{surprised}HAR! {devilish}Who do you think you are? Blackbeard himself?
+1453)  GUYBRUSH
+{cocky}I'm GUYBRUSH THREEPWOOD, mighty pi--{surprised}UGHH!!! {beaten}Oww...
+1454)  GUYBRUSH
+{default}[Hurt] I think I've had about enough of that for one day.
+1455)  LECHUCKPRIME
+{default}Do you know what's so great about this?
+1456)  GUYBRUSH
+{default}[Out of breath...hurt] We're {cocky}both getting our cardio in for the day?
+1457)  LECHUCKPRIME
+{happy}The simplicity! It's just you...me... my ship.
+1458)  GUYBRUSH
+{beaten}[Hurt] ...Elaine.
+1459)  LECHUCKPRIME
+{surprised}And no VOODOO LADY. {enraged}By Blackbeard's boots I hate that woman.
+1460)  LECHUCKPRIME
+{devilish}Now I think it's time you swab the deck!
+1461)  LECHUCKPRIME
+Arrrrg! [Big stomp of the ground]
+1462)  GUYBRUSH
+{beaten}LeChuck... come on... stop.  {default}Elaine...
+1463)  LECHUCKPRIME
+{surprised}ELAINE?! {devilish}I'll be turnin' yer charred skull into a fine jewelry box for me bride!
+1464)  LECHUCKPRIME
+{default}Arrrrg! [Big stomp]
+1465)  GUYBRUSH
+{surprised}Whoaaaa! [Flies through air]
+1466)  LECHUCKPRIME
+{devilish}Trying to blast yourself to safety or blow yourself up in defeat?
+1467)  LECHUCKPRIME
+{devilish}Impressive display! They ought to call you Guybrush Threepwood, mighty ballerina!
+1468)  LECHUCKPRIME
+{angry}[Frustrated] Grr...
+1469)  GUYBRUSH
+{default}[hurt] It's a giant demonic cannon of doom...that would be just big enough for me to hide in.
+1470)  GUYBRUSH
+{default}[hurt] It's so high up... {beaten}and my acrobatic skills are waning.
+1471)  GUYBRUSH
+{default}It leads down to the wheelhouse.
+1472)  GUYBRUSH
+{default}A sail, {cocky}filled with the ill-winds of... {beaten}ugh, forget it. All this getting punched in the face is leaving me feeling unmetaphoric.
+1473)  GUYBRUSH
+{default}[hurt] If I can get back to the Crossroads at least LeChuck won't have as much {stern}sea-hardened ship to smash me into.
+1474)  GUYBRUSH
+{default}[hurt] We're anchored, this is where the Crossroads rip is.
+1475)  GUYBRUSH
+{default}[hurt] I like mine better.
+1476)  GUYBRUSH
+{cocky}[hurt] Gentlemen, I {default}quite honestly feel your pain.
+1477)  GUYBRUSH
+{default}[hurt] A bunch of barrels containing god knows what...they're locked up tight.
+1478)  LECHUCKPRIME
+{default}Away from me limited vintages of Grog! We'll crack open the finest{devilish} over your shriveled corpse!
+1479)  GUYBRUSH
+{default}[hurt] There's a part of me {cocky}that imagines LeChuck's cabin with pastel walls.
+1480)  LECHUCKPRIME
+{happy}Ha! There be where I take me demon bride when your body hangs from the mizzen mast!
+1481)  GUYBRUSH
+{beaten}[devastated] Oh, man...
+1482)  GUYBRUSH
+{default}[too hurt and tired to even find the humor in his own joke] A seesaw. At sea.{cocky} Ha.
+1483)  LECHUCKPRIME
+{angry}Quit makin' a mess! I'm gonna swab my deck with your scraggily excuse for a beard!
+1484)  GUYBRUSH
+{cocky}Keelhauling is no laughing matter.
+1485)  GUYBRUSH
+{default}A rope leading over the side of the boat.
+1486)  LECHUCKPRIME
+{Surprised} So, sweetheart, where do you think we should hold the wedding?
+1487)  LECHUCKPRIME
+{Angry} Hmmm... {Surprised} should I wear a tux or a ceremonial robe of human flesh?
+1488)  LECHUCKPRIME
+{Angry} Let's keep the ceremony small.  {Default} Close friends and relatives only.
+1489)  ELAINEDEMON
+{Serious} I want to have a fancy wedding on an {Happy} entire island to ourselves!
+1490)  ELAINEDEMON
+{Stern} No fuchsia!
+1491)  ELAINEDEMON
+{Pleading} Threepwood, do ya mind?  {Dismissive} Were making wedding plans here!
+1492)  ELAINEDEMON
+{Concerned} Should we allow dead people to the reception?
+1493)  ELAINEDEMON
+{Angry} Hey, keep it down over there!
+1494)  ELAINE
+[eyeing the blade suspiciously] {Suspicious} Hmmm...
+1495)  LECHUCKPRIME
+{Default} This weapon that was designed to destroy me will ultimately {Devilish} set me free when I use it to slay the woman who has {Angry} locked you and I in this perpetual loop of fate!
+1496)  GUYBRUSH
+{Worried} WHAT?!?!
+1497)  ELAINE
+{Dismissive} Face it, Threepwood. {Happy} LeChuck has more power than any pirate could possibly dream of!  {Sarcastic} And besides, you're dead now.
+1498)  LECHUCKPRIME
+{Happy} Ha ha ha! Elaine is mine!
+1499)  LECHUCKPRIME
+{Happy} So, ghost of Guybrush Threepwood, {Devilish} would you like to RSVP for the wedding now or later?
+1500)  ELAINEDEMON
+[Evil laugh] {Devilish} Ha ha ha ha ha!!!
+1501)  ELAINEDEMON
+{Cutesy} Hi honey, {Devilish} you look thirsty.
+1502)  GUYBRUSH
+{Surprised} No, I-brrggbrrgbrgle!
+1503)  GUYBRUSH
+{Worried} Elaine, sweetie, what are you doing?
+1504)  ELAINEDEMON
+{Dismissive} Leave us be, {Evil} Threepwood!
+1505)  GUYBRUSH
+{Whiney} But I've come back from the land of the dead for you.
+1506)  GUYBRUSH
+{Worried} Elaine, wait... {Whiney} If I could just get to the cutlass-
+1507)  GUYBRUSH
+{Happy} You look like a "Franklin."
+1508)  GUYBRUSH
+{Whiney} But... I was going to use that to save you and {Confused} kill LeChuck again.
+1509)  GUYBRUSH
+{Worried} Uh, Laneypoo... {Sarcastic} let's not be hasty...
+1510)  LECHUCKPRIME
+{Devilish} It felt a lot like THIS!
+1511)  LECHUCKPRIME
+[evil laugh]{Happy}  Har har har!!
+1512)  ELAINEDEMON
+[evil laugh] {Devilish} Ha ha ha ha ha!
+1513)  ELAINEDEMON
+{Dismissive} Maybe you should have stayed there!
+1514)  GUYBRUSH
+{Worried} I know you are still in there, Laneypoo!  {Stern} I won't give up on you.
+1515)  ELAINEDEMON
+{Evil} Keep pestering me and you won't be getting an {Stern} invitation to the wedding!
+1516)  GUYBRUSH
+{Stern} I'll find a way to save you, schnookums!
+1517)  ELAINEDEMON
+{Dismissive} Maybe you can find your way out of here while you're at it!  {Exasperated} Sheesh!
+1518)  GUYBRUSH
+{Worried} Elaine!
+1519)  ELAINEDEMON
+{Stern} Hisssssss!!
+1520)  ELAINEDEMON
+{Serious} This sword now has enough demonic power in it to bring down a god!  {Sarcastic} Did you think we'd let you get your mortal hands on it?
+1521)  ELAINEDEMON
+{Evil} With just one swipe, that sword could {Devilish} completely obliterate your body!
+1522)  LECHUCKPRIME
+{Surprised} I do wish you hadn't made such a pest of yourself.  I wanted you alive {Devilish} to see me marry Elaine!
+1523)  LECHUCKPRIME
+[yelling/boasting - points the sword at Guybrush] {Angry}"Till DEATH do you part," Threepwood! {Devilish} And that part has already been taken care of!
+1524)  LECHUCKPRIME
+{Happy} Elaine, my dear, please dispose of this irritating corpse.
+1525)  ELAINEDEMON
+{Devilish} With pleasure!
+1526)  GUYBRUSH
+{Confused} Elaine, sweetie, {Whiney} stop!  {Worried} It's me!
+1527)  LECHUCKPRIME
+{Surprised} WHAT?!
+1528)  ELAINEDEMON
+{Evil} How dare you!!  {Exasperated} I have a wedding ceremony to plan, {Angry} a dress to pick out, {Stern} a reception to arrange and {Evil} some bridesmaids to slaughter!  {Stern} I don't have time for this!
+1529)  GUYBRUSH
+{happy}Do you have LeChuck's treasure?
+1530)  GALEB
+{excited}Yes.
+1531)  GUYBRUSH
+{cocky}Just as I thought,{confused} No-- Wait, what?
+1532)  GUYBRUSH
+{confused}But... Franklin agrees.  You're supposed to say no.
+1533)  GALEB
+{happy}Then there's no doubt.
+1534)  GUYBRUSH
+{whiney}But that's your thing! Doubt!
+1535)  GALEB
+{excited}Puzzling!
+1536)  GUYBRUSH
+{Worried} I can't touch it!
+1537)  LECHUCKPRIME
+{Devilish} Har har har!!!
+1538)  GUYBRUSH
+{Worried} Why can't I touch anything?
+1539)  ELAINEDEMON
+{Stern} Shhhh!  {Exasperated} Can you keep it down?
+1540)  GUYBRUSH
+{shifty}When is the last time you saw LeChuck?
+1541)  GALEB
+[lying]{cocky}It's hard to say.  My memory is foggy about this "LeChuck."
+1542)  GUYBRUSH
+{angry}Come on!
+1543)  GALEB
+{disgusted}Like he was just KNOCKED right out of my head! But that could have never happened.
+1544)  GUYBRUSH
+{angry}Ugh.
+1545)  GUYBRUSH
+{suspicious}Where were you the last time you saw LeChuck?
+1546)  GALEB
+[lying]{cocky}Right over there.
+1547)  GUYBRUSH
+Just a few steps over there.
+1548)  GALEB
+[lying]{shifty}Not right here.
+1549)  GUYBRUSH
+{angry}Sigh.
+1550)  GUYBRUSH
+{incredulous} So, nothing. You're all talk.
+1551)  GUYBRUSH
+{Incredulous} Hmm. But you DO have the treasure! {Suspicious} So I'll ask you, you'll say no, and around we'll go.
+1552)  GALEB
+{Shifty} It's hard to say.
+1553)  GUYBRUSH
+Franklin's found the scent of LeChuck's treasure!
+1554)  GUYBRUSH
+{Confused} It doesn't make any sense... Franklin says the treasure is here and that lying Galeb agrees.
+1555)  GALEB
+{Stern} I can hear you.
+1556)  GUYBRUSH
+{Surprised}Whoops.  {Confused}But still...
+1557)  GUYBRUSH
+Franklin is sniffing all over Galeb's feet. Hmm.
+1558)  ELAINE
+{concerned}[snapping out of it] Wha-
+1559)  LECHUCKPRIME
+{enraged} Arrrghhhh!!  Enough of this!
+1560)  LECHUCKPRIME
+This be goin' on far too long!
+1561)  ELAINE
+{sarcastic}Your right, sweetie, he doesn't give you much to work with, does he? {worried}Uh oh.
+1562)  WINSLOW
+{Cocky} Get your hands off of my dead captain, {Stern} you green-skinned strumpet!
+1563)  GUYBRUSH
+{Happy} Mr. Winslow!
+1564)  WINSLOW
+{Enthused} Good news sir!  {Happy} I found the MAP!
+1565)  LECHUCKPRIME
+{Happy} Ha ha!  This is marvelous!  {Devilish} You really think you still have a chance?  {Default} Go ahead, give it your best shot!  {Surprised} I'll even give you a head start. {Angry} Just know this: there is no where you can go where I cannot find you! {Happy} Ha ha ha har!!
+1566)  GUYBRUSH
+{Confused} Morgan?
+1567)  SWORDFIGHTER
+Ah, then you must want to know how I lost me head.
+1568)  GUYBRUSH
+{Incredulous} LeChuck cut it off.
+1569)  GUYBRUSH
+{suspicious}What are all these things?
+1570)  THIEF
+{shifty}Those are the things I've stolen from the poor unsuspecting pirates passing through! {evil} Some real gems there, huh? {confused}  I'm sorry?  What was that you said?
+1571)  GUYBRUSH
+{confused}Would you mind...uhh... looking behind you again?
+1572)  GUYBRUSH
+{Cocky} Have a whiff of this thing, Fibby McFarfignoogin.
+1573)  GALEB
+{Stern}That's not my na--HEY! [Disgusted by a smell] {Disgusted}YUCK! Ugh! It smells like HIM!
+1574)  GUYBRUSH
+{Happy} LeChuck's treasure! Way to go Franklin, you salty dog!
+1575)  GALEB
+{stern} Now look, you've sullied the air over there. That's what I smelled right before taking a thump to the head all those years ago.
+1576)  GUYBRUSH
+{Cocky} Have a whiff of this!
+1577)  GALEB
+{Disgusted} Ack! Disgusting! Get that out of my face.
+1578)  GUYBRUSH
+Hey, what was that?!
+1579)  THIEF
+What was what, friend?
+1580)  GUYBRUSH
+You just kicked my spell into that pile!
+1581)  THIEF
+I'm sure I don't know what you're talking about.
+1582)  GUYBRUSH
+Humph.  We'll see about that!
+1583)  GUYBRUSH
+Clay urns.  That's weird, I have a nagging urge to smash these.
+1584)  THIEF
+I wouldn't do that, friend.
+1585)  GUYBRUSH
+Why not?
+1586)  THIEF
+Whadya ya mean "why not"?  Because it's rude.
+1587)  GUYBRUSH
+Right. Of course.
+1588)  GUYBRUSH
+Hey nice!  I had a collection of autographed sextants too!  Do you have a "Vasco DeLama"?
+1589)  THIEF
+Uh, I'm sure that I do!
+1590)  GUYBRUSH
+Wow, what a coincidence!
+1591)  GUYBRUSH
+{confused} Hellooo? Anyone around?
+1592)  GUYBRUSH
+Swipe!
+1593)  GUYBRUSH
+Pilfer!
+1594)  GUYBRUSH
+Pinch!
+1595)  GUYBRUSH
+Plunder!
+1596)  GUYBRUSH
+Poit!
+1597)  VOODOOLADYSEAGULL
+Threepwood.
+1598)  GUYBRUSH
+{surprised} Whoa, Nelly!
+1599)  THIEF
+Actually, I'd prefer you just take that one.  It's really starting to stink up the place.
+1600)  GUYBRUSH
+{confused} An old treasure chest. {sarcastic} The sort of thing corporeal Guybrush would be incredibly interested in.
+1601)  GUYBRUSH
+{happy} I've got all the LeChuck trinkets I need out of this ominously convenient box.
+1602)  GUYBRUSH
+{confused} Morbid.
+1603)  GUYBRUSH
+{whiney} I don't even have the bodily strength to lift a feather.
+1604)  GUYBRUSH
+{happy} A feather. {surprised} A tiny touch!
+1605)  GUYBRUSH
+Ooh!  Scrolls, parchments... and MAPS!  Winslow would be so happy!
+1606)  GUYBRUSH
+{confused}I don't think I'll be using those to attack any salesmen, {happy} so I can just appreciate their luminescence.
+1607)  GUYBRUSH
+{confused} Why the heck would I want to do that?
+1608)  THIEF
+Is this your dog, friend?
+1609)  GUYBRUSH
+Nope, I've never seen little Franklin before in my life!
+1610)  THIEF
+Well, that mangy mutt was trying to run off with one of my scrolls so I whacked him on the nose with it and threw it back on the pile.
+1611)  GUYBRUSH
+I'll see if I can find who he belongs to.
+1612)  GUYBRUSH
+{sarcastic} It looks like somebody was on their way to a LeChuck dress up contest.
+1613)  VOODOOLADYSEAGULL
+THREEPWOOD.
+1614)  GUYBRUSH
+{surprised} Gah! Stop DOING that.
+1615)  VOODOOLADYSEAGULL
+In there you will find some of the things that allowed LeChuck to get so close to your beloved Elaine.
+1616)  GUYBRUSH
+{disgust} [Upset/shocked] WHAT? {scared} I don't think I want to look in there anymore.
+1617)  VOODOOLADYSEAGULL
+LeChuck's human form was most impressive, but we can all use the help of Voodoo from time to time.
+1618)  GUYBRUSH
+{sarcastic} I think I'm set in the Voodoo department.
+1619)  VOODOOLADYSEAGULL
+If it's trust you seek, LeChuck's belt should do nicely.
+1620)  GUYBRUSH
+{sarcastic} The dead bird is not helping me trust her more.
+1621)  GUYBRUSH
+It's already open.
+1622)  GUYBRUSH
+{happy} There you are!
+1623)  GUYBRUSH
+{seductive} Okay, give me the spell!
+1624)  GUYBRUSH
+{worried} Oh no!  What have you done with the spell!?
+1625)  GUYBRUSH
+{stern} Bad Franklin!
+1626)  GUYBRUSH
+{seductive} Come on boy, where did you put that spell?
+1627)  GUYBRUSH
+{stern} Gotcha! Back in the coat for you, {seductive} ya little spell thief!
+1628)  ELAINE
+[sweetly]You should know enough to trust me by now, Guybrush Threepwood.
+1629)  GUYBRUSH
+{confused}But you asked LeChuck to make you a demon bride!
+1630)  ELAINE
+{babying}Actually, it's pronounced "es-pon-HA" with an {embarrassed}"H" sound at the end?
+1631)  GUYBRUSH
+{embarrassed}Really?  But {confused}we've all been saying "Espon-Ja."
+1632)  ELAINE
+Yes I know. It's been bothering me this whole time.  I'm just telling you because {cutesy}I don't want you to look silly.
+1633)  LECHUCKPRIME
+{Surprised} Boo!
+1634)  GUYBRUSH
+[startled]{Scared} Ahhh!
+1635)  LECHUCKPRIME
+{Devilish} You can't hide from me, Threepwood!
+1636)  GUYBRUSH
+{Whiney} I wasn't hiding!
+1637)  GUYBRUSH
+{Worried} Ooowwww!!
+1638)  GUYBRUSH
+{worried} Waahhhhh!!
+1639)  LECHUCKPRIME
+{devilish} You may as well give up!
+1640)  GUYBRUSH
+{cocky} You don't scare me, LeChuck.
+1641)  LECHUCKPRIME
+{happy} Oh, I'm not trying to scare you.  {enraged} I'm just gonna kill you!
+1642)  LECHUCKPRIME
+{enraged} Get back here, Threepwood!
+1643)  GUYBRUSH
+{cocky} Actually, I was just on my way out.
+1644)  LECHUCKPRIME
+{happy} Well, let me help you!
+1645)  GUYBRUSH
+{confused} [while being punched] Thaaaaaaank yooouuuuu!!!!
+1646)  LECHUCKPRIME
+Arrrrr!!!
+1647)  LECHUCKPRIME
+{Devilish} Still on your scavenger hunt, Threepwood?
+1648)  GUYBRUSH
+{Angry} You can make fun of me and punch me about all you want, LeChuck!
+1649)  LECHUCKPRIME
+{Happy} You're right! {Angry} I can!  Thanks!
+1650)  GUYBRUSH
+Shoot.
+1651)  BUGEYE
+{Angry} Let's just see how that face looks with my FIST shoved in it!
+1652)  GUYBRUSH
+Now that I've read this diary aloud, these things aren't really secret anymore.
+1653)  GUYBRUSH
+{Stern} Set my wife free LeChuck!
+1654)  LECHUCKPRIME
+{Surprised} Guybrush, please.  {Devilish} I'm right in the middle of discussing invitation designs!
+1655)  GUYBRUSH
+{Angry} I don't care if she is a seething demon lizard woman, {Stern} she's still MY wife!
+1656)  LECHUCKPRIME
+{Default} Shhhhh.
+1657)  GUYBRUSH
+{Stern} Turn her back or I will {Evil} kill you and everyone else on this ship!
+1658)  LECHUCKPRIME
+{Surprised} Look, I'm really busy.  {Angry} Can we talk about this later?
+1659)  GUYBRUSH
+Whoa! [falling from the rip into the crossroads]
+1660)  LECHUCKPRIME
+{angry}Arr! Don't ye think {devilish}what ye did can't be undone! {happy}Elaine will be my demon bride come hell or high water!
+1661)  ELAINE
+{surprised}Guybrush, how--
+1662)  GUYBRUSH
+{happy}The Voodoo Lady, she brought me back!
+1663)  ELAINE
+{horrified}[hushed, to Guybrush, flabbergasted] The Voodoo Lady?!
+1664)  ELAINE
+{surprised}Think of all the peril that woman has put you in. {stern}You've been blindly lead around by her for so long, Guybrush...
+1665)  GUYBRUSH
+{confused}But without her--
+1666)  ELAINE
+{Suspicious} Yes.
+1667)  MORGANEPILOGUE
+{stern}[cold] Now, for your end of the deal.
+1668)  LECHUCKDEMON
+[process: ghostly swirly echoes][Ambient sound - LeChuck's soul is trapped inside of a bottle.  Think torment, anger, pain] Aaaaarrhhhh....
+1669)  MORGANEPILOGUE
+{fierce}[follows "Ghost Pirate Hunter Morgan LeFlay...] [like an ice cold killer] I think I'm going to enjoy this.
+1670)  GUYBRUSH
+{cocky} Hah!  “Trouble” is my middle name.  {embarrassed} [hushed]Actually, it's Ulysses, but I tell people it's trouble.
+1671)  GUYBRUSH
+{Confused} Um... I mean...[fierce] {Angry} Arrrr!  Somebody best be fillin' this mug with GROG!
+1672)  GUYBRUSH
+But your bouncer said—
+1673)  GRINDSTUMP
+{Happy} Oh that Rockrib, always good for a laugh!
+1674)  GUYBRUSH
+[alt]{surprised}Hey, look at that! A gaping round hole in the wall.  The Voodoo Lady must've escaped through this...convenient.
+1675)  GUYBRUSH
+{cocky}Hey, you want your diary back?
+1676)  BUGEYE
+{embarrassed}What?  That ain't mine.
+1677)  GUYBRUSH
+{incredulous}But it says "Bugeye's Diary: Finding my happy land."
+1678)  BUGEYE
+{angry}Hey, I don't keep no girly book, got it!
+1679)  GUYBRUSH
+{cocky}But you already admitted in the bar to the events described on these pages.
+1680)  BUGEYE
+{angry}I said it ain't MINE!
+1681)  GUYBRUSH
+{incredulous}All right, fine!
+1682)  GUYBRUSH
+{incredulous}Are you sure this isn't yours?
+1683)  BUGEYE
+{stern}Must be another Bugeye.
+1684)  GUYBRUSH
+{incredulous}Are you sure?
+1685)  BUGEYE
+{angry}Ain't mine.
+1686)  GUYBRUSH
+{Worried} ... reminders of why blind dates are a really bad idea.
+1687)  GUYBRUSH
+Sharp, pointy, death!
+1688)  ELAINE
+{horrified}[seeing her husband get punched] GUYBRUSH!
+1689)  LECHUCKPRIME
+{devilish}Don't start thinkin' that I'm finished with you.
+1690)  GUYBRUSH
+{default}[injured] Maybe...just a quick five. {cocky}You don't want to pull a qua--{surprised}UGH!
+1691)  LECHUCKPRIME
+This is the most fun I've had in years!
+1692)  GUYBRUSH
+{surprised}[being choked] Why...are...you...{stern}doing....this?
+1693)  LECHUCKPRIME
+{angry}I'm a tired of putting up with you. And I {happy}just love the sound you make when you hit the deck.
+1694)  LECHUCKPRIME
+{devilish}Come here!
+1695)  LECHUCKPRIME
+{happy}[Giggles gleefully.]
+1696)  LECHUCKPRIME
+{devilish}Would ya mind inspecting me hull for me?
+1697)  GUYBRUSH
+{default}[trying to get out of being keelhauled] It's full of holes! We {cocky}should really take her into port, get a nice mug o' grog, {beaten}talk about the good old days...
+1698)  LECHUCKPRIME
+I think {happy}TODAY will become my good old days.
+1699)  LECHUCKPRIME
+{happy}[evil pirate laugh] Hahaha!
+1700)  LECHUCKPRIME
+{devilish}How I can't WAIT for you to give up and just...{angry}GO AWAY!
+1701)  LECHUCKPRIME
+{devilish}Har! Not feeling so mighty now, are ye?!
+1702)  ELAINE
+{angry}[watching Guybrush get beaten by LeChuck] LeChuck!
+1703)  ELAINE
+{angry}[watching Guybrush get beaten by LeChuck] I'll kill you, LeChuck!
+1704)  ELAINE
+{surprised}[Injured, recovering under breath] Ow... {angry}you bastard. [To LeChuck]
+1705)  ELAINE
+{angry}[Injured] I'm not done with you.
+1706)  ELAINE
+{angry}[Injured, recovering under breath] I'll never be your wife,{suspicious} monster.
+1707)  LECHUCKPRIME
+{enraged}[boasting as he beats up Guybrush] There be no full-figured voodoo priestess to save you now, boy!
+1708)  LECHUCKPRIME
+{happy}[boasting as he beats up Guybrush] Buwahaha!
+1709)  LECHUCKPRIME
+[boasting as he beats up Guybrush] Look how pathetic ye are! {devilish}Sending in your wife to rough me up! She tricked me and got the Cutlass of Kaflu, but I {angry}know better than to get cornered again by that miserable blade!
+1710)  LECHUCKPRIME
+{devilish}[boasting as he beats up Guybrush] It's so cute, watching{happy} my dear Elaine swing that sword like she knows what she's doing. Did it ever {devilish}occur to you that I know more about that cursed cutlass{angry} than all of ye barnacle brains?
+1711)  LECHUCKPRIME
+{devilish}[boasting as he beats up Guybrush] Does Elaine know about Morgan, Guybrush?
+1712)  ELAINE
+{suspicious}What?
+1713)  LECHUCKPRIME
+{happy}That sultry sea-minx had it for Threepwood!  Her corsair sailed for only him!
+1714)  LECHUCKPRIME
+{devilish}A pity I had to kill her!  But now they can kindle their love in hell!
+1715)  GUYBRUSH
+[reading] Grog.  "Because bullying fists don't hurt when you are numb."
+1716)  GUYBRUSH
+[reading] Grog.  "Facing the judge just got that much easier!"
+1717)  GUYBRUSH
+[reading] Grog.  "Of course you can ride that shark."
+1718)  GUYBRUSH
+[reading] Grog.  "Because sometime you have to put your face in hot lava to prove you're man! "
+1719)  GUYBRUSH
+{sarcastic} This spirit-binding must be messing with my head.
+1720)  VOODOOLADYSEAGULL
+Hello, Guybrush.
+1721)  GUYBRUSH
+{surprised} [shocked that the VL is talking through a dead bird] AH! You can do that too?!
+1722)  VOODOOLADYSEAGULL
+I'm sorry, but I must still conceal my whereabouts and communicate through the vessels of nature's works.
+1723)  GUYBRUSH
+{worried} You picked a dead seagull?!
+1724)  VOODOOLADYSEAGULL
+A perfect place to go unnoticed.
+1725)  GUYBRUSH
+{confused} I can't help but think the advantages {sarcastic} of flight could be more useful.
+1726)  GUYBRUSH
+{sarcastic} I'm having a hard time getting over this dead seagull thing.
+1727)  VOODOOLADYSEAGULL
+You must realize that often times in life, it is not where the message comes from, but the message itself.
+1728)  GUYBRUSH
+{disgust} But it's gross.
+1729)  GUYBRUSH
+{sarcastic} I'm sure you've heard by now, {stern} but Elaine is a demon bride of LeChuck.
+1730)  VOODOOLADYSEAGULL
+Your wife's ways are her own, her fate compelled by unknown forces.
+1731)  GUYBRUSH
+{embarrassed} She's a bit of a loose cannon.
+1732)  VOODOOLADYSEAGULL
+For once, I agree with you, Threepwood.
+1733)  GUYBRUSH
+{sarcastic} Aside from joining my arch-enemy, {seductive} I generally appreciate the sass.
+1734)  VOODOOLADYSEAGULL
+Be careful, Guybrush. You must make your own choices, for Elaine does not trust in the ways of voodoo.
+1735)  GUYBRUSH
+{stern} Your ways of Voodoo have really done a number on me lately.
+1736)  VOODOOLADYSEAGULL
+The ebb and flow of the tides of our suffering cannot be controlled.
+1737)  GUYBRUSH
+{angry} Why are you doing this to me? {stern} What did I do to chap your hide?
+1738)  VOODOOLADYSEAGULL
+I am not your enemy, Threepwood. In fact, I have most likely saved you from yourself.
+1739)  GUYBRUSH
+{sarcastic} Right, tell that to my shambling mess of a body here.
+1740)  GUYBRUSH
+{worried} What the heck am I, anyway? {surprised} I feel one step removed from zombie.
+1741)  VOODOOLADYSEAGULL
+You are no stranger to the reanimation of corpses. You are now familiar with the form that LeChuck has known so well.
+1742)  GUYBRUSH
+{confused} So you're saying I'm a zombie.
+1743)  VOODOOLADYSEAGULL
+Defining such states is folly in the realm of Voodoo...
+1744)  GUYBRUSH
+{angry} I'm a zombie.
+1745)  VOODOOLADYSEAGULL
+If you insist.
+1746)  GUYBRUSH
+{embarrassed} Is there anything I should know about being a zombie? {confused} Are you flush with zombie advice?
+1747)  VOODOOLADYSEAGULL
+Your true form is not lost.
+1748)  GUYBRUSH
+{sarcastic} Now we're getting somewhere.
+1749)  VOODOOLADYSEAGULL
+But such powerful reanimation is outside of the realm of voodoo. It requires something much more rare.
+1750)  GUYBRUSH
+{surprised} *Gasp* A four-headed monkey?
+1751)  GUYBRUSH
+{confused} An elf's tears?
+1752)  GUYBRUSH
+{sarcastic} Carpaccio?
+1753)  GUYBRUSH
+{sarcastic} A decent meal in Woodtick?
+1754)  GUYBRUSH
+{confused} Straight talk from a Voodoo Priestess?
+1755)  VOODOOLADYSEAGULL
+Hmph. But I'm afraid I don't know either. The spirit must be compelled to reconstitute itself. That is all I can share.
+1756)  GUYBRUSH
+{sarcastic} Ever since LeChuck got a hold of your diary, {seductive} he's really had it in for you.
+1757)  VOODOOLADYSEAGULL
+The dread-pirate LeChuck is not one for nuances. You know this, Guybrush.
+1758)  GUYBRUSH
+{cocky} Back on Flotsam though, {seductive} he seemed pretty convinced you were evil.
+1759)  VOODOOLADYSEAGULL
+What else happened back on Flotsam? Did he not slaughter you and your friend Morgan LeFlay in cold blood? LeChuck is mad, as usual. I do not blame him for his anger towards me, or towards you. It is expected and beyond his control.
+1760)  GUYBRUSH
+{surprised} You're saying LeChuck is just being LeChuck?
+1761)  VOODOOLADYSEAGULL
+Yes.
+2328)  VOODOOLADYCRAB
+Yes.
+1762)  VOODOOLADYSEAGULL
+As you wish.
+1763)  GUYBRUSH
+{disgust} Yuck.
+1764)  GUYBRUSH
+{stern} Why should I believe any of this?
+1765)  VOODOOLADYSEAGULL
+Fine, you don't have to. I'll be going, then.
+1766)  GUYBRUSH
+{worried} Whoa whoa, you don't have to go.
+1767)  VOODOOLADYSEAGULL
+I have said all I can at this time. Good luck, Guybrush. Do not let the forces of ill-will or the ignorance of others knock you from your path.
+1768)  GUYBRUSH
+{surprised} Wait!
+1769)  GUYBRUSH
+{confused} I believe you!
+1770)  GUYBRUSH
+{whiney} Ah, man.
+1771)  GUYBRUSH
+{embarrassed} Wakey wakey, seagull. {stern} I need more info.
+1772)  GUYBRUSH
+{whiney} Hey, Voodoo Lady, come on back. {worried} The seagull's not that gross.
+1773)  GUYBRUSH
+{angry} [frustrated] Come on! I need to know how to destroy LeChuck!
+1774)  GUYBRUSH
+{evil} PLEASE! TELL ME WHAT TO DO!
+1775)  GUYBRUSH
+{sarcastic} She's not coming back.
+1776)  GUYBRUSH
+{sarcastic} Seriously, just a dead bird now.
+1777)  GUYBRUSH
+{disgust} Gross.
+1778)  GUYBRUSH
+[regenerating after being zapped with root beer] Yeeaarrghh!!!
+1779)  MORGAN
+Guybrush? What happened? Did you defeat LeChuck? Save your wife? Avenge my death?
+1780)  GUYBRUSH
+She... she zapped me.
+1781)  GUYBRUSH
+[disbelief] Elaine... she's LeChuck's demon bride and she zapped me with Voodoo Root Beer.
+1782)  MORGAN
+Demon bride? She must be under LeChuck's control! Get back in there and save her!
+1783)  GUYBRUSH
+[distraught] No, she's not. She looked me right in the eyes and then chose him. They're going to take over the world together. There's a demonic sword involved. It's over.
+1784)  MORGAN
+[coldly sarcastic - Morgan is being a hardass here, she's not putting up with Guybrush's "woe is me" failure] Well, that's good news.
+1785)  GUYBRUSH
+Huh?
+1786)  MORGAN
+Now you're free to just curl up and enjoy a sad, pathetic eternity in pirate afterlife. Of course, I'm not sure if they're still letting whiny school girls in, you'll have to check.
+1787)  GUYBRUSH
+Come on, Morgan. I just lost my wife.
+1788)  MORGAN
+So go take her back, Guybrush. Are you a Mighty Pirate™, or aren't you?
+1789)  GUYBRUSH
+{Worried}I-
+1790)  MORGAN
+{Dismissive} Look, I know you're not the most fearsome pirate to sail the seven seas.
+1791)  MORGAN
+{Excited} But what I've learned about the Guybrush Threepwood that inspired me for my entire life is that there isn't any situation he can't handle. {Serious} And the one thing I've admired about you throughout our entire adventure together is that you never gave up on Elaine.
+1792)  MORGAN
+[assuring Guybrush - she's saying "YEAH, realize you're a badass"] {Excited} Yeah.
+1793)  GUYBRUSH
+{Suspicious} Maybe if I could find a way to use that Cutlass...
+1794)  GUYBRUSH
+{Whiney} ...but If I go back, they'll just zap my ghost again.
+1795)  MORGAN
+{Sarcastic} So get your body back.
+1796)  GUYBRUSH
+{Incredulous} What?  Just find my body and re-possess it?{Confused}  Wait, that sounds kinda familiar...
+1797)  MORGAN
+{Serious} The Voodoo Lady's locket. Find the locket. Find your body.
+1798)  GUYBRUSH
+[brimming with confidence]{Surprised} ...And then bring the fight to that {Angry} decrepit sack of sea worms and make LeChuck rue the day he decided to{Proud} mess with Guybrush Threepwood, Mighty Pirate™.
+1799)  MORGAN
+{Excited}Yes!
+1800)  GUYBRUSH
+[coming out of his big, I'm a badass plan] {Proud} I still have no clue what "rue" means.
+1801)  MORGAN
+{Sarcastic} But it sounded great!
+1802)  GUYBRUSH
+{Default}Morgan.... {Happy}Thanks.
+1803)  MORGAN
+{sad}Guybrush! {terrified}Oh my God, you look terrible.
+1804)  GUYBRUSH
+{cocky}LeChuck's giving me a bit of the business.
+1805)  LECHUCKPRIME
+Arrr! {devilish}You two can get cozy together when {angry}I'm done giving Threepwood his painful and permanent farewell into the afterlife! OW!
+1806)  MORGAN
+{stern}We need to trap him, Guybrush!
+1807)  GUYBRUSH
+{default}[hurt, out of breath, beaten] I'm back, again.
+1808)  MORGAN
+{strained}I'll keep attacking LeChuck{terrified} as much as I can!
+1809)  LECHUCKPRIME
+{surprised}ARRR!
+1810)  LECHUCKPRIME
+{surprised}OW!
+1811)  GUYBRUSH
+{beaten}I can't take much more of this.
+1812)  MORGAN
+{terrified}You have to close the Crossroads. {strained}It's the only way to trap LeChuck.
+1813)  MORGAN
+{terrified}LOOK OUT!
+1814)  LECHUCKPRIME
+{enraged}[scary threatening] I'll be back for you, lass.
+1815)  LECHUCKPRIME
+{surprised}ARRR! {angry}Ya stick me with your girly gaff again and I'll have yer pretty undead head! {devilish}Hell, I'll have it anyway!
+1816)  LECHUCKPRIME
+{angry}GRR, I'm starting to get ANGRY.
+1817)  GUYBRUSH
+[pickup1] [alt] {Confused} Really? It's a simple as that?
+1818)  GALEB
+[alt]{Enthused} Yep. A simple sacrifice of a teensy shred of life and all these rips will seal up good as new, putting everyone in their place for eternity.
+1819)  GUYBRUSH
+[pickup2] [asking Galeb about closing the crossroads rips][distressed]{Stern} So I can close these rips... but then I'll really be stuck here. {Worried} A pirate's life, not for me.
+1820)  GALEB
+For eternity.
+1821)  GUYBRUSH
+[pickup1] {Confused} Are you sure it wasn't De Singe who killed you?  He sure acted guilty.
+1822)  MORGAN
+[depressed] {Questioning} Didn't you pay any attention to my dying words?  I clearly said "Don't trust LeChuck.  He's hypnotized a bunch of monkeys, and ran me through with my own blade."
+1823)  GUYBRUSH
+[pickup1]  That's weird, I heard you say [slightly mimicking dying words, but in a respectful manner] {Whiney}"De Singe is a schmuck.  When he got thirsty, he killed me for some lemonade."
+1824)  GUYBRUSH
+[pickup1]{Suspicious} In my defense, it should be noted that you were coughing up a lot of blood at the time, so something may have gotten lost in the translation.
+1825)  
+Are you sure it wasn't De Singe who killed you?
+1826)  GUYBRUSH
+[pickup1]{happy} A spell!
+1827)  GALEB
+{excited}Yep. And if there's one thing I know about, it's spells.
+1828)  GUYBRUSH
+[pickup1] [happy] REALLY.
+1829)  GALEB
+{happy}Fancy myself a bit of a spell connoisseur. Big ones, small ones, uppers, downers, reversals, hexes, jinxes, you name it.
+1830)  GUYBRUSH
+[pickup1] {cocky}Huh. I'll keep that in mind.
+1831)  GUYBRUSH
+[pickup2] Yep!
+1832)  GUYBRUSH
+[pickup2] [Gulp!, like "uh-oh!"]*Gulp*
+1833)  GUYBRUSH
+[pickup2] Yikes!
+1834)  GUYBRUSH
+[pickup1] You said you were a connoisseur of the occult, right?
+1835)  GUYBRUSH
+[pickup1] I'd like to buy something, shopkeep!
+1836)  THIEF
+I don't think you quite understand the meaning of "Thieves Den," friend.
+1837)  GUYBRUSH
+[pickup1] One dollar for your finest goods!
+1838)  THIEF
+*sigh*
+1839)  GUYBRUSH
+[pickup1] If there's one guy I shouldn't leave alone with my big jar-o-cash, it's this guy.
+1840)  THIEF
+It's REALLY not thievery if you just keep offering me your money.
+1841)  GUYBRUSH
+[pickup2]{Scared} Whoa, whoa, whoa. [about to say “is that what I think it is,” but changing his mind]{Confused} Is that... is that a good idea?
+1842)  MORGAN
+Stop running away and fight me like a ghost, LeChuck!
+1843)  MORGAN
+Can't you distract him or pin him down or something!?
+1844)  GUYBRUSH
+{whiney} [pickup1] *sigh* I wish Murray was around to see this thing. {stern} I bet it would really tick him off.
+1845)  GUYBRUSH
+[pickup1]{Incredulous} Psst. Here. [handing the Swordfighter money "under the table"]
+1846)  SWORDFIGHTER
+{Surprised} Hmm, what? [confused that Guybrush is offering him money instead of fighting him]
+1847)  GUYBRUSH
+[pickup1] Just take it! I'm throwing the fight.
+1848)  SWORDFIGHTER
+{Cocky} Ha! That's hardly sportsmanlike! You must face me man to man.
+1849)  GUYBRUSH
+[pickup1]{Whiney} Rats.
+1850)  GUYBRUSH
+[pickup1] {Confused}This feels like a good idea, but I don't know why.  [thinking the better of it] {Suspicious} I'd better not drop this before I know why I'm doing it.
+1851)  GUYBRUSH
+[pickup2] I'd better get a look at that Voodoo Spell of LeChuck's before I start tossing things willy-nilly into the heart of the Crossroads.
+1852)  GUYBRUSH
+[pickup1] [being persuasive]{Incredulous} Come on, let's throw the fight!{Happy} You win!
+1853)  SWORDFIGHTER
+[acting snooty, put upon, like "well I never!"]{Stern} Hmmph!
+1854)  MORGAN
+[ALT][A light goes off in her head]{Questioning}  A sacrifice?  Hmmm.{Happy} I may have an idea or two.  Why don't you take care of the rest of the spell first.
+1855)  GUYBRUSH
+{Suspicious}[pickup1][a little suspicious]Oookay.
+1856)  GUYBRUSH
+{sarcastic} [pickup1] Looks like he's doing all right for himself.
+1857)  GUYBRUSH
+[pickup1] {incredulous}I don't think they can help me with reversing the Feast spell.  I should look for someone a more in tune with the nature of Voodoo.  And spells.  And bad poetry.
+1858)  GUYBRUSH
+[pickup1]{cocky} I don't think they can help me with my diet.
+1859)  GUYBRUSH
+[pickup2][Trying to get the voodoo lady (in dead bird form) to help him, but the bird remains dead]{disgust} Hey! Voodoo Lady! {worried} I need help with this.
+1860)  GUYBRUSH
+[pickup2][Trying to get the voodoo lady (in dead bird form) to help him, but the bird remains dead]{sarcastic} Nuts.
+1861)  
+I need to deal with La Esponja Grande.
+1862)  GUYBRUSH
+[pickup2][exiting a dialog with the Voodoo Lady]{stern} All right. I can't keep wasting time. {worried} Elaine isn't getting any less demonic.
+1863)  VOODOOLADYSEAGULL
+The sponge, Guybrush.  If you can find a way to return it to its small, immature state, LeChuck's hold on Elaine will be lifted.
+1864)  GUYBRUSH
+[pickup2][exiting a dialog with the Voodoo Lady]{confused} Wellll...that's about all the dead waterfowl convo I can handle.
+1865)  GUYBRUSH
+{confused} [pickup1] So, I need to shrink the sponge.
+1866)  GUYBRUSH
+{sarcastic} [pickup1] I have the feast of the senses, {embarrassed} but I don't want to make it any bigger.
+1867)  VOODOOLADYSEAGULL
+The opposite, in fact.
+1868)  GUYBRUSH
+{sarcastic} [pickup1] I'm sorry, I didn't take Voodoo spell reversals 201 at hexer's community college.
+1869)  VOODOOLADYSEAGULL
+Well then, Guybrush...
+1870)  GUYBRUSH
+{surprised} [pickup1] Yyyes?
+1871)  VOODOOLADYSEAGULL
+Ask around.
+1872)  GUYBRUSH
+[pickup1][imploring Elaine to help] Little help here?
+1873)  ELAINE
+{serious}I'm on it, sweetie!
+1874)  GUYBRUSH
+[pickup1] So, if he kills me again, you've got this covered, right?
+1875)  GUYBRUSH
+{default}[pickup1][attempting to keep things light while getting abused] So, {cocky}how was your day?
+1876)  ELAINE
+{happy}[going along with keeping things light] Oh, you know, {sarcastic}the usual.
+1877)  GUYBRUSH
+[pickup1][attempting to keep things light while getting abused] After this is all over, I say we take a nice {stern}long vacation.
+1878)  ELAINE
+[going along with keeping things light] I thought this WAS the vacation!
+1879)  GUYBRUSH
+{cocky}[pickup1][attempting to keep things light while getting abused] This guy's starting to get on my nerves...{default} and my spleen.
+1880)  ELAINE
+{concerned}[going along with keeping things light] You think that's bad, try being engaged to him.  He wanted a pineapple wedding cake with chocolate fondant icing!
+1881)  GUYBRUSH
+{cocky}[pickup1][attempting to keep things light while getting abused]What a {default}<cough> jerk!
+1882)  ELAINE
+{stern}No problem, babe!
+1883)  GUYBRUSH
+[pickup1]  Need any help?
+1884)  ELAINE
+{dismissive}Not really.  You?
+1885)  GUYBRUSH
+[pickup1] Nah, I'm good.
+1886)  GUYBRUSH
+{default}[pickup1] A little more cannon fire would go great with {cocky}these multiple concussions.
+1887)  ELAINE
+{serious}You got it, love!
+1888)  GUYBRUSH
+[pickup1]Wanna help me take a piece out of this guy?
+1889)  ELAINE
+{sarcastic}[enthused at the thought of attack LeChuck] I thought you'd never ask!
+1890)  GUYBRUSH
+{default}[pickup1][delirious with pain] I didn't know zombies could hurt like this.
+1891)  ELAINE
+{sarcastic}I don't think you're technically a zombie, darling.
+1892)  GUYBRUSH
+{beaten}[pickup1][delirious with pain]Oh. Ow.
+1893)  GUYBRUSH
+{confused}[pickup1][sudden moment of clarity] Hey, is it a weird that I thought you were a {incredulous}little sexy when you were all poxed up?
+1894)  ELAINE
+{sarcastic}[confused] What?
+1895)  GUYBRUSH
+{suspicious}[pickup1] I mean, does that mean I'm secretly a little attracted to LeChuck?
+1896)  ELAINE
+{angry}Focus, {embarrassed}sweetie!
+1897)  GUYBRUSH
+[pickup1] I've still got your ring!
+1898)  ELAINE
+{surprised}Thank goodness!
+1899)  ELAINEDEMON
+{Happy} Buwahaha! {Devilish} I am more powerful now than I could've ever been as a {Stern} lowly governor or {Suspicious} a pitiful pirate!
+1900)  GUYBRUSH
+[pickup1] [to himself] {Stern} Stupid sponge. {Whiney} I liked you better when you were smaller.
+1901)  GUYBRUSH
+[pickup1] [realizing, at first to himself, then more of a proclamation] {Suspicious} Smaller...{Surprised} I've got to shrink that sponge.
+1902)  GUYBRUSH
+[pickup2] [hurt] LeChuck's cannon points right at the rip in the Crossroads!
+1903)  GUYBRUSH
+[pickup2] [hurt]  The sails on the Narwhal would never stop a flying Guybrush...
+1904)  ELAINE
+{stern}Guybrush! {surprised}If you're trying to get to the Crossroads, I can light the cannon for you!
+1905)  LECHUCKPRIME
+{devilish}Arr, ye can light me cannon later, sweetie pie!
+1906)  GUYBRUSH
+[pickup2] [hurt] Nothing feels more piratey than a purposeless rope strung from mast to stern.
+1907)  GUYBRUSH
+[pickup2] [dog, where did you bury the spell?] {confused} Did you bury it here with all the treasure somewhere?
+1908)  GUYBRUSH
+{confused} [pickup2]You didn't happen to see a dog bury a {embarrassed} voodoo spell around here, did you?
+1909)  TREASUREHUNTER
+{cocky} [pickup1]I did see the little mutt digging around.  {stern} Didn't much pay attention to where.  {suspicious} Only the dog knows for sure.
+1910)  GUYBRUSH
+{confused} [pickup2]What are you doing? {worried} Why aren't you digging up more treasure?
+1911)  TREASUREHUNTER
+{cocky} Eh, I'm taking a break, counting up what I have so far.
+1912)  TREASUREHUNTER
+{confused} [pickup]Hmm...Where did I put that other bag of gold?  {enthused} Oh here it is!
+1913)  TREASUREHUNTER
+{worried} [pickup]I'm gonna need something to put this all in so it {stern} doesn't get away from me!
+1914)  TREASUREHUNTER
+{cocky} [pickup]I can practically SMELL the treasure under all these X's!
+1915)  GUYBRUSH
+[pickup2]Hey, when you crossed over, were you still clinging to a shred of life too?
+1916)  MORGAN
+[pickup]Shred of life?  No, but I guess it makes sense for you, considering everything you left behind.
+1917)  GUYBRUSH
+[pickup2] [seeing the rip to the physical world form for the first time]{Suspicious} Well, I guess this is it.  Seems safe enough.
+1918)  GUYBRUSH
+[pickup2] [being gentlemanly]{Cocky}  Ladies first.
+1919)  GUYBRUSH
+[pickup2][alt][being a total wuss] Uhh.. ladies first.
+1920)  MORGAN
+{Angry}Hey!
+1921)  GUYBRUSH
+[pickup2]{confused} Huh, that's weird.  I can go through no problem.
+1922)  MORGAN
+[alt - I'd prefer to not use this line and just rely on acting.  But the line exists for safety]{Angry} Oh, heck no!  I am not getting stuck in this afterlife!
+1923)  GUYBRUSH
+[pickup2] [ Follows-"MORGAN:Oh heck no!  I am not getting stuck in this afterlife!"/ awkward] Soo...what are you gonna do?
+1924)  MORGAN
+{Serious} I don't know.{Sarcastic} You just go on through and take care of your business.  I'll figure it out.
+1925)  GUYBRUSH
+[pickup2]{Stern} Okay, wish me luc-[trips and falls backward]-uuUuuuuUUUuuu
+1926)  GUYBRUSH
+[pickup2][an awkward moment after Morgan pep talks Guybrush, but she is still in a bad spot][genuinely concerned]{Confused}Soo...What are YOU gonna do?
+1927)  MORGAN
+[depressed]{Dismissive}I'm going to go skewer some more sorry ghosts,{Serious} maybe practice my pick pocketing, I dunno.  Something.
+1928)  GUYBRUSH
+{confused} [pickup2]Don't you find it strange that LeChuck left this stuff here out in the open?  {cocky} I'd think he'd want to get rid of it.
+1929)  VOODOOLADYSEAGULL
+[enigmatic]LeChuck is... careless.
+1930)  GUYBRUSH
+{embarrassed} [pickup2]I have a semi-voodoo related question, {confused} how come when I opened the Crossroads, I could pass through but Morgan couldn't?
+1931)  VOODOOLADYSEAGULL
+Maybe you still have some connection to the physical world that you are clinging to.
+1932)  GUYBRUSH
+{surprised} [pickup2]You mean my Shred of Life?  {angry} Then that means LeChuck kept a shred of his life when he died too!
+1933)  VOODOOLADYSEAGULL
+Perhaps. Who is to say if the shred was his own.
+1934)  MORGAN
+[lying nervous] {Questioning} What?  No, no. {Cocky} This is just my Reputation.  I can easily build THAT back up again.
+1935)  GUYBRUSH
+[pickup2][unsure] {Worried} Well... okay... are you sure?
+1936)  GUYBRUSH
+[pickup2]{confused} I noticed I have a Shred of Life in my pocket... Why?
+1937)  GALEB
+{excited}Everyone shows up with something that they cling to.  You must have thought staying alive was pretty important for some reason.
+1938)  GUYBRUSH
+[pickup2] Well, yeah, I-
+1939)  GALEB
+[lying]{happy} Me, I brought a corn dog.  I love corn dogs!
+1940)  VOODOOLADY
+{stern}Yes, your actions have influenced your fate.  {mystical}I will allow your ghostly form to return to the physical realm to carry on as a fearsome pirate hunter.
+1941)  GUYBRUSH
+[pickup2]What would you say was the most important thing to you when you were alive?
+1942)  MORGAN
+My independence, probably.  I liked being my own woman.  Still do.
+1943)  GUYBRUSH
+[pickup2][in pain]I can't reach it from here.  I'll have to do it from the other side.
+1944)  GUYBRUSH
+[pickup2][to himself, impressed that such a simple solution had eluded him] ...Clever.
+1945)  GUYBRUSH
+[pickup2]{incredulous}Eh, they trust me enough as is.
+1946)  
+Direction
+1947)  
+Anchor
+1948)  
+Courage.
+1949)  
+Sacrifice.
+1950)  MORGAN
+[alt - I'd prefer to just have Morgan nod and pull off this shot with acting, but if it doesn't read, here is a line] {Sad} Yeah, I'm sure.
+1951)  GUYBRUSH
+[pickup2] I'm not going back in there while Elaine is a crazy demon with a cursed cutlass!  I'm gonna have to shrink this sponge first.
+1952)  GUYBRUSH
+[pickup2][very weak] I can't... reach it.
+1953)  GUYBRUSH
+[pickup2][very weak] ...Morgan?
+1954)  GUYBRUSH
+[pickup2][very weak] I... don't have the strength...
+1955)  GUYBRUSH
+[pickup2]{stern}I don't think throwing my stuff through various planes of existence is a good idea.
+1956)  GUYBRUSH
+[pickup2] {stern} I think I've poked it enough.
+1957)  GUYBRUSH
+{confused} [pickup2] There's nothing around here I need him to find.
+1958)  GUYBRUSH
+{happy} [pickup2][alt-to the dog]Okay boy, do your thing!
+1959)  GUYBRUSH
+[pickup2]Arrrrrgggggg!!!
+1960)  GUYBRUSH
+[pickup2]That's my body.  I need to somehow get back inside of it.
+1961)  GUYBRUSH
+[pickup2]I know that thief threw my scroll in here... somewhere.
+1962)  GUYBRUSH
+[pickup2][alt-Trying to get anemone out of the cave] Can I lure you out with a bit of delicious cheese or something?
+1963)  
+How did you get out of the Manatee?
+1964)  
+You slipped out on the tongue?
+1965)  
+You dressed up like a throat grub?
+1966)  
+You took the Gross out Subway again?
+1967)  
+You ignited the gasses in the stomach?
+1968)  
+..."Entertained" a fishing boat?
+1969)  
+...Rode a mer-person to Flotsam?
+1970)  
+...Tunneled your way to Club 41?
+1971)  GUYBRUSH
+[pickup2 - Ask Winslow to press the button on the locket]Would you mind pressing the button again?
+1972)  GUYBRUSH
+[pickup2]{default} It's Elaine's wedding ring.
+1973)  GUYBRUSH
+[pickup2]{incredulous} I should hang onto it in case I run into any pesky spirits!
+1974)  GUYBRUSH
+[pickup2]{stern} Nah.  I don't work for tips.
+1975)  GUYBRUSH
+[pickup2] {Surprised} Woah!  Those are some BIG cannons!
+1976)  GUYBRUSH
+[pickup2] [with excitement] {Happy} That's the mast!
+1977)  GUYBRUSH
+[pickup2]{cocky}[hurt][Looking at barrels set loose on deck]See, look at this mess.  This is why you don't leave unrestrained barrels on the deck!
+1978)  GUYBRUSH
+[pickup2]{Confused} Have we met before?
+1979)  GUYBRUSH
+[pickup2]{Confused} You look familiar. Are you sure we haven't met before?
+1980)  GUYBRUSH
+[pickup2] [looking for Morgan, who is gone] Morgan?  Hello? ... Where'd she go?
+1981)  GUYBRUSH
+[pickup2]{default} I don't need Franklin to sniff out anything there.
+1982)  GUYBRUSH
+{embarrassed} [pickup2] Even if I could get close enough to catch the parrots in this sock, {sarcastic} keeping them in it is just far too cruel.
+1984)  GUYBRUSH
+[pickup2]{confused} Is that some kind of poster in there?  I can't quite see it from here.
+1985)  GUYBRUSH
+[pickup2]{whiney} How come that cell gets a mug?  I'm thirsty too.
+1986)  GUYBRUSH
+{sarcastic} [pickup2] [sarcastic; flat] Oohh, what a surprise.  It's locked.
+1987)  GUYBRUSH
+[pickup2][the dog is barking at Galeb]{Surprised} Whoa, boy! {Confused} What is it?  Do you smell something?
+1988)  
+Shred of Life
+1989)  
+Dog
+1990)  
+Jar of Tiny Pyrite Parrots
+1991)  
+Tiny Pyrite Parrots
+1992)  
+Bugeye's Diary
+1993)  
+Well-Used Gum
+1994)  
+Tin Mug
+1995)  
+Blindfold
+1996)  
+Ring of Keys
+1997)  
+Fine Mesh Fishnet
+1998)  
+Old Brute Deodorant
+1999)  
+LeChuck's Charming Belt Buckle
+2000)  
+Grave Dirt
+2001)  
+A Fistful of Whole Eights
+2002)  
+Two Golden Pieces of Eight
+2003)  
+Tip Jar
+2004)  
+Bottle o' Grog
+2005)  
+LeChuck's "Return to the Land of the Living" Spell
+2006)  
+Spirit Photo
+2007)  
+LeChuck's Crusty Sock
+2008)  
+Secret
+2009)  
+Ghost Sword
+2010)  
+Jeweled Anchor
+2011)  
+Bone
+2012)  
+LeChuck's Chest
+2013)  
+The Voodoo Lady wouldn't have tricked me.
+2014)  
+The Voodoo Lady gave me the embiggening spell.
+2015)  
+Empty Chest
+2016)  
+Locked Chest
+2017)  
+Barrel of Yellowish Liquid
+2018)  
+Guybrush's Corpse
+2019)  
+Root Beer Barrels
+2020)  
+Mug
+2021)  
+Funereal Wreath
+2022)  
+Kindling
+2023)  
+Crossroads Center
+2044)  
+Crossroads Center
+2024)  
+Gateway
+2025)  
+Swordfight
+2026)  
+Treasure Hunt
+2027)  
+Thieves' Den
+2028)  
+Flotsam Town Jail
+2029)  
+LeChuck's Ship
+2030)  
+Ferryman
+2031)  
+Galeb
+2032)  
+Boat
+2033)  
+Grog Machine
+2034)  
+Gravestone
+2035)  
+Water
+2036)  
+Money Slot
+2037)  
+Change Button
+2038)  
+Grog
+2039)  
+Cherry Grog
+2040)  
+Diet Grog
+2041)  
+Grog XD
+2042)  
+Rip
+2043)  
+Dirt
+2045)  
+Franklin
+2046)  
+Diet of the Senses Spell
+2047)  
+Can you help me reverse this spell?
+2145)  GUYBRUSH
+Can you help me reverse this spell?
+2048)  
+Wads of Chewed Gum
+2049)  
+Loose Brick
+2050)  
+Pin Up Pirate Poster
+2051)  
+Gum Stalactite
+2052)  
+Escape Tunnel
+2053)  
+Clam
+2054)  
+Fishnet
+2055)  
+Love Letter
+2056)  
+Seaweed
+2057)  
+Pile of Rocks and Paper
+2058)  
+A Whole Eight
+2059)  
+I found a spell!
+2060)  
+Swordfighter
+2061)  
+Ghostly Sword
+2062)  
+That's enough, thanks.
+2063)  
+Pile of Peglegs
+2064)  
+Pile of Scrolls
+2065)  
+Pile of Autographed Sextants
+2066)  
+Pile of Urns
+2067)  
+Mysterious Box
+2068)  
+Can you unlock this chest for me?
+2069)  
+Excessively Large Pile of Treasure
+2070)  
+Skull and Crossbones
+2071)  
+Ground Full of Xs
+2072)  
+Treasure Hunter
+2073)  
+Thief
+2074)  GUYBRUSH
+[pickup2][follows:ELAINE-" Guybrush!  It's about time!"] It is?  Wait you were expecting me?  But I was dead!  [a beat as guybrush figures things out in his head] Is that why you gave me-
+2075)  GUYBRUSH
+[pickup2] [follows: Guybrush- But you asked LeChuck to make you a demon bride!] How did you know I would be able to bring you back from THAT?!
+2076)  GUYBRUSH
+[pickup2]{happy}[proud, putting the ring on Elaine's finger] That's my plunder bunny!
+2077)  GUYBRUSH
+[pickup2]{cocky}[jokingly, putting the ring on Elaine's finger]I'll also come when you just need somebody to help fold the sails, but{suspicious} don't spread that around.
+2078)  GUYBRUSH
+[pickup2]{happy}[proud, putting the ring on Elaine's finger]You'll always be the shiver in my timbers.
+2079)  GUYBRUSH
+[pickup2]{confused}[ putting the ring on Elaine's finger]THAT was your master plan?!  {suspicious}You have more faith in me than I thought!
+2080)  
+Boom
+2081)  
+Mast
+2082)  GUYBRUSH
+[pickup2]{cocky}[ putting the ring on Elaine's finger]That sounds like something your HUSBAND might say.
+2083)  GUYBRUSH
+[pickup2][injured]We can stop LeChuck but we have to do it when he's crossing between worlds!
+2084)  GUYBRUSH
+[pickup2][injured]I'll try to lure him across, you stab him with the cutlass!
+2085)  GUYBRUSH
+[pickup2][injured] I'm gonna try to lure LeChuck into the Crossroads again.
+2086)  GUYBRUSH
+[pickup2]As a ghost, I cant touch it.  Maybe I can find a way to get it up to Winslow.
+2087)  
+The physical and spiritual realms co-exist as do night and day;
+to journey from one to the other a pirate must know his way.
+Search around you and within you to find these things,
+and at the CENTER of the CROSSROADS, present them in a ring.
+The journey is confusing, something must GUIDE your way,
+and you must have an ANCHOR, to insure that you will stay.
+What gives you COURAGE to face the dangers to come,
+and a SACRIFICE in your name that cannot be undone.
+2088)  
+Like a sponge, are you bloated in your hips and thighs,
+block out the SIGHT with a cover for your eyes.
+The smallest mouth snacks on a tiny whispered word,
+a SOUND so petite it is barely heard.
+A light TOUCH for an appetizer, stay true and thrive,
+a delicate feather, plucked from a bird half-alive!
+Your SIXTH SENSE is bloated with fates not yet dealt,
+you'll find that a Secret will help tighten your belt.
+Fight the SMELL of the after dinner treat,
+eliminate odor and the urge to eat.
+To keep off the weight you need food with no flavor,
+find a TASTE so bland there is nothing to savor.
+2089)  
+Diet of the Senses-Apply Directly to Sponge
+2090)  
+Hypnotized Monkey
+2091)  GUYBRUSH
+[pickup2] I already have a bill from his tip jar.  I don't wanna be greedy.
+2092)  GUYBRUSH
+{happy}The dog is getting a good sniff of the tip jar.  He wants to jump out of my pocket and get on the scent!
+2093)  WINSLOW
+[pickup2][shouting between ships][commanding the merfolk to attack]ATTACK, my fishy friends!
+2094)  GUYBRUSH
+[pickup2]Wellll, it's been great talking to you, strange old man who kinda smells like olives, but I don't plan on sticking around here in the afterlife.  My wife is still alive out there somewhere!
+[Guybrush starts to walk away]
+2095)  GALEB
+[pickup2][Go ahead and leave!]You do that.[being "mystical" ] Might be surprised at what you find when you get there, though.
+2096)  GUBYRUSH
+[pickup2][turns around] What do you mean, I died like.. 2 minutes ago!
+2097)  GALEB
+[pickup2][inquiring, like 'eh? did you say something?'] Hm?
+2098)  GALEB
+[pickup2][Whistles nonchalantly, avoiding Guybrush's question] *Whistle...*
+2099)  
+Cabin Door
+2100)  
+Loose Barrel
+2101)  GUYBRUSH
+[pickup]I don't need to use the facilities right now.
+2102)  GUYBRUSH
+[pickup2] Wow, that boat is almost too clean!
+2103)  GUYBRUSH
+[pickup2] I'd feel more comfortable getting into the boat if it weren't so spotless!
+2104)  GUYBRUSH
+[pickup2] Where am I going to get some money around here.
+2105)  GUYBRUSH
+[pickup2] Maybe I could "borrow" some of the Ferryman's tips if he wasn't looking right at it all the time.
+2106)  GUYBRUSH
+[pickup2] Where can I get change for the bills I took from the tip jar?
+2107)  GUYBRUSH
+[pickup2] That skull on that sign looks kinda familiar...
+2108)  GUYBRUSH
+[pickup2][talking to the dog] Quiet!  I can't bring you out while that guy is looking at us!
+2109)  GUYBRUSH
+[pickup2] [curious]What was that?
+2110)  GUYBRUSH
+[pickup2] Hee hee hee... The fizz from the root beer is tickling my armpit!
+2111)  GUYBRUSH
+[pickup2] The decor in here isn't as pleasant as I imagined.  I think I liked it better when I was blindfolded.
+2112)  GUYBRUSH
+[pickup2] The parrots keep flying out of my jacket when I try to leave.  I guess I should find a better way to contain them.
+2113)  GUYBRUSH
+[pickup2] I can't get within three feet of those parrots!  If only I had four foot arms!
+2114)  GUYBRUSH
+[pickup2] I wonder how much Grog the Ferryman's tip money would buy me?
+2115)  GUYBRUSH
+[pickup2] Man I'm parched.  I could really go for a nice cold beverage right about now.
+2116)  GUYBRUSH
+[pickup2] I wonder if that dog could help me find LeChuck's buried treasure chest?
+2117)  GUYBRUSH
+[pickup2] I can't get that poor dog out of my mind.  Maybe I should bring him a treat.
+2118)  GUYBRUSH
+[pickup2] I bet Franklin could sniff out LeChuck's buried chest, if only he knew what LeChuck smelled like.
+2119)  
+Dear diary,
+Well, I am in jail. Apparently I misunderstood when the mer-person I met asked if I needed a lift. I assumed that meant I could ride 'em all the way into town. Anyway, I'm hiding you for now in case they search me.  I don't want anyone knowing my personal inner thoughts.
+2120)  GUYBRUSH
+[pickup2] Franklin won't stop barking at Galeb.  Maybe if I could get Galeb to move, Franklin would shut up.
+2121)  GUYBRUSH
+[pickup2] I can't tell if Galeb has LeChuck's treasure or not.  Maybe he needs to be reminded of LeChuck's foulness!
+2122)  GUYBRUSH
+[pickup2] Ugh!  LeChuck's sock is really putrid!  Maybe I can put it to good use by torturing people for information with it!
+2123)  GUYBRUSH
+[pickup2] I have no reason to torture them with this disgusting footwear!
+2124)  
+Dear diary,
+I think that any moment now the manatees will start kissing. I hope I can slip out just as he slips the tongue...
+2125)  GUYBRUSH
+[pickup2] Who around here would be good at picking the locks on LeChuck's chest?
+2126)  GUYBRUSH
+[pickup2] I need the Spell that thief threw into the scroll pile. But how am I gonna know which one belonged to LeChuck?
+2127)  GUYBRUSH
+[pickup2] Maybe Franklin can help me get back LeChuck's spell.
+2128)  GUYBRUSH
+[pickup2] I need a weapon so Morgan will fight me.  I need to start using my head, or someone else's.
+2129)  GUYBRUSH
+[pickup2] I still need a sacrifice.  Maybe Morgan has some ideas
+2130)  GUYBRUSH
+[pickup2] The Crossroads Escape spell says I need to put stuff in a ring at the center of the Crossroads.  I should go ahead any bring any ingredients I have to the Crossroads center.
+2131)  GUYBRUSH
+[pickup2] That Bugeye still gets on my nerves!  I'd love to get some dirt on him to REALLY make him mad!
+2132)  GUYBRUSH
+[pickup2] I need to hurry up and find that Spirit Gum to bind my body and ghost permanently!
+2133)  GUYBRUSH
+[pickup2] I better get moving on gathering the ingredients for the "Get the heck outta the Crossroads" spell!
+2134)  GUYBRUSH
+[pickup2] SOMEONE besides that "Voodoo Lady" must know something about reversing spells.
+2135)  GUYBRUSH
+[pickup2][guybrush smells his pits] *snif snif* Whew!  Is that me?  I hope that's just the corpsey body and I didn't always smell this bad!
+2136)  GUYBRUSH
+[pickup2] I hope the Voodoo Lady doesn't keep possessing dead birds!  That's enough to get anyone's feathers in a bunch!
+2137)  GUYBRUSH
+[pickup2] Yech, I can still taste all that "Not spirit gum" in my mouth.
+2138)  GUYBRUSH
+[pickup2] If I'm gonna get that thief to share his secret with me, I'm gonna have to turn on the charm!
+2139)  GUYBRUSH
+[pickup2] I should take advantage of my ghostly form and scare the living while I still can!
+2140)  
+Rope
+2141)  GUYBRUSH
+[pickup2] So, you say you know a lot about spells, eh?
+2143)  
+I can't stay here. Has anyone ever returned to the living world?
+2144)  
+Where did you say LeChuck's spell is again?
+2146)  
+This boat looks immaculate!
+2147)  
+I still need some kind of sacrifice.
+2148)  
+Are you sure De Singe didn't kill you?
+2150)  
+When you crossed over, did you have a "shred of life" too?
+2151)  
+I found LeChuck's spell!
+2152)  
+A "Guide."
+2153)  
+An "Anchor."
+2154)  
+"Courage"
+2155)  
+A "Sacrifice."
+2156)  
+Mainsail
+2157)  
+Giant Cannon
+2158)  
+So there's pirate treasure every one of these X's?
+2159)  
+Did you see a dog bury a voodoo spell around here?
+2160)  
+I'm told LeChuck may have buried something important here.
+2161)  
+How'd you wind up with that massive hole in your gut?
+2162)  
+How'd you wind up with that massive hole in your gut?
+2163)  
+So LeChuck killed you with a cannon?
+2164)  
+I've been talking to this Galeb...
+2165)  
+Can you open LeChuck's chest?
+2166)  
+I need some Voodoo ingredients...
+2168)  
+Locked Gate
+2169)  
+Broken Door
+2170)  
+Keelhauled Corpses
+2171)  
+Did Galeb try to sell you a Spirit Photo too?
+2172)  
+What was important to you when you were alive?
+2173)  
+I'm looking for a way to return to the land of the living...
+2174)  
+I'm looking for a few items to complete a voodoo spell...
+2175)  
+I need stuff to shrink a giant voodoo sponge...
+2176)  
+Franklin was finding LeChuck's spell, but he came here!
+2177)  GUYBRUSH
+[pickup2][reading tombstones]Here lies Frederick Pirate [Pronounced Pee-rah-tae], loving husband, devoted father, pillar of the community, hanged because of a terrible misunderstanding.
+2178)  GUYBRUSH
+[pickup2][reading tombstones]R.I.P. Finnius McDriver, aka Shark Fightin' Finny, aka Shark Bait. Died from a bear attack.
+2179)  GUYBRUSH
+[pickup2][reading tombstone] Behold the remains of our dear Captain Barrett, pecked through the brains by his mutinous parrot.
+2180)  GUYBRUSH
+[pickup2][reading tombstone] Here Lies What's-His-Name. May We Never Forget.
+2181)  GUYBRUSH
+[pickup2][reading tombstone] R.I.P. Davey, a pirate reporter.  His stories were long, but his obit was shorter.
+2182)  GUYBRUSH
+[pickup2][reading tombstone]All hail Santino, brilliant and brave.  A pirate too good to be stuck in a grave.
+2183)  GUYBRUSH
+[pickup2][reading tombstone]Noogie liked bongos and wooing the ladies.  He turned on his brothers who sent him to Hades.
+2184)  GUYBRUSH
+[pickup2][reading tombstone]Here lies Ted, a pirate thief.  He punched LeChuck and earned his grief.
+2185)  GUYBRUSH
+[pickup2]Looks like DeCava's helmet found its way out of the manatee in one piece.  I wonder if DeCava was so lucky.
+2186)  
+Your fishy friend refuses to leave the cave.
+2187)  
+Anemone could use a sign of affection.
+2188)  
+Would you mind pushing the button on that locket?
+2189)  
+Would you mind pushing the button on that locket?
+2190)  GUYBRUSH
+[pickup2] [starting to sing...examining a bone] The leg bone connected to the... uhh... shoot, I can never remember that song.
+2191)  GUYBRUSH
+[pickup2][inside joke to player when using the bone on various things] I can't use a skeleton bone with that! ...(Heh.)
+2192)  GUYBRUSH
+[pickup2][looking at keys] [hurt]I wonder if one of these keys will unlock that drawer on the desk that Elaine bought from the yard sale?  Nah, probably not.
+2193)  GUYBRUSH
+[pickup2][hurt] That's not gonna work.
+2194)  GUYBRUSH
+[pickup2][hurt] Nah.
+2195)  GUYBRUSH
+[pickup2][hurt] That doesn't help.
+2196)  GUYBRUSH
+[pickup2][examining buckle - hurt] What are you smiling at?
+2197)  GUYBRUSH
+[pickup2][examining bugeye's diary - hurt] What a girly book cover.  On the plus side, all the blood I'm getting all over it should manly it up a bit.
+2198)  GUYBRUSH
+[pickup2][examining dollars while hurt] I don't think I can buy my way out of this situation.
+2199)  GUYBRUSH
+[pickup2][examining the fishnet while hurt]It's still a fishnet.
+2200)  GUYBRUSH
+[pickup2][examining the hook while hurt] Well, hook, how are you and I gonna swing our way out of this mess?
+2201)  GUYBRUSH
+[pickup2][examining the ring while hurt]Elaine's ring.  At least I managed not to lose it!
+2202)  GUYBRUSH
+[pickup2][exmaining the Shred of Life while hurt]My last shred of life.  And I'd give it up if it meant I could save Elaine.
+2203)  GUYBRUSH
+[pickup2][examining lechucks crusty sock while hurt] Now I know how you feel, sock.
+2204)  GUYBRUSH
+[pickup2][examining the sponge shrinking spell while hurt]Well, it worked.  La Esponja is grande no more.
+2206)  GUYBRUSH
+[pickup2][trying to use his hook to pick a lock while hurt]  {default}...No use.  {beaten}My hook won't fit in this lock.
+2207)  GUYBRUSH
+[pickup2][responding to: LeChuck made fools of us all]Well, he didn't fool me!
+2208)  GUYBRUSH
+[pickup2][responding to: LeChuck made fools of us all]Hey, speak for yourself!
+2209)  GUYBRUSH
+[pickup2][responding to: LeChuck made fools of us all]Well, fool me once shame on me...[confused]you.  Fool me twice  [cant remember how the rest of the saying goes...] ... uh... well, can't get fooled again!
+2210)  GUYBRUSH
+[pickup2][speaking defiantly to the Voodoo Lady] In fact, I'm already working on a plan to possess my body, so they can't zap me with root beer again when I go back!
+2211)  
+Can take me back to the land of the living?
+2212)  
+You won't get away with this LeChuck!
+2213)  
+If I ask real nice, will you go away?
+2214)  
+Quake in fear LeChuck!
+2215)  
+Too chicken to get the Sponge from the Leviathan yourself?
+2216)  GUYBRUSH
+[pickup2][refusing to eat any more pre chewed gum]I've already found the Spirit Gum sooo... no.  I will not be chewing anymore pre-mouthified gum.
+2217)  GUYBRUSH
+[pickup2]It's a turnstile.  Apparently death has yet to shed any of the inconveniences of life.
+2218)  GUYBRUSH
+[pickup2] [just talking to himself, pondrous] I always wondered what it'd be like to be dead. I think I expected a bit more pomp.  Circumstance even.  The Crossroads is great and all, but you know, a 21 musket salute wouldn't have hurt. A chariot. Ooh, pirate chariot.  A choir of sirens exalting my name.  You know, a little something.
+2219)  GUYBRUSH
+[pickup2] [Sigh'd sort of, just thinkin about stuff] Sigh...
+2220)  
+Helmet
+2221)  GUYBRUSH
+[pickup3] {beaten}[beaten up] That won't help me stop LeChuck...
+2222)  GUYBRUSH
+[pickup3]{default} [beaten up] I need to get MYSELF into the Crossroads, not this.
+2223)  GUYBRUSH
+[pickup3]{beaten} [beaten up] I'm in no mood for gift giving.
+2224)  GUYBRUSH
+[pickup3]{beaten} [beaten up] My hook's got better uses than that.
+2225)  GUYBRUSH
+[pickup3]{beaten} [beaten up] They've got two hands.
+2226)  GUYBRUSH
+[pickup3]{stern} [beaten up] Elaine told me to keep this.
+2227)  GUYBRUSH
+[pickup3]{surprised} [beaten up] Bad idea.
+2228)  GUYBRUSH
+[pickup3]{beaten} [beaten up] I think I need this more than ever.
+2229)  GUYBRUSH
+[pickup3]{cocky} [beaten up] As funny as that would be,{beaten} no.
+2230)  GUYBRUSH
+[pickup3]{beaten} [beaten up] We're past voodoo, I think.
+2231)  GUYBRUSH
+[pickup3]{beaten} [beaten up] Elaine is doing a better job with that skeleton army than I'm doing with LeChuck.
+2232)  GUYBRUSH
+[pickup3]{beaten} [beaten up] That rope is EVIL.
+2233)  GUYBRUSH
+[pickup3]{beaten} [beaten up] LeChuck's always had a sort of gawdy, overcompensating sense of decor.
+2234)  GUYBRUSH
+[pickup3] {beaten}[beaten up] Yet another sail, filled with the ill winds of change.
+2235)  GUYBRUSH
+[pickup3] {beaten}[beaten up] The Crossroads rip is just beyond that sail.
+2236)  GUYBRUSH
+[pickup3] {default}Considering their buoyancy, {cocky}bones are not an all-together bad choice for shipbuilding material. {surprised}Plus they're terrifying.
+2237)  GUYBRUSH
+[pickup3] [the guy is dead so its a lame pun] I bet nobody calls HIM the life of the party! Heyo!
+2238)  GUYBRUSH
+[from "i bet nobody calls him the life of the party] [small]...Because he's dead.
+2239)  GUYBRUSH
+[pickup3] The Howler Monkey, forever committed to the salty depths.
+2240)  GUYBRUSH
+[pickup3][refusing to steal a "secret" while thief is distracted] Nah.  Secrets aren't meant to be stolen.
+2241)  GUYBRUSH
+[pickup3]So, it turns out that I actually need a "secret" to shrink a giant Voodoo Sponge...
+2242)  GUYBRUSH
+[pickup3][talking to Winslow about Grindstump taking his body back to the bar]Ya know, every time I pass out in the jail, the haul my body back to the bar and redecorate it.  You think I should go back as a ghost and check on my body?
+2243)  GUYBRUSH
+[pickup3]Yeah, who knows what strange party favors they'll dress my body up in next.  Thanks for the advice, Mr. Winslow.
+2244)  GUYBRUSH
+[pickup3][Inspecting a spell in inventory]It's the "Feast of the Senses" spell I once used to make La Esponja Grande big.  I need to find someone who can help me reverse the spell.
+2245)  GUYBRUSH
+[pickup3][picking up a dead seagull feather] Dead bird feather.  Gross.
+2246)  GUYBRUSH
+[pickup3]Huh, another hypnotized monkey.
+2247)  GUYBRUSH
+[pickup3] Hmmm... [guybruh sticks his ghost head inside a locked chest to see whats inside]Shoot.  It's too dark at actually see whats in here.  So much for Ghost Powers.
+2248)  GUYBRUSH
+[pickup3][giving up on trying to catch parrots for now]I don't think there is any way I can catch these parrots right now.  Maybe later.
+2249)  GALEB
+[pickup2 – use dialog  from id:134476544]Sniff, sniff.
+2250)  GALEB
+[pickup2 – use dialog  from id:136134272] That putrid smell is so familiar... Yuck.
+2251)  GUYBRUSH
+[pickup3][reacting to Galeb saying he stinks]What?  *sniff sniff* [embarrassed] Oh, that's LeChuck's sock. I guess it is pretty rotten.  Sorry.
+2252)  GUYBRUSH
+[pickup3][whispering - talking to the dog inside the pile of scrolls] Sorry boy, if he sees you with the scroll, he'll just take it away again.  Wait 'till he's showing me out, then make a break for it!
+2253)  GUYBRUSH
+[pickup3][the player wants to hear the set up for the insult/compliment swordfight again][genuinely confused]Wait, I got confused.  Can you two say that again?
+2254)  GUYBRUSH
+[pickup3][taunting skeletons on LeChuck's ship]Back off, boney!  I'm a Pirate!
+2255)  GUYBRUSH
+[pickup3][taunting skeletons on LeChuck's ship]You guys aren't so tough.  If I had a weapon, I'd take you all on!
+2256)  GUYBRUSH
+[pickup3][taunting skeletons on LeChuck's ship]Soooo... you guy's aren't much for conversation, huh?
+2257)  GUYBRUSH
+[pickup3][taunting skeletons on LeChuck's ship]Murray?
+2258)  GUYBRUSH
+[pickup3][looking at skeletons on LeChuck's ship][mumbling under his breath]...Stupid skeleton army.
+2259)  GUYBRUSH
+[pickup3][looking at skeletons on LeChuck's ship while hurt]...Stupid undead minions.  You shouldn't have gotten on Elaine's bad side!
+2260)  GUYBRUSH
+[pickup3]{default}[guybrush inspects the center of the Crossroads after he's closed the rip][a little depressed]The Center of the Crossroads.  {beaten}I guess I'm stuck here for good now.
+2261)  GUYBRUSH
+[pickup3]{beaten}[looking at a useless sword stuck in the ship underwater while hurt]Looks like that sword's been here for a while. It'd be useless as a weapon.
+2262)  GUYBRUSH
+[pickup3][noticing that he is close to losing possession of his body]Uh oh.  My body is starting to feel all numb and tingly.  I wonder if that's a bad sign?
+2263)  GUYBRUSH
+[pickup3][noticing that he is close to losing possession of his body]Uh oh.  I feel a depossession coming on...
+2264)  GUYBRUSH
+[pickup3][guybrush is hurt, but tries to be a smart ass]unhh.. to be fair..[he's interrupted by LeChuck Punching him in the face]
+2265)  GUYBRUSH
+[pickup3][really hurt after being punched in the face]Oww.
+2266)  VOODOOLADY
+[pickup2][create this line from # 134771456 & 136788992] Perhaps.  You have chosen your own fate.  Now go!  There is much work to be done before the tides of destiny shift again...
+2267)  GUYBRUSH
+[pickup3][Using his hook to slide down the sail while hurt]I've always wanted to try this. [jumps onto the sail, still hurting]I'm GUYBRUSH THREEPWOOD, mighty pi--{surprised}UGHH!!! {beaten}Oww..
+2268)  
+Howler Monkey
+2269)  
+Fireflies
+2270)  
+Skeleton
+2271)  
+Turnstiles
+2272)  
+Tombstone
+2364)  
+Tombstone
+2273)  GUYBRUSH
+Ouch! {Whiney} Papapishu that stings!
+2275)  
+Speak for yourself!
+2276)  
+Fool me once, shame on me.
+2277)  
+Perfectly Pilferable Peglegs
+2278)  
+Totally Unguarded Scrolls
+2279)  
+Sextants Ready to be Stolen
+2280)  
+Temptingly Unwatched Urns
+2281)  
+Me?  What about you?!
+2282)  
+You're worried about rug quality?
+2283)  
+Galeb told me I could.
+2284)  
+Well, he didn't fool me!
+2286)  
+I'm trying to put together a voodoo spell.
+2287)  
+Winslow is leading an attack on LeChuck!
+2288)  
+Perhaps Applebe could use another poem?
+2290)  
+Why's LeChuck committing undefined acts of evil?
+2291)  
+So, things have been pretty quiet lately?
+2292)  
+I need to shrink La Esponja Grande with a voodoo spell.
+2293)  
+A dead seagull?  Really?
+2294)  
+Elaine is a demon bride!
+2295)  
+Your Voodoo has really done a number on me.
+2297)  
+LeChuck is pretty angry with you.
+2298)  
+Why can't Morgan use the rips in the Crossroads?
+2299)  
+Am I a zombie?
+2300)  
+Anything I should know about being a zombie?
+2301)  
+A little more cannon fire!
+2304)  
+We can stop LeChuck when he's between worlds!
+2305)  
+I'm gonna lure LeChuck into the Crossroads again.
+2306)  
+Whatever happens, you've got to stop LeChuck!
+2307)  
+I thought you were sexy when you were all poxed up.
+2308)  
+This guy's starting to get on my nerves.
+2309)  LECHUCKPRIME
+{Devilish} You were the only living soul that can do that ... {Surprised} you know
+2310)  
+Care to share a "Secret" with me?
+2311)  GUBYRUSH
+Euughhh
+2312)  ELAINE
+{Happy} And we shall slay her together.
+2313)  ELAINE
+{Devilish} Make me your demon bride.
+2314)  GUYBRUSH
+{happy}[happy excited] Hey!  My hand is back. [in retrospect, he's kinda sad about that]  {whiney}Awww.
+2315)  
+Goodbye.
+2316)  GUYBRUSH
+Is that you... mother?  I washed my hands....
+2317)  LECHUCK
+Bwa ha ha ha har!
+2318)  
+Chair
+2319)  
+Globe
+2320)  
+Mattress
+2321)  
+Scales
+2322)  
+I found a dog in another part of the Crossroads.  Is he yours?
+2323)  
+Do you still have the photo of my spirit?
+2324)  
+Winslow dropped a note down to you!
+2325)  
+Your career is brilliant!
+2326)  LECHUCKPRIME
+Elaine is mine!  {angry}My demon bride to make me a kingly breakfast each morning!  To see to it that my fortress of evil is kept tidy in case we have {devilish}guests over to torture.  To patch up all of my worn out tattered socks and-
+2327)  
+What was your relationship like?
+2329)  
+Rusty Sword
+2330)  
+Skeleton Army
+2331)  
+Dead Tree
+2332)  
+That's my plunder bunny!
+2333)  
+I'll also come if you just need help folding the sails.
+2334)  
+You'll always be the shiver in my timbers.
+2335)  
+THAT was your master plan?!
+2336)  
+That sounds like something your HUSBAND might say.
+2337)  
+Have you noticed any tears in the fabric of reality?
+2338)  
+Dead Seagull Feather
+2348)  
+Dead Seagull Feather
+2339)  
+Barrel of Banang
+2340)  
+Barrels
+2341)  
+Manatee Head
+2342)  
+Jacques the Monkey
+2343)  
+Mug Full of Spirit Melting Rootbeer
+2344)  
+Entirely Flavorless Gum Stalactite
+2345)  
+Voodoo Locket
+2346)  
+Club 41 Blindfold
+2347)  
+Franklin the Dog
+2349)  
+Weathered Tombstone
+2350)  
+Filthy Gravestone
+2351)  
+Captain Barrett's Tombstone
+2352)  
+Tomb of ....?
+2353)  
+Nipperkin's Grave
+2354)  
+Headstone of the Great Santino!
+2355)  
+Noogie's Final Resting Place.
+2356)  
+Grave of Ted "The Thief" Thiefman.
+2357)  
+Finnius McDriver: R.I.P.
+2358)  
+The Grave of Frederick Pirate
+2359)  
+Cracked Tombstone
+2360)  
+Faded Grave Marker
+2361)  
+Polished Cenotaph
+2362)  
+Headstone
+2363)  
+Grave
+2365)  
+Directed By
+2366)  
+Mark Darin
+Jake Rodkin
+2367)  
+Morgan convinces Guybrush that it's time to get his body back and kick LeChuck's butt!
+2368)  
+Why didn't you just get the Merfolk to get Esponja Grande?
+2369)  
+Why not just get La Esponja Grande yourself?
+2370)  WINSLOW
+Hit 'em with the ol' Backwards Sea Slug!
