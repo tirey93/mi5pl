@@ -73,7 +73,7 @@ Oops, no!
 36)  
 Yes, quit!
 37)  
-No, don't! 
+No, don't!
 39)  
 Game Saved
 40)  

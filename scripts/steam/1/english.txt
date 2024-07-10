@@ -4007,8 +4007,6 @@ So long.
 I can't decipher that crazy scroll.
 1999)  
 Your scroll was no match for my intellect.
-2000)  
-I found a scroll in a bottle!
 2002)  
 You mentioned Mer-Folk?
 2003)  
@@ -4968,5 +4966,3 @@ Now...
 "The Demon Pirate LeChuck,"
 2451)  
 and "That Big Jerk LeChuck."
-2452)  
-
