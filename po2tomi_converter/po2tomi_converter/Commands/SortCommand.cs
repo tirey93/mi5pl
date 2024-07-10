@@ -23,7 +23,7 @@ namespace po2tomi_converter.Commands
             _engSteam = LineUtils.LoadLines(_settings.SteamEngFileLocation);
             _engGog = LineUtils.LoadLines(_settings.GogEngFileLocation);
             _plSteam = LineUtils.LoadLines(_settings.SteamPlFileLocation);
-            //_plGog = LineUtils.LoadLines(_settings.GogPlFileLocation);
+            _plGog = LineUtils.LoadLines(_settings.GogPlFileLocation);
         }
 
         public void Execute()
