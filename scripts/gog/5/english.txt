@@ -328,7 +328,7 @@ Feast for the Senses Menu
 155)  SWORDFIGHTER
 {Stern} There certainly is a foul smell comin' from this fight!
 156)  GUYBRUSH
-{Happy} See, in some ways you are stronger than me!
+{Happy} See, in some ways you ARE stronger than me!
 157)  GUYBRUSH
 {Confused} Hi there.  I'm Guybrush Threepwood, Mighty Pirate™, and... I think I may be dead.
 158)  FERRYMAN
@@ -464,7 +464,7 @@ Well, I'm not done with you yet, lady!  I'll be back!
 223)  MORGAN
 {Sad} Seriously, on a scale of one to ten, how terrible a person am I?
 224)  GUYBRUSH
-{Cocky} Negative one. If that.
+{Cocky} Negative One. If that.
 225)  SWORDFIGHTER
 {Cocky} I once owned a dog that was smarter than you.
 226)  MORGAN
@@ -476,13 +476,13 @@ Well, I'm not done with you yet, lady!  I'll be back!
 229)  SWORDFIGHTER
 {Stern} You make me want to puke.
 230)  GUYBRUSH
-{Happy} I bet people say that about you all the time!
+{Happy} I bet people say that about YOU all the time!
 231)  MORGAN
 {Sad} My career as a pirate hunter was about as successful as my career as a marathon runner.
 232)  SWORDFIGHTER
 {Cocky} Nobody's ever drawn blood from me and nobody ever will.
 233)  GUYBRUSH
-{Incredulous} You run that fast?
+{Incredulous} You run THAT fast?
 234)  SWORDFIGHTER
 {Happy} Yes!  Now we're talking!  I'm getting in on this action!
 235)  SWORDFIGHTER
@@ -2282,9 +2282,9 @@ Wow. You mind if I ... uh... steal it?
 {enthused}TICKLE FIGHT!!!
 1132)  VOODOOLADY
 {mystical}So, my child.  Have you done as I asked?
-1133)  MORGANEPILOGUE
+1133)  MORGAN
 {serious}I have.
-1134)  MORGANEPILOGUE
+1134)  MORGAN
 {cocky}[She tries the name on] Ghost Pirate Hunter, Morgan LeFlay.
 1135)  GUYBRUSH
 {stern}This is the last remnant of my corporeal self. I shouldn't monkey around with it.
@@ -2299,7 +2299,7 @@ Wow. You mind if I ... uh... steal it?
 1140)  GUYBRUSH
 {cocky}He does smell a bit off, but I don't want to mess with his olfactory senses.
 1141)  TREASUREHUNTER
-{angry} [Revealing a big hole in his stomach]You tell me, smart guy....
+{angry} [Revealing a big hole in his stomach]You tell me, smart guy ...
 1142)  GUYBRUSH
 {embarrassed} So, um, if you don't mind me asking, {worried} how'd you wind up with that massive hole in your gut?
 1143)  TREASUREHUNTER
@@ -2355,7 +2355,7 @@ Wow. You mind if I ... uh... steal it?
 1168)  GUYBRUSH
 {sarcastic} There sure are a lot of X's around here.
 1169)  TREASUREHUNTER
-{cocky} Well now, aren't we the observant spirit!  {suspicious} Were you some sort of scout in your former life, {stern} or were your age-dulled senses restored to the fullness of youth after you passed away?
+{cocky} Well now, aren't we the observant spirit!  {suspicious] Were you some sort of scout in your former life, {stern} or were your age-dulled senses restored to the fullness of youth after you passed away?
 1170)  GUYBRUSH
 {surprised} I'm a Mighty Pirate™!
 1171)  TREASUREHUNTER
@@ -3348,11 +3348,11 @@ Whoa! [falling from the rip into the crossroads]
 {confused}But without her--
 1666)  ELAINE
 {Suspicious} Yes.
-1667)  MORGANEPILOGUE
+1667)  MORGAN
 {stern}[cold] Now, for your end of the deal.
 1668)  LECHUCKDEMON
 [process: ghostly swirly echoes][Ambient sound - LeChuck's soul is trapped inside of a bottle.  Think torment, anger, pain] Aaaaarrhhhh....
-1669)  MORGANEPILOGUE
+1669)  MORGAN
 {fierce}[follows "Ghost Pirate Hunter Morgan LeFlay...] [like an ice cold killer] I think I'm going to enjoy this.
 1670)  GUYBRUSH
 {cocky} Hah!  “Trouble” is my middle name.  {embarrassed} [hushed]Actually, it's Ulysses, but I tell people it's trouble.

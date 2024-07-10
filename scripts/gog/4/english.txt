@@ -362,7 +362,7 @@ Lefty!
 173)  DESINGE
 [ignoring her]  No, if I want a perpetual strain of the Jus de Vie, every pirate in the world must be exposed to the Threepwood Strain!
 174)  DESINGE
-Now, Madame Threepwood, if you'll hold still for a moment, I'll try to make this as painless as possible…
+Now, Madame Threepwood, if you'll hold still for a moment, I'll try to make this as painless as possible...
 175)  ELAINE
 [momentarily nice]How nice... [suddenly savage] but I won't!
 176)  DESINGE
@@ -472,7 +472,8 @@ Bwah-ha-ha-haaaah!
 228)  GUYBRUSH
 {angry}You didn't have to do that!
 229)  MORGAN
-[coughing... she's dying][trying to get Guybrush's attention] {Serious}Had to pay you back for all the trouble...  Found Jacques...  He told me...
+[coughing... she's dying][trying to get Guybrush's attention] {Serious}Had to pay you back for all the trouble...  Found Jacques...  He told
+me...
 230)  GUYBRUSH
 {confused}What?
 231)  MORGAN
@@ -1456,7 +1457,7 @@ Taste the adventure!
 720)  DESINGE
 {Worried} Ieeeeee!
 721)  GUYBRUSH
-{Angry} Hey, vous!
+{Angry} Hey, vu!
 722)  DESINGE
 [slightly weary]{Arrogant} What now?
 723)  DESINGE
@@ -1792,7 +1793,7 @@ Yeah, we're still working out a few kinks.
 888)  GUYBRUSH
 {Suspicious} What happened to you?
 889)  HARDTACK
-{Scared} If you want that banshee on the stand,{Stern} you're gonna hafta serve her yourself!
+{Scared} If you want to get that banshee on the stand,{Stern} you're gonna hafta serve her yourself!
 890)  GUYBRUSH
 {cocky}Nothing like a little hot wax on a cold Flotsam night.
 891)  GUYBRUSH
@@ -3476,7 +3477,7 @@ Morgan left Mister Winslow circling the island, just outside the reach of Flotsa
 1732)  GUYBRUSH
 {Confused} What happened to your eye?
 1733)  DORO
-{Stern} I'll tell you what happened to my eye, smarty guy!  When I dug up that phony Dark Ninja Dave you planted-
+{Stern} I'll tell you what happened to my eye, smarty guy!  When I dug up that phoney Dark Ninja Dave you planted-
 1734)  GUYBRUSH
 {Stern} Allegedly planted!
 1735)  DORO
@@ -3614,7 +3615,7 @@ Guess that was a little too much to ask.  At least I've got the Sponge back, tho
 1801)  GUYBRUSH
 {stern}Save it.
 1802)  VOODOOLADY
-While searching for a cure to the pirate-afflicting Pox of LeChuck, the fates of Guybrush Threepwood and Morgan LeFlay are blown off-course when they are swallowed by a lovelorn leviathan…
+While searching for a cure to the pirate-afflicting Pox of LeChuck, the fates of Guybrush Threepwood and Morgan LeFlay are blown off-course when they are swallowed by a lovelorn leviathan...
 1803)  VOODOOLADY
 Much to Morgan and Guybrush's surprise, an uneasy alliance to escape the beast blossoms into a genuine friendship between the pirate and the pirate hunter... a tidal shift that leads Threepwood to the elusive Pox-curing Esponja Grande...
 1804)  VOODOOLADY
@@ -3708,7 +3709,7 @@ You may return to your duties, bailiff.
 1848)  GUYBRUSH
 {Sarcastic} Your honor, I move for a mistrial.
 1849)  GRINDSTUMP
-{Default}Granted.  [angry]{Stern} Bailiff Hardtack, as punishment for wasting this court's time, you will be compelled to wear Lizink's Wig of Foppery until such time as I'm no longer tempted {Angry} to gavel you into a fine paste…
+{Default}Granted.  [angry]{Stern} Bailiff Hardtack, as punishment for wasting this court's time, you will be compelled to wear Lizink's Wig of Foppery until such time as I'm no longer tempted {Angry} to gavel you into a fine paste...
 1850)  HARDTACK
 {Happy} Ooh, it's delightful!
 1851)  GUYBRUSH
@@ -3966,7 +3967,7 @@ What's your impression of the plaintiff's case?
 1977)  GRINDSTUMP
 [annoyed] {Stern} Does this LOOK like the mumps to you, sonny jim?
 1978)  GALLERY1
-It made me keelhaul me grandma!
+It made me' keelhaul me grandma!
 1979)  GALLERY3
 I've got bubols on me fundament!
 1980)  GUYBRUSH
@@ -4784,7 +4785,7 @@ Leg Lamp with Yellow, Jolly Roger Shaped Burn
 2386)  GALLERY1
 [pickup1]  Arrr, I ne'er seen anyone as Pox-crazy as Judge Grindstump!
 2387)  GALLERY1
-[pickup1] I wish someone would call ME to the stand!  I'd look ol' Grindstump right in the eye and give 'em a piece of me mind!
+[pickup1]  I wish someone would call ME to the stand!  I'd look ol' Grindstump right in the eye and give 'em a piece of me mind!
 2388)  GALLERY1
 [pickup1] That prosecutor's a slimy devil... I'd wager my peg that he's holding something over that D'Oro fellah.
 2389)  GALLERY1
@@ -4941,23 +4942,23 @@ A garish cloth grotesquely bright
 2463)  
 - Second Course -
 Antepasta jungle meat
-                                                                                                                                                                                                                                                                Gives off a SMELL like stinky feet
+Gives off a SMELL like stinky feet
 2464)  
 - Third Course -
-Before the main Course, cleanse your palate
-                                                                                                                                                                                                                                                                With TASTE that hits you like a mallet
+Before the main course, cleanse your palate
+With TASTE that hits you like a mallet
 2465)  
 - Fourth Course -
-the main Course will cause quite a flap
-                                                                                                                                                                                                                                                                To find the SIXTH SENSE, use your map
+The main course will cause quite a flap
+To find the SIXTH SENSE, use your map
 2466)  
 - Fifth Course -
 Now engorged, a small dessert
-                                                                                                                                                                                                                                                                a TOUCH so shocking it might hurt
+A TOUCH so shocking it might hurt
 2467)  
-- SIXTH Course -
-your meal finished, let out a cheer
-                                                                                                                                                                                                                                                                Or belch so loud that all can HEAR
+- Sixth Course -
+Your meal finished, let out a cheer
+Or belch so loud that all can HEAR
 2468)  
 Once completed (in order), your wee beastie will grow to maturity
 Substitutions Encouraged
