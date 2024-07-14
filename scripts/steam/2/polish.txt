@@ -3877,7 +3877,6 @@ Gdzie ja ju¿ to widzia³em?
 LucasArts oraz logo LucasArts s¹ znakami handlowymi Lucasfilm Ltd. w U.S.A i/lub
 w innych krajach. © 1990-2009 Lucasfilm Entertainment Company Ltd.
 Telltale oraz logo Telltale Games s¹ znakami handlowymi Telltale, Inc. 
-* Nowa wersja PL - GrajPoPolsku.pl *
 1931)  GUYBRUSH
 Zobaczymy, czy odeprzesz to!
 1932)  GUYBRUSH
@@ -4536,5 +4535,3 @@ rozdziale 3.
 LEGOWISKO LEWIATANA
 2243)  
 Otwarte morze
-2244)  
-Znowu muszê naprawiæ maszt.

@@ -9920,7 +9920,7 @@ msgstr "Jego arcy-wrogiem"
 
 msgctxt "2420_2372_1_"
 msgid "depraved pirate named LeChuck"
-msgstr "jest zdeprawowany pirat"
+msgstr "jest zdeprawowany pirat LeChuck"
 
 msgctxt "2421_2373_0_"
 msgid "His stories are so epic that they"

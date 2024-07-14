@@ -11040,8 +11040,8 @@
       <tuv xml:lang="en-US">
         <seg>depraved pirate named LeChuck</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>jest zdeprawowany pirat</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240714T120922Z">
+        <seg>jest zdeprawowany pirat LeChuck</seg>
       </tuv>
     </tu>
     <tu>

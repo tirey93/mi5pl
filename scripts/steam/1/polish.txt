@@ -457,41 +457,41 @@ Guybrush?
 ELAAAAAAAAAAAAAAAaaaaaaaaaine!!!
 222)  GUYBRUSH
 Czas na spotkanie z mroŸnym gazowanym stwórc¹, LeChuck!
-223)  GUYBRUSH*
+223)  GUYBRUSH
 Bar SCUMM! Przystañ dla najha³aœliwszych band zapijaczonych meneli.
-224)  GUYBRUSH*
+224)  GUYBRUSH
 Witaj, niechlujnie wygl¹daj¹ca istoto piracka! Jestem Guybrush Threepwood, potê¿ny pirat. Jak ciê zw¹?
-225)  GUYBRUSH*
+225)  GUYBRUSH
 Zaraz, nazywasz siê I. Ser?
-226)  GUYBRUSH*
+226)  GUYBRUSH
 Jak chcia?,bys do?,?.czy?? do mej za?,ogi pot?T??nych pirat??w?
-227)  GUYBRUSH*
+227)  GUYBRUSH
 No dalej! Do³¹cz. Bêdzie ubaw!
-228)  GUYBRUSH*
+228)  GUYBRUSH
 Mam k³opoty.
-229)  GUYBRUSH*
+229)  GUYBRUSH
 Nie mam za³ogi, by ¿eglowaæ na wyspê Mamony.
-230)  GUYBRUSH*
+230)  GUYBRUSH
 Po namyœle, nie cierpiê siê s³uchaæ, gdy zawodzê.
-231)  GUYBRUSH*
+231)  GUYBRUSH
 Co to ja mia³em zrobiæ?
-232)  GUYBRUSH*
+232)  GUYBRUSH
 Wiêcej masa¿ów pleców i stóp?
-233)  GUYBRUSH*
+233)  GUYBRUSH
 A to PULCHNA PTASZYNA!
-234)  GUYBRUSH*
+234)  GUYBRUSH
 By³a milsza zanim umar³a.
-235)  GUYBRUSH*
+235)  GUYBRUSH
 Ee, t-tak, kotku?
-236)  GUYBRUSH*
+236)  GUYBRUSH
 A nie uczyni ciê to ludo¿erczym zombie?
-237)  GUYBRUSH*
+237)  GUYBRUSH
 Mam przy sobie zaczarowany miecz, który potraki hipnotyzowaæ moich wrogów w kompletne zamroczenie tu¿ przed tym jak nadzionê ich na niego.
-238)  GUYBRUSH*
+238)  GUYBRUSH
 Dowód?! Nie mam zamiaru pokazaywaæ ci ¿adnego dowodu!
-239)  GUYBRUSH*
+239)  GUYBRUSH
 Ja... zostawi³em go w innych spodniach.
-240)  GUYBRUSH*
+240)  GUYBRUSH
 Tak! Nudnawa dziura w œcianie!
 241)  LECHUCKDEMON
 No to chodŸ tu, ty ciemny mule w koronkach!
@@ -1117,10 +1117,6 @@ Ano, widzê.
 Co to za imiê, Gaffer Crimpdigit?
 552)  GUYBRUSH
 Jak taki szorstki pirat skoñczy³ na dmuchaniu szklanych jednoro¿ców?
-553)  
-
-554)  
-
 555)  GUYBRUSH
 Co wiesz o Wyspie Rozbitków?
 556)  CRIMPDIGIT
@@ -1729,7 +1725,7 @@ Z naukowego punktu widzenia - co jest przyczyn¹ tych szurniêtych wiatrów?
 A, wiatry. Jestem przekonany, ¿e to rzadkie, acz naturalne meteorologiczne zjawisko, wywo³ane przez inwersjê Lagrange'a w górnej czêœci troposfery, czego efektem jest kontr-cykloniczny...
 858)  GUYBRUSH
 Nie by³o pytania.
-859)  GUYBRUSH*
+859)  GUYBRUSH
 {Default} The SCUMM Bar! Haven for the rowdiest bunch of drunken skallywags you'll ever see!
 860)  GUYBRUSH
 Znajoma uwa¿a, ¿e jakaœ voodoo-ospa przeklê³a mi d³oñ, i ¿e jedynie magiczna g¹bka j¹ oczyœci.
@@ -2377,43 +2373,43 @@ Jeœli "Morgan Le Flay - ³owca piratów" jest choæ w po³owie tak niemi³y, jak g³os
 "Piraci pl¹druj¹ ci pa³ac? Zbóje burz¹ balustradê? Zawadiaki szatkuj¹ flaki? Morgan Le Flay - po³ów piratów par excellence!"
 1182)  GUYBRUSH
 Super, ³owca piratów. Potrzebne mi to jak czwarty sutek.
-1183)  PIRATEA*
+1183)  PIRATEA
 {Default} Cheese, Ignatius Cheese.
-1184)  PIRATEA*
+1184)  PIRATEA
 {Confused} And what, pray tell, might I be findin' myself doin' if I joined {Sarcastic} this crew of mighty pirates?
-1185)  PIRATEA*
+1185)  PIRATEA
 {Default} I'm open to persuasion, {Suspicious} what do you have in mind?
-1186)  PIRATEA*
+1186)  PIRATEA
 {Angry} Are you outta your grog-addled mind?!? Nie!
-1187)  PIRATEA*
+1187)  PIRATEA
 {Stern} Arrr, that doesn't sound too manly! Ka¿dy pirat-ciota potrafi napaœæ na bezbronny statek rybacki.
-1188)  PIRATEA*
+1188)  PIRATEA
 {Happy}The better to insult arm wrestle with Mr. Threepwoodem!
-1189)  PIRATEA*
+1189)  PIRATEA
 {Default} Well nowadays you can't throw a dart or...or play a game of checkers without bein' expected to toss in a witherin' bon mot.
-1190)  PIRATEA*
+1190)  PIRATEA
 {Sad} A greedy Australian is making a grab for my bar!
-1191)  PIRATEA*
+1191)  PIRATEA
 {Enthused} My particular speciality is insult arm-wrestlin' {Default} which I use to defend my bar {Stern}from hostile takeovers.
-1192)  PIRATEA*
+1192)  PIRATEA
 Aye! {Sarcastic}It could be a pleasure to sail with a refined wit such as yourself.
-1193)  PIRATEB*
+1193)  PIRATEB
 {Default} Right now, we're in a dead tie.
-1194)  PIRATEB*
+1194)  PIRATEB
 {Happy} Yeah! We never miss a shot!
-1195)  PIRATEB*
+1195)  PIRATEB
 {Default} I would, but once I win the Melee championship, I'm gonna have to go on tour to win the tri-island dart thrower's championship.
-1196)  PIRATEB*
+1196)  PIRATEB
 No Problem!
-1197)  PIRATEB*
+1197)  PIRATEB
 {Sarcastic} Yeah! And unless you're good enough to compete
-1198)  PIRATEB*
+1198)  PIRATEB
 {Stern} We'd advise that you take a long walk off a short pier!
-1199)  PIRATEB*
+1199)  PIRATEB
 {Angry} Yeah! Can't you see we're busy here!
-1200)  PIRATEB*
+1200)  PIRATEB
 {Confused}Really? *
-1201)  PIRATEB*
+1201)  PIRATEB
 {Stern} Sez you, swabbie!
 1202)  
 Jestem Guybrush Threepwood, potê¿ny pirat™!
@@ -2949,23 +2945,23 @@ Elaine, ja tu mam tylko ³ajbê nieprzydatnych ³upów!
 A sprawdza³eœ kieszenie?!
 1468)  GUYBRUSH
 Czasem tylko tak mogê jeszcze zachowaæ twarz.
-1469)  PIRATEB*
+1469)  PIRATEB
 Witamy w Pa³acu Protez. Miejscu pe³nego Nie-psuj¹cego, Nie-g³upiego i Nie-odrzucalnego sprzêtu z 30 dniow¹ gwarancj¹!
-1470)  PIRATEB*
+1470)  PIRATEB
 Jestem Dave. Znajomi mówi na mnie Martwooki Dave. Na Archipelagu Tri-Island najwiêkszy eksperst w dziedzinie anatomii ludzkiem.
-1471)  PIRATEB*
+1471)  PIRATEB
 No jasne ¿e jestem œlepy, ty bezwonna bokserko!
-1472)  PIRATEB*
+1472)  PIRATEB
 Nie daj siê namyœleæ. Moje inny zmys³y rekompensuj¹ mi mój brak wzroku.  Na przyk³ad, zwykle identyfikuje moich klientów, dziêki ich charakterystycznym zapachom.
-1473)  PIRATEB*
+1473)  PIRATEB
 Do diab³a, wyczuje twoj¹ wodê po goleniu "Bzy i Lilie" nawet przez mój zatkany nos!
-1474)  PIRATEB*
+1474)  PIRATEB
 {Angry}Za darmo?! A czy to wygl¹da na zbiórkê dla biednych?
 1475)  GUYBRUSH
 Jaka niby cywilizacja czci krowy morskie?
-1476)  GUYBRUSH*
+1476)  GUYBRUSH
 Czeœæ, niechlujnie wygl¹daj¹cy piracie! Jestem Guybrush Threepwood, potê¿ny pirat! Jak siê zwiesz?
-1477)  PIRATEB*
+1477)  PIRATEB
 To Ÿle siê orientujesz...Australia, co to za dziwne przezwisko?
 1478)  DESINGE
 Au!
@@ -2973,13 +2969,13 @@ Au!
 Ik!
 1480)  DESINGE
 Agh!
-1481)  PIRATEB*
+1481)  PIRATEB
 Dobrze...zaapelowa³eœ do mojego poczucia hojnoœci.
-1482)  PIRATEB*
+1482)  PIRATEB
 Musisz opowiedzieæ mi pewn¹...historiê.
-1483)  PIRATEB*
+1483)  PIRATEB
 Ma³pa mnie zostawi³a.
-1484)  PIRATEB*
+1484)  PIRATEB
 Ja przygnêbiony? Przez Pongo? Nie b¹dŸ œmieszny!
 1485)  DESINGE
 Uuu.
@@ -2991,7 +2987,7 @@ Aaa.
 I nic. Pewnie zepsute.
 1489)  DESINGE
 Iiii!
-1490)  PIRATEB*
+1490)  PIRATEB
 {Confused} Co? Gdzie ¿eœ wymyœli³ taki dziwny pomys³?
 1491)  GUYBRUSH
 Pomyœla³em sobie, ¿e ci powiem, ¿e wracam do d¿ungli otworzyæ te wrota.
@@ -3391,13 +3387,13 @@ Doskona³e pytanie, Guybrushu.
 Co siê wznios³o, musi upaœæ. Ale co wa¿niejsze dla nas, to gdzie upadnie.
 1689)  VOODOO
 Karty przepowiedzia³y, ¿e poszukujesz kierunku.
-1690)  VOODOO*
+1690)  VOODOO
 W ka¿dym razie kilku piratów pozosta³ych na Wyspie Szpady, ¿yj¹ w ci¹g³ym strachu przed byciem pokonanym przez tego inwestora..
-1691)  VOODOO*
+1691)  VOODOO
 Moje dziecko, nie potrzeba ci broni by doprowadziæ do os³upienia swoich wrogów, b¹dŸ sob¹.
-1692)  VOODOO*
+1692)  VOODOO
 Jak sobie ¿yczysz. Jeœli bêdê ci potrzebna, wiesz, gdzie mnie szukaæ.
-1693)  VOODOO*
+1693)  VOODOO
 To miasteczko piratów. Nawet w tych ekonomicznie kiepskich czasach znajdziesz kilku kompetentnych marynarzy.
 1694)  DESINGE
 Bonjour!
@@ -3493,25 +3489,25 @@ ulotka
 mapa do G³êbokiego Flaka
 1740)  
 pirytowa papuga
-1741)  DESINGE*
+1741)  DESINGE
 Ser, Ignacy Ser.
-1742)  DESINGE*
+1742)  DESINGE
 *A co ja bym niby z tego mia³, ¿e bym do³¹czy³ do twojej za³ogi potê¿nych piratów?
-1743)  DESINGE*
+1743)  DESINGE
 Jestem otwarty na sugestie. Co proponujesz?
-1744)  DESINGE*
+1744)  DESINGE
 *Postrada³eœ swój przepe³niony grogiem rozum?! Nie!
-1745)  DESINGE*
+1745)  DESINGE
 *Arr, to nie brzmi zbyt po mêsko. Ka¿dy pirat-ciota potrafi napaœæ na bezbronny statek rybacki.
-1746)  DESINGE*
+1746)  DESINGE
 *Lepiej pojedynkowaæ siê na rêkê z panem Threepwoodem!
-1747)  DESINGE*
+1747)  DESINGE
 *W dzisiejszych czasach mo¿esz po prostu rzucaæ rzutkami do celu b¹dŸ... graæ w jakieœ inne warcabowe gry bez oczekiwana na œmieræ bon mot.
-1748)  DESINGE*
+1748)  DESINGE
 *Chciwy Australijczyk chce zabraæ mi mój bar!
-1749)  DESINGE*
+1749)  DESINGE
 *Moj¹ szczególn¹ umiejêtnoœci¹ jest Zniewa¿anie na Rêkê, to jeden ze sposobów usuwania z baru wrogich przybyszów.
-1750)  DESINGE*
+1750)  DESINGE
 *Aj! To by³a by dla mnie przyjemnoœæ ¿eglowaæ z kimœ tak dowcipnym, jak ty.
 1751)  GUYBRUSH
 To co to ja mia³em zrobiæ?
@@ -4011,10 +4007,6 @@ Bywaj.
 Nie mogê odszyfrowaæ tego zwitka.
 1999)  
 Twój zwój nie móg³ siê równaæ z moim intelektem.
-2000)  
-Znalaz³em zwój w butelce!
-2001)  
-
 2002)  
 Powiedzia³eœ: "trytony"?
 2003)  
@@ -4023,8 +4015,6 @@ Opowiedz mi wiêcej o tych trytonach.
 Bo mam zabójcz¹ charyzmê?
 2005)  
 Wiêc ty bada³eœ wiatry na Wyspie Rozbitków?
-2006)  
-
 2007)  
 Mogê zerkn¹æ na ten pradawny zwój?
 2008)  
@@ -4059,8 +4049,6 @@ Co tam robisz?
 Na pewno nie wiesz nic o tutejszych wiatrach?
 2023)  
 Te wiatry to twoja sprawka, prawda?
-2024)  
-
 2025)  
 Jak ¿eœ tu trafi³?
 2026)  
@@ -4403,8 +4391,6 @@ Bêdzie cudnie wspó³graæ z moj¹ szabl¹!
 Najgorszy. Odœwie¿acz powietrza. Na œwiecie.
 2183)  
 Mam dowód, ¿e coœ kombinujesz!
-2184)  
-
 2185)  GUYBRUSH
 Co te¿ De Singe kombinowa³ w tej d¿ungli?
 2186)  GUYBRUSH
@@ -4903,8 +4889,7 @@ Jego trzy mi³oœci to: Elaine, zawadiackoœæ
 i sch³odzone grogatini
 2420)  
 Jego arcy-wrogiem
-jest zdeprawowany pirat
-LeChuck
+jest zdeprawowany pirat LeChuck
 2421)  
 Jego przygody s¹ tak widowiskowe,
 ¿e nie sposób zawrzeæ ich w jednej grze
@@ -4942,8 +4927,6 @@ Aby po³¹czyæ przedmioty, umieœæ ka¿dy z nich w dwóch du¿ych ko³ach po lewej i na
 Witamy w "Polowaniu na skarb". Na Wyspie Rozbitków zakopano statuetki bogów. Ka¿dy z nich strze¿e cennego skarbu. Pod¹¿aj swoimi mapami po ³up!
 2431)  
 Nie bój nic, wszystko jest pod kontrol¹!
-2432)  
-
 2433)  GUYBRUSH
 Królisiu zbójnisiu?
 2434)  
@@ -4983,5 +4966,3 @@ Teraz...
 "Pirat demon LeChuck",
 2451)  
 i "ten palant LeChuck".
-2452)  
-Witaj w "Opowieœciach z Wyspy Ma³p"! Aby towarzyszyæ Guybrushowi w pierwszym rozdziale jego przygód, wybierz now¹ grê.
