@@ -64,7 +64,8 @@ Zapisy
 32)  
 Utracisz wszelkie niezapisane dane.
 33)  
-Gotów na now¹ przygodê?
+Gotów na 
+now¹ przygodê?
 34)  
 A jak¿e!
 35)  
@@ -79,9 +80,13 @@ Zapisano grê
 Czy usun¹æ ten zapis?
 41)  
 OPOWIEŒCI Z WYSPY MA£P
+
 ROZDZIA£ 1.
+
 ZRYW WYJ¥CEJ NARWALI
 42)  
+Niestety!
+
 Zapisywanie i wczytywanie
 jest niedostêpne w demie!
 43)  
@@ -98,6 +103,7 @@ Tryb retro:
 48)  
 Dalej >>
 49)  
+Pogubi³eœ siê?
 Zagraj w samouczek Sama & Maksa...
 50)  
 Samouczek
@@ -146,6 +152,7 @@ Okresowo
 Czêsto
 72)  
 Dziêkujemy za grê w "Opowieœci z Wyspy Ma³p"! To ledwie pocz¹tek - do³¹cz do Guybrusha i jego pasjonuj¹cej wyprawy w pe³nej serii!
+
 Mo¿esz rozwin¹æ swe pirackie umiejêtnoœci graj¹c w "Polowanie na skarb".
 Ta dodatkowa mini-gra jest oddzielona od fabu³y "Opowieœci z Wyspy Ma³p".
 73)  
@@ -4690,7 +4697,8 @@ Gratulacje, odkopa³eœ.
 2328)  
 Aby odkryæ, jakie skarby strze¿e ten bóg i zdobyæ wiêcej map, wy³¹cz grê i odwiedŸ MonkeyIslandTreasures.com
 2329)  
-Gratulacje! Odnalaz³eœ wszystkie skarby.
+Gratulacje! Odnalaz³eœ
+wszystkie skarby.
 Jesteœ potê¿nym piratem!
 2330)  
 bóg wiatrów tak szybkich jak œlimak
@@ -4773,7 +4781,9 @@ pradawny wiatrowskaz boga wiatru
 2369)  GUYBRUSH
 Jo³!
 2370)  
-Witaj w "Opowieœciach z Wyspy Ma³p - polowanie na skarb"! Pod¹¿aj za map¹, by odnaleŸæ zakopany skarb!
+Witaj w "Opowieœciach z Wyspy
+Ma³p - polowanie na skarb"! Pod¹¿aj za 
+map¹, by odnaleŸæ zakopany skarb!
 2371)  
 Aby wybraæ obiekt, kliknij na niego lewym przyciskiem myszy. Spróbuj zabraæ przepis voodoo z masztu.
 2372)  
@@ -4830,7 +4840,9 @@ Rona Gilberta
 Pomo¿esz mi z tymi szalonymi wiatrami?
 2396)  
 Ci¹g dalszy nast¹pi w
+
 rozdziale 2.
+
 OBLÊ¯ENIE RAFY ZAWIROWAÑ
 2397)  
 OPOWIEŒCI Z WYSPY MA£P
@@ -4840,6 +4852,7 @@ ROZDZIA£ 1.
 ZRYW WYJ¥CEJ NARWALI
 2398)  
 Witamy w poszukiwaniu skarbów. Na Wyspie Rozbitków zakopano statuetki bogów. Ka¿dy z nich strze¿e cennego skarbu. Pod¹¿aj swoimi mapami, by zgarn¹æ ³up!
+
 OdwiedŸ MonkeyIslandTreasures.com, aby sprawdziæ status swych poszukiwañ, dostawaæ nagrody oraz zupe³nie nowe mapy!
 2399)  
 Masz
@@ -4847,6 +4860,7 @@ Masz
 z 15 mo¿liwych map w ekwipunku.
 2401)  
 Chcesz teraz odwiedziæ MonkeyIslandTreasures.com?
+
 Uwaga: Twoja gra zostanie wy³¹czona i bêdziesz ³¹czony automatycznie z MonkeyIslandTreasures.com.
 2402)  
 sznur na bieliznê, na który mo¿na siê wspi¹æ
@@ -4896,7 +4910,8 @@ Jego przygody s¹ tak widowiskowe,
 ¿e nie sposób zawrzeæ ich w jednej grze
 2422)  
 Czemu d³oñ Guybrusha
-jest taka zadziorna?
+jest taka
+zadziorna?
 2423)  
 Czy potê¿ny pirat
 zjednoczy siê ze sw¹
@@ -4909,6 +4924,7 @@ cz³owiekiem?!
 Odpowiedzi na te oraz inne
 pytania czekaj¹ na Was
 w 5 odcinkach serii!
+
 Zacznijcie graæ w
 "Opowieœci z Wyspy Ma³p"
 ju¿ dziœ!
@@ -4916,6 +4932,7 @@ ju¿ dziœ!
 Aby ogl¹daæ mapy, przesuñ wskaŸnik na prawy kraniec ekrany i naciœnij zak³adkê. Badaj mapy zaznaczaj¹c lupê przyciskiem A, po czym kliknij nim na mapê.
 2427)  
 Witaj w "Opowieœciach z Wyspy Ma³p"! Aby towarzyszyæ Guybrushowi w pierwszym rozdziale jego przygód, wybierz now¹ grê. 
+
 Mo¿esz równie¿ polepszyæ swoje pirackie umiejêtnoœci graj¹c w "Polowanie na skarb" z Guybrushem. Te dodatkowe mini-gry s¹ oddzieln¹ czêœci¹ g³ównej historii.
 2428)  
 W poszukiwaniach pod¹¿aj za dŸwiêkami d¿ungli. U¿ywaj ga³ki kontrolera lub naciœnij i przytrzymaj przycisk A i wska¿ wskaŸnikiem stronê, w któr¹ chcesz iœæ. Spójrz na mapê, jeœli zapomnisz drogi.

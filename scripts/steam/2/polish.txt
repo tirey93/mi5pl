@@ -4446,9 +4446,13 @@ Co jest najwa¿niejsze w wêdkowaniu?
 Nie pomyliæ przynêty z zak¹sk¹.
 2215)  
 - Puk, puk
+
 - Kto tam?
+
 - Ryba z pamiêci¹ krótkotrwa³¹
+
 - A jak siê nazywasz?
+
 - A gdzie ja jestem?
 2216)  
 Co mówi ryba, jak zobaczy rumaka?
@@ -4494,6 +4498,7 @@ Gdzie jest m¹¿ pani d¿d¿ownicy?
 Wyci¹gnêli go na ryby!
 2231)  
 - Dobra dzisiaj woda na ryby?
+
 - Tak, ¿e a¿ nic nie chce z niej wyjœæ.
 2232)  
 Czemu Jasio ma mokre w³osy?
