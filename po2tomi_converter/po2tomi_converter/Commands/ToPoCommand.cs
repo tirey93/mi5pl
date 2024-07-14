@@ -24,8 +24,6 @@ namespace po2tomi_converter.Commands
             _settings = options.Value;
 
             var errors = string.Empty;
-            if (!File.Exists(_settings.PoFileLocation))
-                errors += "Error: PoFile was not found in given path\n";
             if (!File.Exists(_settings.SteamPlFileLocation))
                 errors += "Error: SteamPlFile was not found in given path\n";
             if (!File.Exists(_settings.GogPlFileLocation))
@@ -56,10 +54,6 @@ namespace po2tomi_converter.Commands
             var translations = new List<Translation>();
             foreach (var lineEngGog in _linesEngGog)
             {
-                if (lineEngGog.Number == 118)
-                {
-
-                }
                 if(!_dictEngSteam.ContainsKey(lineEngGog.Number + shift))
                 {
                     var newShift = FindInSteam(lineEngGog, shift, _dictEngSteam);

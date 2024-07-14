@@ -20,10 +20,10 @@ namespace po2tomi_converter.Commands
             var errors = string.Empty;
             if (!File.Exists(_settings.PoFileLocation))
                 errors += "Error: PoFile was not found in given path\n";
-            if (!File.Exists(_settings.SteamPlFileLocation))
-                errors += "Error: SteamPlFile was not found in given path\n";
-            if (!File.Exists(_settings.GogPlFileLocation))
-                errors += "Error: GogPlFile was not found in given path\n";
+            if (string.IsNullOrEmpty(_settings.SteamPlFileLocation))
+                errors += "Error: SteamPlFile was not specified\n";
+            if (string.IsNullOrEmpty(_settings.GogPlFileLocation))
+                errors += "Error: GogPlFile was not specified\n";
             if (!string.IsNullOrEmpty(errors))
             {
                 Console.WriteLine(errors);
