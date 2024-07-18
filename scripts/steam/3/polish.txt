@@ -19,8 +19,6 @@ Czy na pewno
 chcesz ju¿ wyjœæ?
 10)  
 Muzyka
-609)  
-Muzyka
 11)  
 Efekty
 12)  
@@ -98,77 +96,11 @@ Nie.
 Nie.
 44)  GUYBRUSH
 Nie.
-478)  
-Nie.
-680)  NOOGIE
-Nie.
 45)  GUYBRUSH
 Jeszcze nie chcê siê z tym rozstawaæ.
 46)  GUYBRUSH
 E-e.
-62)  MORGAN
-Uuugff!
-74)  MORGAN
-Aaaaaa!
-75)  WINSLOW
-Aaaaaa!
-95)  GUYBRUSH
-Eee...
-188)  GUYBRUSH
-Ee...
-189)  MORGAN
-Ee...
-196)  GUYBRUSH
-Ee...
-197)  MORGAN
-Ee...
-358)  DECAVA
-BEEEK!
-363)  GUYBRUSH
-Ugh!
-507)  MOOSE
-To...
-509)  MOOSE
-Oto...
-794)  GUYBRUSH
-Ee...
-812)  GUYBRUSH
-Hej-o!
-983)  GUYBRUSHASVOODOOLADY
-£oo.
-1046)  DESINGE
-Phi!
-1159)  MORGAN
-Grr!
-1162)  GUYBRUSH
-£oo!
-1262)  GUYBRUSH
-Hmm...
-1298)  MORGAN
-£oo!
-1479)  GUYBRUSH
-Ugh.
-1505)  GUYBRUSH
-Auæ.
-1624)  GUYBRUSH
-Niuch, niuch.
-1627)  GUYBRUSH
-£oo!
-1678)  MURRAYINVENTORY
-Grr...
-1842)  MURRAY
-Och...
-1946)  GUYBRUSH
-Jejæ!
-1956)  GUYBRUSHASVOODOOLADY
-Ugh... uf... uggg...
-2450)  GUYBRUSH
-£oo!
 47)  GUYBRUSH
-No chyba nie.
-767)  BUGEYE
-No chyba nie.
-1849)  NOOGIE
 No chyba nie.
 48)  
 medalion
@@ -198,6 +130,8 @@ grotmaszt
 mapa
 61)  GUYBRUSH
 To maszt mojego statku - Wyj¹cej Narwali.
+62)  MORGAN
+Uuugff!
 63)  
 Wznów
 grê
@@ -206,10 +140,6 @@ Nie wierzê...
 65)  GUYBRUSH
 No to lepiej uwierz, siostro! Czekaj, ale ¿e w co?
 66)  GUYBRUSH
-Co?
-676)  NOOGIE
-Co?
-1777)  NOOGIE
 Co?
 67)  GUYBRUSH
 Manat!
@@ -225,6 +155,10 @@ Maj¹c nadziejê powróciæ na kurs po La Esponja Grande, Guybrush postanawia odnale
 Podstêpnie przekonuje Noogiego do oddania g³osu na "tak" obiecuj¹c mu pamiêtn¹ "randkê" z Morgan.
 73)  
 Guybrush wraz z za³og¹ docieraj¹ w koñcu do jaskini La Esponja Grande, ukrytej g³êboko pod powierzchni¹ oceanu.
+74)  MORGAN
+Aaaaaa!
+75)  WINSLOW
+Aaaaaa!
 76)  
 zamknij ekwipunek
 77)  
@@ -263,6 +197,8 @@ Aaa!
 Guybrush, pójdziesz ze mn¹.
 94)  GUYBRUSH
 Wybacz, ale w³aœnie tkwiê w paszczy manata.
+95)  GUYBRUSH
+Eee...
 96)  GUYBRUSH
 Za tob¹...
 97)  MORGAN
@@ -273,8 +209,6 @@ Dobra robota! Piêkna ³owczyni nagród wpad³a w pu³apkê!
 Przyzna pan, ¿e jest wytrwa³a.
 100)  WINSLOW
 Straci³a przytomnoœæ.
-1245)  WINSLOW
-Jest nieprzytomna.
 101)  GUYBRUSH
 I dobrze. Musimy zawróciæ po La Esponja Grande. Pójdê poszukaæ wyjœcia. Najlepiej od frontu, a nie od... zaplecza.
 102)  WINSLOW
@@ -417,8 +351,6 @@ Widzisz? Tak dzia³a ospa! Zmienia ludzi w to coœ i w³aœnie pustoszy ca³e Karaiby
 Twoj¹ ¿on¹.
 172)  GUYBRUSH
 Tak.
-760)  MOOSE
-Tak.
 173)  MORGAN
 No dobra, ale wpierw musisz coœ zrobiæ dla mnie.
 174)  MORGAN
@@ -449,6 +381,10 @@ Dawaj!
 Doceniam entuzjazm, ale hamuj siê, dziewczyno.
 187)  DECAVA
 Teraz razem - jak siê poznaliœcie?
+188)  GUYBRUSH
+Ee...
+189)  MORGAN
+Ee...
 190)  GUYBRUSH
 Na groto³aztwie!
 191)  MORGAN
@@ -461,6 +397,10 @@ W pracy!
 W pracy!
 195)  DECAVA
 Dok¹d poszliœcie na pierwsz¹ randkê?
+196)  GUYBRUSH
+Ee...
+197)  MORGAN
+Ee...
 198)  GUYBRUSH
 Na zatopion¹ dyskotekê Pogowatu.
 199)  MORGAN
@@ -528,8 +468,6 @@ Co teraz? Próbka ka³u?
 230)  DECAVA
 Nie, wygl¹dasz na zdrowego ch³opa. Pytania?
 231)  DECAVA
-Tak?
-1612)  GUYBRUSH
 Tak?
 232)  GUYBRUSH
 Te œwiête tereny godowe manatów s¹ domem La Esponja Grande?
@@ -628,8 +566,6 @@ Dobra, napój raz.
 279)  
 Do mi³ego.
 280)  GUYBRUSH
-W porz¹dku.
-1955)  DECAVA
 W porz¹dku.
 281)  DECAVA
 Trzymaj siê.
@@ -785,6 +721,8 @@ Dobrze, ¿e nie przynios³eœ tej ¿r¹cej posoki.
 Blech! Jaaauuuu!
 357)  GUYBRUSH
 Ale mu ga³y wyjecha³y!
+358)  DECAVA
+BEEEK!
 359)  DECAVA
 Nawet pomarañczowa siê popsu³a!
 360)  DECAVA
@@ -793,6 +731,8 @@ Ju¿ siê jej nie tknê! Od teraz bêdê pi³ p³yn uszny albo wodê morsk¹.
 Odstawi³em posokê, dziêki. Za du¿o z³ych doœwiadczeñ.
 362)  DECAVA
 Ja ju¿ podziêkujê.
+363)  GUYBRUSH
+Ugh!
 364)  MORGAN
 Posz³o g³adko.
 365)  GUYBRUSH
@@ -985,8 +925,6 @@ Zakwalifikuj go pod "cio³" przez du¿e C.
 ARRR!
 460)  MOOSE
 ARRRR!
-712)  NOOGIE
-ARRRR!
 461)  GUYBRUSH
 Tego jeszcze nie grali.
 462)  GUYBRUSH
@@ -1019,6 +957,8 @@ Mam zwo³aæ g³osowanie?
 Tak! Na bank siê dostanê.
 476)  GUYBRUSH
 Nie teraz.
+478)  
+Nie.
 480)  GUYBRUSH
 Ty to psujesz innym zabawê.
 481)  BUGEYE
@@ -1032,8 +972,6 @@ To mo¿e zdecydujmy czy jesteœ palantem?
 485)  BUGEYE
 Nie, sam o tym zdecydujê.
 486)  
-Oddasz na mnie swój g³os?
-2127)  
 Oddasz na mnie swój g³os?
 487)  GUYBRUSH
 Mo¿e byœ tak zag³osowa³ na starego Guybrusha Threepwooda?
@@ -1075,8 +1013,12 @@ Guybrush Threepwood.
 Guybrush Threepwood! Poka¿ mu, Ga³a!
 506)  MORGAN
 Poka¿ mu! Niech ten egalitarny cieæ wie, kto tu ma jaja!
+507)  MOOSE
+To...
 508)  MOOSE
 Nadchodzi...
+509)  MOOSE
+Oto...
 510)  MOOSE
 Otêpia³a...
 511)  MOOSE
@@ -1094,8 +1036,6 @@ Leniwo-oka...
 517)  MOOSE
 Wykrêcona...
 518)  MOOSE
-Ma³pa!
-2405)  MOOSE
 Ma³pa!
 519)  MOOSE
 Starucha!
@@ -1121,22 +1061,22 @@ Dobra, moja kolej.
 Nadchodz¹ k³opoty!
 530)  GUYBRUSH
 *Ma³pie odg³osy*
-535)  BUGEYE
-*Ma³pie odg³osy*
 531)  GUYBRUSH
 *Wredne odg³osy*
 532)  GUYBRUSH
 *Odg³osy fujary*
-537)  BUGEYE
-*Odg³osy fujary*
 533)  GUYBRUSH
-*Odg³osy staruchy*
-538)  BUGEYE
 *Odg³osy staruchy*
 534)  BUGEYE
 ARRR!
+535)  BUGEYE
+*Ma³pie odg³osy*
 536)  BUGEYE
 *Z³oœliwe pomruki*
+537)  BUGEYE
+*Odg³osy fujary*
+538)  BUGEYE
+*Odg³osy staruchy*
 539)  BUGEYE
 Tylko tyle?
 540)  GUYBRUSH
@@ -1186,8 +1126,6 @@ Takiœ twórczy jak moja ciotka Krystyna.
 562)  GUYBRUSH
 A by³a twórcza?
 563)  BUGEYE
-Nie.
-742)  MOOSE
 Nie.
 564)  MOOSE
 Czy ktoœ pokona Ga³ê?!
@@ -1267,8 +1205,6 @@ Ty tchórzliwy dezerterze! Mia¿d¿y³em dusze ch³opów 10 razy twardszych ni¿ ty, a 
 To... dzika zielona twarz demona. Threepwood wygrywa z najszpetniejsz¹ jap¹ po tej stronie podwzgórza!
 602)  GUYBRUSH
 Co?
-717)  GUYBRUSH
-Tak?
 603)  BUGEYE
 No dobra. Wygra³. Masz mój g³os. Ale bêdê ciê mia³ na oku.
 604)  
@@ -1281,6 +1217,8 @@ Sean Vanaman
 Programowanie
 608)  
 Randy Tudor
+609)  
+Muzyka
 610)  
 Michael Land
 611)  
@@ -1422,12 +1360,16 @@ Naprawdê przyda³by mi siê twój g³os w Bractwie.
 Sam nie wiem. Mamy tu doœæ zgran¹ czwórkê. No a Ga³a niezbyt ciê lubi.
 675)  GUYBRUSH
 Pozwól mi coœ dla siebie zrobiæ.
+676)  NOOGIE
+Co?
 677)  GUYBRUSH
 Dam ci swoje etui na d³ugopis!
 678)  NOOGIE
 A po co mi to? Co ja jestem, nerd jakiœ?
 679)  GUYBRUSH
 To mo¿e sekstant ciê zaciekawi?
+680)  NOOGIE
+Nie.
 681)  GUYBRUSH
 Bêdê ci pra³ przez tydzieñ!
 682)  NOOGIE
@@ -1490,6 +1432,8 @@ Niech bêdzie. Dam jej szansê.
 Dziêki za g³os!
 711)  NOOGIE
 To ja dziêkujê! Wêszê przysz³oœæ z t¹ nagrzan¹ ³owczyni¹!
+712)  NOOGIE
+ARRRR!
 713)  GUYBRUSH
 O, to dobre.
 714)  GUYBRUSH
@@ -1498,6 +1442,8 @@ Pa, Noogie.
 Pa.
 716)  BUGEYE
 Te, intrygant.
+717)  GUYBRUSH
+Tak?
 718)  BUGEYE
 Dobrze siê bawisz w Demokratycznie Zjednoczonym Bractwie Brzucha Manata?
 719)  GUYBRUSH
@@ -1528,8 +1474,6 @@ To w¹tpliwe.
 Bracie Muszal? A twoim zdaniem?
 732)  MOOSE
 Dam zdecydowaæ mojemu Santino.
-743)  MOOSE
-Dam zdecydowaæ mojemu Santino.
 733)  MURRAY
 Có¿, Threepwood niedawno wyœwiadczy³ mi niezwyk³¹ przys³ugê.
 734)  BUGEYE
@@ -1548,6 +1492,10 @@ Dwa na "nie".
 Threepwood nigdy nie zazna przyjemnoœci bycia w Bractwie.
 741)  BUGEYE
 Muszal?
+742)  MOOSE
+Nie.
+743)  MOOSE
+Dam zdecydowaæ mojemu Santino.
 744)  BUGEYE
 Czyli "nie".
 745)  GUYBRUSH
@@ -1580,6 +1528,8 @@ Dobrze!
 Bracia Muszalu i Santino, wci¹¿ na "tak"?
 759)  MURRAY
 Tak! Mu, ha, ha, ha!
+760)  MOOSE
+Tak.
 761)  BUGEYE
 Bracie Noogie? Twój g³os wci¹¿ na "tak"?
 762)  NOOGIE
@@ -1592,6 +1542,8 @@ Wysz³o gorzej, ni¿ kiedy kandydowa³em na przewodnicz¹cego klasy.
 Niestety, inicjacjê zatwierdza tylko jednomyœlna zgoda.
 766)  GUYBRUSH
 A mo¿e by tak proste prawo wiêkszoœci i pi¹tka na zgodê?
+767)  BUGEYE
+No chyba nie.
 768)  BUGEYE
 Ale pech. Inicjacja do Bractwa odrzucona.
 769)  GUYBRUSH
@@ -1644,6 +1596,8 @@ Moja za³oga!
 Tak, twoj¹ za³ogê. ¯yli tam ca³y czas. No da³byœ wiarê?
 793)  BUGEYE
 Zdradzi³eœ nas!
+794)  GUYBRUSH
+Ee...
 795)  
 Taa, totalnie was sprzeda³em.
 796)  GUYBRUSH
@@ -1678,6 +1632,8 @@ Podwójn¹ grzywnê?
 Podwójn¹ grzywnê?
 811)  BUGEYE
 Œmieræ. Zabiæ go.
+812)  GUYBRUSH
+Hej-o!
 813)  GUYBRUSH
 Morgan! Laleczko! Czas na mord!
 814)  MORGAN
@@ -2008,6 +1964,8 @@ I kolejny sen na jawie! Jakbym wróci³ do jej chatki na Wyspie Rozbitków.
 Co ja robiê w tej patykowatej formie? To nie mo¿e byæ Threepwood. Mo¿e wskoczy³am w rozlatuj¹cy siê szkielet wyg³odzonego ¿eglarza albo w apatyczne zw³oki niedo¿ywionego majtka?
 982)  VOODOOLADYGUYBRUSH
 Znowu? Wœciek³abym siê, gdyby nie by³o mi ¿al tej wychudzonej duszy.
+983)  GUYBRUSHASVOODOOLADY
+£oo.
 984)  GUYBRUSHASVOODOOLADY
 Ale¿ szykowny tron voodoo. Wygodny. Ergonomiczny. Nic dziwnego, ¿e nigdy nie wstaje, gdy przychodzê.
 985)  GUYBRUSHASVOODOOLADY
@@ -2080,8 +2038,6 @@ Rozumiem, ¿e mówisz jêzykiem olbrzymich manatów. I nie pijê do tego g³upiego akc
 Sk¹d o tym wiesz? Tak, mam ksi¹¿kê do nauki jêzyka tych majestatycznych istot.
 1019)  
 Da³byœ mi tê ksi¹¿kê?
-1958)  GUYBRUSHASVOODOOLADY
-Da³byœ mi tê ksi¹¿kê?
 1020)  
 No to biegnij do laboratorium i przynieœ j¹.
 1021)  
@@ -2132,6 +2088,8 @@ Przynios³em ci podrêcznik, jak prosi³aœ. Moje motywacje s¹ bez znaczenia. Bierz.
 Dla mnie? Dziêki, Markiz. Po³ó¿ go na stole.
 1045)  GUYBRUSHASVOODOOLADY
 A teraz won.
+1046)  DESINGE
+Phi!
 1047)  DESINGECUTAWAY
 Co za bolesne majtkowanie! Sk¹d siê wziê³o?
 1048)  GUYBRUSHASVOODOOLADY
@@ -2356,10 +2314,14 @@ Panowie, to dlatego zawsze mam plan B.
 Gdybym móg³ dosiêgn¹æ do liny...
 1158)  MORGAN
 Uciekaj¹!
+1159)  MORGAN
+Grr!
 1160)  MORGAN
 Musimy siê st¹d uwolniæ!
 1161)  GUYBRUSH
 Nie utnê jej z tej odleg³oœci.
+1162)  GUYBRUSH
+£oo!
 1163)  GUYBRUSH
 Wracajcie z moj¹ g¹bk¹!
 1164)  DECAVA
@@ -2372,8 +2334,6 @@ Jasne, szefie. Chyba Santino j¹ wzi¹³.
 Co?!?
 1168)  MOOSE
 Aha, no tak.
-1595)  GUYBRUSH
-No tak.
 1169)  GUYBRUSH
 Zapomnieli g¹bki!
 1170)  DECAVA
@@ -2484,11 +2444,7 @@ Coœ wykombinujê!
 Ruchy! Nie bêdê wiecznie unikaæ kul!
 1223)  GUYBRUSH
 Klucz p³aski: wkrêci œrubê w dowolny grunt.
-2479)  GUYBRUSH
-Klucz p³aski: wkrêci œrubê w dowolny grunt.
 1224)  GUYBRUSH
-"Ozór manata: wydanie podró¿nicze. Przydatne zwroty manatów, gdy odwiedzasz otch³añ".
-2478)  GUYBRUSH
 "Ozór manata: wydanie podró¿nicze. Przydatne zwroty manatów, gdy odwiedzasz otch³añ".
 1225)  GUYBRUSH
 "Demokratycznie Zjednoczone Bractwo Brzucha Manata: przewodnik dla nowicjuszy. Rozdzia³ 1 - Inicjacja i ty".
@@ -2500,21 +2456,13 @@ To najwiêkszy œlimak, jaki widzia³em. Dziêki niemu manat odzyska wyczucie kierun
 Tiara królowej archipelagu. Teraz widzê, ¿e klejnoty s¹ z plastiku.
 1229)  GUYBRUSH
 Œrodek przeczyszczaj¹cy De Cavy. Odpowiednia kompozycja pokarmów reguluj¹ca uk³ad trawienny manata.
-2464)  GUYBRUSH
-Œrodek przeczyszczaj¹cy De Cavy. Odpowiednia kompozycja pokarmów reguluj¹ca uk³ad trawienny manata.
 1230)  GUYBRUSH
 Oko manata. Z czerwon¹ soczewk¹.
 1231)  GUYBRUSH
 Ale ten ³osoœ siê miota.
-2469)  GUYBRUSH
-Ale ten ³osoœ siê miota.
 1232)  GUYBRUSH
 Miêkka larwa.
-2470)  GUYBRUSH
-Miêkka larwa.
 1233)  GUYBRUSH
-Mój hak. Czasem udajê, ¿e to po prostu chuda rêka.
-2471)  GUYBRUSH
 Mój hak. Czasem udajê, ¿e to po prostu chuda rêka.
 1234)  GUYBRUSH
 Medalion Lady Voodoo, który mam oddaæ jej ch³opakowi Coronado De Cavie. Pewnie ma dziewczêce zarazki.
@@ -2538,6 +2486,8 @@ Stary "Podrêcznik tortur" z ok³adk¹ "Poradnika nowego cz³onka Demokratycznie Zje
 Soczewki maj¹ ten sam rozmiar.
 1244)  GUYBRUSH
 Monokular ma teraz czerwon¹ soczewkê. De Cava zobaczy manata przez ró¿owe okulary. Albo odkryje tajne wieœci!
+1245)  WINSLOW
+Jest nieprzytomna.
 1246)  GUYBRUSH
 Morgan musi oprzytomnieæ, ¿eby udawaæ moj¹ ¿onê przed De Cav¹.
 1247)  WINSLOW
@@ -2570,6 +2520,8 @@ Jasne.
 Proszê unieœæ jej stopy.
 1261)  WINSLOW
 Spokojna g³owa. Mam oko na pannê LeFlay.
+1262)  GUYBRUSH
+Hmm...
 1263)  MORGAN
 Gomez... nie na dywan!
 1264)  GUYBRUSH
@@ -2587,8 +2539,6 @@ Wygrawerowano na niej "Dante Dragotta".
 1270)  WINSLOW
 Brzmi groŸnie.
 1271)  GUYBRUSH
-Szpada Morgan, ostrze "Dragotta".
-2476)  GUYBRUSH
 Szpada Morgan, ostrze "Dragotta".
 1272)  GUYBRUSH
 Unieœæ jej stopy...
@@ -2642,6 +2592,8 @@ Gomez!
 Chwilunia...
 1297)  DECAVA
 le! Nic nie wiesz o tej kobiecie! Oszustka!
+1298)  MORGAN
+£oo!
 1299)  GUYBRUSH
 De Cava, nie! Daj mi jeszcze szansê!
 1300)  DECAVA
@@ -2676,10 +2628,10 @@ No weŸ!
 Zimno...
 1315)  MORGAN
 le.
-1317)  MORGAN
-le.
 1316)  MORGAN
 Nie.
+1317)  MORGAN
+le.
 1318)  GUYBRUSH
 Nie pomagasz mi.
 1319)  MORGAN
@@ -2812,57 +2764,57 @@ Ee... czeœæ.
 To z³y pomys³.
 1383)  MANATEE
 Przestañ to powtarzaæ.
-1384)  FEMALE MANATEE
+1384)  FEMALEMANATEE
 Kto tam? Kto chce zdechn¹æ?!
 1385)  MANATEE
 IdŸ, ma³y planktonie. Dajesz!
-1386)  FEMALE MANATEE
+1386)  FEMALEMANATEE
 Œmiesz mi przeszkadzaæ? Chcesz, ¿eby twoja krew zabarwi³a ocean?!
-1387)  FEMALE MANATEE
+1387)  FEMALEMANATEE
 Hmm, uprzejmy w obliczu pewnej zag³ady. A to ciekawe.
-1388)  FEMALE MANATEE
+1388)  FEMALEMANATEE
 Zgrywus siê trafi³, hm? Przekonamy siê.
-1389)  FEMALE MANATEE
+1389)  FEMALEMANATEE
 ¯aden pacan nie kupi sobie mojej mi³oœæ dowcipnymi s³ówkami.
-1390)  FEMALE MANATEE
+1390)  FEMALEMANATEE
 Ha, ha, touché, mój panie.
-1391)  FEMALE MANATEE
+1391)  FEMALEMANATEE
 Czemu mia³abym marnowaæ na ciebie czas?
-1392)  FEMALE MANATEE
+1392)  FEMALEMANATEE
 Ha, jest coœ ujmuj¹cego w facecie bez poczucia czasu.
-1393)  FEMALE MANATEE
+1393)  FEMALEMANATEE
 Powiedzmy, ¿e ciê oszczêdzê i pop³ynê z tob¹. Dok¹d mnie zabierzesz?
-1394)  FEMALE MANATEE
+1394)  FEMALEMANATEE
 Dawno nie p³ywa³am na otwartym oceanie. Mo¿e byæ mi³o.
-1395)  FEMALE MANATEE
+1395)  FEMALEMANATEE
 Nie stresujesz siê, hm?
-1396)  FEMALE MANATEE
+1396)  FEMALEMANATEE
 Ha, doceniam szczeroœæ, choæ jesteœ krewet¹. Trudno znaleŸæ takiego faceta.
-1397)  FEMALE MANATEE
+1397)  FEMALEMANATEE
 Myœlisz, ¿e polecê na te bajery? Co powiesz, jak ci gwizdnê ³eb do kolekcji?
-1398)  FEMALE MANATEE
+1398)  FEMALEMANATEE
 Ha, ha, tego nie zna³am.
-1399)  FEMALE MANATEE
+1399)  FEMALEMANATEE
 Nie znoszê niestabilnych samców! Nie chcê faceta z ¿yciowym baga¿em!
-1400)  FEMALE MANATEE
+1400)  FEMALEMANATEE
 Co za ulga. Mia³am tu tyle beks, ¿e trzeba ich by³o wypatroszyæ.
-1401)  FEMALE MANATEE
+1401)  FEMALEMANATEE
 Samce to idioci. Po co traciæ czas?
-1402)  FEMALE MANATEE
+1402)  FEMALEMANATEE
 Masz racjê. Rozrywka. ¯ycie by³oby bez was nudne. Ale z wami jest takie bolesne.
-1403)  FEMALE MANATEE
+1403)  FEMALEMANATEE
 Te tereny godowe s¹ martwe jak moje ofiary. Samce to banda zimnych ryb.
-1404)  FEMALE MANATEE
+1404)  FEMALEMANATEE
 Mmm. Podoba mi siê twoje podejœcie.
-1405)  FEMALE MANATEE
+1405)  FEMALEMANATEE
 Patrz, gdzie p³ywasz. Nikt nie zna drogi do mojego serca.
-1406)  FEMALE MANATEE
+1406)  FEMALEMANATEE
 Jaki konkretny... Lubiê stanowczych.
-1407)  FEMALE MANATEE
+1407)  FEMALEMANATEE
 Wiesz co powiem, jak ju¿ po¿rê ci serce?!
-1408)  FEMALE MANATEE
+1408)  FEMALEMANATEE
 Ha, ha, ha! Tak, coœ w ten deseñ.
-1409)  FEMALE MANATEE
+1409)  FEMALEMANATEE
 Basta! Ukatrupiê ciê!
 1410)  MANATEE
 Chodu, kumpelku!
@@ -2872,17 +2824,17 @@ Mog³o pójœæ lepiej.
 Miewa³em lepsze zaloty.
 1413)  GUYBRUSH
 Kobiety...
-1414)  FEMALE MANATEE
+1414)  FEMALEMANATEE
 Chyba siê z tob¹ przep³ynê.
 1415)  MANATEE
 Eee... serio?
-1416)  FEMALE MANATEE
+1416)  FEMALEMANATEE
 Tak. Jesteœ zabawny. Nie ba³eœ siê podp³yn¹æ i zagadaæ.
 1417)  MANATEE
 No bo mam jaja.
-1418)  FEMALE MANATEE
+1418)  FEMALEMANATEE
 No to p³yniemy, ciacho. Mamuœka czu³a siê samotna.
-1419)  FEMALE MANATEE
+1419)  FEMALEMANATEE
 Wróci³eœ?! Przygotuj siê na spotkanie z Posejdonem!
 1420)  MANATEE
 Nie! Czekaj! Daj mi jeszcze szansê!
@@ -3005,6 +2957,8 @@ Przykro mi.
 Niektórych goœci to krêci.
 1478)  GUYBRUSH
 Nie brzmi tak Ÿle.
+1479)  GUYBRUSH
+Ugh.
 1480)  GUYBRUSH
 I co wtedy?
 1481)  GUYBRUSH
@@ -3055,6 +3009,8 @@ Dobrze myœlisz.
 To co zawiesisz w swojej szafce?
 1504)  MORGAN
 Mo¿e znajdê LeChucka w pe³nym kolorze.
+1505)  GUYBRUSH
+Auæ.
 1506)  GUYBRUSH
 Na pewno go nie chcesz?
 1507)  MORGAN
@@ -3157,8 +3113,6 @@ Ciemno tu! I co tu tak jedzie zgni³¹ marmolad¹?
 Pusto. Wiêcej demonicznych czach tu nie wlaz³o.
 1556)  
 Twoja szpada!
-1856)  GUYBRUSH
-Twoja szpada!
 1557)  GUYBRUSH
 Przek¹ska! Nigdy nie zaczynaj nierównej bitwy na czczo.
 1558)  MORGAN
@@ -3235,6 +3189,8 @@ Fuj. Nie.
 Przestañ próbowaæ lokalnych smaków i wydostañ nas st¹d.
 1594)  MOOSE
 No i co ci mówi³em o stuffie z sadzawki? Nawet ja nie ogarniam tej solanki.
+1595)  GUYBRUSH
+No tak.
 1596)  GUYBRUSH
 Murray, ee, Santino, zerkniesz na nowy poradnik cz³onków Bractwa? Mo¿e ciê zaciekawi.
 1597)  MURRAY
@@ -3267,6 +3223,8 @@ Ju¿ siê napatrzy³em! Nie bêdê sobie psu³ niespodzianki!
 Ej, Murray. Mo¿e ciê zaciekawi podrêcznik tortur?
 1611)  MURRAY
 Sam napisa³em ksi¹¿kê o torturach. Na przyk³ad szydzenie z cudzych pragnieñ to œwietna forma wojny psychologicznej. Tak jak pokrzywka.
+1612)  GUYBRUSH
+Tak?
 1613)  MURRAY
 Chcia³byœ czerpaæ korzyœci z cz³onkostwa?
 1614)  GUYBRUSH
@@ -3289,10 +3247,14 @@ Luzik. Ga³a wydrukowa³ nam trzy kopie, kiedy olbrzym po³kn¹³ i przywlók³ tu pras
 Widzia³em ju¿ niejedn¹ ranê, ale ta jest klasy œwiatowej.
 1623)  GUYBRUSH
 Œlimak lub ucho wewnêtrzne. Mo¿e i jestem ofiar¹ reformy szkolnej, ale myœlê, ¿e one siê ³¹cz¹.
+1624)  GUYBRUSH
+Niuch, niuch.
 1625)  GUYBRUSH
 Woskowina manata. Zgni³a i o ostrym zapachu. Tak jak lubiê.
 1626)  GUYBRUSH
 Proszê bardzo, stary.
+1627)  GUYBRUSH
+£oo!
 1628)  GUYBRUSH
 Chyba wróciliœmy na kurs!
 1629)  GUYBRUSH
@@ -3393,10 +3355,10 @@ Ciemnoœæ widzê!
 Czujê siê samotny!
 1677)  MURRAYINVENTORY
 Wracaj!
+1678)  MURRAYINVENTORY
+Grr...
 1679)  GUYBRUSH
 Sporo monet.
-2468)  GUYBRUSH
-Kupa monet.
 1680)  GUYBRUSH
 Dobrze siê bawisz?
 1681)  MURRAYINVENTORY
@@ -3561,8 +3523,6 @@ Mój harcmistrz zabi³by mnie, gdyby widzia³, co robiê z t¹ szpad¹.
 Odpowiadaj¹ ogniem!
 1761)  GUYBRUSH
 Moje zdjêcie - idealne do portfela.
-2472)  GUYBRUSH
-Moje zdjêcie - idealne do portfela.
 1762)  GUYBRUSH
 Teraz strza³ka wskazuje w przeciwn¹ stronê. To bêdzie ciekawe. Albo i niebezpieczne.
 1763)  GUYBRUSH
@@ -3593,6 +3553,8 @@ I choæ ospa nieustannie siê szerzy, b¹dŸ rozwa¿ny. Przez lata poszukiwañ g¹bki D
 Jestem tu po La Esponja Grande! Przys³a³a mnie Lady Voodoo.
 1776)  DECAVA
 Przestañ.
+1777)  NOOGIE
+Co?
 1778)  GUYBRUSH
 W dublonach. Tylko podwój standardow¹ stawkê.
 1779)  NOOGIE
@@ -3629,8 +3591,6 @@ Morgan LeFlay
 Zabi³o wiêcej ludzi ni¿ zepsute sushi.
 1796)  GUYBRUSH
 Mogê to wlaæ do sadzawki z ¿ó³ci¹, ¿eby siê... wypró¿niæ na powierzchniê.
-2465)  GUYBRUSH
-Mogê to wlaæ do sadzawki z ¿ó³ci¹, ¿eby siê... wypró¿niæ na powierzchniê.
 1797)  WINSLOW
 Czujê siê zdrów jak ryba! Rzeœki jak za czasów, gdy by³em ch³opcem hotelowym na Borneo!
 1798)  WINSLOW
@@ -3639,8 +3599,6 @@ Kapitanie?
 Ojej.
 1800)  GUYBRUSH
 £eb konika morskiego - manaty wcinaj¹ je jak krakersy. Gdyby ktoœ produkowa³ krakersy w kszta³cie ryb dla ludzi, to spa³by na forsie.
-2475)  GUYBRUSH
-£eb konika morskiego - manaty wcinaj¹ je jak krakersy. Jakby ktoœ zrobi³ krakersy w kszta³cie ryb dla ludzi, to spa³by na forsie.
 1801)  GUYBRUSH
 Po robocie!
 1802)  DECAVA
@@ -3723,6 +3681,8 @@ Pracujê na tym.
 Ruszaj¹ mi siê rêce? Zdawa³o mi siê, ¿e tak.
 1841)  GUYBRUSH
 Mo¿e trochê. Albo to wiatr.
+1842)  MURRAY
+Och...
 1843)  GUYBRUSH
 Muszê zinfiltrowaæ Bractwo i znaleŸæ œlimaka.
 1844)  MORGAN
@@ -3735,6 +3695,8 @@ Zuch ma³a. Powodzenia. Bêdê ciê os³aniaæ.
 Dziêki...
 1848)  GUYBRUSH
 Mimo wszystko dasz mi swój g³os?
+1849)  NOOGIE
+No chyba nie.
 1850)  GUYBRUSH
 Dasz mi na chwilkê szpadê?
 1851)  MORGAN
@@ -3747,6 +3709,8 @@ Zatrzymaj j¹. Mo¿e siê przydaæ.
 Odwa¿ny krok.
 1855)  MORGAN
 Odbiorê j¹, kiedy zechcê.
+1856)  GUYBRUSH
+Twoja szpada!
 1857)  GUYBRUSH
 Nie jestem a¿ tak zrêczny, by zeskrobywaæ brud szpad¹.
 1858)  GUYBRUSH
@@ -3867,8 +3831,6 @@ Eksperymentuj gdzie indziej!
 Zatrzymam na razie tê fotkê.
 1916)  GUYBRUSH
 Obr¹czka œlubna Elaine.
-2474)  GUYBRUSH
-Obr¹czka œlubna Elaine.
 1917)  GUYBRUSH
 Elaine naciska³a, ¿ebym go chroni³. Nie oddam go.
 1918)  GUYBRUSH
@@ -3927,6 +3889,8 @@ Nie da siê zatopiæ ³odzi w ca³oœci zbudowanej z kauczukowca!
 Wyrzucê ciê za burtê.
 1945)  MURRAY
 A próbuj, panie niezgrabne palce!
+1946)  GUYBRUSH
+Jejæ!
 1947)  MORGAN
 Jaki jest plan B?
 1948)  GUYBRUSH
@@ -3943,8 +3907,14 @@ I akurat jej nie za³o¿y³eœ? Cuchnie mi to przekrêtem.
 Na oddanie jej obr¹czki ¿ony ju¿ sobie nie pozwolê.
 1954)  DECAVA
 Nie! Rzuæ mi La Esponja, a potem mo¿esz odp³yn¹æ!
+1955)  DECAVA
+W porz¹dku.
+1956)  GUYBRUSHASVOODOOLADY
+Ugh... uf... uggg...
 1957)  GUYBRUSHASVOODOOLADY
 Powinienem u³o¿yæ karty na podk³adce.
+1958)  GUYBRUSHASVOODOOLADY
+Da³byœ mi tê ksi¹¿kê?
 1959)  GUYBRUSHASVOODOOLADY
 Doskonale! Biegnij do laboratorium i aportuj.
 1960)  GUYBRUSHASVOODOOLADY
@@ -4075,7 +4045,7 @@ Nie poddam siê, muszê wyleczyæ Elaine!
 Niczego tam nie wrzucê!
 2024)  GUYBRUSH
 Przej¹³em Wyj¹c¹ Narwalê, rzuci³em na ¿er legendarne stwory morskie i pomog³em manatom znaleŸæ mi³oœæ dla wy¿szego celu!
-2025)  FEMALE MANATEE
+2025)  FEMALEMANATEE
 Nie staæ ciê.
 2026)  GUYBRUSH
 Mam tu gdzieœ fajowy skarb. Dam ci go, jak powiesz mi, gdzie jest ozór manata.
@@ -4164,8 +4134,6 @@ Sezamie-manacie, otwórz siê. Pychotek ze mnie! Mówiê ci!
 2068)  MORGAN
 Czacha ma racjê, tak ³atwo nic nie wyci¹gniemy.
 2069)  GUYBRUSH
-Ryba z mojej kieszeni giba siê jak na imprezie.
-2481)  GUYBRUSH
 Ryba z mojej kieszeni giba siê jak na imprezie.
 2070)  GUYBRUSH
 De Cava da³ mi miksturê, która po wlaniu do sadzawki z ¿ó³ci¹ pozwoli mi wyjœæ. Manata przeczyœci a¿ mi³o.
@@ -4281,6 +4249,8 @@ Oddaj na mnie g³os, bo siê doigrasz!
 Czeœæ.
 2126)  BUGEYE
 Czego znowu?
+2127)  
+Oddasz na mnie swój g³os?
 2128)  GUYBRUSH
 Dziêki za twój g³os, Murray. Mam œlimaka!
 2129)  MURRAY
@@ -4351,13 +4321,13 @@ Pora pogadaæ sobie z tym z Lewiatanem.
 Powinna pogadaæ z kimœ jej podobnym!
 2174)  
 > Powrót do kategorii
-2175)  FEMALE MANATEE
+2175)  FEMALEMANATEE
 Myœlisz, ¿e jesteœ cwany, co? Wiedz, ¿e nie cierpiê m¹drali.
-2176)  FEMALE MANATEE
+2176)  FEMALEMANATEE
 Ha! Na tyle m¹dry, aby byæ g³upim, co?
-2177)  FEMALE MANATEE
+2177)  FEMALEMANATEE
 A ty co, masochista? Ma³o ci?
-2178)  FEMALE MANATEE
+2178)  FEMALEMANATEE
 Trzeba przyznaæ, uparciuch z ciebie.
 2179)  GUYBRUSH
 Powtórz, proszê.
@@ -4365,13 +4335,13 @@ Powtórz, proszê.
 Pewnie lubi du¿ych i g³upich.
 2181)  GUYBRUSH
 A w ¿yciu. Dawaj jeszcze!
-2182)  FEMALE MANATEE
+2182)  FEMALEMANATEE
 To by³o bez sensu.
-2183)  FEMALE MANATEE
+2183)  FEMALEMANATEE
 Doœæ tych bzdur. Masz trzy sekundy, zanim moje k³y rozszarpi¹ ci tchawicê!
-2184)  FEMALE MANATEE
+2184)  FEMALEMANATEE
 Œwietnie, kolejny facet z ¿yczeniem œmierci.
-2185)  FEMALE MANATEE
+2185)  FEMALEMANATEE
 Trzeba przyznaæ, ¿e odwagê to ty masz, choæ to by³o bez sensu.
 2186)  GUYBRUSH
 Obym nie skoñczy³ jak De Cava. On patrzy na œwiat przez okulary czubka.
@@ -4423,8 +4393,6 @@ g³owa konika morskiego
 La Esponja Grande
 2210)  
 ozór manata
-2354)  
-ozór manata
 2211)  
 z³oty klucz p³aski
 2212)  
@@ -4435,15 +4403,9 @@ odciêty palec
 serwetka pod koktajl
 2215)  
 karta Rozdarcia
-2317)  
-karta Rozdarcia
 2216)  
 karta Podró¿y
-2319)  
-karta Podró¿y
 2217)  
-karta Kl¹twy
-2318)  
 karta Kl¹twy
 2218)  GUYBRUSHASVOODOOLADY
 De Singe musi nauczyæ siê trochê szacunku, a ja mam zar¹biste moce voodoo!
@@ -4613,8 +4575,6 @@ koœci
 czaszka konika morskiego
 2301)  
 wrak statku 
-2448)  
-wrak statku 
 2302)  
 znak ostrzegawczy
 2303)  
@@ -4645,6 +4605,12 @@ instrukcje voodoo
 miejsce na kartê Akcji
 2316)  
 miejsce na kartê Celu
+2317)  
+karta Rozdarcia
+2318)  
+karta Kl¹twy
+2319)  
+karta Podró¿y
 2320)  
 statek De Cavy
 2321)  
@@ -4713,6 +4679,8 @@ Fujara
 Jazda!
 2353)  
 bongosy
+2354)  
+ozór manata
 2355)  
 ¿elazna ma³pa
 2356)  
@@ -4828,36 +4796,38 @@ Pod ubraniem: œwie¿o uprasowane pantalony
 Notatka kapitana: mieæ na niego oko.
 2399)  MOOSE
 Œmierdz¹ca...
-2408)  MOOSE
-Œmierdz¹ca...
 2400)  MOOSE
 Otêpia³a...
 2401)  MOOSE
 Ohydna...
 2402)  MOOSE
 Zbzikowana...
-2411)  MOOSE
-Zbzikowana...
 2403)  MOOSE
-Leniwo-oka...
-2412)  MOOSE
 Leniwo-oka...
 2404)  MOOSE
 Zezowata...
-2413)  MOOSE
-Zezowata...
+2405)  MOOSE
+Ma³pa!
 2406)  MOOSE
-Starucha!
-2414)  MOOSE
 Starucha!
 2407)  MOOSE
 Fujara!
-2415)  MOOSE
-Fujara!
+2408)  MOOSE
+Œmierdz¹ca...
 2409)  MOOSE
 Otêpia³a...
 2410)  MOOSE
 Ohydna...
+2411)  MOOSE
+Zbzikowana...
+2412)  MOOSE
+Leniwo-oka...
+2413)  MOOSE
+Zezowata...
+2414)  MOOSE
+Starucha!
+2415)  MOOSE
+Fujara!
 2416)  DECAVA
 Magnifico!
 2417)  GUYBRUSH
@@ -4923,8 +4893,12 @@ pirat-barman
 pirat z bongo
 2447)  
 gburowaty pirat
+2448)  
+wrak statku 
 2449)  
 weso³a czaszka
+2450)  GUYBRUSH
+£oo!
 2451)  MANATEE
 Plankton mówi po manaciemu! Pierwsze s³yszê. Czeœæ, plankton.
 2452)  MANATEE
@@ -4951,43 +4925,69 @@ dziwna wypuk³oœæ
 dziwaczny obóz
 2463)  
 niechlujny cz³owiek
-2466)  FEMALE MANATEE
+2464)  GUYBRUSH
+Œrodek przeczyszczaj¹cy De Cavy. Odpowiednia kompozycja pokarmów reguluj¹ca uk³ad trawienny manata.
+2465)  GUYBRUSH
+Mogê to wlaæ do sadzawki z ¿ó³ci¹, ¿eby siê... wypró¿niæ na powierzchniê.
+2466)  FEMALEMANATEE
 Ha, ha. Œmieszna krewetka.
 2467)  GUYBRUSH
 Tiara królowej archipelagu. Teraz widzê, ¿e klejnoty s¹ z plastiku.
+2468)  GUYBRUSH
+Kupa monet.
+2469)  GUYBRUSH
+Ale ten ³osoœ siê miota.
+2470)  GUYBRUSH
+Miêkka larwa.
+2471)  GUYBRUSH
+Mój hak. Czasem udajê, ¿e to po prostu chuda rêka.
+2472)  GUYBRUSH
+Moje zdjêcie - idealne do portfela.
 2473)  GUYBRUSH
 Jedno ze zdjêæ z kolekcji Morgan. To chyba tu¿ po uratowaniu przed law¹ wioski Kaflu, kiedy konstruowa³em szablê. Albo to list goñczy. Trudno orzec.
+2474)  GUYBRUSH
+Obr¹czka œlubna Elaine.
+2475)  GUYBRUSH
+£eb konika morskiego - manaty wcinaj¹ je jak krakersy. Jakby ktoœ zrobi³ krakersy w kszta³cie ryb dla ludzi, to spa³by na forsie.
+2476)  GUYBRUSH
+Szpada Morgan, ostrze "Dragotta".
 2477)  GUYBRUSH
 Zabi³o wiêcej ludzi ni¿ zepsute sushi.
+2478)  GUYBRUSH
+"Ozór manata: wydanie podró¿nicze. Przydatne zwroty manatów, gdy odwiedzasz otch³añ".
+2479)  GUYBRUSH
+Klucz p³aski: wkrêci œrubê w dowolny grunt.
 2480)  GUYBRUSH
 Nie muszê wracaæ na Wyspê Rozbitków, tylko znaleŸæ siê tam duchowo, ¿eby De Singe oœwieci³ mnie w kwestii jêzyka manatów.
+2481)  GUYBRUSH
+Ryba z mojej kieszeni giba siê jak na imprezie.
 2482)  MURRAY
 Ten wykrzywiony pysk uczennicy by nie przerazi³! Potrafi³em przemieniaæ ludzi w kamieñ samym uœmieszkiem! Albo zagotowaæ krew, patrz¹c spode ³ba! Potrzebowa³em tylko okazji! I warg.
-2483)  FEMALE MANATEE
+2483)  FEMALEMANATEE
 Nawet nie jesteœ œwiadom, ¿e zginiesz? Normalnie wypatroszy³abym takiego naiwniaka, ale trafi³eœ na mój dobry dzieñ.
-2484)  FEMALE MANATEE
+2484)  FEMALEMANATEE
 Obawiam siê, ¿e tak. Bardzo wygórowany podatek.
-2485)  FEMALE MANATEE
+2485)  FEMALEMANATEE
 Nudzisz mnie bardziej ni¿ rekinek tañcz¹cy na brzuchu wieloryba. Chyba spasujê.
-2486)  FEMALE MANATEE
+2486)  FEMALEMANATEE
 Jaki leniwy - wychodzi ze mn¹ i pozwala komu innemu mnie zabawiaæ. Hmmph.
-2487)  FEMALE MANATEE
+2487)  FEMALEMANATEE
 Kiedyœ spotyka³am siê z molem ksi¹¿kowym. Pos³u¿y³ za przynêtê.
-2488)  FEMALE MANATEE
+2488)  FEMALEMANATEE
 Za kogo mnie masz? Za jak¹œ upad³¹ lafiryndê?!
-2489)  MALE MANATEE
+2489)  MALEMANATEE
 Eee...
-2490)  FEMALE MANATEE
+2490)  FEMALEMANATEE
 Ale... Powiedzia³eœ trzy noce? No, no...
-2491)  FEMALE MANATEE
+2491)  FEMALEMANATEE
 Tak myœla³am. Pochlipuj¹ce ma³e œcierwo. Zamów sobie taksê.
-2492)  FEMALE MANATEE
+2492)  FEMALEMANATEE
 Facet o s³abym ¿o³¹dku? No to siê nie dogadamy.
-2493)  FEMALE MANATEE
+2493)  FEMALEMANATEE
 Oj, bêdê potrzebowa³a twardszego faceta.
-2494)  FEMALE MANATEE
+2494)  FEMALEMANATEE
 Wiêc przyznajesz, ¿e jesteœ wielk¹ uczuciow¹ rozdymk¹?
-2495)  FEMALE MANATEE
+2495)  FEMALEMANATEE
 No ja myœlê! Nie jesteœ taki têpy, na jakiego wygl¹dasz.
 2496)  GUYBRUSH
 Mo¿e i tak wygl¹da, ale to nie jest dobry pomys³.
