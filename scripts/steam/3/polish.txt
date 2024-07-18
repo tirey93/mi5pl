@@ -1239,7 +1239,6 @@ Mike Stemmle
 Dave Grossman
 617)  
 Na podstawie postaci
-autorstwa
 618)  
 Rona Gilberta
 619)  
@@ -2842,7 +2841,6 @@ Nie! Czekaj! Daj mi jeszcze szansê!
 LucasArts oraz logo LucasArts s¹ znakami handlowymi Lucasfilm Ltd. w U.S.A
 i/lub w innych krajach. © 1990-2009 Lucasfilm Entertainment Company Ltd.
 Telltale oraz logo Telltale Games s¹ znakami handlowymi Telltale, Inc. 
-* Nowa wersja PL - GrajPoPolsku.pl *
 1422)  GUYBRUSH
 A to wœciek³a ma³pa. Jak wœciek³y pawian.
 1423)  GUYBRUSH
@@ -5067,5 +5065,3 @@ Re¿yseria
 Joe Pinney
 2534)  
 Wspó³re¿yser
-2535)  
-Jake Rodkin
