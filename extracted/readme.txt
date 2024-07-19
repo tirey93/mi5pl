@@ -2,7 +2,9 @@ W katalogu znajdują się wyeksportowane pliki z grafikami, czcionkami oraz tłu
 Folder podzieliłem na wersję steam i gog ponieważ platformy te wymagają innych plików spolszczeniowych.
 Numery podkatalogów odpowiadają kolejnym epizodom gry.
 Pliki langdb, zawierające zaszyfrowany tekst tłumaczenia(do odkodowania służy TTGTools) zawierają spolszczenie w starszej wersji. Niniejsze repozytorium ma za zadanie je poprawić wykonując wymaganą korektę lub retranslację.
-Katalogi zostały utworzone za pomocą narzędzia ttarchext. Materiałem źródłowym były pliki tłumaczenia znalezione na stronie GPP: https://grajpopolsku.pl/download/tales-of-monkey-island-rise-of-the-pirate-god/
+Katalogi zostały utworzone za pomocą narzędzia ttarchext. 
+Skrypty do odcinków 1-3 zostały dostarczone przez Zagadkę.
+Skrypty do pozostałych odcinów zostały wydobyte ze starego tłumaczenia na stronie GPP: https://grajpopolsku.pl/download/tales-of-monkey-island-rise-of-the-pirate-god/
 
 Wpakowywanie za pomocą ttarchext 
 Steam

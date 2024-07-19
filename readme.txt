@@ -1,4 +1,19 @@
-Niniejsze repozytorium zawiera narzędzia, pliki oraz teksty spolszczenia do gry Tales of Monkey Island wydanej przez Telltale Games.
+Niniejsze repozytorium zawiera spolszczenie oraz wszelkie niezbędne narzędzia, pliki oraz skrypty do gry Tales of Monkey Island wydanej przez Telltale Games.
+
+Najnowsza wersja spolszczenia dostępna jest w poniższych releasach. Należy wybrać interesujący odcinek i zainstalowaną wersję(Gog lub Steam). Instalacja polega na skopiowaniu odpowiedniego pliku 0.ttarch do katalogu Pack znajdującego się w plikach danego odcinka.
+WERSJA GOG:
+https://github.com/tirey93/mi5pl/releases/download/spolszczenie_gog_odcinek_1/0.ttarch
+https://github.com/tirey93/mi5pl/releases/download/spolszczenie_gog_odcinek_2/0.ttarch
+https://github.com/tirey93/mi5pl/releases/download/spolszczenie_gog_odcinek_3/0.ttarch
+https://github.com/tirey93/mi5pl/releases/download/spolszczenie_gog_odcinek_4/0.ttarch
+https://github.com/tirey93/mi5pl/releases/download/spolszczenie_gog_odcinek_5/0.ttarch
+
+WERSJA STEAM:
+https://github.com/tirey93/mi5pl/releases/download/spolszczenie_steam_odcinek_1/0.ttarch
+https://github.com/tirey93/mi5pl/releases/download/spolszczenie_steam_odcinek_2/0.ttarch
+https://github.com/tirey93/mi5pl/releases/download/spolszczenie_steam_odcinek_3/0.ttarch
+https://github.com/tirey93/mi5pl/releases/download/spolszczenie_steam_odcinek_4/0.ttarch
+https://github.com/tirey93/mi5pl/releases/download/spolszczenie_steam_odcinek_5/0.ttarch
 
 W katalogu tools znajduje się spis narzędzi, które umożliwiają eksport i import plików gry.
 W katalogu extracted znajdują się wydobyte pliki starej wersji spolszczenia.
