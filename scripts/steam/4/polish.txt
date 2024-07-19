@@ -264,6 +264,7 @@ autorstwa
 Rona Gilberta
 127)  
 Ci¹g dalszy nast¹pi w
+
 rozdziale 5.
 
 PIRACKI BÓG POWSTAJE
@@ -473,7 +474,8 @@ Przysz³am po twoj¹ d³oñ...
 228)  GUYBRUSH
 Nie musia³aœ tego robiæ!
 229)  MORGAN
-Musia³am odp³aciæ ci za wszystkie k³opoty. Znalaz³am Jacquesa. Powiedzia³ mi...
+Musia³am odp³aciæ ci za wszystkie k³opoty. Znalaz³am Jacquesa. Powiedzia³ 
+mi...
 230)  GUYBRUSH
 Co?
 231)  MORGAN
@@ -1708,6 +1710,8 @@ Podoba ci siê? W³aœnie skoñczy³em jej coroczne ³atanie i odnawianie.
 Pewnie byœ mi nie odsprzeda³ tej pstrokatej marynarki?
 846)  STAN
 Pozbyæ siê marynarki? To jakby Samson siê ostrzyg³ albo król Artur straci³ Excalibura, albo Sindobrody przefrabowa³ na blond!
+847)  GUYBRUSH
+Co?
 848)  STAN
 Bez marynarki mój sprzedawczy dryg wyparowa³by szybciej ni¿ gor¹cy storczyk w piecu do pizzy!
 849)  GUYBRUSH
@@ -2240,6 +2244,8 @@ Ogol jego ¿o³¹dek zardzewia³¹ brzytw¹!
 {Default} Ta ca³a sprawa z kotem to szwindel, aby siê na mnie zemœciæ {Cocky} za wykopanie ciê z Klubu 41, nieprawda¿?
 1113)  MCGEE
 {Stern} Jak mo¿esz patrzeæ na moje smutne koci¹tko i nazywaæ mnie k³amc¹?  {Concerned} Wystarczy spojrzeæ na ni¹!
+1114)  GALLERY1
+Ooo.
 1115)  GUYBRUSH
 {Cocky} Przyznaj to, {Stern} jesteœ niczym jak niedobrym, beznogim, œmierdz¹cym k³amc¹!
 1116)  STAN

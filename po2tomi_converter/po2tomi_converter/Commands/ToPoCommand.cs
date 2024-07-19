@@ -5,6 +5,7 @@ using System.Text;
 using po2tomi_converter.Dtos;
 using po2tomi_converter.Utils;
 using System.Collections.Generic;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace po2tomi_converter.Commands
 {
@@ -100,27 +101,38 @@ namespace po2tomi_converter.Commands
             var poResult = new StringBuilder();
             foreach (var translation in translations)
             {
-                string[] splittedEng;
-                string[] splittedPl;
-                if (translation.SteamEngLine != null)
+                int number = 0;
+                try
                 {
-                    splittedEng = translation.SteamEngLine.Content.Split('\n');
+                    string[] splittedEng;
+                    string[] splittedPl;
+                    if (translation.SteamEngLine != null)
+                    {
+                        splittedEng = translation.SteamEngLine.Content.Split('\n');
+                        number = translation.SteamEngLine.Number;
+                    }
+                    else
+                    {
+                        splittedEng = translation.GogEngLine.Content.Split('\n');
+                        number = translation.GogEngLine.Number;
+                    }
+                    splittedPl = translation.PlLine.Content.Split('\n');
+
+
+                    int i = 0;
+
+                    foreach (var splittedLine in splittedEng)
+                    {
+                        var markup = SetMarkup(translation, i);
+
+                        poResult.Append(ToPo(markup, splittedEng[i], splittedPl[i]));
+                        i = i + 1;
+                    }
                 }
-                else
+                catch
                 {
-                    splittedEng = translation.GogEngLine.Content.Split('\n');
-                }
-                splittedPl = translation.PlLine.Content.Split('\n');
-
-
-                int i = 0;
-
-                foreach(var splittedLine in splittedEng)
-                {
-                    var markup = SetMarkup(translation, i);
-
-                    poResult.Append(ToPo(markup, splittedEng[i], splittedPl[i]));
-                    i = i + 1;
+                    Console.WriteLine($"Exception in line: {number}");
+                    throw;
                 }
             }
             File.WriteAllText(_settings.PoFileLocation, poResult.ToString());

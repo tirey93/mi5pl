@@ -17,21 +17,31 @@ var serviceProvider = new ServiceCollection()
 
 var options = serviceProvider.GetService<IOptions<MainSettings>>();
 
-switch (options.Value.Mode)
+try
 {
-    case Mode.ToPo:
-        var toPoCommand = serviceProvider.GetService<ToPoCommand>();
-        if(!toPoCommand.HasErrors)
-            toPoCommand.Execute();
-        break;
-    case Mode.FromPo:
-        var fromPoCommand = serviceProvider.GetService<FromPoCommand>();
-        fromPoCommand.Execute();
-        break;
-    case Mode.Sort:
-        var sortCommand = serviceProvider.GetService<SortCommand>();
-        sortCommand.Execute();
-        break;
-    default:
-        break;
+    switch (options.Value.Mode)
+    {
+        case Mode.ToPo:
+            var toPoCommand = serviceProvider.GetService<ToPoCommand>();
+            if (!toPoCommand.HasErrors)
+                toPoCommand.Execute();
+            break;
+        case Mode.FromPo:
+            var fromPoCommand = serviceProvider.GetService<FromPoCommand>();
+            fromPoCommand.Execute();
+            break;
+        case Mode.Sort:
+            var sortCommand = serviceProvider.GetService<SortCommand>();
+            sortCommand.Execute();
+            break;
+        default:
+            break;
+    }
 }
+catch (Exception ex)
+{
+    Console.WriteLine(ex.ToString());
+    Console.ReadKey();
+}
+
+
