@@ -259,11 +259,10 @@ Mike Stemmle
 Dave Grossman
 125)  
 Na podstawie postaci
-autorstwa
 126)  
 Rona Gilberta
 127)  
-Ci¹g dalszy nast¹pi w
+Ci¹g dalszy nast¹pi w 
 
 rozdziale 5.
 
@@ -272,9 +271,8 @@ PIRACKI BÓG POWSTAJE
 otwórz ekwipunek
 129)  
 LucasArts oraz logo LucasArts s¹ znakami handlowymi Lucasfilm Ltd. w USA i/lub w innych krajach. © 1990-2009 Lucasfilm Entertainment Company Ltd.
-Telltale oraz logo Telltale Games s¹ znakami handlowymi Telltale, Inc. 
+Telltale oraz logo Telltale Games s¹ znakami handlowymi Telltale, Inc.
 * Nowa wersja PL - GrajPoPolsku.pl *
-
 130)  
 hak
 131)  
@@ -474,7 +472,7 @@ Przysz³am po twoj¹ d³oñ...
 228)  GUYBRUSH
 Nie musia³aœ tego robiæ!
 229)  MORGAN
-Musia³am odp³aciæ ci za wszystkie k³opoty. Znalaz³am Jacquesa. Powiedzia³ 
+Musia³am odp³aciæ ci za wszystkie k³opoty. Znalaz³am Jacquesa. Powiedzia³
 mi...
 230)  GUYBRUSH
 Co?
@@ -1333,7 +1331,7 @@ Takim jak grog?!
 657)  VOODOOLADY
 Nie, nie jak grog.
 658)  GUYBRUSH
-Oczyszczenie podniebienia... Hmm... 
+Oczyszczenie podniebienia... Hmm...
 659)  VOODOOLADY
 Coœ o tak silnym smaku, ¿e wywróci zmys³y do punkty wyjœcia.
 660)  GUYBRUSH
@@ -2507,7 +2505,7 @@ Przepraszam, mam rêce pe³ne roboty próbuj¹c siê uratowaæ od twojej ¿ony!
 1244)  GUYBRUSH
 {suspicious}Hej, co to za kawa³ek papieru przyklejony do mojego buta?
 1245)  GUYBRUSH
-{confused}Przepis na drink "Trójwyspowa Tuñczykolada". 
+{confused}Przepis na drink "Trójwyspowa Tuñczykolada".
 1246)  GUYBRUSH
 Wygl¹da skomplikowanie.
 1247)  GUYBRUSH
@@ -2607,7 +2605,7 @@ Jak to jest czuæ siê potwornie chorym?
 1294)  CRIMPDIGIT
 {stern}Cieszê siê, ¿e t¹ ss¹c¹ szumowinê LeChucka i t¹ ss¹c¹ szumowinê Lady Voodoo wreszcie trafi sprawiedliwoœæ.
 1295)  GUYBRUSH
-{cocky}W twojej g³owie ka¿dy jest szumowin¹. 
+{cocky}W twojej g³owie ka¿dy jest szumowin¹.
 1298)  GUYBRUSH
 {sarcastic}Witaj, niepoinformowany cz³owieku ulicy!
 1299)  CRIMPDIGIT
@@ -3195,7 +3193,7 @@ Chcesz wygl¹daæ jak chory nieopanowany pirat?
 1590)  DORO
 {Stern} Czy pulsuje kolorem wœciek³ego chorego pirata?
 1591)  GUYBRUSH
-{Incredulous} Nie bardzo... 
+{Incredulous} Nie bardzo...
 1592)  DORO
 W takim razie nie chcê go!
 1593)  GUYBRUSH
@@ -3207,7 +3205,7 @@ W takim razie nie chcê go!
 1596)  DORO
 {Happy} Atchison, Topeka i{Enthused} Santa Fe!
 1597)  DORO
-[sung to the tune of "Aye-aye-aye-aye"] Okooo, oko, oko-oko, moje oko jest naprawdê straszne... 
+[sung to the tune of "Aye-aye-aye-aye"] Okooo, oko, oko-oko, moje oko jest naprawdê straszne...
 1598)  GUYBRUSH
 Teraz, wed³ug Formy, wszystko co musisz zrobiæ, to umieœciæ je w swoim...
 1599)  GUYBRUSH
@@ -3249,7 +3247,7 @@ To naprawdê zostawia plamkê w Ÿrenicy, nieprawda¿?
 1617)  STAN
 {Happy} Pewnie, Threepwood.
 1618)  GUYBRUSH
-Stan,{Suspicious} myœlê, ¿e nale¿y spojrzeæ na  oparzenia od tej lampy (przypalenia na tej lampie)... 
+Stan,{Suspicious} myœlê, ¿e nale¿y spojrzeæ na  oparzenia od tej lampy (przypalenia na tej lampie)...
 1619)  GUYBRUSH
 {Happy} Co teraz s¹dzisz o tej lampie, Stan?
 1620)  STAN
@@ -3763,7 +3761,7 @@ Zastanawiam siê dlaczego ¿a³oœni starzy piraci jak Blekot przyci¹gaj¹ koty?
 1874)  GUYBRUSH
 {cocky}Jeden grog.  Porz¹dny.
 1875)  GRINDSTUMP
-{happy}Ju¿ siê robi! 
+{happy}Ju¿ siê robi!
 1876)  GUYBRUSH
 {happy}Arrr.  OrzeŸwiaj¹cy.
 1877)  GUYBRUSH
@@ -3793,7 +3791,7 @@ Imponuj¹ce!
 1889)  GUYBRUSH
 {cocky}Jeszcze jeden Wyrzutek Wyspy Parszywców?
 1890)  GRINDSTUMP
-{happy}Ju¿ siê robi! 
+{happy}Ju¿ siê robi!
 1891)  GUYBRUSH
 I biorê-
 1892)  GRINDSTUMP
@@ -4439,7 +4437,7 @@ Wzywam œwiadka...
 2212)  
 Drzwi do £azienki
 2213)  
-Bufet 
+Bufet
 2214)  
 Tarcza do Rzutek
 2215)  
@@ -4595,11 +4593,11 @@ Gor¹cy Ciekn¹cy Olej Manata
 2290)  
 Dziwny S¹cz¹cy siê P³yn
 2291)  
-Dziwny Gor¹cy S¹cz¹cy siê P³yn 
+Dziwny Gor¹cy S¹cz¹cy siê P³yn
 2292)  
 Miska
 2293)  
-Miska z Kocim Jedzeniem 
+Miska z Kocim Jedzeniem
 2294)  
 Miska z Niezdrowo Wygl¹daj¹cym Kocim Jedzeniem
 2295)  
@@ -4657,7 +4655,7 @@ Karty Tarota
 2321)  
 Zabawka z Przeciekaj¹cymi Opi³kami
 2322)  
-Magnetyczna Zabawka z Przeciekaj¹cymi Opi³kami 
+Magnetyczna Zabawka z Przeciekaj¹cymi Opi³kami
 2323)  
 Jaskrawy Strzêp Marynarki)
 2324)  
@@ -4665,13 +4663,13 @@ Jacques Elektromagnetyczna Ma³pa
 2325)  
 Zanurzona w Cukrze Odciêta Noga
 2326)  
-Nie Pal¹ca siê Noga Lampy 
+Nie Pal¹ca siê Noga Lampy
 2327)  
 Œmierdz¹ca £apa Lwa
 2328)  
-Parz¹ca Jezyk Papryka  
+Parz¹ca Jezyk Papryka
 2329)  
-Gor¹ca w Dotyku Papryka 
+Gor¹ca w Dotyku Papryka
 2330)  
 Z³o¿ony Przepis na Trójwyspow¹ Tuñczykoladê
 2331)  
@@ -4831,9 +4829,9 @@ Brodata Zabawka
 2408)  GRINDSTUMP
 [pickup1] {Sarcastic} "Bogini Sprawiedliwoœci", {Stern} ty analfabeto!
 2409)  GUYBRUSH
-[pickup1] {Cocky} Nie do ka¿dego budynku, mo¿na œci¹gn¹æ " rufê statku". 
+[pickup1] {Cocky} Nie do ka¿dego budynku, mo¿na œci¹gn¹æ " rufê statku".
 2410)  GUYBRUSH
-[pickup1] Hmm. Pusta szubienica. 
+[pickup1] Hmm. Pusta szubienica.
 2411)  GALLERY1
 [pickup1] Posprz¹taliœmy j¹ tylko dla ciebie, cukiereczku!
 2412)  GUYBRUSH
@@ -4869,7 +4867,7 @@ Brodata Zabawka
 2427)  GUYBRUSH
 {disgust}[pickup1][reacting to stepping in something] Fuj, co to jest?{default}
 2428)  GUYBRUSH
-[pickup1]{Cocky} Kiedy by³em m³odszym piratem, k³ad³em siê na pok³adzie statku i wpatrywa³em siê w mewê jak majestatycznie lata³a po wieczornym niebie... 
+[pickup1]{Cocky} Kiedy by³em m³odszym piratem, k³ad³em siê na pok³adzie statku i wpatrywa³em siê w mewê jak majestatycznie lata³a po wieczornym niebie...
 2429)  GUYBRUSH
 [pickup1]{Stern} ...i wtedy jedna zrobi³a na mnie kupê.  Wiêc przesta³em to robiæ.
 2430)  GUYBRUSH
@@ -4885,7 +4883,7 @@ Szubienica
 2435)  
 Obraz
 2436)  
-Kodeks Piracki 
+Kodeks Piracki
 2437)  
 Stenografistka
 2438)  
@@ -4901,9 +4899,9 @@ Dolne Prawe Zgiêcie
 2443)  
 Górne Zgiêcie
 2444)  
-Górne Lewe Zgiêcie 
+Górne Lewe Zgiêcie
 2445)  
-Górne Prawe Zgiêcie 
+Górne Prawe Zgiêcie
 2446)  
 Noga Lampy z Zieleni¹, Oparzenie w Kszta³cie Weso³ego Rogera
 2447)  
@@ -4939,7 +4937,7 @@ Uczta dla Zmys³ów
 Uczta voodoo w 6 daniach gwarantuje powiêkszenie nawet najmniejszego stwora
 2462)  
 - Danie Pierwsze -
-Na³ó¿ serwetkê przyci¹gaj¹c¹ Wzrok 
+Na³ó¿ serwetkê przyci¹gaj¹c¹ Wzrok
 Groteskwo jaskrawa tkanina
 2463)  
 - Drugie Danie -
@@ -5303,24 +5301,24 @@ Pusta Klatka
 2637)  
 "Br¹zowe Szklane Oko Grindstumpa"
 2638)  
-"Jasnoniebieskie Szklane Oko Raks" 
+"Jasnoniebieskie Szklane Oko Raks"
 2639)  
 "B³êkitne Szklane Oko Blekota "
 2640)  
-"Czarne Szklane Oko Mewy" 
+"Czarne Szklane Oko Mewy"
 2641)  
 "Hebanowe Szklane Oko Stana"
 2642)  
 "Bursztynowe Szklane Oko Jacques"
 2643)  
- "Szmaragdowe Szklane Oko Suchara"
+"Szmaragdowe Szklane Oko Suchara"
 2644)  
-Ostatni Wpis 
+Ostatni Wpis
 
 Pomimo wielokrotnych prób przy u¿yciu sznurówki z przynêt¹, trop bestii pozostaje nie do odró¿nienia od pod³o¿a d¿ungli.
 
 Och, jeœli tylko Bestia wejdzie na oœwietlon¹ œcie¿kê Piêknych
-Œwietlików D¿ungli Wyspy! 
+Œwietlików D¿ungli Wyspy!
 
 Czekaj... co to za zapach?
 2645)  
@@ -5330,7 +5328,7 @@ Zarzut: Zniewaga spó³g³oski X
 
 Powód zarzuca oskar¿onemu prawdopodobne zniszczenie idealnego znaku X.  S¹d ma nadziejê, ¿e on tego nie zmyœli³.
 
-  Wyrok: Œmieræ przez powieszenie
+Wyrok: Œmieræ przez powieszenie
 2647)  
 Œwiadek: B. Raks
 2648)  
@@ -5338,7 +5336,7 @@ Zarzut: Zbrodnia i Przestêpstwo na Udzie.
 
 Zlikwidowanie z Klubu 41 sosu nacho utrudnia sprawê, ale s¹d uznaje za ma³o prawdopodobne, aby jakaœ inna mieszanina p³ynów spowodowa³a u Raks charakterystyczne oparzenie.
 
-  Wyrok: Œmieræ przez œciêcie
+Wyrok: Œmieræ przez œciêcie
 2649)  
 Œwiadek: B. McGee
 2650)  
@@ -5366,7 +5364,7 @@ dziennik myœliwego
 2656)  
 Skrawek Papieru
 2657)  
-ostatni wpis w dzienniku 
+ostatni wpis w dzienniku
 2658)  
 piwne oko Morgan
 2659)  
@@ -5395,5 +5393,3 @@ Elaine i Morgan
 Tak jak siê umawialiœmy.
 2672)  
 cuchn¹ca i gnij¹ca ³apa lwa
-2673)  
-otwarty kufer
