@@ -372,7 +372,7 @@ Mówiliœcie o "artefaktach wezwania"...
 181)  GUYBRUSH
 Mówiliœcie o "artefaktach wezwania" - fajna nazwa.
 182)  MERLEADER
-Nasze proroctwa mówi¹ o trzech z³otych artefaktach, ukrytych gdzieœ na tych wyspach. Maj¹ kszta³t naszych pradawnych bóstw oceanu - M¹dry ¯ó³w, Szlachetny Koñ Morski i Burkliwa Ryba. 
+Nasze proroctwa mówi¹ o trzech z³otych artefaktach, ukrytych gdzieœ na tych wyspach. Maj¹ kszta³t naszych pradawnych bóstw oceanu - M¹dry ¯ó³w, Szlachetny Koñ Morski i Burkliwa Ryba.
 183)  GUYBRUSH
 Burkliwa?
 184)  MERLEADER
@@ -794,7 +794,7 @@ Naturalnie. Rozumiem, ¿e chcesz przypisaæ sobie zas³ugi. To wa¿ne, ¿eby móc zab³
 392)  GUYBRUSH
 Nie o to chodzi, tylko...
 393)  LECHUCK
-A teraz ciê przeproszê, bo muszê zwróciæ do dziczy ma³py, które niegdyœ uprowadzi³em. ¯ebyœ ty wiedzia³, ile ich potrzeba do ukoñczenia kl¹twy voodoo! Co mi strzeli³o do g³owy?! 
+A teraz ciê przeproszê, bo muszê zwróciæ do dziczy ma³py, które niegdyœ uprowadzi³em. ¯ebyœ ty wiedzia³, ile ich potrzeba do ukoñczenia kl¹twy voodoo! Co mi strzeli³o do g³owy?!
 394)  GUYBRUSH
 ChodŸ tu do mnie, ma³a rybko.
 395)  GUYBRUSH
@@ -2622,7 +2622,7 @@ To o starym cz³owieku, który zagubi³ siê na morzu, a wszystko wokó³ opisuje œlep
 1306)  GUYBRUSH
 Brzmi... ciekawie. Chyba poczekam na film.
 1307)  GUYBRUSH
-A mo¿e jakaœ lekka proza? 
+A mo¿e jakaœ lekka proza?
 1308)  GUYBRUSH
 Masz jakieœ lipne romansid³a?
 1309)  TETRA
@@ -2904,9 +2904,9 @@ zamknij ekwipunek
 1447)  
 po³¹cz przedmioty
 1448)  
-tryb ogl¹dania wy³.
+Wy³¹cz Tryb Ogl¹dania
 1449)  
-tryb ogl¹dania w³.
+W³¹cz Tryb Ogl¹dania
 1450)  
 nie wybrano przedmiotu
 1451)  BILL
@@ -3234,7 +3234,7 @@ S³aba bêdzie z tego amunicja, ale mo¿e przyda w strzelaniu do rzutków!
 1612)  GUYBRUSH
 Maszt wygl¹da teraz na zupe³nie zniekszta³cony, ale to w niczym nie pomo¿e.
 1613)  GUYBRUSH
-Mo¿e kiedyœ wyznam sw¹ mi³oœæ do Elaine rzeŸbi¹c nasze inicja³y w korze, ale teraz lepiej zaj¹æ siê McGillicutty'm! 
+Mo¿e kiedyœ wyznam sw¹ mi³oœæ do Elaine rzeŸbi¹c nasze inicja³y w korze, ale teraz lepiej zaj¹æ siê McGillicutty'm!
 1614)  GUYBRUSH
 Bêdziesz cienko œpiewa³, jak ciê nadziejê na hak!
 1615)  MCGILLICUTTY
@@ -3496,7 +3496,7 @@ autorstwa
 1742)  
 Rona Gilberta
 1743)  
-Ci¹g dalszy nast¹pi w
+Ci¹g dalszy nast¹pi w 
 
 rozdziale 3.
 
@@ -3538,7 +3538,7 @@ Gdzie ja ju¿ to widzia³em?
 1761)  
 LucasArts oraz logo LucasArts s¹ znakami handlowymi Lucasfilm Ltd. w U.S.A i/lub
 w innych krajach. © 1990-2009 Lucasfilm Entertainment Company Ltd.
-Telltale oraz logo Telltale Games s¹ znakami handlowymi Telltale, Inc. 
+Telltale oraz logo Telltale Games s¹ znakami handlowymi Telltale, Inc.
 1762)  GUYBRUSH
 Zobaczymy, czy odeprzesz to!
 1763)  GUYBRUSH
@@ -4102,7 +4102,7 @@ Po co ryba posz³a do onkologa?
 
 Bo podobno raka wyleczy³.
 2045)  
-Co jest najwa¿niejsze w wêdkowaniu?
+Co jest najwa¿niejsze w wêdkowaniu? 
 
 Nie pomyliæ przynêty z zak¹sk¹.
 2046)  

@@ -1288,16 +1288,16 @@
       <tuv lang="en-US">
         <seg>Examine Mode Off</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tryb Lupy Wył.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240925T135844Z">
+        <seg>Wyłącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Examine Mode On</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tryb Lupy Wł.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240925T135847Z">
+        <seg>Włącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>

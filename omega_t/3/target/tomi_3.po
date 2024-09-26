@@ -352,11 +352,11 @@ msgstr "połącz przedmioty"
 
 msgctxt "78_78_0_"
 msgid "Examine Mode Off"
-msgstr "tryb oglądania wył."
+msgstr "Wyłącz Tryb Oglądania"
 
 msgctxt "79_79_0_"
 msgid "Examine Mode On"
-msgstr "tryb oglądania wł."
+msgstr "Włącz Tryb Oglądania"
 
 msgctxt "80_80_0_"
 msgid "No Inventory Selected"
@@ -4540,7 +4540,7 @@ msgstr "Co? Nawet nie musiałem nic robić."
 
 msgctxt "1127_1127_0_MORGAN"
 msgid "Sometimes they break easy, like delicate, Faberge Eggs. {Sarcastic} Look at him, he's a wreck."
-msgstr "Czasem szybko pękają, jak jajka Fabergé. Sam popatrz, to wrak."
+msgstr "Czasem szybko pękają, jak jajka Faberge. Sam popatrz, to wrak."
 
 msgctxt "1128_1128_0_BUGEYE"
 msgid "{Scared} Just don't hurt me!"

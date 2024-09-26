@@ -6240,11 +6240,11 @@ msgstr "połącz przedmioty"
 
 msgctxt "1549_1448_0_"
 msgid "Examine Mode Off"
-msgstr "tryb oglądania wył."
+msgstr "Wyłącz Tryb Oglądania"
 
 msgctxt "1550_1449_0_"
 msgid "Examine Mode On"
-msgstr "tryb oglądania wł."
+msgstr "Włącz Tryb Oglądania"
 
 msgctxt "1551_1450_0_"
 msgid "No Inventory Selected"

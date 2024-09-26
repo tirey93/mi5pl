@@ -2552,7 +2552,7 @@ msgstr "Już miałem zniszczyć LeChucka, ale w ostatniej chwili musiałem dokon
 
 msgctxt "625_614_0_VOODOO"
 msgid "{stern}What manner of... complications?"
-msgstr "A cóż to za „zgrzyty„?"
+msgstr "A cóż to za \"zgrzyty\"?"
 
 msgctxt "626_615_0_GUYBRUSH"
 msgid "[hemming and hawing] Well, the cutlass didn't so much annihilate LeChuck as it... [quietly] turned him human."
@@ -8948,11 +8948,11 @@ msgstr "połącz przedmioty"
 
 msgctxt "2204_2176_0_"
 msgid "Examine Mode Off"
-msgstr "tryb oglądania wył."
+msgstr "Wyłącz Tryb Oglądania"
 
 msgctxt "2205_2177_0_"
 msgid "Examine Mode On"
-msgstr "tryb oglądania wł."
+msgstr "Włącz Tryb Oglądania"
 
 msgctxt "2206_2178_0_"
 msgid "No Inventory Selected"

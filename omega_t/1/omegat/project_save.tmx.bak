@@ -11040,8 +11040,8 @@
       <tuv lang="en-US">
         <seg>depraved pirate named LeChuck</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>jest zdeprawowany pirat</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240714T120922Z">
+        <seg>jest zdeprawowany pirat LeChuck</seg>
       </tuv>
     </tu>
     <tu>
@@ -18032,8 +18032,8 @@
       <tuv lang="en-US">
         <seg>{stern}What manner of... complications?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A cóż to za „zgrzyty„?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240912T140243Z">
+        <seg>A cóż to za "zgrzyty"?</seg>
       </tuv>
     </tu>
     <tu>

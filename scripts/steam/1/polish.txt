@@ -64,7 +64,7 @@ Zapisy
 32)  
 Utracisz wszelkie niezapisane dane.
 33)  
-Gotów na 
+Gotów na
 now¹ przygodê?
 34)  
 A jak¿e!
@@ -956,7 +956,7 @@ Murray?
 471)  GUYBRUSH
 Uroczy dzwoneczek. Nie siêgnê go z tej pozycji.
 472)  GUYBRUSH
-Uroczy dzwoneczek, który sprawia, ¿e ma³pka operuje maszyn¹ do obrazków. 
+Uroczy dzwoneczek, który sprawia, ¿e ma³pka operuje maszyn¹ do obrazków.
 473)  GUYBRUSH
 Niesamowite urz¹dzenie.
 474)  DESINGE
@@ -1258,7 +1258,7 @@ Ano tak...
 624)  GUYBRUSH
 Ju¿ mia³em zniszczyæ LeChucka, ale w ostatniej chwili musia³em dokonaæ podmianki i wtedy pojawi³y siê pewne zgrzyty.
 625)  VOODOO
-A có¿ to za „zgrzyty„?
+A có¿ to za "zgrzyty"?
 626)  GUYBRUSH
 Szabla nie tyle co pokona³a LeChucka, ile zmieni³a w cz³owieka.
 627)  VOODOO
@@ -3136,7 +3136,7 @@ A wiêc potrzeba mi soczystych pirackich niusów!
 1563)  GUYBRUSH
 A wynajem pirackiego ³owcy skarbów, by znaleŸæ skarb nie zepsuje ci czasem artyku³u?
 1564)  NIPPERKIN
-Jak ju¿ to zwiêkszy jego autentycznoœæ. Ju¿ widzê ten nag³ówek: "Nowy rozbitek pomaga s³awnemu ³owcy skarbów znaleŸæ ³up wszech dziejów"! 
+Jak ju¿ to zwiêkszy jego autentycznoœæ. Ju¿ widzê ten nag³ówek: "Nowy rozbitek pomaga s³awnemu ³owcy skarbów znaleŸæ ³up wszech dziejów"!
 1565)  GUYBRUSH
 Wiesz jak st³uc niet³uk¹ce siê butelki?
 1566)  MCGEE
@@ -4430,9 +4430,9 @@ zamknij ekwipunek
 2203)  
 po³¹cz przedmioty
 2204)  
-tryb ogl¹dania wy³.
+Wy³¹cz Tryb Ogl¹dania
 2205)  
-tryb ogl¹dania w³.
+W³¹cz Tryb Ogl¹dania
 2206)  
 nie wybrano przedmiotu
 2207)  
@@ -4458,7 +4458,7 @@ Uda siê ot tak!
 2217)  GUYBRUSH
 Kocham tworzyæ pirackie niusy!
 2218)  
-Zapamiêtaæ:
+Zapamiêtaæ: 
               "KRYSKA"
 2219)  GUYBRUSH
 Ciekawe, czy jest tam coœ przydatnego.
@@ -4768,7 +4768,7 @@ pradawny wiatrowskaz boga wiatru
 Jo³!
 2370)  
 Witaj w "Opowieœciach z Wyspy
-Ma³p - polowanie na skarb"! Pod¹¿aj za 
+Ma³p - polowanie na skarb"! Pod¹¿aj za
 map¹, by odnaleŸæ zakopany skarb!
 2371)  
 Aby wybraæ obiekt, kliknij na niego lewym przyciskiem myszy. Spróbuj zabraæ przepis voodoo z masztu.
@@ -4825,7 +4825,7 @@ Rona Gilberta
 2395)  
 Pomo¿esz mi z tymi szalonymi wiatrami?
 2396)  
-Ci¹g dalszy nast¹pi w
+Ci¹g dalszy nast¹pi w 
 
 rozdziale 2.
 
@@ -4837,7 +4837,7 @@ ROZDZIA£ 1.
 
 ZRYW WYJ¥CEJ NARWALI
 2398)  
-Witamy w poszukiwaniu skarbów. Na Wyspie Rozbitków zakopano statuetki bogów. Ka¿dy z nich strze¿e cennego skarbu. Pod¹¿aj swoimi mapami, by zgarn¹æ ³up!
+Witamy w poszukiwaniu skarbów. Na Wyspie Rozbitków zakopano statuetki bogów. Ka¿dy z nich strze¿e cennego skarbu. Pod¹¿aj swoimi mapami, by zgarn¹æ ³up!  
 
 OdwiedŸ MonkeyIslandTreasures.com, aby sprawdziæ status swych poszukiwañ, dostawaæ nagrody oraz zupe³nie nowe mapy!
 2399)  
@@ -4866,7 +4866,7 @@ otwórz ekwipunek
 "Jak zabiæ czas na Wyspie Rozbitków".
 2410)  
 LucasArts oraz logo LucasArts s¹ znakami handlowymi Lucasfilm Ltd. w USA i/lub w innych krajach. © 1990-2009 Lucasfilm Entertainment Company Ltd.
-Telltale oraz logo Telltale Games s¹ znakami handlowymi Telltale, Inc. 
+Telltale oraz logo Telltale Games s¹ znakami handlowymi Telltale, Inc.
 * Nowa polska wersja - GrajPoPolsku.pl *
 2411)  
 Aby zaznaczyæ obiekt, wyceluj w niego wskaŸnikiem i naciœnij przycisk A. Spróbuj zaznaczyæ przepis voodoo na maszcie.

@@ -1728,16 +1728,16 @@
       <tuv lang="en-US">
         <seg>Examine Mode Off</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>tryb oglądania wył.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240925T135723Z">
+        <seg>Wyłącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Examine Mode On</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>tryb oglądania wł.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240925T135715Z">
+        <seg>Włącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>
@@ -5560,8 +5560,8 @@
       <tuv lang="en-US">
         <seg>Sometimes they break easy, like delicate, Faberge Eggs. {Sarcastic} Look at him, he's a wreck.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czasem szybko pękają, jak jajka Fabergé. Sam popatrz, to wrak.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240925T135618Z">
+        <seg>Czasem szybko pękają, jak jajka Faberge. Sam popatrz, to wrak.</seg>
       </tuv>
     </tu>
     <tu>

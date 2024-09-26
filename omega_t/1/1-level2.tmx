@@ -2200,16 +2200,16 @@
       <tuv xml:lang="en-US">
         <seg>Examine Mode Off</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>tryb oglądania wył.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240925T135800Z">
+        <seg>Wyłącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Examine Mode On</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>tryb oglądania wł.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240925T135802Z">
+        <seg>Włącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>
@@ -18032,8 +18032,8 @@
       <tuv xml:lang="en-US">
         <seg>{stern}What manner of... complications?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>A cóż to za „zgrzyty„?</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240912T140243Z">
+        <seg>A cóż to za "zgrzyty"?</seg>
       </tuv>
     </tu>
     <tu>

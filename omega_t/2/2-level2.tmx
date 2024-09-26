@@ -1144,16 +1144,16 @@
       <tuv xml:lang="en-US">
         <seg>Examine Mode Off</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>tryb oglądania wył.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240925T135740Z">
+        <seg>Wyłącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Examine Mode On</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>tryb oglądania wł.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240925T135743Z">
+        <seg>Włącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>

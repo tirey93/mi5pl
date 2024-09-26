@@ -164,9 +164,9 @@ zamknij ekwipunek
 77)  
 po³¹cz przedmioty
 78)  
-tryb ogl¹dania wy³.
+Wy³¹cz Tryb Ogl¹dania
 79)  
-tryb ogl¹dania w³.
+W³¹cz Tryb Ogl¹dania
 80)  
 nie wybrano przedmiotu
 81)  MORGAN
@@ -1054,7 +1054,7 @@ Obczaj to!
 526)  GUYBRUSH
 To jest pojedynek pielgrzymów czy piratów w koñcu?
 527)  GUYBRUSH
-Poka¿ê ci... 
+Poka¿ê ci...
 528)  GUYBRUSH
 Dobra, moja kolej.
 529)  GUYBRUSH
@@ -2074,7 +2074,7 @@ Czy u was ka¿dy jest tak niepomocny?
 1038)  DESINGE
 Dzieci mej ojczyzny to najlepsze, co œwiat móg³ zaoferowaæ! Nie bez powodu zwiemy swój kraj matczynym morsem Zachodu!
 1039)  DESINGECUTAWAY
-Co za bolesne majtkowanie! Œwiêty hipciu, praktycznie czujê smak w³asnych gaci! 
+Co za bolesne majtkowanie! Œwiêty hipciu, praktycznie czujê smak w³asnych gaci!
 1040)  DESINGECUTAWAY
 To niemo¿liwe. Nie mog³a mi tego zrobiæ.
 1041)  DESINGECUTAWAY
@@ -2250,7 +2250,7 @@ Mówi prawdê.
 1126)  GUYBRUSH
 Co? Nawet nie musia³em nic robiæ.
 1127)  MORGAN
-Czasem szybko pêkaj¹, jak jajka Fabergé. Sam popatrz, to wrak.
+Czasem szybko pêkaj¹, jak jajka Faberge. Sam popatrz, to wrak.
 1128)  BUGEYE
 Nie krzywdŸ mnie!
 1129)  GUYBRUSH
@@ -2684,7 +2684,7 @@ Raz kozie œmieræ. Zaczniemy uprzejmie.
 1343)  
 > Zwiedzanie
 1344)  
-> Pieni¹dze i us³ugi 
+> Pieni¹dze i us³ugi
 1345)  
 > Nag³e wypadki
 1346)  GUYBRUSH
@@ -2840,7 +2840,7 @@ Nie! Czekaj! Daj mi jeszcze szansê!
 1421)  
 LucasArts oraz logo LucasArts s¹ znakami handlowymi Lucasfilm Ltd. w U.S.A
 i/lub w innych krajach. © 1990-2009 Lucasfilm Entertainment Company Ltd.
-Telltale oraz logo Telltale Games s¹ znakami handlowymi Telltale, Inc. 
+Telltale oraz logo Telltale Games s¹ znakami handlowymi Telltale, Inc.
 1422)  GUYBRUSH
 A to wœciek³a ma³pa. Jak wœciek³y pawian.
 1423)  GUYBRUSH
@@ -4572,7 +4572,7 @@ koœci
 2300)  
 czaszka konika morskiego
 2301)  
-wrak statku 
+wrak statku
 2302)  
 znak ostrzegawczy
 2303)  
@@ -4592,11 +4592,11 @@ Dotknij mnie tam, a zginiesz.
 2310)  
 podk³adka voodoo
 2311)  
-dzwonek voodoo 
+dzwonek voodoo
 2312)  
-miejsce na kartê Aktora 
+miejsce na kartê Aktora
 2313)  
-instrukcje voodoo 
+instrukcje voodoo
 2314)  
 "Manaci w 12 prostych krokach"
 2315)  
@@ -4892,7 +4892,7 @@ pirat z bongo
 2447)  
 gburowaty pirat
 2448)  
-wrak statku 
+wrak statku
 2449)  
 weso³a czaszka
 2450)  GUYBRUSH
