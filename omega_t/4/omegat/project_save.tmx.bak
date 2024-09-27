@@ -1976,16 +1976,16 @@
       <tuv lang="en-US">
         <seg>Examine Mode Off</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>tryb oglądania wył.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240925T135822Z">
+        <seg>Wyłącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Examine Mode On</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>tryb oglądania wł.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240925T135823Z">
+        <seg>Włącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>
@@ -10592,8 +10592,8 @@
       <tuv lang="en-US">
         <seg>{Annoyed} Objection!  Relevance?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Annoyed} Sprzeciw!  Bez związku?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240926T110908Z">
+        <seg>{Annoyed} Sprzeciw! Brak związku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16416,8 +16416,8 @@
       <tuv lang="en-US">
         <seg>{Suspicious} Hmm, come to {Confused} think of it, there isn't any.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Suspicious} Hmm, po zastanowieniu, {Confused} nie mam żadnych pytań.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240926T110956Z">
+        <seg>{Suspicious} Hmm, po zastanowieniu, {Confused} faktycznie go nie ma.</seg>
       </tuv>
     </tu>
     <tu>

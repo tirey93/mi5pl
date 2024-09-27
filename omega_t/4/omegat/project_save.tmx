@@ -10592,8 +10592,8 @@
       <tuv lang="en-US">
         <seg>{Annoyed} Objection!  Relevance?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Annoyed} Sprzeciw!  Bez związku?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240926T110908Z">
+        <seg>{Annoyed} Sprzeciw! Brak związku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16416,8 +16416,8 @@
       <tuv lang="en-US">
         <seg>{Suspicious} Hmm, come to {Confused} think of it, there isn't any.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Suspicious} Hmm, po zastanowieniu, {Confused} nie mam żadnych pytań.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240926T110956Z">
+        <seg>{Suspicious} Hmm, po zastanowieniu, {Confused} faktycznie go nie ma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18808,8 +18808,8 @@
       <tuv lang="en-US">
         <seg>{default}Sometimes.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{default}Kiedyś.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240927T083037Z">
+        <seg>{default}Czasami.</seg>
       </tuv>
     </tu>
     <tu>
