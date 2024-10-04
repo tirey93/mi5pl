@@ -13,14 +13,14 @@ Zapisz
 7)  
 Zapisz i wczytaj
 8)  
-Ustawienia
+Opcje
 9)  
 Czy na pewno
-chcesz ju¿ wyjœæ?
+chcesz wyjœæ z gry?
 10)  
 Muzyka
 11)  
-DŸwiêki
+Efekty
 12)  
 G³osy
 13)  
@@ -70,17 +70,17 @@ Czy usun¹æ ten zapis?
 35)  
 OPOWIEŒCI Z WYSPY MA£P
 
-ROZDZIA£ 4
+ROZDZIA£ 4.
 
 PROCES I EGZEKUCJA GUYBRUSHA THREEPWOODA
 36)  
-Przepraszam!
+Niestety!
 
 Zapisywanie i wczytywanie
-jest zablokowane w wersji próbnej!
+jest niedostêpne w demie!
 37)  
 Pauza
-Naciœnij klawisz spacji, aby kontynuowaæ
+Naciœnij klawisz Spacji, aby kontynuowaæ
 38)  
 << Wróæ
 39)  
@@ -93,9 +93,9 @@ Hmm.
 42)  GUYBRUSH
 Au!
 43)  GUYBRUSH
-Tak, myœlê, ¿e spróbujê póŸniej.
+Chyba póŸniej zajrzê.
 44)  GUYBRUSH
-"A dmuchnij se w szkie³ko".
+Huta szk³a "A dmuchnê se w szkie³ko".
 45)  GUYBRUSH
 Pa.
 46)  GUYBRUSH
@@ -109,13 +109,13 @@ Nie.
 50)  GUYBRUSH
 Nie.
 51)  GUYBRUSH
-Eee, nie.
+Nie.
 52)  GUYBRUSH
 Jeszcze nie chcê siê z tym rozstawaæ.
 53)  GUYBRUSH
 Jeszcze nie?
 54)  GUYBRUSH
-E-e.
+ 
 55)  GUYBRUSH
 No chyba nie.
 57)  JACQUES
@@ -133,7 +133,7 @@ drzwi do klubu
 64)  
 szyld klubu
 65)  
-drzwi do s¹du pirackiego
+drzwi do gmachu s¹du
 66)  
 drzwi do redakcji
 67)  
@@ -167,11 +167,11 @@ peda³ od bananów
 81)  
 peda³ od wstrz¹sów
 82)  
-elektryczne ustrojstwo
+urz¹dzenie elektryczne
 83)  
 szkielet
 84)  
-obrazkomat
+projektor
 85)  
 obrazek
 86)  
@@ -183,7 +183,7 @@ ka³u¿a t³uszczu
 89)  
 Joaquin D'Oro
 90)  
-beznadziejnie zepsuta elektryczna maszyna
+beznadziejnie zepsuta maszyna elektryczna
 91)  
 Wyj¹ca Narwala
 92)  
@@ -193,7 +193,7 @@ LeChuck
 94)  
 Elaine
 95)  
-Do mi³ego.
+Na razie.
 96)  
 Wznów
 grê
@@ -202,15 +202,15 @@ zamknij ekwipunek
 98)  
 po³¹cz przedmioty
 99)  
-tryb ogl¹dania wy³.
+Wy³¹cz Tryb Ogl¹dania
 100)  
-tryb ogl¹dania w³.
+W³¹cz Tryb Ogl¹dania
 101)  
 nie wybrano przedmiotu
 102)  
 zatwierdŸ
 103)  
-Doki
+dok
 104)  
 ogromna machina do kontroli wiatru
 105)  
@@ -224,7 +224,7 @@ Doki
 109)  
 D¿ungla
 110)  
-Laboratorium De Singe'a
+Laboratorium
 111)  
 powrót do wejœcia do d¿ungli
 112)  
@@ -258,7 +258,7 @@ Mark Darin
 Mike Stemmle
 Dave Grossman
 125)  
-Na podstawie postaci
+Na podstawie postaci autorstwa
 126)  
 Rona Gilberta
 127)  
@@ -266,13 +266,13 @@ Ci¹g dalszy nast¹pi w
 
 rozdziale 5.
 
-PIRACKI BÓG POWSTAJE
+INSUREKCJA PIRACKIEGO BOGA
 128)  
 otwórz ekwipunek
 129)  
 LucasArts oraz logo LucasArts s¹ znakami handlowymi Lucasfilm Ltd. w USA i/lub w innych krajach. © 1990-2009 Lucasfilm Entertainment Company Ltd.
 Telltale oraz logo Telltale Games s¹ znakami handlowymi Telltale, Inc.
-* Nowa wersja PL - GrajPoPolsku.pl *
+* Nowa polska wersja - GrajPoPolsku.pl *
 130)  
 hak
 131)  
@@ -280,7 +280,7 @@ mewa
 132)  
 Morgan LeFlay
 133)  GUYBRUSH
-Dobrze, ¿e Elaine da³a mi swoj¹ obr¹czkê, nim nie odzyskam w³asnej. W tym stanie przehandlowa³aby j¹ za bekê grogu.
+Dobrze, ¿e Elaine da³a mi swoj¹ obr¹czkê, nim nie odzyskam w³asnej. W tym stanie zastawi³aby j¹ pewnie za bekê grogu.
 134)  
 ³ódŸ
 135)  
@@ -288,13 +288,13 @@ obr¹czka Elaine
 136)  
 ocean
 137)  GUYBRUSH
-No, señor Esponja Nie-Tak-Grande, jeszcze tylko jeden zmys³ i po robocie!
+{Happy} No, señor Esponja Nie-Tak-Grande, {Cocky} zosta³ nam jeden zmys³ i{pisze se cokolwiek} po robocie!
 138)  GUYBRUSH
 Gdzie by tu znaleŸæ donoœny dŸwiêk poobiedniego bekniêcia?
 139)  GUYBRUSH
 Jest tu tylko jeden dinks, który wydaje taki dŸwiêk...
 140)  DESINGE
-Alouette, bêdê ¿y³ wiecznie, alouette, immortalité...
+Alouette, bêdê ¿y³ wiecznie, alouette, immortalite...
 141)  DESINGE
 Kto bêdzie ¿yæ wiecznie? Moi! Kto przechytrzy naturê? Moi!
 142)  ELAINE
@@ -1869,7 +1869,7 @@ Dziœ udowodniê, poza odrobin¹ cienia w¹tpliwoœci, ¿e Guybrush Threepwood jest wi
 926)  GALLERY2
 Zabawne, myœla³em, ¿e trzech...
 927)  STAN
-Po pierwsze, œwiadomie zaanga¿owa³ siê w bójkê barow¹, która strasznie zrani³a ukochanego kota pirata lokalnej starszyzny, Blekota McGee!
+Po pierwsze, œwiadomie zaanga¿owa³ siê w bójkê barow¹, która strasznie zrani³a ukochanego kota pirata lokalnej starszyzny, Hemlocka McGee!
 928)  MCGEE
 [voice from gallery] Powieszenie jest za dobre dla niego!
 929)  STAN
@@ -2097,7 +2097,7 @@ Piêknisia?
 1040)  STAN
 Œwiadek jest twój, m³ody.
 1041)  GUYBRUSH
-Wzywam Blekota McGee do zeznañ.
+Wzywam Hemlocka McGee do zeznañ.
 1042)  HARDTACK
 Hem...
 1043)  MCGEE
@@ -2331,7 +2331,7 @@ Pomyœla³em, ¿e pewnie to coœ da.
 1157)  GUYBRUSH
 Lepiej nie wychodziæ z moj¹ ma³p¹ ponownie na œrodek sali, dopóki nie bêdê pewny, ¿e jego zwierzêcy magnetyzm bêdzie przydatny.
 1158)  GUYBRUSH
-Wysoki s¹dzie, piraci i ró¿norodni korsarze. {Suspicious}  Blekot McGee twierdzi, ¿e to {Proud} ja, Guybrush Threepwood, Potê¿ny Pirat™, spowodowa³em te emocjonalne blizny u{Worried} biednej Pannie Piêknisi sparali¿owanej starchem. {Cocky} Ale stawiam, ¿e to nie pokorny oskar¿ony, spowodowa³ niefortunn¹ traumê u kota Blekota, ale du¿o bardziej {Incredulous} podstêpny napastnik, który jest w tej sali s¹dowej, mówiê o... {Stern} Jaccuse...
+Wysoki s¹dzie, piraci i ró¿norodni korsarze. {Suspicious}  Hemlock McGee twierdzi, ¿e to {Proud} ja, Guybrush Threepwood, Potê¿ny Pirat™, spowodowa³em te emocjonalne blizny u{Worried} biednej Pannie Piêknisi sparali¿owanej starchem. {Cocky} Ale stawiam, ¿e to nie pokorny oskar¿ony, spowodowa³ niefortunn¹ traumê u kota Hemlocka, ale du¿o bardziej {Incredulous} podstêpny napastnik, który jest w tej sali s¹dowej, mówiê o... {Stern} Jaccuse...
 1159)  MCGEE
 Co?
 1160)  STAN
@@ -2433,17 +2433,17 @@ Auæ!
 1208)  GUYBRUSH
 {disgust}Co ta za artystyczna odraza?
 1209)  GRINDSTUMP
-{confused}[from off-screen] Arr, to obraz os³awionej "Bestii D¿ungli" Wyspy Rozbitków, {proud}namalowany przez naszego Blekota McGee.{guybrush suspicious}
+{confused}[from off-screen] Arr, to obraz os³awionej "Bestii D¿ungli" Wyspy Rozbitków, {proud}namalowany przez naszego Hemlocka McGee.{guybrush suspicious}
 1210)  GUYBRUSH
-Blekota?  {confused}Naprawdê?
+Hemlocka?  {confused}Naprawdê?
 1211)  GRINDSTUMP
-{confused}Aj.  Nikt nie wie wiêcej o naszej legendarnej bestii ni¿ stary Blekot.
+{confused}Aj.  Nikt nie wie wiêcej o naszej legendarnej bestii ni¿ stary Hemlock.
 1212)  GUYBRUSH
-{confused}Ciekawe, czy Blekot powie mi wiêcej o legendarnej {suspicious}"Bestii D¿ungli"... oraz dlaczego nigdy na ni¹ nie wpad³em.
+{confused}Ciekawe, czy Hemlock powie mi wiêcej o legendarnej {suspicious}"Bestii D¿ungli"... oraz dlaczego nigdy na ni¹ nie wpad³em.
 1213)  GUYBRUSH
-{confused}Jeœli Blekot mówi prawdê o tej istocie, {disgust} to œmierdzi ona tak, ¿e mog³aby obraæ skrupiaki z mojego steru.
+{confused}Jeœli Hemlock mówi prawdê o tej istocie, {disgust} to œmierdzi ona tak, ¿e mog³aby obraæ skrupiaki z mojego steru.
 1214)  GUYBRUSH
-{suspicious}Blekot powinien byæ ci¹gany do "s¹du przez t¹ sztukê"...
+{suspicious}Hemlock powinien byæ ci¹gany do "s¹du przez t¹ sztukê"...
 1215)  GUYBRUSH
 {cocky}Móg³byœ siê nie ruszaæ przez chwilê?  Myœlê, ¿e masz coœ w oku...
 1216)  GRINDSTUMP
@@ -2575,11 +2575,11 @@ Nie mów, ¿e wci¹¿ dmuchasz szk³o.
 1279)  CRIMPDIGIT
 {default}Nie, nie widzia³em jej.
 1280)  
-Do mi³ego.
+Na razie.
 1281)  CRIMPDIGIT
 {stern}Bêdê czeka³.
 1282)  GUYBRUSH
-Do mi³ego.
+Na razie.
 1283)  CRIMPDIGIT
 {default}Tak naprawdê to jedna osoba, ale chce du¿y zapas.  Nie pytaj mnie dlaczego.
 1284)  GUYBRUSH
@@ -2711,7 +2711,7 @@ Niewa¿ne.
 1349)  GUYBRUSH
 {Angry} Nie za to!  Za zabicie jej!
 1350)  DESINGE
-Hmmph.  Pirat i ³owczyni piratów! Twój rodzaj zawsze spotyka wczesna œmieræ. {Angry}  IdŸ ju¿ sobie!
+Hmmph.  Pirat i ³owczyni piratów! Twój rodzaj zawsze spotyka wczesna œmieræ. {Angry}  Krzy¿yk na drogê.
 1351)  GUYBRUSH
 {Angry}Wci¹¿ myœlê, ¿e zamordowa³eœ Morgan!
 1352)  DESINGE
@@ -3385,7 +3385,7 @@ Witaj, Dwuprotezy.
 1686)  GUYBRUSH
 {cocky}Choæ mogê wiele zamków otworzyæ moim stylowym hakiem to nie jest jeden z nich.
 1687)  GUYBRUSH
-{cocky}Kot Blekota jest wystarczaj¹co katatoniczny bez mieszania jedzenia.
+{cocky}Kot Hemlock jest wystarczaj¹co katatoniczny bez mieszania jedzenia.
 1688)  GUYBRUSH
 {disgust}Wygl¹da nieapetycznie.
 1689)  MCGEE
@@ -3431,7 +3431,7 @@ Mam doœæ ciek³ego szk³a w spodniach do wszystkich moich potrzeb.
 1709)  CRIMPDIGIT
 {angry}Hej!
 1710)  GUYBRUSH
-{cocky}Hej Blekot, mogê uchwyciæ kolor twojego oka?
+{cocky}Hej Hemlock, mogê uchwyciæ kolor twojego oka?
 1711)  MCGEE
 {angry}Hej!
 1712)  GUYBRUSH
@@ -3637,7 +3637,7 @@ Arrrr!
 1812)  MORGAN
 {strained}[yelling at him as he leaves] Có¿, nie by³by pierwszy! [muttering to herself]{stern} G³upek.
 1813)  MORGAN
-{default}Kiedyœ.
+{default}Czasami.
 1814)  STAN
 {Cocky} Tak?
 1815)  HARDTACK
@@ -3753,7 +3753,7 @@ Wyspa posz³a w cholerê odk¹d ospa osiad³a w... tam wszêdzie s¹ ka³u¿e niebezpiec
 1870)  GUYBRUSH
 "Sparali¿owa³o" mi oczy.  Za³o¿ê siê, ¿e kot potrzebuje lepszej diety.
 1871)  GUYBRUSH
-Zastanawiam siê dlaczego ¿a³oœni starzy piraci jak Blekot przyci¹gaj¹ koty?
+Zastanawiam siê dlaczego ¿a³oœni starzy piraci jak Hemlock przyci¹gaj¹ koty?
 1872)  GUYBRUSH
 {cocky}Postaw mi grogatini.  {happy}Z plasterkiem cytryny!
 1873)  GRINDSTUMP
@@ -4021,7 +4021,7 @@ Lepiej oczyszczê swoje imiê i wrócê do G¹bki i wyleczenia Elaine (i innych) z os
 2004)  GUYBRUSH
 {Cocky} Chcia³bym omówiæ ze œwiadkiem tak zwan¹ "fa³szyw¹" figurkê...
 2005)  STAN
-{Annoyed} Sprzeciw!  Bez zwi¹zku?
+{Annoyed} Sprzeciw! Brak zwi¹zku.
 2006)  GRINDSTUMP
 {Stern} Ten dowód nie ma zwi¹zku z t¹ spraw¹, Threepwood!
 2007)  GUYBRUSH
@@ -4039,7 +4039,7 @@ Chcia³bym, aby œwiadek oceni³ wartoœæ tego pierœcienia...
 2013)  GRINDSTUMP
 {Default} Byæ mo¿e, ale to nie ma znaczenia dla sprawy!
 2014)  GUYBRUSH
-{Suspicious} Hmm, po zastanowieniu, {Confused} nie mam ¿adnych pytañ.
+{Suspicious} Hmm, po zastanowieniu, {Confused} faktycznie go nie ma.
 2015)  GUYBRUSH
 Nie s¹dzê, ¿e by³oby dopuszczone jako dowód.
 2016)  GUYBRUSH
@@ -4195,7 +4195,7 @@ To jest dobra rzecz dla tych zmys³ów smaku, wszystkie te przygody sprawiaj¹, ¿e 
 2091)  GUYBRUSH
 Coœ w tej d¿ungli pachnie…
 2092)  GUYBRUSH
-Blekot eksploruje d¿unglê wyspy... mo¿e powie mi co tak œmierdzi.
+Hemlock eksploruje d¿unglê wyspy... mo¿e powie mi co tak œmierdzi.
 2093)  GUYBRUSH
 Mo¿e wyœledzê "Bestiê D¿ungli" jak dam jej coœ do jedzenia.
 2094)  GUYBRUSH
@@ -4329,7 +4329,7 @@ Jejku!
 2158)  GUYBRUSH
 {Confused} Nadal nie wiem czego powinienem szukaæ{Suspicious} z perspektywy przystawki.
 2159)  VOODOOLADY
-W moim krótkim kontakcie, Blekotem McGee powiedzia³ mi o {Mystical}legendarnej gryz¹cej "Bestii D¿ungli" czaj¹cej siê na wyspie. {Default} Mo¿e powinieneœ go odszukiwaæ.
+W moim krótkim kontakcie, Hemlockiem McGee powiedzia³ mi o {Mystical}legendarnej gryz¹cej "Bestii D¿ungli" czaj¹cej siê na wyspie. {Default} Mo¿e powinieneœ go odszukiwaæ.
 2160)  GUYBRUSH
 {Confused} Wci¹¿ nie wiem o potê¿nym smaku.
 2161)  VOODOOLADY
@@ -4453,7 +4453,7 @@ znak
 2220)  
 Straszny Obraz
 2221)  
-Obraz Blekota "Bestia D¿ungli"
+Obraz Hemlocka "Bestia D¿ungli"
 2222)  
 Skrawek Papieru
 2223)  
@@ -4471,7 +4471,7 @@ W.P.
 2229)  
 Figurka Akcji Mrocznego Ninja Dave'a
 2230)  
-Kot Blekota
+Kot Hemlocka
 2231)  
 Panna Piêknisia
 2232)  
@@ -4699,7 +4699,7 @@ Guybrush szybko obala niedorzeczne twierdzenia Suchara o wandaliŸmie na X, niszc
 2343)  
 Sprawa bosman Raks zostaje umorzona po tym jak Guybrush udowadnia, ¿e jej okropne (jeszcze dziwnie kolorowe) oparzenie nie zosta³o spowodowane w Klubie 41 przez sos nacho.
 2344)  
-Sprawa Blekota zostaje umorzona po ingerencji Guybrusha z jego zabójczo sztywnym kotem, który wyraŸnie wróci³ do ¿ycia wyskakuj¹c z s¹du.
+Sprawa Hemlocka zostaje umorzona po ingerencji Guybrusha z jego zabójczo sztywnym kotem, który wyraŸnie wróci³ do ¿ycia wyskakuj¹c z s¹du.
 2345)  
 Guybrush przekupuje g³ównego œwiadka Joaquin d'Oro "naprawdê fajnym" szklanym okiem. Stan porzuca argumenty przeciw naszemu bohaterowi.
 2346)  
@@ -4803,7 +4803,7 @@ Noga Lampy z ¯ó³ci¹, Oparzenie w Kszta³cie Weso³ego Rogera
 2395)  GALLERY1
 [pickup1] Ktoœ ma tu magnes?  Kompas prawie mi wyskoczy³ z kieszeni!
 2396)  GALLERY1
-[pickup1] Stary Blekot ma nadziejê, ¿e kot siê nie obudzi...
+[pickup1] Stary Hemlock ma nadziejê, ¿e kot siê nie obudzi...
 2397)  GALLERY1
 [pickup1] Dlaczego on nic nie robi?
 2398)  GALLERY2
@@ -5049,7 +5049,7 @@ Wzywam bosman Raks
 2511)  
 Wzywam Joaquin d'Oro
 2512)  
-Wzywam Blekota McGee
+Wzywam Hemlock McGee
 2513)  
 Wzywam klawisza Suchara
 2514)  
@@ -5303,7 +5303,7 @@ Pusta Klatka
 2638)  
 "Jasnoniebieskie Szklane Oko Raks"
 2639)  
-"B³êkitne Szklane Oko Blekota "
+"B³êkitne Szklane Oko Hemlocka "
 2640)  
 "Czarne Szklane Oko Mewy"
 2641)  

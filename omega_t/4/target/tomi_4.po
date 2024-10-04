@@ -28,7 +28,7 @@ msgstr "Zapisz i wczytaj"
 
 msgctxt "8_8_0_"
 msgid "Settings"
-msgstr "Ustawienia"
+msgstr "Opcje"
 
 msgctxt "9_9_0_"
 msgid "Are you sure"
@@ -36,7 +36,7 @@ msgstr "Czy na pewno"
 
 msgctxt "9_9_1_"
 msgid "you want to quit?"
-msgstr "chcesz już wyjść?"
+msgstr "chcesz wyjść z gry?"
 
 msgctxt "10_10_0_"
 msgid "Music"
@@ -44,7 +44,7 @@ msgstr "Muzyka"
 
 msgctxt "11_11_0_"
 msgid "Sounds"
-msgstr "Dźwięki"
+msgstr "Efekty"
 
 msgctxt "12_12_0_"
 msgid "Voice"
@@ -148,7 +148,7 @@ msgstr ""
 
 msgctxt "35_35_2_"
 msgid "CHAPTER 4"
-msgstr "ROZDZIAŁ 4"
+msgstr "ROZDZIAŁ 4."
 
 msgctxt "35_35_3_"
 msgid ""
@@ -160,7 +160,7 @@ msgstr "PROCES I EGZEKUCJA GUYBRUSHA THREEPWOODA"
 
 msgctxt "36_36_0_"
 msgid "Sorry!"
-msgstr "Przepraszam!"
+msgstr "Niestety!"
 
 msgctxt "36_36_1_"
 msgid ""
@@ -172,7 +172,7 @@ msgstr "Zapisywanie i wczytywanie"
 
 msgctxt "36_36_3_"
 msgid "disabled in trial mode!"
-msgstr "jest zablokowane w wersji próbnej!"
+msgstr "jest niedostępne w demie!"
 
 msgctxt "37_37_0_"
 msgid "Game Paused"
@@ -180,7 +180,7 @@ msgstr "Pauza"
 
 msgctxt "37_37_1_"
 msgid "Press Space to Continue"
-msgstr "Naciśnij klawisz spacji, aby kontynuować"
+msgstr "Naciśnij klawisz Spacji, aby kontynuować"
 
 msgctxt "38_38_0_"
 msgid "<< Back"
@@ -208,11 +208,11 @@ msgstr "Au!"
 
 msgctxt "43_43_0_GUYBRUSH"
 msgid "{incredulous}Yeah, I think I'll try again later."
-msgstr "Tak, myślę, że spróbuję później."
+msgstr "Chyba później zajrzę."
 
 msgctxt "44_44_0_GUYBRUSH"
 msgid "[reading] "Well, Blow Me Down Glassworks.""
-msgstr "\"A dmuchnij se w szkiełko\"."
+msgstr "Huta szkła \"A dmuchnę se w szkiełko\"."
 
 msgctxt "45_45_0_GUYBRUSH"
 msgid "{happy}Bye."
@@ -240,7 +240,7 @@ msgstr "Nie."
 
 msgctxt "51_51_0_GUYBRUSH"
 msgid "Um, no."
-msgstr "Eee, nie."
+msgstr "Nie."
 
 msgctxt "52_52_0_GUYBRUSH"
 msgid "Um, I don't want to part with this right now."
@@ -252,7 +252,7 @@ msgstr "Jeszcze nie?"
 
 msgctxt "54_54_0_GUYBRUSH"
 msgid "Uh-uh."
-msgstr "E-e."
+msgstr " "
 
 msgctxt "55_55_0_GUYBRUSH"
 msgid "I don't think so."
@@ -288,7 +288,7 @@ msgstr "szyld klubu"
 
 msgctxt "65_65_0_"
 msgid "Courthouse Door"
-msgstr "drzwi do sądu pirackiego"
+msgstr "drzwi do gmachu sądu"
 
 msgctxt "66_66_0_"
 msgid "Keelhauler Door"
@@ -356,7 +356,7 @@ msgstr "pedał od wstrząsów"
 
 msgctxt "82_82_0_"
 msgid "Electrical Device"
-msgstr "elektryczne ustrojstwo"
+msgstr "urządzenie elektryczne"
 
 msgctxt "83_83_0_"
 msgid "Skeleton"
@@ -364,7 +364,7 @@ msgstr "szkielet"
 
 msgctxt "84_84_0_"
 msgid "Picture Projector"
-msgstr "obrazkomat"
+msgstr "projektor"
 
 msgctxt "85_85_0_"
 msgid "Picture"
@@ -388,7 +388,7 @@ msgstr "Joaquin D'Oro"
 
 msgctxt "90_90_0_"
 msgid "Hopelessly Broken Electrical Machine"
-msgstr "beznadziejnie zepsuta elektryczna maszyna"
+msgstr "beznadziejnie zepsuta maszyna elektryczna"
 
 msgctxt "91_91_0_"
 msgid "Screaming Narwhal"
@@ -408,7 +408,7 @@ msgstr "Elaine"
 
 msgctxt "95_95_0_"
 msgid "See ya."
-msgstr "Do miłego."
+msgstr "Na razie."
 
 msgctxt "96_96_0_"
 msgid "Resume"
@@ -428,11 +428,11 @@ msgstr "połącz przedmioty"
 
 msgctxt "99_99_0_"
 msgid "Examine Mode Off"
-msgstr "tryb oglądania wył."
+msgstr "Wyłącz Tryb Oglądania"
 
 msgctxt "100_100_0_"
 msgid "Examine Mode On"
-msgstr "tryb oglądania wł."
+msgstr "Włącz Tryb Oglądania"
 
 msgctxt "101_101_0_"
 msgid "No Inventory Selected"
@@ -444,7 +444,7 @@ msgstr "zatwierdź"
 
 msgctxt "103_103_0_"
 msgid "Dock"
-msgstr "Doki"
+msgstr "dok"
 
 msgctxt "104_104_0_"
 msgid "Giant Wind Control Device"
@@ -472,7 +472,7 @@ msgstr "Dżungla"
 
 msgctxt "110_110_0_"
 msgid "De Singe's Lab"
-msgstr "Laboratorium De Singe'a"
+msgstr "Laboratorium"
 
 msgctxt "111_111_0_"
 msgid "Return to Jungle Entrance"
@@ -548,7 +548,7 @@ msgstr "Dave Grossman"
 
 msgctxt "125_125_0_"
 msgid "Based on Characters Created By"
-msgstr "Na podstawie postaci"
+msgstr "Na podstawie postaci autorstwa"
 
 msgctxt "126_126_0_"
 msgid "Ron Gilbert"
@@ -572,7 +572,7 @@ msgstr ""
 
 msgctxt "127_127_4_"
 msgid ""RISE OF THE PIRATE GOD""
-msgstr "PIRACKI BÓG POWSTAJE"
+msgstr "INSUREKCJA PIRACKIEGO BOGA"
 
 msgctxt "128_128_0_"
 msgid "Open Inventory"
@@ -588,7 +588,7 @@ msgstr "Telltale oraz logo Telltale Games są znakami handlowymi Telltale, Inc."
 
 msgctxt "129_129_2_"
 msgid "Telltale and the Telltale Games logo are trademarks of Telltale, Inc."
-msgstr "* Nowa wersja PL - GrajPoPolsku.pl *"
+msgstr "* Nowa polska wersja - GrajPoPolsku.pl *"
 
 msgctxt "130_130_0_"
 msgid "Hook"
@@ -604,7 +604,7 @@ msgstr "Morgan LeFlay"
 
 msgctxt "133_133_0_GUYBRUSH"
 msgid "[pickup1] It's a good thing Elaine gave me her wedding ring until I get my own back... she's so Poxed-out now she'd probably hock it for a keg of grog."
-msgstr "Dobrze, że Elaine dała mi swoją obrączkę, nim nie odzyskam własnej. W tym stanie przehandlowałaby ją za bekę grogu."
+msgstr "Dobrze, że Elaine dała mi swoją obrączkę, nim nie odzyskam własnej. W tym stanie zastawiłaby ją pewnie za bekę grogu."
 
 msgctxt "134_134_0_"
 msgid "Rowboat"
@@ -620,7 +620,7 @@ msgstr "ocean"
 
 msgctxt "137_137_0_GUYBRUSH"
 msgid "{Happy} All right, Seńor Esponja Not-So-Grande, {Cocky} that's five senses down, and one to go!"
-msgstr "No, seńor Esponja Nie-Tak-Grande, jeszcze tylko jeden zmysł i po robocie!"
+msgstr "{Happy} No, seńor Esponja Nie-Tak-Grande, {Cocky} został nam jeden zmysł i{pisze se cokolwiek} po robocie!"
 
 msgctxt "138_138_0_GUYBRUSH"
 msgid "{Incredulous} Now where can I find a really big sound for an after-dinner belch?"
@@ -632,7 +632,7 @@ msgstr "Jest tu tylko jeden dinks, który wydaje taki dźwięk..."
 
 msgctxt "140_140_0_DESINGE"
 msgid "[humming to himself, possibly to the tune of "alouette"]  Alouette, I will live forever, alouette, immortalité..."
-msgstr "Alouette, będę żył wiecznie, alouette, immortalité..."
+msgstr "Alouette, będę żył wiecznie, alouette, immortalite..."
 
 msgctxt "141_141_0_DESINGE"
 msgid "[continuing to hum] Who will live forever? Moi... Who will conquer nature?  Moi..."
@@ -3784,7 +3784,7 @@ msgstr "Zabawne, myślałem, że trzech..."
 
 msgctxt "927_927_0_STAN"
 msgid "Firstly, that he did knowingly engage in a bar fight that horribly injured the beloved feline of local pirate elder, Hemlock McGee!"
-msgstr "Po pierwsze, świadomie zaangażował się w bójkę barową, która strasznie zraniła ukochanego kota pirata lokalnej starszyzny, Blekota McGee!"
+msgstr "Po pierwsze, świadomie zaangażował się w bójkę barową, która strasznie zraniła ukochanego kota pirata lokalnej starszyzny, Hemlocka McGee!"
 
 msgctxt "928_928_0_MCGEE"
 msgid "[voice from gallery] Hanging's too good for 'im!"
@@ -4240,7 +4240,7 @@ msgstr "Świadek jest twój, młody."
 
 msgctxt "1041_1041_0_GUYBRUSH"
 msgid "I'd like to call Hemlock McGee back to the stand."
-msgstr "Wzywam Blekota McGee do zeznań."
+msgstr "Wzywam Hemlocka McGee do zeznań."
 
 msgctxt "1042_1042_0_HARDTACK"
 msgid "Hem-!"
@@ -4708,7 +4708,7 @@ msgstr "Lepiej nie wychodzić z moją małpą ponownie na środek sali, dopóki 
 
 msgctxt "1158_1158_0_GUYBRUSH"
 msgid "Your honor, pirates and assorted buccaneers. {Suspicious}  Hemlock McGee has asserted that it was {Proud} I, Guybrush Threepwood, Mighty Pirate™, that brought about the horrible emotional scars that even now leave {Worried} poor Miss Prettywhiskers paralyzed with fear. {Cocky} But I put it to you that it was not your humble defendant who traumatized Hemlock's unfortunate feline, but a far more {Incredulous} insidious assailant, one who's in this very courtroom as I speak. {Stern}  J'accuse…"
-msgstr "Wysoki sądzie, piraci i różnorodni korsarze. {Suspicious}  Blekot McGee twierdzi, że to {Proud} ja, Guybrush Threepwood, Potężny Pirat™, spowodowałem te emocjonalne blizny u{Worried} biednej Pannie Pięknisi sparaliżowanej starchem. {Cocky} Ale stawiam, że to nie pokorny oskarżony, spowodował niefortunną traumę u kota Blekota, ale dużo bardziej {Incredulous} podstępny napastnik, który jest w tej sali sądowej, mówię o... {Stern} Jaccuse..."
+msgstr "Wysoki sądzie, piraci i różnorodni korsarze. {Suspicious}  Hemlock McGee twierdzi, że to {Proud} ja, Guybrush Threepwood, Potężny Pirat™, spowodowałem te emocjonalne blizny u{Worried} biednej Pannie Pięknisi sparaliżowanej starchem. {Cocky} Ale stawiam, że to nie pokorny oskarżony, spowodował niefortunną traumę u kota Hemlocka, ale dużo bardziej {Incredulous} podstępny napastnik, który jest w tej sali sądowej, mówię o... {Stern} Jaccuse..."
 
 msgctxt "1159_1159_0_MCGEE"
 msgid "{Confused} What?"
@@ -4912,27 +4912,27 @@ msgstr "{disgust}Co ta za artystyczna odraza?"
 
 msgctxt "1209_1209_0_GRINDSTUMP"
 msgid "{confused}[from off-screen] Arr, that be a painting of Flotsam Island's notorious "Jungle Beast," {proud}painted by our own Hemlock McGee.{guybrush suspicious}"
-msgstr "{confused}[from off-screen] Arr, to obraz osławionej \"Bestii Dżungli\" Wyspy Rozbitków, {proud}namalowany przez naszego Blekota McGee.{guybrush suspicious}"
+msgstr "{confused}[from off-screen] Arr, to obraz osławionej \"Bestii Dżungli\" Wyspy Rozbitków, {proud}namalowany przez naszego Hemlocka McGee.{guybrush suspicious}"
 
 msgctxt "1210_1210_0_GUYBRUSH"
 msgid "Hemlock?  {confused}Really?"
-msgstr "Blekota?  {confused}Naprawdę?"
+msgstr "Hemlocka?  {confused}Naprawdę?"
 
 msgctxt "1211_1211_0_GRINDSTUMP"
 msgid "{confused}Aye.  No one knows more about our legendary beastie than ol' Hemlock."
-msgstr "{confused}Aj.  Nikt nie wie więcej o naszej legendarnej bestii niż stary Blekot."
+msgstr "{confused}Aj.  Nikt nie wie więcej o naszej legendarnej bestii niż stary Hemlock."
 
 msgctxt "1212_1212_0_GUYBRUSH"
 msgid "{confused}I wonder if Hemlock can tell me more about this legendary {suspicious}"Jungle Beast..." like why I've never run into it before."
-msgstr "{confused}Ciekawe, czy Blekot powie mi więcej o legendarnej {suspicious}\"Bestii Dżungli\"... oraz dlaczego nigdy na nią nie wpadłem."
+msgstr "{confused}Ciekawe, czy Hemlock powie mi więcej o legendarnej {suspicious}\"Bestii Dżungli\"... oraz dlaczego nigdy na nią nie wpadłem."
 
 msgctxt "1213_1213_0_GUYBRUSH"
 msgid "{confused}If Hemlock's telling the truth about this critter, {disgust}it's got a stench that could peel the barnacles off my rudder."
-msgstr "{confused}Jeśli Blekot mówi prawdę o tej istocie, {disgust} to śmierdzi ona tak, że mogłaby obrać skrupiaki z mojego steru."
+msgstr "{confused}Jeśli Hemlock mówi prawdę o tej istocie, {disgust} to śmierdzi ona tak, że mogłaby obrać skrupiaki z mojego steru."
 
 msgctxt "1214_1214_0_GUYBRUSH"
 msgid "{suspicious}Hemlock oughta be hauled into "arrrrt court" for this..."
-msgstr "{suspicious}Blekot powinien być ciągany do \"sądu przez tą sztukę\"..."
+msgstr "{suspicious}Hemlock powinien być ciągany do \"sądu przez tą sztukę\"..."
 
 msgctxt "1215_1215_0_GUYBRUSH"
 msgid "{cocky}Would you mind holding still for a moment?  I think you've got something in your eye..."
@@ -5196,7 +5196,7 @@ msgstr "{default}Nie, nie widziałem jej."
 
 msgctxt "1280_1280_0_"
 msgid "See ya."
-msgstr "Do miłego."
+msgstr "Na razie."
 
 msgctxt "1281_1281_0_CRIMPDIGIT"
 msgid "{stern}The three of us'll be waiting."
@@ -5204,7 +5204,7 @@ msgstr "{stern}Będę czekał."
 
 msgctxt "1282_1282_0_GUYBRUSH"
 msgid "See ya."
-msgstr "Do miłego."
+msgstr "Na razie."
 
 msgctxt "1283_1283_0_CRIMPDIGIT"
 msgid "{default}Well, just one person really, but he ordered a HUGE supply.  Don't ask me why."
@@ -5468,7 +5468,7 @@ msgstr "{Angry} Nie za to!  Za zabicie jej!"
 
 msgctxt "1350_1350_0_DESINGE"
 msgid "Hmmph.  Pirates and pirate hunters! Your kind always seem to meet an early demise. {Angry}  Good riddance!"
-msgstr "Hmmph.  Pirat i łowczyni piratów! Twój rodzaj zawsze spotyka wczesna śmierć. {Angry}  Idź już sobie!"
+msgstr "Hmmph.  Pirat i łowczyni piratów! Twój rodzaj zawsze spotyka wczesna śmierć. {Angry}  Krzyżyk na drogę."
 
 msgctxt "1351_1351_0_GUYBRUSH"
 msgid "{Angry} I STILL think you murdered Morgan!"
@@ -6816,7 +6816,7 @@ msgstr "{cocky}Choć mogę wiele zamków otworzyć moim stylowym hakiem to nie j
 
 msgctxt "1687_1687_0_GUYBRUSH"
 msgid "{cocky}Hemlock's cat is catatonic enough without adding mixed drinks to the equation."
-msgstr "{cocky}Kot Blekota jest wystarczająco katatoniczny bez mieszania jedzenia."
+msgstr "{cocky}Kot Hemlock jest wystarczająco katatoniczny bez mieszania jedzenia."
 
 msgctxt "1688_1688_0_GUYBRUSH"
 msgid "{disgust}That looks unappetizing."
@@ -6908,7 +6908,7 @@ msgstr "{angry}Hej!"
 
 msgctxt "1710_1710_0_GUYBRUSH"
 msgid "{cocky}Hey, Hemlock, mind if I get capture your eye color?"
-msgstr "{cocky}Hej Blekot, mogę uchwycić kolor twojego oka?"
+msgstr "{cocky}Hej Hemlock, mogę uchwycić kolor twojego oka?"
 
 msgctxt "1711_1711_0_MCGEE"
 msgid "{angry}Hey!"
@@ -7320,7 +7320,7 @@ msgstr "{strained}[yelling at him as he leaves] Cóż, nie byłby pierwszy! [mut
 
 msgctxt "1813_1813_0_MORGAN"
 msgid "{default}Sometimes."
-msgstr "{default}Kiedyś."
+msgstr "{default}Czasami."
 
 msgctxt "1814_1814_0_STAN"
 msgid "{Cocky} Yes?"
@@ -7552,7 +7552,7 @@ msgstr "\"Sparaliżowało\" mi oczy.  Założę się, że kot potrzebuje lepszej
 
 msgctxt "1871_1871_0_GUYBRUSH"
 msgid "I wonder why miserable old pirates like Hemlock are so ATTRACTED to cats, anyway?"
-msgstr "Zastanawiam się dlaczego żałośni starzy piraci jak Blekot przyciągają koty?"
+msgstr "Zastanawiam się dlaczego żałośni starzy piraci jak Hemlock przyciągają koty?"
 
 msgctxt "1872_1872_0_GUYBRUSH"
 msgid "{cocky}Set me up with a grogatini.  {happy}With a twist!"
@@ -8088,7 +8088,7 @@ msgstr "{Cocky} Chciałbym omówić ze świadkiem tak zwaną \"fałszywą\" figu
 
 msgctxt "2005_2005_0_STAN"
 msgid "{Annoyed} Objection!  Relevance?"
-msgstr "{Annoyed} Sprzeciw!  Bez związku?"
+msgstr "{Annoyed} Sprzeciw! Brak związku."
 
 msgctxt "2006_2006_0_GRINDSTUMP"
 msgid "{Stern} That piece of evidence has no bearing in this case, Threepwood!"
@@ -8124,7 +8124,7 @@ msgstr "{Default} Być może, ale to nie ma znaczenia dla sprawy!"
 
 msgctxt "2014_2014_0_GUYBRUSH"
 msgid "{Suspicious} Hmm, come to {Confused} think of it, there isn't any."
-msgstr "{Suspicious} Hmm, po zastanowieniu, {Confused} nie mam żadnych pytań."
+msgstr "{Suspicious} Hmm, po zastanowieniu, {Confused} faktycznie go nie ma."
 
 msgctxt "2015_2015_0_GUYBRUSH"
 msgid "I don't think that would be admissible as evidence."
@@ -8436,7 +8436,7 @@ msgstr "Coś w tej dżungli pachnie…"
 
 msgctxt "2092_2092_0_GUYBRUSH"
 msgid "Hemlock used to explore Flotsam's jungle… maybe he can tell me what smells so bad."
-msgstr "Blekot eksploruje dżunglę wyspy... może powie mi co tak śmierdzi."
+msgstr "Hemlock eksploruje dżunglę wyspy... może powie mi co tak śmierdzi."
 
 msgctxt "2093_2093_0_GUYBRUSH"
 msgid "Maybe I can track the Jungle Beast if I give it something to eat."
@@ -8704,7 +8704,7 @@ msgstr "{Confused} Nadal nie wiem czego powinienem szukać{Suspicious} z perspek
 
 msgctxt "2159_2159_0_VOODOOLADY"
 msgid "In my brief dealings with Hemlock McGee, he told me of a {Mystical}legendarily pungent "Jungle Beast" lurking in Flotsam's foliage. {Default} Perhaps you should seek him out."
-msgstr "W moim krótkim kontakcie, Blekotem McGee powiedział mi o {Mystical}legendarnej gryzącej \"Bestii Dżungli\" czającej się na wyspie. {Default} Może powinieneś go odszukiwać."
+msgstr "W moim krótkim kontakcie, Hemlockiem McGee powiedział mi o {Mystical}legendarnej gryzącej \"Bestii Dżungli\" czającej się na wyspie. {Default} Może powinieneś go odszukiwać."
 
 msgctxt "2160_2160_0_GUYBRUSH"
 msgid "{Confused} I'm still drawing a blank about the powerful taste."
@@ -8952,7 +8952,7 @@ msgstr "Straszny Obraz"
 
 msgctxt "2221_2221_0_"
 msgid "Hemlock's Painting of Jungle Beast"
-msgstr "Obraz Blekota \"Bestia Dżungli\""
+msgstr "Obraz Hemlocka \"Bestia Dżungli\""
 
 msgctxt "2222_2222_0_"
 msgid "Scrap of Paper"
@@ -8988,7 +8988,7 @@ msgstr "Figurka Akcji Mrocznego Ninja Dave'a"
 
 msgctxt "2230_2230_0_"
 msgid "Hemlock's Cat"
-msgstr "Kot Blekota"
+msgstr "Kot Hemlocka"
 
 msgctxt "2231_2231_0_"
 msgid "Miss Prettywhiskers"
@@ -9444,7 +9444,7 @@ msgstr "Sprawa bosman Raks zostaje umorzona po tym jak Guybrush udowadnia, że j
 
 msgctxt "2344_2344_0_"
 msgid "Hemlock's case is dismissed after Guybrush tampers with his fear-stiffened cat, causing it to seemingly spring to life in open court."
-msgstr "Sprawa Blekota zostaje umorzona po ingerencji Guybrusha z jego zabójczo sztywnym kotem, który wyraźnie wrócił do życia wyskakując z sądu."
+msgstr "Sprawa Hemlocka zostaje umorzona po ingerencji Guybrusha z jego zabójczo sztywnym kotem, który wyraźnie wrócił do życia wyskakując z sądu."
 
 msgctxt "2345_2345_0_"
 msgid "Guybrush bribes star witness Joaquin D'Oro with a "really cool" glass eye, forcing Stan to drop a counterfeiting case against our hero."
@@ -9652,7 +9652,7 @@ msgstr "[pickup1] Ktoś ma tu magnes?  Kompas prawie mi wyskoczył z kieszeni!"
 
 msgctxt "2396_2396_0_GALLERY1"
 msgid "[pickup1] Ol' Hemlock better hope that cat doesn't wake up..."
-msgstr "[pickup1] Stary Blekot ma nadzieję, że kot się nie obudzi..."
+msgstr "[pickup1] Stary Hemlock ma nadzieję, że kot się nie obudzi..."
 
 msgctxt "2397_2397_0_GALLERY1"
 msgid "[pickup1] Why isn't he doin' anything?"
@@ -10172,7 +10172,7 @@ msgstr "Wzywam Joaquin d'Oro"
 
 msgctxt "2512_2512_0_"
 msgid "Call Hemlock McGee"
-msgstr "Wzywam Blekota McGee"
+msgstr "Wzywam Hemlock McGee"
 
 msgctxt "2513_2513_0_"
 msgid "Call Bailiff Hardtack"
@@ -10680,7 +10680,7 @@ msgstr "\"Jasnoniebieskie Szklane Oko Raks\""
 
 msgctxt "2639_2639_0_"
 msgid ""Hemlock Aqua" Glass Eye"
-msgstr "\"Błękitne Szklane Oko Blekota \""
+msgstr "\"Błękitne Szklane Oko Hemlocka \""
 
 msgctxt "2640_2640_0_"
 msgid ""Seagull Black" Glass Eye"

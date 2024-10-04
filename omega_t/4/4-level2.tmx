@@ -32,8 +32,8 @@
       <tuv xml:lang="en-US">
         <seg>"Hemlock Aqua" Glass Eye</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>"Błękitne Szklane Oko Blekota "</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103944Z">
+        <seg>"Błękitne Szklane Oko Hemlocka "</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,8 +88,8 @@
       <tuv xml:lang="en-US">
         <seg>"RISE OF THE PIRATE GOD"</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>PIRACKI BÓG POWSTAJE</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T104443Z">
+        <seg>INSUREKCJA PIRACKIEGO BOGA</seg>
       </tuv>
     </tu>
     <tu>
@@ -888,8 +888,8 @@
       <tuv xml:lang="en-US">
         <seg>Based on Characters Created By</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Na podstawie postaci</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T104247Z">
+        <seg>Na podstawie postaci autorstwa</seg>
       </tuv>
     </tu>
     <tu>
@@ -1200,8 +1200,8 @@
       <tuv xml:lang="en-US">
         <seg>CHAPTER 4</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>ROZDZIAŁ 4</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T102755Z">
+        <seg>ROZDZIAŁ 4.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1232,8 +1232,8 @@
       <tuv xml:lang="en-US">
         <seg>Call Hemlock McGee</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wzywam Blekota McGee</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103933Z">
+        <seg>Wzywam Hemlock McGee</seg>
       </tuv>
     </tu>
     <tu>
@@ -1480,8 +1480,8 @@
       <tuv xml:lang="en-US">
         <seg>Courthouse Door</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>drzwi do sądu pirackiego</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103143Z">
+        <seg>drzwi do gmachu sądu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1632,8 +1632,8 @@
       <tuv xml:lang="en-US">
         <seg>De Singe's Lab</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Laboratorium De Singe'a</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T104148Z">
+        <seg>Laboratorium</seg>
       </tuv>
     </tu>
     <tu>
@@ -1776,8 +1776,8 @@
       <tuv xml:lang="en-US">
         <seg>Dock</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Doki</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T104053Z">
+        <seg>dok</seg>
       </tuv>
     </tu>
     <tu>
@@ -1888,8 +1888,8 @@
       <tuv xml:lang="en-US">
         <seg>Electrical Device</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>elektryczne ustrojstwo</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103325Z">
+        <seg>urządzenie elektryczne</seg>
       </tuv>
     </tu>
     <tu>
@@ -1976,16 +1976,16 @@
       <tuv xml:lang="en-US">
         <seg>Examine Mode Off</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>tryb oglądania wył.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240925T135822Z">
+        <seg>Wyłącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Examine Mode On</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>tryb oglądania wł.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240925T135823Z">
+        <seg>Włącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>
@@ -2056,8 +2056,8 @@
       <tuv xml:lang="en-US">
         <seg>Firstly, that he did knowingly engage in a bar fight that horribly injured the beloved feline of local pirate elder, Hemlock McGee!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Po pierwsze, świadomie zaangażował się w bójkę barową, która strasznie zraniła ukochanego kota pirata lokalnej starszyzny, Blekota McGee!</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103600Z">
+        <seg>Po pierwsze, świadomie zaangażował się w bójkę barową, która strasznie zraniła ukochanego kota pirata lokalnej starszyzny, Hemlocka McGee!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2480,40 +2480,40 @@
       <tuv xml:lang="en-US">
         <seg>Hemlock used to explore Flotsam's jungle… maybe he can tell me what smells so bad.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Blekot eksploruje dżunglę wyspy... może powie mi co tak śmierdzi.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103859Z">
+        <seg>Hemlock eksploruje dżunglę wyspy... może powie mi co tak śmierdzi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Hemlock's Cat</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Kot Blekota</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103916Z">
+        <seg>Kot Hemlocka</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Hemlock's Painting of Jungle Beast</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Obraz Blekota "Bestia Dżungli"</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103911Z">
+        <seg>Obraz Hemlocka "Bestia Dżungli"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Hemlock's case is dismissed after Guybrush tampers with his fear-stiffened cat, causing it to seemingly spring to life in open court.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Sprawa Blekota zostaje umorzona po ingerencji Guybrusha z jego zabójczo sztywnym kotem, który wyraźnie wrócił do życia wyskakując z sądu.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103922Z">
+        <seg>Sprawa Hemlocka zostaje umorzona po ingerencji Guybrusha z jego zabójczo sztywnym kotem, który wyraźnie wrócił do życia wyskakując z sądu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Hemlock?  {confused}Really?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Blekota?  {confused}Naprawdę?</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103622Z">
+        <seg>Hemlocka?  {confused}Naprawdę?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2664,8 +2664,8 @@
       <tuv xml:lang="en-US">
         <seg>Hmmph.  Pirates and pirate hunters! Your kind always seem to meet an early demise. {Angry}  Good riddance!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Hmmph.  Pirat i łowczyni piratów! Twój rodzaj zawsze spotyka wczesna śmierć. {Angry}  Idź już sobie!</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T100137Z">
+        <seg>Hmmph.  Pirat i łowczyni piratów! Twój rodzaj zawsze spotyka wczesna śmierć. {Angry}  Krzyżyk na drogę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2712,8 +2712,8 @@
       <tuv xml:lang="en-US">
         <seg>Hopelessly Broken Electrical Machine</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>beznadziejnie zepsuta elektryczna maszyna</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103508Z">
+        <seg>beznadziejnie zepsuta maszyna elektryczna</seg>
       </tuv>
     </tu>
     <tu>
@@ -3296,8 +3296,8 @@
       <tuv xml:lang="en-US">
         <seg>I wonder why miserable old pirates like Hemlock are so ATTRACTED to cats, anyway?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Zastanawiam się dlaczego żałośni starzy piraci jak Blekot przyciągają koty?</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103854Z">
+        <seg>Zastanawiam się dlaczego żałośni starzy piraci jak Hemlock przyciągają koty?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3360,8 +3360,8 @@
       <tuv xml:lang="en-US">
         <seg>I'd like to call Hemlock McGee back to the stand.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wzywam Blekota McGee do zeznań.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103605Z">
+        <seg>Wzywam Hemlocka McGee do zeznań.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3696,8 +3696,8 @@
       <tuv xml:lang="en-US">
         <seg>In my brief dealings with Hemlock McGee, he told me of a {Mystical}legendarily pungent "Jungle Beast" lurking in Flotsam's foliage. {Default} Perhaps you should seek him out.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>W moim krótkim kontakcie, Blekotem McGee powiedział mi o {Mystical}legendarnej gryzącej "Bestii Dżungli" czającej się na wyspie. {Default} Może powinieneś go odszukiwać.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103905Z">
+        <seg>W moim krótkim kontakcie, Hemlockiem McGee powiedział mi o {Mystical}legendarnej gryzącej "Bestii Dżungli" czającej się na wyspie. {Default} Może powinieneś go odszukiwać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5288,8 +5288,8 @@
       <tuv xml:lang="en-US">
         <seg>Picture Projector</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>obrazkomat</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103342Z">
+        <seg>projektor</seg>
       </tuv>
     </tu>
     <tu>
@@ -5408,8 +5408,8 @@
       <tuv xml:lang="en-US">
         <seg>Press Space to Continue</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Naciśnij klawisz spacji, aby kontynuować</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T102828Z">
+        <seg>Naciśnij klawisz Spacji, aby kontynuować</seg>
       </tuv>
     </tu>
     <tu>
@@ -5768,8 +5768,8 @@
       <tuv xml:lang="en-US">
         <seg>See ya.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Do miłego.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T104005Z">
+        <seg>Na razie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5792,8 +5792,8 @@
       <tuv xml:lang="en-US">
         <seg>Settings</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Ustawienia</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T102636Z">
+        <seg>Opcje</seg>
       </tuv>
     </tu>
     <tu>
@@ -6000,8 +6000,8 @@
       <tuv xml:lang="en-US">
         <seg>Sorry!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Przepraszam!</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T102805Z">
+        <seg>Niestety!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6032,8 +6032,8 @@
       <tuv xml:lang="en-US">
         <seg>Sounds</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Dźwięki</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T102700Z">
+        <seg>Efekty</seg>
       </tuv>
     </tu>
     <tu>
@@ -6264,8 +6264,8 @@
       <tuv xml:lang="en-US">
         <seg>Telltale and the Telltale Games logo are trademarks of Telltale, Inc.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>* Nowa wersja PL - GrajPoPolsku.pl *</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T104600Z">
+        <seg>* Nowa polska wersja - GrajPoPolsku.pl *</seg>
       </tuv>
     </tu>
     <tu>
@@ -6816,8 +6816,8 @@
       <tuv xml:lang="en-US">
         <seg>Uh-uh.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>E-e.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103044Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -6832,8 +6832,8 @@
       <tuv xml:lang="en-US">
         <seg>Um, no.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Eee, nie.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103016Z">
+        <seg>Nie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7800,8 +7800,8 @@
       <tuv xml:lang="en-US">
         <seg>Your honor, pirates and assorted buccaneers. {Suspicious}  Hemlock McGee has asserted that it was {Proud} I, Guybrush Threepwood, Mighty Pirate™, that brought about the horrible emotional scars that even now leave {Worried} poor Miss Prettywhiskers paralyzed with fear. {Cocky} But I put it to you that it was not your humble defendant who traumatized Hemlock's unfortunate feline, but a far more {Incredulous} insidious assailant, one who's in this very courtroom as I speak. {Stern}  J'accuse…</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Wysoki sądzie, piraci i różnorodni korsarze. {Suspicious}  Blekot McGee twierdzi, że to {Proud} ja, Guybrush Threepwood, Potężny Pirat™, spowodowałem te emocjonalne blizny u{Worried} biednej Pannie Pięknisi sparaliżowanej starchem. {Cocky} Ale stawiam, że to nie pokorny oskarżony, spowodował niefortunną traumę u kota Blekota, ale dużo bardziej {Incredulous} podstępny napastnik, który jest w tej sali sądowej, mówię o... {Stern} Jaccuse...</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103615Z">
+        <seg>Wysoki sądzie, piraci i różnorodni korsarze. {Suspicious}  Hemlock McGee twierdzi, że to {Proud} ja, Guybrush Threepwood, Potężny Pirat™, spowodowałem te emocjonalne blizny u{Worried} biednej Pannie Pięknisi sparaliżowanej starchem. {Cocky} Ale stawiam, że to nie pokorny oskarżony, spowodował niefortunną traumę u kota Hemlocka, ale dużo bardziej {Incredulous} podstępny napastnik, który jest w tej sali sądowej, mówię o... {Stern} Jaccuse...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8752,8 +8752,8 @@
       <tuv xml:lang="en-US">
         <seg>[humming to himself, possibly to the tune of "alouette"]  Alouette, I will live forever, alouette, immortalité...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Alouette, będę żył wiecznie, alouette, immortalité...</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T093748Z">
+        <seg>Alouette, będę żył wiecznie, alouette, immortalite...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9096,8 +9096,8 @@
       <tuv xml:lang="en-US">
         <seg>[pickup1] It's a good thing Elaine gave me her wedding ring until I get my own back... she's so Poxed-out now she'd probably hock it for a keg of grog.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Dobrze, że Elaine dała mi swoją obrączkę, nim nie odzyskam własnej. W tym stanie przehandlowałaby ją za bekę grogu.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T104827Z">
+        <seg>Dobrze, że Elaine dała mi swoją obrączkę, nim nie odzyskam własnej. W tym stanie zastawiłaby ją pewnie za bekę grogu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9136,8 +9136,8 @@
       <tuv xml:lang="en-US">
         <seg>[pickup1] Ol' Hemlock better hope that cat doesn't wake up...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>[pickup1] Stary Blekot ma nadzieję, że kot się nie obudzi...</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103927Z">
+        <seg>[pickup1] Stary Hemlock ma nadzieję, że kot się nie obudzi...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9752,8 +9752,8 @@
       <tuv xml:lang="en-US">
         <seg>[reading] "Well, Blow Me Down Glassworks."</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>"A dmuchnij se w szkiełko".</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103002Z">
+        <seg>Huta szkła "A dmuchnę se w szkiełko".</seg>
       </tuv>
     </tu>
     <tu>
@@ -10168,8 +10168,8 @@
       <tuv xml:lang="en-US">
         <seg>disabled in trial mode!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>jest zablokowane w wersji próbnej!</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T102818Z">
+        <seg>jest niedostępne w demie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10184,8 +10184,8 @@
       <tuv xml:lang="en-US">
         <seg>you want to quit?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>chcesz już wyjść?</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T102643Z">
+        <seg>chcesz wyjść z gry?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10592,8 +10592,8 @@
       <tuv xml:lang="en-US">
         <seg>{Annoyed} Objection!  Relevance?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>{Annoyed} Sprzeciw!  Bez związku?</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240926T110908Z">
+        <seg>{Annoyed} Sprzeciw! Brak związku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13216,8 +13216,8 @@
       <tuv xml:lang="en-US">
         <seg>{Happy} All right, Seńor Esponja Not-So-Grande, {Cocky} that's five senses down, and one to go!</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>No, seńor Esponja Nie-Tak-Grande, jeszcze tylko jeden zmysł i po robocie!</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T105117Z">
+        <seg>{Happy} No, seńor Esponja Nie-Tak-Grande, {Cocky} został nam jeden zmysł i{pisze se cokolwiek} po robocie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -16416,8 +16416,8 @@
       <tuv xml:lang="en-US">
         <seg>{Suspicious} Hmm, come to {Confused} think of it, there isn't any.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>{Suspicious} Hmm, po zastanowieniu, {Confused} nie mam żadnych pytań.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240926T110956Z">
+        <seg>{Suspicious} Hmm, po zastanowieniu, {Confused} faktycznie go nie ma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17672,8 +17672,8 @@
       <tuv xml:lang="en-US">
         <seg>{cocky}Hemlock's cat is catatonic enough without adding mixed drinks to the equation.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>{cocky}Kot Blekota jest wystarczająco katatoniczny bez mieszania jedzenia.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103844Z">
+        <seg>{cocky}Kot Hemlock jest wystarczająco katatoniczny bez mieszania jedzenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17688,8 +17688,8 @@
       <tuv xml:lang="en-US">
         <seg>{cocky}Hey, Hemlock, mind if I get capture your eye color?</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>{cocky}Hej Blekot, mogę uchwycić kolor twojego oka?</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103848Z">
+        <seg>{cocky}Hej Hemlock, mogę uchwycić kolor twojego oka?</seg>
       </tuv>
     </tu>
     <tu>
@@ -18208,8 +18208,8 @@
       <tuv xml:lang="en-US">
         <seg>{confused}Aye.  No one knows more about our legendary beastie than ol' Hemlock.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>{confused}Aj.  Nikt nie wie więcej o naszej legendarnej bestii niż stary Blekot.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103631Z">
+        <seg>{confused}Aj.  Nikt nie wie więcej o naszej legendarnej bestii niż stary Hemlock.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18280,8 +18280,8 @@
       <tuv xml:lang="en-US">
         <seg>{confused}I wonder if Hemlock can tell me more about this legendary {suspicious}"Jungle Beast..." like why I've never run into it before.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>{confused}Ciekawe, czy Blekot powie mi więcej o legendarnej {suspicious}"Bestii Dżungli"... oraz dlaczego nigdy na nią nie wpadłem.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103635Z">
+        <seg>{confused}Ciekawe, czy Hemlock powie mi więcej o legendarnej {suspicious}"Bestii Dżungli"... oraz dlaczego nigdy na nią nie wpadłem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18304,8 +18304,8 @@
       <tuv xml:lang="en-US">
         <seg>{confused}If Hemlock's telling the truth about this critter, {disgust}it's got a stench that could peel the barnacles off my rudder.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>{confused}Jeśli Blekot mówi prawdę o tej istocie, {disgust} to śmierdzi ona tak, że mogłaby obrać skrupiaki z mojego steru.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103826Z">
+        <seg>{confused}Jeśli Hemlock mówi prawdę o tej istocie, {disgust} to śmierdzi ona tak, że mogłaby obrać skrupiaki z mojego steru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18688,8 +18688,8 @@
       <tuv xml:lang="en-US">
         <seg>{confused}[from off-screen] Arr, that be a painting of Flotsam Island's notorious "Jungle Beast," {proud}painted by our own Hemlock McGee.{guybrush suspicious}</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>{confused}[from off-screen] Arr, to obraz osławionej "Bestii Dżungli" Wyspy Rozbitków, {proud}namalowany przez naszego Blekota McGee.{guybrush suspicious}</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103620Z">
+        <seg>{confused}[from off-screen] Arr, to obraz osławionej "Bestii Dżungli" Wyspy Rozbitków, {proud}namalowany przez naszego Hemlocka McGee.{guybrush suspicious}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18808,8 +18808,8 @@
       <tuv xml:lang="en-US">
         <seg>{default}Sometimes.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>{default}Kiedyś.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240927T083037Z">
+        <seg>{default}Czasami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19696,8 +19696,8 @@
       <tuv xml:lang="en-US">
         <seg>{incredulous}Yeah, I think I'll try again later.</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>Tak, myślę, że spróbuję później.</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T102945Z">
+        <seg>Chyba później zajrzę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20856,8 +20856,8 @@
       <tuv xml:lang="en-US">
         <seg>{suspicious}Hemlock oughta be hauled into "arrrrt court" for this...</seg>
       </tuv>
-      <tuv xml:lang="pl">
-        <seg>{suspicious}Blekot powinien być ciągany do "sądu przez tą sztukę"...</seg>
+      <tuv xml:lang="pl" changeid="dapyt" changedate="20240930T103830Z">
+        <seg>{suspicious}Hemlock powinien być ciągany do "sądu przez tą sztukę"...</seg>
       </tuv>
     </tu>
     <tu>
