@@ -2200,16 +2200,16 @@
       <tuv lang="en-US">
         <seg>Examine Mode Off</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>tryb oglądania wył.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240925T135800Z">
+        <seg>Wyłącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Examine Mode On</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>tryb oglądania wł.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20240925T135802Z">
+        <seg>Włącz Tryb Oglądania</seg>
       </tuv>
     </tu>
     <tu>
