@@ -936,8 +936,8 @@
       <tuv lang="en-US">
         <seg>Before the main course, the palate must be scalded clean by a powerful taste!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Przed daniem głównym podniebienie musi być sparzone mocnym smakiem!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T182335Z">
+        <seg>Przed daniem głównym podniebienie musi być wyparzone mocnym smakiem!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2888,8 +2888,8 @@
       <tuv lang="en-US">
         <seg>I can't say what exactly would be appropriate for the Feast of the Senses.{Happy} Fetid sweet meats perhaps. Dry aged, deep within the jungle. Something of that nature.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie umiem powiedzieć, co byłoby idealne dla Uczty zmysłów. Może cuchnąco słodkie mięso. Suszone w głębi dżungli. Coś w tym stylu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T182055Z">
+        <seg>Nie umiem powiedzieć, co byłoby idealne dla Uczty dla zmysłów. Może cuchnąco słodkie mięso. Suszone w głębi dżungli. Coś w tym stylu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3208,8 +3208,8 @@
       <tuv lang="en-US">
         <seg>I think we've established that that won't do any good.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Myślałem, że ustaliliśmy, że z tego nie wyniknie nic dobrego.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20241010T110200Z">
+        <seg>Chyba ustaliliśmy, że z tego nie wyniknie nic dobrego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10464,8 +10464,8 @@
       <tuv lang="en-US">
         <seg>{Angry} That's one lock my hook WON'T be unlocking.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tego zamka mój hak już nie otworzy.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T181706Z">
+        <seg>Akurat tego zamka mój hak na pewno nie otworzy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10936,8 +10936,8 @@
       <tuv lang="en-US">
         <seg>{Cocky} I don't know about mythical jungle beasts, but I always prefer MY ritual sacrifices to be slathered in sugar water.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie znam się na mitycznych bestiach, ale swoje ofiary rytualne zwykłem smarować słodką wodą.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T182142Z">
+        <seg>Nie znam się na mitycznych bestiach z dżungli, ale swoje ofiary rytualne zwykłem smarować słodką wodą.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11088,8 +11088,8 @@
       <tuv lang="en-US">
         <seg>{Cocky} My hand's already got its hand full.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Moja ręka już ma rękę pełną roboty.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20241010T110214Z">
+        <seg>Moja ręka już ma ręce pełne roboty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11712,8 +11712,8 @@
       <tuv lang="en-US">
         <seg>{Confused} Hmm.  Looks like these finicky moths {Incredulous} won't eat a jacket that's encrusted with bacon grease, fishwater, and manatee guts.  Lucky me.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241009T144031Z">
-        <seg>Te wybredne mole nie tkną kurtki splamionej tłuszczem z bekonu, rybą i bebechami manata. Ale fart.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T182804Z">
+        <seg>Hmm. Te wybredne mole nie tkną kurtki splamionej tłuszczem z bekonu, rybą i bebechami manata. Ależ fart.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12648,8 +12648,8 @@
       <tuv lang="en-US">
         <seg>{Default} I'm sure you will find something.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jestem pewna, że coś znajdziesz.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T181949Z">
+        <seg>Na pewno coś wymyślisz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13248,8 +13248,8 @@
       <tuv lang="en-US">
         <seg>{Happy} Big flavor.{Cocky} Got it.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mocny posmak. Kumam.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T182523Z">
+        <seg>Mocny smak. Kumam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13608,8 +13608,8 @@
       <tuv lang="en-US">
         <seg>{Happy} Ooh! Like grog?!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Takim jak grog?!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T182348Z">
+        <seg>Och! Jak grog?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14496,8 +14496,8 @@
       <tuv lang="en-US">
         <seg>{Mystical} With the table set, a powerful aroma must encourage the appetite to grow.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Gdy stół jest już nakryty, jakiś silny aromat musi zaostrzyć apetyt.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T181837Z">
+        <seg>Gdy stół już nakryty, jakiś silny aromat musi zaostrzyć apetyt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16120,8 +16120,8 @@
       <tuv lang="en-US">
         <seg>{Surprised} I haven't got it in me to kill this miserable, flesh-rending plant-creature-thing.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie mam sumienia, żeby zabijać tę biedną i mięsożerną roślinopodobną istotkę.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20241010T110258Z">
+        <seg>Nie mam sumienia, żeby zabijać tę biedną, mięsożerną, roślinopodobną istotkę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16368,8 +16368,8 @@
       <tuv lang="en-US">
         <seg>{Suspicious} Can you tell me about the palate cleanser?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Co mi powiesz o tym czystym podniebieniu?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T182301Z">
+        <seg>Co mi powiesz o tym oczyszczeniu podniebienia?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16472,8 +16472,8 @@
       <tuv lang="en-US">
         <seg>{Suspicious} It says here that course four, the main course, is the "sixth" sense.{Confused} That doesn't even MAKE sense.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tu jest napisane, że czwarte danie i zarazem główne danie, jest "szóstym" zmysłem. To bez sensu.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T182705Z">
+        <seg>Tu jest napisane, że czwarte i zarazem główne danie, jest "szóstym" zmysłem. To w ogóle nie ma sensu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16896,8 +16896,8 @@
       <tuv lang="en-US">
         <seg>{Whiney} I think my nose has been in shock since traversing the inside of a manatee.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mój nos jest w stanie szoku po przechadzce w brzuchu manata.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T181925Z">
+        <seg>Mój nos jest w mocnym szoku po przechadzce w brzuchu manata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16968,8 +16968,8 @@
       <tuv lang="en-US">
         <seg>{Whiney} Palate cleanser...Hmm...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Oczyszczenie podniebienia... Hmm...</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T182421Z">
+        <seg>Oczyszczenie podniebienia... hmm...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17232,8 +17232,8 @@
       <tuv lang="en-US">
         <seg>{Worried} Uh-oh.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>O-o.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241011T182709Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
