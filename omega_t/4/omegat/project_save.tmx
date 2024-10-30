@@ -10944,8 +10944,8 @@
       <tuv lang="en-US">
         <seg>{Cocky} I don't think that chest, even though it belongs to the Voodoo Lady, technically counts as a "Sixth Sense."  Maybe what's inside it will, though.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wątpię, żeby kufer, choć należy do Lady Voodoo, liczył się jako "Szósty zmysł". Może to, co jest w środku.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241027T101419Z">
+        <seg>Wątpię, żeby cały kufer, mimo że należy do Lady Voodoo, liczył się jako "Szósty zmysł". Może to, co jest w środku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11264,16 +11264,16 @@
       <tuv lang="en-US">
         <seg>{Cocky} That's a good idea, but I better get the lion's paw OUT of its [air quotes] "mouth" first.  I'd hate to lose the Sponge inside its rapacious gullet.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241009T100817Z">
-        <seg>Dobry pomysł, ale lepiej wpierw wyjąć lwią łapę z paszczy. Nie chciałbym stracić gąbki w tym drapieżnym przełyku.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241027T102205Z">
+        <seg>Dobry pomysł, ale wpierw lepiej wyjąć lwią łapę z paszczy tego czegoś. Nie chciałbym stracić gąbki w tym drapieżnym przełyku.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>{Cocky} That's a great idea, but I think I need to find the PART of this plant-beast that's stinking up the jungle.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pomysł przedni, ale muszę znaleźć część tej roślino-bestii, która zasmradza dżunglę.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241027T102402Z">
+        <seg>Pomysł przedni, ale lepiej jakbym znalazł tylko CZĘŚĆ tej roślino-bestii, która zasmradza dżunglę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11848,8 +11848,8 @@
       <tuv lang="en-US">
         <seg>{Confused} I'm not sure what my wayward hand would do with a pepper.  {Incredulous} You know, since he doesn't have a tongue 'n' all.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie wiem, co moja krnąbrna ręka zrobiłaby z papryczką. Wszak nie ma języka.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241027T101129Z">
+        <seg>Nie wiem, co moja krnąbrna ręka zrobiłaby z tą papryczką. Wszak nie ma języka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17296,8 +17296,8 @@
       <tuv lang="en-US">
         <seg>{angry} There's no WAY I'm giving this to De Singe now that I'm so close to enlarging it and curing Elaine!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>De Singe za nic nie dostanie gabki, skoro zaraz ją powiększę i wyleczę Elaine!</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241027T101616Z">
+        <seg>Nie ma szans, bym ot tak teraz oddał tę gąbkę De Singe'owi, skoro zaraz ją powiększę i wyleczę Elaine!</seg>
       </tuv>
     </tu>
     <tu>
@@ -18248,8 +18248,8 @@
       <tuv lang="en-US">
         <seg>{confused}Do you know why?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A dlaczego tak jest?</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241027T101801Z">
+        <seg>Wiesz dlaczego?</seg>
       </tuv>
     </tu>
     <tu>
@@ -20120,8 +20120,8 @@
       <tuv lang="en-US">
         <seg>{serious}I'm Pox free. Tested on a regular basis.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jestem udoporniona. Regularne badania to podstawa.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241027T101726Z">
+        <seg>Jestem uodporniona. Badam się regularnie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20376,8 +20376,8 @@
       <tuv lang="en-US">
         <seg>{stern}Probably because I'm not really a pirate, since I'm a pirate HUNTER.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pewnie dlatego, że jestem ŁOWCZYNIĄ piratów.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241027T101829Z">
+        <seg>Pewnie dlatego, że nie jestem piratem, tylko ŁOWCZYNIĄ piratów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20848,8 +20848,8 @@
       <tuv lang="en-US">
         <seg>{suspicious}Gotta like a Pox that respects minor semantical distinctions.{default}</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wirus, który rozpoznaje różnice znaczeniowe.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241027T102054Z">
+        <seg>Szanuję ospę, która respektuje drobne różnice semantyczne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21024,8 +21024,8 @@
       <tuv lang="en-US">
         <seg>{suspicious}What, so you can poison me?  {stern}I'll pass.{default}</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Co, chcesz mnie otruć? Dziękuję, postoję.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241027T101214Z">
+        <seg>Co, chcesz mnie otruć? Dziękuję.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21048,8 +21048,8 @@
       <tuv lang="en-US">
         <seg>{suspicious}Y'know, if you have even a scintilla of a guilty conscience, {confused}I could really use your help.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Gdybyś miała choć kapkę poczucia winy, to mogłabyś mi pomóc.</seg>
+      <tuv lang="pl" changeid="damia" changedate="20241030T153319Z">
+        <seg>Gdybyś miała choć kapkę poczucia winy, to mogłabyś mi pomóc. tirey</seg>
       </tuv>
     </tu>
     <tu>
