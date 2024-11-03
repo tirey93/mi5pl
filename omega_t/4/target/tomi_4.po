@@ -448,7 +448,7 @@ msgstr "dok"
 
 msgctxt "104_104_0_"
 msgid "Giant Wind Control Device"
-msgstr "ogromna machina do kontroli wiatru"
+msgstr "ogromny Wiatromanipulator"
 
 msgctxt "105_105_0_"
 msgid "Jungle Entrance"
@@ -620,15 +620,15 @@ msgstr "ocean"
 
 msgctxt "137_137_0_GUYBRUSH"
 msgid "{Happy} All right, Seńor Esponja Not-So-Grande, {Cocky} that's five senses down, and one to go!"
-msgstr "{Happy} No, seńor Esponja Nie-Tak-Grande, {Cocky} został nam jeden zmysł i{pisze se cokolwiek} po robocie!"
+msgstr "{Happy} No dobrze, seńor Esponja Nie-Tak-Grande, {Cocky} został nam jeden zmysł i po robocie!"
 
 msgctxt "138_138_0_GUYBRUSH"
 msgid "{Incredulous} Now where can I find a really big sound for an after-dinner belch?"
-msgstr "Gdzie by tu znaleźć donośny dźwięk poobiedniego beknięcia?"
+msgstr "{Incredulous} Tylko gdzie by tu znaleźć donośny dźwięk poobiedniego beknięcia?"
 
 msgctxt "139_139_0_GUYBRUSH"
 msgid "{Whiney} There's only one thing on Flotsam Island that can make a noise like that..."
-msgstr "Jest tu tylko jeden dinks, który wydaje taki dźwięk..."
+msgstr "{Whiney} Na tej wyspie jest tylko jeden dynks, który wyda taki dźwięk..."
 
 msgctxt "140_140_0_DESINGE"
 msgid "[humming to himself, possibly to the tune of "alouette"]  Alouette, I will live forever, alouette, immortalité..."
@@ -644,7 +644,7 @@ msgstr "Aha!"
 
 msgctxt "143_143_0_ELAINE"
 msgid "Arggh!  Face me like a man, ya snuff-sniffin' land-licker!"
-msgstr "Walcz jak chłop z jajami, wciągająca tabakę glizdo!"
+msgstr "Walcz jak chłop z jajami, ty wciągająca tabakę glizdo!"
 
 msgctxt "144_144_0_GUYBRUSH"
 msgid "You heard the lady, De Singe."
@@ -660,7 +660,7 @@ msgstr "Ach, radosny piracki klan Threepwoodów. I co by tu zrobić? Już wiem."
 
 msgctxt "147_147_0_GUYBRUSH"
 msgid "Aw, clam dip."
-msgstr "Małż."
+msgstr "Umałżowiony."
 
 msgctxt "148_148_0_ELAINE"
 msgid "[amused] Hah!  I can't believe I ever married a dullard like you!"
@@ -672,7 +672,7 @@ msgstr "Jak już cię wyleczę z ospy, przez którą sączysz tyle jadu, będzie
 
 msgctxt "150_150_0_ELAINE"
 msgid "[angry] I wouldn't smooch you with HIS lips, cabin boy!"
-msgstr "Wolałabym już cmoknąć jego kupę niż ciebie!"
+msgstr "Wolałabym już cmoknąć jego kuper niż ciebie!"
 
 msgctxt "151_151_0_DESINGE"
 msgid "Ahem.  I hate to break up this portrait of domestic bliss, but I've got some last-minute adjustments to make to my machinery before preparing the charming Madame Threepwood for her journey into scientific history--"
@@ -688,7 +688,7 @@ msgstr "Niech będzie. Bylebyście byli cicho."
 
 msgctxt "154_154_0_GUYBRUSH"
 msgid "[conspiratorily to Elaine]  Don't worry, buttercup... once I get La Esponja Grande into that noisy doohickey, our troubles will be over!"
-msgstr "Bez obaw, słonko. Jak tylko La Esponja Grande wpadnie do tego hałaślwiego coś, będzie po wszystkim!"
+msgstr "[conspiratorily to Elaine] Bez obaw, słonko. Jak tylko La Esponja Grande wpadnie do tego hałaśliwego ustrojstwa, to będzie po wszystkim!"
 
 msgctxt "155_155_0_ELAINE"
 msgid "[angry and poxed and not really paying attention] Argh!"
@@ -696,7 +696,7 @@ msgstr "Argh!"
 
 msgctxt "156_156_0_GUYBRUSH"
 msgid "[to himself] At least, I hope so..."
-msgstr "Przynajmniej mam taką nadzieję..."
+msgstr "Na to liczę..."
 
 msgctxt "157_157_0_DESINGE"
 msgid "[quitely] Eureka..."
@@ -704,7 +704,7 @@ msgstr "Eureka..."
 
 msgctxt "158_158_0_DESINGE"
 msgid "What's this?  An airborne porifera?"
-msgstr "Fruwająca gąbka?"
+msgstr "A to co? Fruwająca gąbka?"
 
 msgctxt "159_159_0_GUYBRUSH"
 msgid "Give that back!"
@@ -712,15 +712,15 @@ msgstr "Oddawaj!"
 
 msgctxt "160_160_0_DESINGE"
 msgid "And risk tainting my moment of triumph with your tedious "voodoo" falderal?  I don't think so!"
-msgstr "I splamić swoją chwilę triumfu twoimi voodoo-szmudu? Niedoczekanie!"
+msgstr "I splamić swoją chwilę triumfu twoimi voodoo błahostkami? Niedoczekanie!"
 
 msgctxt "161_161_0_GUYBRUSH"
 msgid "Moment of triumph?"
-msgstr "Triumfu?"
+msgstr "Chwilę triumfu?"
 
 msgctxt "162_162_0_DESINGE"
 msgid "Oui!  Using my Harpsichronitron, I have discovered the unique harmonic frequency that allows me to pulverize matter into a fine powder and spread it across the seas.  Observe!"
-msgstr "Klawikosynchronizator pomógł mi odkryć unikalną harmoniczną częstotliwość. Dzięki niej rozdrobnię materię w drobny pył, który pokryje morza tego świata. Patrz!"
+msgstr "Oui! Klawesyntron pomógł mi odkryć unikalną częstotliwość harmoniczną. Dzięki niej rozdrobnię materię w drobny pył, który pokryje wszystkie morza świata. Patrz!"
 
 msgctxt "163_163_0_PARROT"
 msgid "<Bwak!> It's me, Guybrush --!"
@@ -728,15 +728,15 @@ msgstr "To ja, Guybrush..."
 
 msgctxt "164_164_0_GUYBRUSH"
 msgid "First of all, thanks.  That thing was really starting to scrape my scabbard."
-msgstr "Pierwsze primo - dzięki. Zaczynał już mi ryć banię."
+msgstr "Pierwsze primo - dzięki. Naprawdę zaczynał już mi ryć banię."
 
 msgctxt "165_165_0_GUYBRUSH"
 msgid "Second, you're crazy if you think you're going to get me in there.  Okay, crazi-er."
-msgstr "A po drugie - chyba na głowę upadłeś, jeśli myślisz, że tam wlezę. No dobra, na turban."
+msgstr "A po drugie - chyba na głowę upadłeś, jeśli myślisz, że tam wlezę. Okej, na turban."
 
 msgctxt "166_166_0_DESINGE"
 msgid "You?  I don't want you!  It's your WIFE'S molecules I need to smear across the seas!"
-msgstr "Ty? Dobre sobie! Zamierzam rozpylić cząsteczki twojej żony!"
+msgstr "Ty? Nie chcę ciebie! To twoja ŻONA ma molekuły, które zamierzam rozpylić!"
 
 msgctxt "167_167_0_ELAINE"
 msgid "[angry] I'd like to see you try, ya wuss!"
@@ -744,11 +744,11 @@ msgstr "Już to widzę, fujaro!"
 
 msgctxt "168_168_0_GUYBRUSH"
 msgid "Why her?"
-msgstr "Dlaczego jej?"
+msgstr "Czemu ją?"
 
 msgctxt "169_169_0_DESINGE"
 msgid "Because of her Pox, you dolt!  She's got the same unique strain of the Pox that you once had, the same one that was flowing through your amazing hand, the same one that I've distilled into my amazing Jus de Vie!"
-msgstr "Z powodu ospy, durniu! Ma tę samą unikalną odmianę, którą miałeś i ty. Ospę, która zawładnęła twoją dłonią, a z której ja wytrąciłem swój cudowny Jus de Vie!"
+msgstr "Z powodu ospy, durniu! Ma tę samą unikalną odmianę, którą miałeś i ty. Odmianę, która zawładnęła twoją dłonią, a z której ja wydobyłem mój cudowny Jus de Vie!"
 
 msgctxt "170_170_0_DESINGE"
 msgid "Unfortunately, a single hand can only provide enough of the "Threepwood Strain" to produce a few meager drams of my Jus de Vie.  Even if I were to drain your beloved to the bone, I would only gain a few piddling firkins of the Jus..."
@@ -764,19 +764,19 @@ msgstr "Rąsia!"
 
 msgctxt "173_173_0_DESINGE"
 msgid "[ignoring her]  No, if I want a perpetual strain of the Jus de Vie, every pirate in the world must be exposed to the Threepwood Strain!"
-msgstr "Nie. Jeśli chcę ciągłych dostaw Jus de Vie, każdy pirat na tym świecie musi zostać zarażony szczepem Threepwooda!"
+msgstr "[ignoring her] Nie. Jeśli chcę ciągłych dostaw Jus de Vie, każdy pirat na świecie musi zostać zarażony szczepem Threepwooda!"
 
 msgctxt "174_174_0_DESINGE"
 msgid "Now, Madame Threepwood, if you'll hold still for a moment, I'll try to make this as painless as possible..."
-msgstr "Madame Threepwood, jeśli postoisz spokojnie, spróbuję zrobić to możliwie jak najmniej boleśnie."
+msgstr "A więc, madame Threepwood, proszę stanąć spokojnie, a ja spróbuję zrobić to możliwie najmniej boleśnie..."
 
 msgctxt "175_175_0_ELAINE"
 msgid "[momentarily nice]How nice... [suddenly savage] but I won't!"
-msgstr "No miło mi... ale idź się wypchać!"
+msgstr "[momentarily nice] No miło... [suddenly savage] ale nie!"
 
 msgctxt "176_176_0_DESINGE"
 msgid "[reacting to getting stabbed.  Even though he's invulnerable, it hurts.] Ugh!"
-msgstr "Uch!"
+msgstr " "
 
 msgctxt "177_177_0_DESINGE"
 msgid "Heh!  Ha-hah-ha!  Behold the power of the Jus de Vie!"
@@ -784,11 +784,11 @@ msgstr "Ha, ha, ha! Oto moc Jus de Vie!"
 
 msgctxt "178_178_0_GUYBRUSH"
 msgid "[shocked] What in the name of Bluebeard's hair dye..."
-msgstr "Na farbowane kłaki Sinobrodego..."
+msgstr "[shocked] Na farbowane kłaki Sinobrodego..."
 
 msgctxt "179_179_0_DORO"
 msgid "[possessive] Hey, no poaching, I have called dibs!"
-msgstr "Nie kraść mi tu, zaklepałem pierwszeństwo!"
+msgstr "[possessive] Hej, wara od tego. Zaklepałem sobie!"
 
 msgctxt "180_180_0_GUYBRUSH"
 msgid "I think I may be lost... shouldn't there be a creepy voodoo shack right about... there?"
@@ -796,7 +796,7 @@ msgstr "Chyba zabłądziłem. Czy tu nie stała czasem upiorna chatka voodoo?"
 
 msgctxt "181_181_0_DORO"
 msgid "There was... until they came to arrest that Pox-spreading Voodoo Lady."
-msgstr "Ano stała, dopóki nie pojmali Lady Voodoo od ospy."
+msgstr "Ano stała... dopóki nie pojmali tej szerzącej ospę Lady Voodoo."
 
 msgctxt "182_182_0_GUYBRUSH"
 msgid "What happened?"
@@ -804,7 +804,7 @@ msgstr "Co się stało?"
 
 msgctxt "183_183_0_DORO"
 msgid "[haunted] First came the flames... poor Seńor Nipperkin went up like Saint Elmo's Fire... then SHE emerged from the conflagration, mumbling ancient curses with every regal step... I'll never forget the baleful stare she fixed me with as she was led away... a look condemning me to a lifetime of suffering, shame, and regret."
-msgstr "Wpierw zapłonął ogień! Biedny seńor Nipperkin poszedł z dymem. A potem ze zgliszczy wyszła ona, mamrocząc w kółko pradawne przekleństwa. Nigdy nie zapomnę jej złowrogiego spojrzenia. Spojrzenia skazującego mnie na życie w bólu, wstydzie i żalu."
+msgstr "[haunted] Wpierw zapłonął ogień... biedny seńor Nipperkin poszedł z dymem... A potem ze zgliszczy wyszła ona, mamrocząc w kółko pradawne przekleństwa... Nigdy nie zapomnę jej złowrogiego spojrzenia... spojrzenia skazującego mnie na życie w bólu, wstydzie i żalu."
 
 msgctxt "184_184_0_GUYBRUSH"
 msgid "{surprised}Yipes!"
@@ -816,11 +816,11 @@ msgstr "Straszno."
 
 msgctxt "186_186_0_DORO"
 msgid "And if that wasn't bad enough, I haven't found ONE bit of cool voodoo stuff in the wreckage!  C'mon!"
-msgstr "A co gorsza, nie znalazłem żadnych fajnych artefaktów voodoo. Granda!"
+msgstr "A co gorsza, w zgliszczach nie znalazłem żadnych fajnych artefaktów voodoo. Granda!"
 
 msgctxt "187_187_0_GUYBRUSH"
 msgid "Mob justice can be SO unfair."
-msgstr "Sprawiedliwość motłochu bywa taka niefair."
+msgstr "Sprawiedliwość motłochu bywa niefair."
 
 msgctxt "188_188_0_VOODOOLADY"
 msgid "[random under the breath vooodoo curses to play as a sound effect] Enu sanctimus dorimus porumae vitriium, adrio tedium volumae nostirum..."
@@ -840,7 +840,7 @@ msgstr "No tak, wiatry..."
 
 msgctxt "192_192_0_ELAINE"
 msgid "[confused and a little angry as the pox is ripped from her] Rarrrrr!"
-msgstr "Rarrrrr!"
+msgstr " "
 
 msgctxt "193_193_0_GUYBRUSH"
 msgid "[shouting over the wind]  Hold on!"
@@ -868,19 +868,19 @@ msgstr "Ja to załatwię, przyjaciele!"
 
 msgctxt "199_199_0_GUYBRUSH"
 msgid "LeChuck!  My new best pal!  How'd you get out of jail?"
-msgstr "LeChuck! Mój nowy najlepszy kumpel! Jak zwiałeś z paki?"
+msgstr "LeChuck! Mój najlepszy kumpel! Jak zwiałeś z paki?"
 
 msgctxt "200_200_0_LECHUCK"
 msgid "[in a casual, matter-of-fact way] Oh, the guard was more than happy to release me once I convinced him that it was the only way to win Elaine's hand in unholy matrimony."
-msgstr "Klawisz skakał z radości, gdy przekonałem go, że tylko na wolności mogę połączyć się z Elaine grzesznym węzłem małżeńskim."
+msgstr "[in a casual, matter-of-fact way] Klawisz skakał z radości, gdy przekonałem go, że tylko na wolności mogę połączyć się z Elaine grzesznym węzłem małżeńskim."
 
 msgctxt "201_201_0_GUYBRUSH"
 msgid "[confused] Wait.  Unholy what?"
-msgstr "Grzesznym czym?"
+msgstr "Czekaj. Grzesznym czym?"
 
 msgctxt "202_202_0_LECHUCK"
 msgid "Unholy THIS!"
-msgstr "Zgrzesz to!"
+msgstr "Zgrzesz TO!"
 
 msgctxt "203_203_0_ELAINE"
 msgid "[horrified] Guybrush!"
@@ -904,11 +904,11 @@ msgstr "Czy to ty, matko? Umyłem ręce..."
 
 msgctxt "208_208_0_ELAINE"
 msgid "[angry seething] I knew it all along... with or without all that voodoo, you're still nothing but an evil sack of scumm!"
-msgstr "Wiedziałam. Z voodoo czy bez, nadal jesteś tylko podłą kanalią!"
+msgstr "Wiedziałam... z voodoo czy bez, nadal jesteś tylko podłą kanalią!"
 
 msgctxt "209_209_0_LECHUCK"
 msgid "Correction, my sweet... I'm an evil sack of scumm who's about to plunder the grandest treasure in all creation.  But I be willin' to share my booty, if ye catch me drift..."
-msgstr "Poprawka. Jestem kanalią, która zrabuje najwspanialszy skarb we wszechświecie. Ale gotów jestem podzielić się łupem, jeśli wiesz, o czym mówię..."
+msgstr "Poprawka. Jestem kanalią, która zrabuje najwspanialszy skarb we wszechświecie. Choć chętnie podzielę się swym łupem, jeśli wiesz, o czym mówię..."
 
 msgctxt "210_210_0_ELAINE"
 msgid "[incredulous] What?"
@@ -916,7 +916,7 @@ msgstr "Że co?"
 
 msgctxt "211_211_0_LECHUCK"
 msgid "[charming as hell] Oh come now, my love.  You can't deny what we've shared these past few weeks.  The chummy camaraderie, the kind words, the stolen glances.  I know you've developed feelings for me... join me as my demon bride and together we'll lay a bloody siege to the very heart of voodoo itself!"
-msgstr "Nie zaprzeczysz temu, co dzieliliśmy przez ostatnie kilka tygodni. Poufałość, miłe słówka, ukradkowe spojrzenia. Wiem, że żywisz do mnie uczucie. Zostań mą demoniczną panną młodą, a razem uderzymy w samo serce voodoo!"
+msgstr "[charming as hell] No daj spokój, kruszynko. Nie zaprzeczysz temu, co dzieliliśmy przez ostatnie tygodnie. To koleżeństwo, miłe słówka, ukradkowe spojrzenia. Wiem, że żywisz do mnie uczucie... Zostań mą demoniczną narzeczoną, a razem urządzimy krwawą ucztę w samym sercu voodoo!"
 
 msgctxt "212_212_0_ELAINE"
 msgid "[seething] Go to hell, LeChuck."
@@ -924,7 +924,7 @@ msgstr "Idź do diabła, LeChuck."
 
 msgctxt "213_213_0_LECHUCK"
 msgid "Well, you can't say I didn't try..."
-msgstr "Nie mów, że nie próbowałam."
+msgstr "Wiesz, że próbowałam."
 
 msgctxt "214_214_0_GUYBRUSH"
 msgid "Elaine?"
@@ -944,7 +944,7 @@ msgstr "Skop tyłek temu judaszowi."
 
 msgctxt "218_218_0_ELAINE"
 msgid "[seriously fighting back tears] From Męlée to Monkey and all the islands in between, my love."
-msgstr "Jak z Wyspy Szpady™ do Wyspy Małp™ i do wszystkich wysp pomiędzy, skarbie."
+msgstr "Jak z Wyspy Szpady do Wyspy Małp i do wszystkich wysp pomiędzy, skarbie."
 
 msgctxt "219_219_0_LECHUCKDEMON"
 msgid "Aren't you dead yet?  I've got wedding plans to make!"
@@ -956,15 +956,15 @@ msgstr "Z szacunku dla świeżo zmarłego powinienem zaznaczyć, że machasz tą
 
 msgctxt "221_221_0_ELAINE"
 msgid "[angry] Grrr."
-msgstr "Grrr."
+msgstr " "
 
 msgctxt "222_222_0_ELAINE"
 msgid "How appropriate... you fight like a Pox-infected undead cow."
-msgstr "No proszę - a ty walczysz jak zarażona ospą krowa zombie."
+msgstr "Cóż za zbieg... Ty za to jak zarażona ospą krowa zombie."
 
 msgctxt "223_223_0_LECHUCKDEMON"
 msgid "Bwah-ha-ha-haaaah!"
-msgstr "Bu, ha, ha, haaaa!"
+msgstr " "
 
 msgctxt "224_224_0_GUYBRUSH"
 msgid "{surprised}What the-?"
@@ -984,11 +984,11 @@ msgstr "Przyszłam po twoją dłoń..."
 
 msgctxt "228_228_0_GUYBRUSH"
 msgid "{angry}You didn't have to do that!"
-msgstr "Nie musiałaś tego robić!"
+msgstr "Nie musiałaś!"
 
 msgctxt "229_229_0_MORGAN"
 msgid "[coughing... she's dying][trying to get Guybrush's attention] {Serious}Had to pay you back for all the trouble...  Found Jacques...  He told"
-msgstr "Musiałam odpłacić ci za wszystkie kłopoty. Znalazłam Jacquesa. Powiedział"
+msgstr "[coughing... she's dying][trying to get Guybrush's attention] {Serious}Musiałam się odpłacić za kłopoty. Znalazłam Jacquesa. Powiedział..."
 
 msgctxt "229_229_1_MORGAN"
 msgid "me..."
@@ -1000,11 +1000,11 @@ msgstr "Co?"
 
 msgctxt "231_231_0_MORGAN"
 msgid "[Slipping away] {strained}He told me..."
-msgstr "Powiedział..."
+msgstr "Powiedział mi..."
 
 msgctxt "232_232_0_GUYBRUSH"
 msgid "{confused}What?  What did the monkey tell you?"
-msgstr "Co powiedziała ta małpa?"
+msgstr "Co? Co powiedziała ta małpa?"
 
 msgctxt "233_233_0_GUYBRUSH"
 msgid "[angrier than he's ever been, ever]{angry} De Singe!"
@@ -1012,7 +1012,7 @@ msgstr "De Singe!"
 
 msgctxt "234_234_0_DESINGE"
 msgid "[off-screen and distant] [horrified] Aieee!"
-msgstr "Ajjj!"
+msgstr " "
 
 msgctxt "235_235_0_GUYBRUSH"
 msgid "What was that?"
@@ -1020,15 +1020,15 @@ msgstr "Co to było?"
 
 msgctxt "236_236_0_GUYBRUSH"
 msgid "Hm. Something sure shoved a short sword up his aft sail..."
-msgstr "Coś musiało go ugryźć w tyłek..."
+msgstr "Hmm. Coś musiało go ugryźć w tyłek..."
 
 msgctxt "237_237_0_ELAINE"
 msgid "[counting as though working out a treasure map] 18... 19... 20... and X marks the--"
-msgstr "18, 19, 20, i znak X..."
+msgstr "18... 19... 20... i znak X..."
 
 msgctxt "238_238_0_ELAINE"
 msgid "[angry] Grr!  When I get me hands on that plaid-coated scallywag, I'm gonna rip off his waving arms and beat him to a briny pulp with 'em!"
-msgstr "Niech ja dorwę tę łajzę w szkocką kratę, to mu wyrwę te wierzgajace łapska i stłukę go nimi na miazgę!"
+msgstr "Niech ja dorwę tę łajzę w szkocką kratę, to mu wyrwę te wierzgające łapska i stłukę go nimi na miazgę!"
 
 msgctxt "239_239_0_ELAINE"
 msgid "What're YOU looking at?"
@@ -1036,7 +1036,7 @@ msgstr "Na co się gapisz?"
 
 msgctxt "240_240_0_DESINGE"
 msgid "The secret to eternal life."
-msgstr "Na tajemnicę życia wiecznego."
+msgstr "Na sekret wiecznego życia."
 
 msgctxt "241_241_0_DESINGE"
 msgid "Le Spectre de Grand Caesar!"
@@ -1044,11 +1044,11 @@ msgstr "Le Spectre de Grand Caesar!"
 
 msgctxt "242_242_0_ELAINE"
 msgid "[piratety] Har-har-harrrrr!"
-msgstr "Har-har-harrrrr!"
+msgstr " "
 
 msgctxt "243_243_0_GUYBRUSH"
 msgid "Hm.  Doesn't look like Elaine's in any immediate danger."
-msgstr "Elaine chyba nic nie zagraża."
+msgstr "Hmm. Elaine chyba nic nie zagraża."
 
 msgctxt "244_244_0_DESINGE"
 msgid "[out of breath, breathing heavy]{Worried} At last!  I've lost that she-devil!"
@@ -1060,11 +1060,11 @@ msgstr "Musiało boleć. I dobrze mu tak."
 
 msgctxt "246_246_0_GUYBRUSH"
 msgid "Hopefully, she won't commit any unforgivable atrocities before I finish enlarging my Pox-curing sponge."
-msgstr "Oby nie popełniła jakichś okrucieństw, nim nie skończę powiększać gąbki."
+msgstr "Oby nie popełniła żadnych niewybaczalnych okrucieństw, nim nie skończę powiększać gąbki."
 
 msgctxt "247_247_0_GUYBRUSH"
 msgid "{Cocky} Still, I better finish feeding the Sponge before Elaine hurts someone I actually care about."
-msgstr "Ale lepiej skończę karmić tę gąbkę, zanim Elaine zrani kogoś, kto mnie obchodzi."
+msgstr "{Cocky} Ale lepiej skończę karmić tę gąbkę, zanim Elaine zrani kogoś, kto mnie obchodzi."
 
 msgctxt "248_248_0_GUYBRUSH"
 msgid "Now that's an Esponja Grande!  But how will I use it to cure..."
@@ -1076,15 +1076,15 @@ msgstr "Arrr, i o to chodziło!"
 
 msgctxt "250_250_0_GUYBRUSH"
 msgid "I don't want to pour acid on that!  It could get scarred or worse... acid-washed!"
-msgstr "Nie chcę wylać na to kwasu! Jeszcze się zabrudzi albo gorzej - wybieli!"
+msgstr "Nie chcę wylać na to kwasu! Jeszcze się zabrudzi albo gorzej... wybieli!"
 
 msgctxt "251_251_0_GUYBRUSH"
 msgid "I'm not sure I want to leak iron all over that."
-msgstr "Nie chcę rozsypywać opiłków metalu."
+msgstr "Nie chcę rozsypywać tutaj żelaza."
 
 msgctxt "252_252_0_GUYBRUSH"
 msgid "I'm not sure that would be improved by scattering court papers all over it."
-msgstr "Rozrzucanie akt sądowych tu nie pomoże."
+msgstr "Nie sądzę, bym tu coś zdziałał rozrzucając wokół akta sądowe."
 
 msgctxt "253_253_0_GUYBRUSH"
 msgid "I don't see how that could possibly compare to a sketch of a burned leg."
@@ -1096,27 +1096,27 @@ msgstr "Nie potrzebuję tego w kubku."
 
 msgctxt "255_255_0_GUYBRUSH"
 msgid "The eye only captures the color of other living eyes."
-msgstr "Oko uchwyca tylko kolor innych oczu."
+msgstr "Oko uchwyci tylko kolor innych żywych oczu."
 
 msgctxt "256_256_0_GUYBRUSH"
 msgid "I don't want to dig my hook into that.... I don't know where it's been."
-msgstr "Nie będę w tym grzebał hakiem. Kto wie, gdzie to było."
+msgstr "Nie będę tu grzebał hakiem... kto wie, gdzie to było."
 
 msgctxt "257_257_0_GUYBRUSH"
 msgid "I don't want to waste my last Blood Island Volcano Shot on that."
-msgstr "Szkoda marnować ostatniego szota Wulkanu Krwawej Wyspy."
+msgstr "Szkoda marnować na to ostatniego szota Krwawej Wyspy."
 
 msgctxt "258_258_0_GUYBRUSH"
 msgid "I don't think splashing hot wax on that would be productive, fun or pirate-y."
-msgstr "Rozchlapanie wosku nie będzie ani produktywne, ani zabawne ani w pirackim stylu."
+msgstr "Rozchlapanie tu wosku nie będzie ani produktywne ani zabawne ani pirackie."
 
 msgctxt "259_259_0_GUYBRUSH"
 msgid "I don't think the garish remnants of Stan's jacket should be tied around THAT."
-msgstr "Wątpię, czy należy przywiązać resztki marynarki Stana do tego."
+msgstr "Wątpię, by resztki marynarki Stana należało zawiązać wokół TEGO."
 
 msgctxt "260_260_0_GUYBRUSH"
 msgid "One thing I've learned the hard way over the years is that you should never pull a monkey out of your pocket until the most dramatically useful moment... and that goes triple for an electromagnetic monkey."
-msgstr "Na przestrzeni lat nauczyłem się, że nie należy wyciągać małpy z kieszeni, aż do najbardziej dramatyczno-przydatnego momentu. A w przypadku elektromagnetycznej małpy liczy się to potrójnie."
+msgstr "Na przestrzeni lat nauczyłem się, że nie należy wyciągać małpy z kieszeni, aż do najbardziej dramatycznie przydatnego momentu... a liczy się to potrójnie, kiedy małpa jest elektromagnetyczna."
 
 msgctxt "261_261_0_GUYBRUSH"
 msgid "That doesn't need to be illuminated."
@@ -1124,15 +1124,15 @@ msgstr "Tego nie trzeba oświecać."
 
 msgctxt "262_262_0_GUYBRUSH"
 msgid "I don't think that needs a stinky ol' lion's paw."
-msgstr "Cuchnąca łapa lwa jest tu zbędna."
+msgstr "Nie sądzę, by cuchnąca lwia łapa coś tu pomogła."
 
 msgctxt "263_263_0_GUYBRUSH"
 msgid "Hot manatee oil is a precious resource... I shouldn't splash it around all willy-nilly."
-msgstr "Olej z manata to cenny surowiec. Lepiej nie rozchlapywać go gdzie popadnie."
+msgstr "Olej z manata to cenny surowiec... Lepiej nie rozchlapywać go gdzie popadnie."
 
 msgctxt "264_264_0_GUYBRUSH"
 msgid "I'm not risking this valuable clue on some half-baked combination scheme!"
-msgstr "Nie zaryzykuję tak cennego tropu dla jakiegoś absurdalnego planu!"
+msgstr "Nie zaryzykuję tak cennej wskazówki dla jakiegoś absurdalnego planu!"
 
 msgctxt "265_265_0_GUYBRUSH"
 msgid "I don't think I should be splashing molten glass on that."
@@ -1140,19 +1140,19 @@ msgstr "Lepiej nie wylewać na to ciekłego szkła."
 
 msgctxt "266_266_0_GUYBRUSH"
 msgid "Something that tasty should be fed to something or someone that really appreciates it."
-msgstr "Taką pychotkę trzeba by dać jakiemuś smakoszowi."
+msgstr "Taką pychotkę lepiej zostawić dla czegoś lub kogoś, kto ją dobrze doceni."
 
 msgctxt "267_267_0_GUYBRUSH"
 msgid "La Esponja Grande is only good for soaking up voodoo... like the Pox."
-msgstr "La Esponja Grande ma wchłaniać voodoo - na przykład ospę."
+msgstr "La Esponja Grande ma wchłaniać voodoo... na przykład ospę."
 
 msgctxt "268_268_0_GUYBRUSH"
 msgid "La Esponja Grande won't be able to soak up ANYTHING until I finish growing it with the Voodoo Lady's "Feast for the Senses.""
-msgstr "La Esponja Grande nie wchłonie niczego, dopóki nie urośnie dzięki \"Uczcie dla zmysłów\" Lady Voodoo."
+msgstr "La Esponja Grande nie wchłonie niczego, dopóki nie urośnie dzięki \"Uczcie dla zmysłów\" od Lady Voodoo."
 
 msgctxt "269_269_0_DESINGE"
 msgid "{sarcastic}28...29...30 thousand pieces of silver, mon petit chou-chou!"
-msgstr "28, 29, 30 tysięcy srebrników, mon petit chou-chou!"
+msgstr "28... 29... 30 tysięcy srebrników, mon petit chou-chou!"
 
 msgctxt "270_270_0_GUYBRUSH"
 msgid "{stern}I've got an idea... {confused}why don't you let me go, and I'll pay you {happy}double what the Marquis is paying?"
@@ -1176,7 +1176,7 @@ msgstr "Czyżby? Zapłacę potrójnie!"
 
 msgctxt "275_275_0_DESINGE"
 msgid "{Arrogant}HA!"
-msgstr "HA!"
+msgstr " "
 
 msgctxt "276_276_0_GUYBRUSH"
 msgid "Quadruple?"
@@ -1200,7 +1200,7 @@ msgstr "Threepwood, nie doceniasz wartości tego, co płynie przez twe ciało!"
 
 msgctxt "281_281_0_GUYBRUSH"
 msgid "{incredulous}Oh, I've got a pretty good idea. {cocky}Why, my spit alone once won me 8,000 pieces of eight on Booty Island--"
-msgstr "Wręcz przeciwnie. Moja ślina wygrała dla mnie 8,000 talarów na Wyspie Łupu™."
+msgstr "Wręcz przeciwnie. Moja ślina wygrała kiedyś dla mnie 8,000 talarów na Wyspie Łupu™..."
 
 msgctxt "282_282_0_DESINGE"
 msgid "{sarcastic}[Interrupting] Then you shall die knowing that you gave a priceless gift {happy}to science!"
@@ -1212,7 +1212,7 @@ msgstr "Przykro mi."
 
 msgctxt "284_284_0_DESINGE"
 msgid "{amazed}Finally!  I've got the Threepwood, I've got the formula, {happy}and soon I'll have nothing less than life eternal! {happy} I'm as happy as a penguin sliding on its belly!"
-msgstr "Nareszczie mam Threepwooda, formułę, a już niedługo posiądę życie wieczne! Jestem szczęśliwy jak pingwin ślizgający się na brzuchu!"
+msgstr "{amazed}Nareszcie mam Threepwooda, formułę, {happy}a już niedługo posiądę życie wieczne! {happy}Cieszę się jak pingwin ślizgający się na brzuszku!"
 
 msgctxt "285_285_0_DESINGE"
 msgid "{angry}What is this?"
@@ -1220,7 +1220,7 @@ msgstr "A cóż to?"
 
 msgctxt "286_286_0_GUYBRUSH"
 msgid "{happy}Aw, it's a welcome back party! {happy}I hope they brought ice cream cake..."
-msgstr "Komitet powitalny! Byleby przynieśli tort lodowy."
+msgstr "Komitet powitalny! Byleby przynieśli tort lodowy..."
 
 msgctxt "287_287_0_MCGEE"
 msgid "{stern}GUYBRUSH THREEPWOOD, we've been waiting a long time for this!"
@@ -1240,7 +1240,7 @@ msgstr "Ale..."
 
 msgctxt "291_291_0_KREBBS"
 msgid "{annoyed}And then the scurvy dog'll hang!"
-msgstr "A potem zawszony kundel zawisnie!"
+msgstr "{annoyed}A potem kundel zawiśnie!"
 
 msgctxt "292_292_0_GUYBRUSH"
 msgid "{surprised}What the-!?"
@@ -1248,43 +1248,43 @@ msgstr "Co do..."
 
 msgctxt "293_293_0_GUYBRUSH"
 msgid "{suspicious}[Realizing] Ahh...{happy}LADIES' night."
-msgstr "Aha, babski wieczór."
+msgstr "Ach... babski wieczór."
 
 msgctxt "294_294_0_MORGAN"
 msgid "{strained}Guybrush! Your wife has lost her mind!"
-msgstr "Guybrush! Twojej żonie odjęło rozum!"
+msgstr "{strained}Guybrush! Twojej żonie odjęło rozum!"
 
 msgctxt "295_295_0_ELAINE"
 msgid "{evil}[Poxy] And yer about to lose a limb ya sea cow!"
-msgstr "A tobie zaraz odejmę nogę, ty krowo morska!"
+msgstr "{evil}[Poxy] A tobie zaraz odejmie nogę, ty krowo morska!"
 
 msgctxt "296_296_0_GUYBRUSH"
 msgid "{cocky}Elaine, sugarcakes, {incredulous}let's stop fighting and work this out over a nice cold lite grog."
-msgstr "Elaine, kotuś, zawieś broń i porozmawiajmy przy szklaneczce grogu."
+msgstr "{cocky}Elaine, kotku, {incredulous}zawieś broń i porozmawiajmy chwilę przy szklaneczce lekkiego grogu."
 
 msgctxt "297_297_0_ELAINE"
 msgid "[Poxy] It's her head or yours, bilge-boy.{guybrush surprised}"
-msgstr "Zaraz poleci jej łeb albo twój!"
+msgstr "Poleci jej albo twój łeb, zęzatku!"
 
 msgctxt "298_298_0_GUYBRUSH"
 msgid "OR you two {confused}can just figure out this little misunderstanding on your own. I'll be over here appreciating my head's ability to {worried}stay attached to my neck."
-msgstr "Albo same wyjaśnijcie sobie te niesnaski, a ja sobie posiedzę i nacieszę tym, że głowę mam tam gdzie trzeba."
+msgstr "Albo same {confused}wyjaśnijcie sobie te niesnaski, a ja sobie posiedzę{worried} i nacieszę tym, że głowę mam tam gdzie trzeba."
 
 msgctxt "299_299_0_ELAINE"
 msgid "{evil}[Lunges with her sword, stick it in the wall] Hurrryaaa!"
-msgstr "Harrr!"
+msgstr " "
 
 msgctxt "300_300_0_ELAINE"
 msgid "ARRRR-WA!"
-msgstr "ARRRR!"
+msgstr " "
 
 msgctxt "301_301_0_ELAINE"
 msgid "{angry}Good fer nothin' words getting in the way of my killin!"
-msgstr "Te jałowe dyrdymały przeszkadzają mi w jatce!"
+msgstr "Te jałowe dyrdymały przeszkadzają mi w tej jatce!"
 
 msgctxt "302_302_0_ELAINE"
 msgid "{evil}GRRR!"
-msgstr "GRRR!"
+msgstr " "
 
 msgctxt "303_303_0_GUYBRUSH"
 msgid "{cocky}Honey, you are formally summoned to appear before the court of Judge Grindstump in the case of the People of Flotsam v. {proud}Guybrush Threepwood, Mighty Pirate™."
@@ -1292,19 +1292,19 @@ msgstr "Skarbie, wezwano cię przed trybunał sędziego Grindstumpa w pozwie lud
 
 msgctxt "304_304_0_MORGAN"
 msgid "{sarcastic}[Out of breath] Phew… now I know who wears the daddy pants in the relationship."
-msgstr "Teraz już wiem, kto w tym związku nosi spodnie."
+msgstr "Teraz już wiem, kto nosi spodnie w tym związku."
 
 msgctxt "305_305_0_ELAINE"
 msgid "You stay away from my boy's pants or I'll hang ya from my Jolly Roger ya jezebel!"
-msgstr "Dotknij tylko spodni mojego faceta, to zadyndasz na mojej banderze, nierządnico!"
+msgstr "Dotknij tylko spodni mojego chłopca, to zadyndasz na mojej banderze, nierządnico!"
 
 msgctxt "306_306_0_ELAINE"
 msgid "And you! Don't think you can totter around with some tart and not get a fist-full of-"
-msgstr "A ty nie myśl sobie, że możesz się szlajać z jakąś cizią, i że cię za to  nie kopnę w..."
+msgstr "A ty nie myśl sobie, że możesz się szlajać z jakąś cizią, i że cię za to nie kopnę w..."
 
 msgctxt "307_307_0_MORGAN"
 msgid "She's a catch."
-msgstr "Niezła z niej sztuka."
+msgstr "Niezła sztuka."
 
 msgctxt "308_308_0_GUYBRUSH"
 msgid "{happy}And conveniently, {stern}not a rotten double-crosser."
@@ -1312,11 +1312,11 @@ msgstr "A nade wszystko godna zaufania."
 
 msgctxt "309_309_0_MORGAN"
 msgid "{stern}I told you I had a job to do."
-msgstr "Mówiłam, że taką dostałam pracę."
+msgstr "Mówiłam, że taką mam pracę."
 
 msgctxt "310_310_0_GUYBRUSH"
 msgid "{incredulous}SURE just doing your job - {incredulous}tell me, aside from all the silver, {stern}how are the benefits?"
-msgstr "Pracę, no pewnie. A czy poza srebrnikami dostajesz jakiś dodatek do pensji?"
+msgstr "Masz pracę, pewnie. A czy poza srebrnikami dostajesz jeszcze jakieś benefity?"
 
 msgctxt "311_311_0_MORGAN"
 msgid "{sad}Guybrush-"
@@ -1324,15 +1324,15 @@ msgstr "Guybrush..."
 
 msgctxt "312_312_0_GUYBRUSH"
 msgid "{suspicious}Do you get health care for the repetitive stress injuries caused by all {stern}the back-stabbing and CUTTING OFF PEOPLE'S HANDS?"
-msgstr "Dają ci opiekę zdrowotną za kontuzje od wbijania innym noża w plecy i urzynanie rąk?"
+msgstr "Dają ci jakąś opiekę zdrowotną za kontuzje od wbijania innym noża w plecy i URZYNANIA IM RĄK?"
 
 msgctxt "313_313_0_MORGAN"
 msgid "[Sincere. Hurt.] I said I was sorry."
-msgstr "Mówiłam, że przepraszam."
+msgstr "[Sincere. Hurt.] Mówiłam, przykro mi."
 
 msgctxt "314_314_0_GUYBRUSH"
 msgid "Sorry?  {angry}I can't pick my left nostril without risking a lobotomy!"
-msgstr "Przepraszasz? Nie mogę sobie podłubać w lewym nozdrzu, żeby się nie narazić na lobotomię!"
+msgstr "Przykro? {angry}Samo dłubanie w lewym nozdrzu naraża mnie na lobotomię!"
 
 msgctxt "315_315_0_MORGAN"
 msgid "{terrified}What if I--"
@@ -1340,11 +1340,11 @@ msgstr "A gdybym tak..."
 
 msgctxt "316_316_0_GUYBRUSH"
 msgid "[Interrupting] What if nothing! {stern}Goodbye Morgan. I've got a wife to cure and an island to save."
-msgstr "Sorry Winnetou. Żegnaj, Morgan. Muszę wyleczyć żonę i uratować wyspę."
+msgstr "[Interrupting] A gdyby tak nie! {stern}Żegnaj, Morgan. Muszę wyleczyć żonę i uratować wyspę."
 
 msgctxt "317_317_0_GUYBRUSH"
 msgid "{happy}Ah, Club 41. Nothing screams {cocky}"pirate bar" like the aroma of moldy Grog sprinkled with just a hint of {suspicious}sea spray and shattered dreams…"
-msgstr "Klub 41. Szanująca się speluna musi mieć zapach zwietrzałego grogu z nutą morskiej bryzy i rozwianych marzeń."
+msgstr "{stern}Ach, Klub 41. Nic tak nie rezonuje {cocky}piracką speluną jak aromat zwietrzałego grogu z nutą morskiej bryzy i rozwianych marzeń..."
 
 msgctxt "318_318_0_DESINGE"
 msgid "I will double your quadrupled rate!"
@@ -1352,27 +1352,27 @@ msgstr "Podwoję twoją czterokrotną stawkę!"
 
 msgctxt "319_319_0_MORGAN"
 msgid "{stern}Keep your gold, silkpants.  {strained}You can't afford me anymore."
-msgstr "Zabieraj to swoje złoto. Nie stać cię na mnie."
+msgstr "Zabieraj swoje złoto. Nie stać cię już na mnie."
 
 msgctxt "320_320_0_GUYBRUSH"
 msgid "{stern}[Offended] Hey!"
-msgstr "Ej!"
+msgstr "Hej!"
 
 msgctxt "321_321_0_MORGAN"
 msgid "{strained}What part of "non" [i.e. French for "no"] {disgusted}do you not comprendez?"
-msgstr "Której części \"non\" nie \"comprendez\"?"
+msgstr "Której części \"non\" ty nie comprendez?"
 
 msgctxt "322_322_0_DESINGE"
 msgid "[Whiney] But I NEED her! She is the only other pirate who could possibly have the Threepwood Strain of the Pox!!"
-msgstr "Jest mi potrzebna! Tylko ona może mieć w sobie szczep Ospy Threepwooda!"
+msgstr "[Whiney]Potrzebuję jej! Tylko ona może mieć w sobie jeszcze szczep ospy Threepwooda!"
 
 msgctxt "323_323_0_MORGAN"
 msgid "{strained}Then get her yourself."
-msgstr "To sam ją sobie upoluj."
+msgstr "To sam ją se weź."
 
 msgctxt "324_324_0_DESINGE"
 msgid "[Threatening]My dear mademoiselle LeFlay, I don't "get" people, I hire people like YOU to get them for me.  And if YOU won't get them, then maybe I'll find someone to get YOU-"
-msgstr "Mademoiselle LeFlay, ja nie \"poluję\" na ludzi, tylko zatrudniam do tego takich jak ty. Jeśli nie chcesz na nikogo polować, to może znajdę kogoś, kto upoluje ciebie..."
+msgstr "[Threatening]Mademoiselle LeFlay, ja nie \"biorę se\" ludzi, tylko zatrudniam do tego takich jak ty. Jeśli sama tego nie zrobisz, to może znajdę kogoś, kto weźmie się za ciebie..."
 
 msgctxt "325_325_0_MORGAN"
 msgid "{stern}I don't LIKE{strained} to be threatened."
@@ -1380,7 +1380,7 @@ msgstr "Nie lubię, gdy mi się grozi."
 
 msgctxt "326_326_0_DESINGE"
 msgid "YEEEEOWWWWWWW! My phalangeeeee!"
-msgstr "Auuu! Mój paliczek!"
+msgstr "Mój paliczek!"
 
 msgctxt "327_327_0_MORGAN"
 msgid "{terrified}What the?"
@@ -1388,11 +1388,11 @@ msgstr "Co do..."
 
 msgctxt "328_328_0_DESINGE"
 msgid "OWWWWWW! [coldly] That was a very, VERY bad mistake, mademoiselle."
-msgstr "To był śmiertelnie poważny błąd, mademoiselle."
+msgstr "To był bardzo, BARDZO poważny błąd, mademoiselle."
 
 msgctxt "329_329_0_GUYBRUSH"
 msgid "{Default} Your honor. Buccaneers of Flotsam. You all believe that I, {Proud} Guybrush Threepwood, Mighty Pirate™, {Default} have brought this horrible Pox to your shores."
-msgstr "Wysoki Sądzie. Koledzy piraci. Wierzycie, że ja, Guybrush Threepwood, potężny pirat™, ponoszę odpowiedzialnośc za ospę."
+msgstr "{Default}Wysoki Sądzie. Koledzy piraci. Wierzycie, że ja, Guybrush Threepwood, potężny pirat™,{Default} ponoszę odpowiedzialność za tę okrutną ospę."
 
 msgctxt "330_330_0_KREBBS"
 msgid "Off with his head!"
@@ -1408,7 +1408,7 @@ msgstr "Nakarmić nim bestię z dżungli!"
 
 msgctxt "333_333_0_GUYBRUSH"
 msgid "{Incredulous} What if I were to tell you that I could tame this unruly witness, {Cocky} prove my good intentions, {Sarcastic} and begin the process of curing you all of this hideous Voodoo Pox all in one fell swoop?"
-msgstr "A co gdybym mógł uspokoić niesfornego świadka, dowieść swych dobrych chęci i rozpocząć kurację z ospy wszystkich za jednym zamachem?"
+msgstr "{Incredulous}A co gdybym mógł poskromić niesfornego świadka,{Incredulous} dowieść swych dobrych chęci{Sarcastic} i rozpocząć kurację z tej voodoo ospy was wszystkich za jednym zamachem?"
 
 msgctxt "334_334_0_GALLERY1"
 msgid "…that's not so bad..."
@@ -1420,19 +1420,19 @@ msgstr "No, w sumie..."
 
 msgctxt "336_336_0_GRINDSTUMP"
 msgid "{Stern} Denied!  But get on with it, Captain. The hangman gets overtime if we keep him up after midnight."
-msgstr "Odrzucono! Ale streszczajcie się, kapitanie, bo kat każe sobie liczyć za nadgodziny po północy."
+msgstr "Oddalono! Ale streszczajcie się, kapitanie, bo kat każe sobie liczyć za nadgodziny po północy."
 
 msgctxt "337_337_0_GUYBRUSH"
 msgid "{Cocky} With pleasure, Your Honor. Wenches and Pirates, I give you exhibit S, the wonder of La Esponja Grande!"
-msgstr "Z przyjemnością. Dziewki i piraci, oto dowód rzeczowy S - cudowna La Esponja Grande!"
+msgstr "{Cocky}Z przyjemnością. Dziewki i piraci, oto dowód rzeczowy S - cudowna La Esponja Grande!"
 
 msgctxt "338_338_0_MCGEE"
 msgid "I thought it'd be bigger."
-msgstr "Myślałem, że będzie większa."
+msgstr "Miała być większa."
 
 msgctxt "339_339_0_GUYBRUSH"
 msgid "{Happy} Now behold, as a simple exfoliating motion of La Esponja Grande washes away the Pox , restoring my wife to her usual, mostly-pleasant demeanor!"
-msgstr "Podziwiajcie jak prosty ruch La Esponja Grande zmywa ospę z mej żony i przywraca jej nieco sympatyczniejsze oblicze!"
+msgstr "{Cocky}Podziwiajcie jak zwykłe wcieranie La Esponja Grande zmywa ospę z mej żony i przywraca jej zwykłe, nieco przyjemniejsze oblicze!"
 
 msgctxt "340_340_0_ELAINE"
 msgid "[Poxy]{Angry}  Get that piece'a seaweed off me ya deepsea doily diver!"
@@ -1440,11 +1440,11 @@ msgstr "Zabieraj ode mnie ten wodorost, szambonurku głębinowy!"
 
 msgctxt "341_341_0_GUYBRUSH"
 msgid "{Worried} Uh..."
-msgstr "Eee..."
+msgstr " "
 
 msgctxt "342_342_0_GRINDSTUMP"
 msgid "{Sarcastic} Does the defense have any other pointless arguments it would like to make?"
-msgstr "Czy obrona ma inne bezsensowne argumenty?"
+msgstr "{Sarcastic}Czy obrona ma jakieś inne bezsensowne argumenty?"
 
 msgctxt "343_343_0_GUYBRUSH"
 msgid "{Worried} Uh...{Embarrassed} this is sort of all I got."
@@ -1452,7 +1452,7 @@ msgstr "Eee... to z grubsza tyle."
 
 msgctxt "344_344_0_GRINDSTUMP"
 msgid "{Default} Then by the power vested in me by the put-upon pirates of Flotsam Island, {Stern} I summarily sentence you to be hanged by your Pox-spreading neck until you are-"
-msgstr "Zatem na mocy władzy danej mi przez urażonych piratów Wyspy Rozbitków, skazuję twój chorobogenny kark na powieszenie, aż nie szczeźnie..."
+msgstr "{Default}Zatem na mocy danej mi przez urażonych piratów Wyspy Rozbitków władzy,{Stern} skazuję twój pandemiczny kark na powieszenie, aż nie sczeźnie..."
 
 msgctxt "345_345_0_LECHUCK"
 msgid "{Proud} Hold it right there!"
@@ -1460,19 +1460,19 @@ msgstr "Nie tak prędko!"
 
 msgctxt "346_346_0_GUYBRUSH"
 msgid "[Surprise] {Surprised} What?"
-msgstr "Że co?"
+msgstr "Co?"
 
 msgctxt "347_347_0_GALLERY1"
 msgid "LeChuck? I thought he was a ghost?"
-msgstr "LeChuck? Myślałem, że był duchem."
+msgstr "LeChuck? Powinien być duchem."
 
 msgctxt "348_348_0_GALLERY2"
 msgid "I heard he was a zombie."
-msgstr "A ja słyszałem, że to zombie."
+msgstr "Ponoć był zombie."
 
 msgctxt "349_349_0_KREBBS"
 msgid "{Sarcastic} Woof!"
-msgstr "Hauuu!"
+msgstr " "
 
 msgctxt "350_350_0_GRINDSTUMP"
 msgid "{Questioning} What is the meaning of this?!"
@@ -1480,7 +1480,7 @@ msgstr "Co to ma znaczyć?!"
 
 msgctxt "351_351_0_LECHUCK"
 msgid "{Stern} My name is LeChuck and I can tell you exactly what Guybrush did!"
-msgstr "Nazywam się LeChuck i mogę wam powiedzieć, co tak naprawdę zrobił Guybrush!"
+msgstr "{Stern}Nazywam się LeChuck i chętnie powiem, co dokładnie Guybrush zrobił!"
 
 msgctxt "352_352_0_GUYBRUSH"
 msgid "{Worried} Don't listen to him!"
@@ -1488,7 +1488,7 @@ msgstr "Nie słuchajcie go!"
 
 msgctxt "353_353_0_LECHUCK"
 msgid "{Pleading} You see, your honor, the Pox is all my fault!"
-msgstr "Bo widzicie, wysoki sądzie, ta ospa to wyłącznie moja wina!"
+msgstr "{Pleading}Bo widzicie, ta ospa to wyłącznie moja wina!"
 
 msgctxt "354_354_0_GUYBRUSH"
 msgid "{Surprised} Listen to him!"
@@ -1496,7 +1496,7 @@ msgstr "Słuchajcie go!"
 
 msgctxt "355_355_0_LECHUCK"
 msgid "{Concerned} For decades I dabbled in the dark forces of Voodoo, clamoring for power. {Stern} I hungered for it. {Awe} I yearned for it. {Pleading} I pillaged, plundered, and killed for it."
-msgstr "Latami parałem się mrocznym mocami voodoo, żarliwie łaknąć władzy. Pożądałem jej. Pragnąłem jej. Łupiłem, plądrowałem i zabijałem dla niej."
+msgstr "{Concerned}Latami parałem się mrocznym mocami voodoo, żarliwie łaknąc władzy.{Stern} Pożądałem jej.{Awe} Pragnąłem jej.{Pleading} Łupiłem, plądrowałem i zabijałem dla niej."
 
 msgctxt "356_356_0_GUYBRUSH"
 msgid "{Cocky} I can attest to all of this."
@@ -1504,7 +1504,7 @@ msgstr "Mogę poświadczyć."
 
 msgctxt "357_357_0_LECHUCK"
 msgid "{Humble} And it was my accumulated Voodoo that infected you all! {Frustrated} Dark evil vooodoo that was {Default} explosively released when I was once again defeated by the {Humble} perpetually heroic Guybrush Threepwood."
-msgstr "To voodoo, które kumulowało się w mym wnętrzu was dopadło! Podstępne zło uwolniło się, gdy po raz enty pokonał mnie nieustraszony Guybrush Threepwood."
+msgstr "{Pleading}I to całe moje zakumulowane voodoo was dopadło!{Frustrated} Podstępne voodoo zło{Default} eksplodowało ze mnie, gdy po raz enty zostałem pokonany przez{Humble} nieustraszonego Guybrusha Threepwooda."
 
 msgctxt "358_358_0_GUYBRUSH"
 msgid "{Default} He's not kidding... {Sarcastic} I've killed him like five times."
@@ -1512,11 +1512,11 @@ msgstr "Serio prawi. Zabiłem go już z pięć razy."
 
 msgctxt "359_359_0_LECHUCK"
 msgid "{Concerned} So you see, Guybrush Threepwood is not the source of this Pox.  {Humble} I am!  And I hereby throw myself {Pleading} upon the mercy of this court, or lack thereof!"
-msgstr "Jak widzicie, nie Guybrush jest źródłem tej ospy, lecz  ja! Przez co niniejszym zdaję się na łaskę lub niełaskę sądu!"
+msgstr "{Concerned}Jak widzicie, nie Guybrush Threepwood jest źródłem tej ospy,{Humble} lecz ja! Przez co niniejszym zdaję się{Pleading} na łaskę lub niełaskę sądu!"
 
 msgctxt "360_360_0_LECHUCK"
 msgid "{Default} It turns out I had an unknown, {Frustrated} silent power urging me down those {Concerned} darkened voodoo corridors, {Disappointed} a power far more insidious than I could ever hope to be. {Stern} I submit, to the court. This journal!"
-msgstr "Gnieździła się we mnie tajemna moc, która uproczywie pchała mnie w ciemne ścieżki voodoo. Moc tak podstępna, o jakiej mi się nawet nie śniło. Przedstawiam sądowi ten oto dziennik!"
+msgstr "{Default}Gnieździła się we mnie jakaś nieznana,{Frustrated} tajemna moc, która uporczywie pchała mnie{Concerned} w ciemne korytarze voodoo.{Disappointed} Moc tak podstępna, o jakiej się nawet nie śniło.{Stern} Przedstawiam sądowi ten oto dziennik!"
 
 msgctxt "361_361_0_LECHUCK"
 msgid "{Default} Property of..."
@@ -1548,7 +1548,7 @@ msgstr "Co, że jak?!"
 
 msgctxt "368_368_0_LECHUCK"
 msgid "{Default} In these pages you will find detailed plans, laid out by the Voodoo Lady over the course of many years, {Disappointed} to manipulate my never-ending rise to power.  {Concerned} My hunger for Voodoo. {Embarrassed} My seemingly endless cycle of ironically comical death and disturbing resurrection.  {Happy} My obsession with the darling Elaine.  {Default} It's all because of her."
-msgstr "Na tych stronach widnieją pieczołowicie nakreślone plany Lady Voodoo, która sterowała moimi poczynaniami w dążeniu do władzy. Moja żądza voodoo. Niekończące się pasmo ironicznych zgonów i niepokojących powrotów. Obsesja na punkcie Elaine. To wszystko sprawka Lady."
+msgstr "{Default}Na tych stronach widnieją pieczołowicie nakreślone wieloletnie plany Lady Voodoo,{Disappointed} która manipulowała moimi poczynaniami w dążeniu do władzy.{Concerned} Moja żądza voodoo.{Embarrassed} Niekończące się pasmo ironicznie komicznych zgonów i niepokojących powrotów.{Happy} Obsesja na punkcie Elaine.{Default} To wszystko jej wina."
 
 msgctxt "369_369_0_KREBBS"
 msgid "Off with her head!"
@@ -1556,11 +1556,11 @@ msgstr "Ściąć ją!"
 
 msgctxt "370_370_0_GUYBRUSH"
 msgid "{Worried} This can't be true...{Confused} can it?"
-msgstr "To niemożlwe... prawda?"
+msgstr "To niemożliwe... prawda?"
 
 msgctxt "371_371_0_GRINDSTUMP"
 msgid "{Angry} Order! Order! {Stern} I  hereby call for the release of Guybrush Threepwood and the immediate imprisonment of LeChuck and the Voodoo Lady. {Angry} To the brig with both of 'em!"
-msgstr "Spokój! Niniejszym domagam się zwolnienia Threepwooda i rychłego uwięzienia LeChucka oraz Lady Voodoo. Do ciupy z nimi!"
+msgstr "{Angry}Spokój! Spokój!{Stern} Niniejszym nakazuję uwolnienie Guybrusha Threepwooda i natychmiastowe uwięzienie LeChucka oraz Lady Voodoo.{Angry} Do ciupy z nimi!"
 
 msgctxt "372_372_0_GUYBRUSH"
 msgid "[To Elaine] {Happy} Sugarcakes!"
@@ -1576,31 +1576,31 @@ msgstr "O mnie się nie martw, przyjacielu. Pędź wyleczyć żonę!"
 
 msgctxt "375_375_0_GRINDSTUMP"
 msgid "{Thinking} Let's see here...cleared...dropped...hmm...yes. {Happy} Congratulations, Captain Threepwood, it appears that you've successfully gotten yourself out from under your various civil charges..."
-msgstr "Zobaczmy. Oczyszczony... oddalono... tak. Winszuję, kapitanie Threepwood. Udało ci się oczyścić z licznych zarzutów..."
+msgstr "{Thinking}Zobaczmy... oczyszczony... oddalono... hmm... tak.{Happy} Winszuję, kapitanie Threepwood, udało się panu oczyścić z licznych zarzutów cywilnych..."
 
 msgctxt "376_376_0_GUYBRUSH"
 msgid "{Cocky} Shiver me timbers, Stumpy. {Cocky} I guess I'll be going now."
-msgstr "Na moją szabelkę. Chyba czas się zbierać."
+msgstr "Na mą szabelkę, Stampuś. Chyba czas się zbierać."
 
 msgctxt "377_377_0_GUYBRUSH"
 msgid "{Confused} Huh?!? Assault with molten nacho cheese isn't criminal?! {Default} What else is there?"
-msgstr "Napaść z roztopionym nacho nie jest karalna?! Co jeszcze tam macie?"
+msgstr "{Confused} Co?! To napaść z roztopionym nacho nie jest karalna?! {Default}Co jeszcze tam macie?"
 
 msgctxt "378_378_0_GRINDSTUMP"
 msgid "{Default} The "creation, incubation, dissemination, proliferation and mastication of a Pox or Pox-like affliction." {Stern} A class one felonious act here on Flotsam."
-msgstr "\"Stworzenie, wylęganie, propagowanie, szerzenie i żucie zarazy ospopodobnej\". Poważne przestępstwo na tej wyspie."
+msgstr "{Default}\"Kreacja, inkubacja, propagacja, proliferacja i wulkanizacja zarazy ospopodobnej\".{Stern} Poważne przestępstwo pierwszej klasy tu, na Wyspie Rozbitków."
 
 msgctxt "379_379_0_GRINDSTUMP"
 msgid "{Questioning} How do you plead?"
-msgstr "Co masz na swoją obronę?"
+msgstr "{Questioning}Co pan na to?"
 
 msgctxt "380_380_0_GRINDSTUMP"
 msgid "{Questioning} Well, Threepwood?  {Stern} Do you have any witnesses to your unlikely tale?"
-msgstr "A czy masz jakichś świadków na poparcie tej wątpliwej historii?"
+msgstr "{Questioning} Tak, Threepwood?{Stern} A masz jakichś świadków na poparcie tej wątpliwej historii?"
 
 msgctxt "381_381_0_GUYBRUSH"
 msgid "{Stern} I do! {Worried} She's--"
-msgstr "Ano mam! To moja..."
+msgstr "Mam! To moja..."
 
 msgctxt "382_382_0_GUYBRUSH"
 msgid "{Surprised} Plunder bunny!"
@@ -1608,15 +1608,15 @@ msgstr "Królisiu zbójnisiu!"
 
 msgctxt "383_383_0_ELAINE"
 msgid "[Poxy] {Angry} Arrr! {Devilish} Avast ye blubberin belugas! I'm sacking yer port! Bring me all ye spoils, swags, booty and boodle!"
-msgstr "Drżyjcie, beczące białuchy! Złupię wasz port! Dawać mi skarby, łupy, mamonę i kapuchę!"
+msgstr "Arr! Drżyjcie, beczące białuchy! Złupię wasz port! Dawać mi tu skarby, łupy, mamonę i kapuchę!"
 
 msgctxt "384_384_0_GUYBRUSH"
 msgid "[Nervous, talking out of the corner of his mouth, sing-songy almost] {Worried} Eeeelaine... {Sarcastic} less plunder, {Confused} more bunny please."
-msgstr "Elaine... bądź teraz królisią, nie zbójnisią."
+msgstr "[Nervous, talking out of the corner of his mouth, sing-songy almost] {Worried}Elaine... {Sarcastic}mniej zbójnisia {Confused}niż królisia."
 
 msgctxt "385_385_0_ELAINE"
 msgid "[Still Poxy] {Devilish} And YOU! [Now in LOVE with Guybrush] {Babying} Me bonnie lass! {Happy} Step into me captain's quarters and let {Devilish} me ravish you silly!"
-msgstr "Ty! Moja nadobna dziewojo! Chodźmy do kajuty, to cię zbałamucę!"
+msgstr "[Still Poxy] {Devilish}A TY![Now in LOVE with Guybrush] {Babying} Moja nadobna dziewojo!{Happy} Chodźmy do kajuty,{Devilish} to cię zbałamucę!"
 
 msgctxt "386_386_0_GUYBRUSH"
 msgid "{Surprised} Whoa boy!"
@@ -1624,7 +1624,7 @@ msgstr "Rany julek!"
 
 msgctxt "387_387_0_ELAINE"
 msgid "[Poxy, melodramatic romance]{Happy} Arr, to finally hold you in me arms again, {Devilish} it makes me want to...[Trails off catching a whiff of something]"
-msgstr "Znów mogę objąć cię w ramiona, aż chce mi się..."
+msgstr "[Poxy, melodramatic romance]{Happy}Znów mogę objąć cię w ramiona, aż chce mi się..."
 
 msgctxt "388_388_0_ELAINE"
 msgid "{Exasperated} What's this? {Horrified} The scent of betrayal! {Angry} Who is this tawdry wench?!?"
@@ -1636,15 +1636,15 @@ msgstr "Nikt!"
 
 msgctxt "390_390_0_ELAINE"
 msgid "{Angry} She'll die by me rusty blade!"
-msgstr "Nadzieję ją na swą zardzewiałą szablę!"
+msgstr "Skończy na mej rdzawej szabli!"
 
 msgctxt "391_391_0_GUYBRUSH"
 msgid "[Sigh] {Suspicious} There goes my witness."
-msgstr "I po moim świadku."
+msgstr "I po świadku."
 
 msgctxt "392_392_0_GRINDSTUMP"
 msgid "{Stern} Then she must be summoned! {Default} Bailiff! Serve the woman immediately."
-msgstr "Trzeba ją wezwać! Strażnik! Sprowadź mi tę kobietę."
+msgstr "Trzeba ją wezwać! Klawisz! Sprowadź mi tę kobietę."
 
 msgctxt "393_393_0_HARDTACK"
 msgid "{Default} Yes sir!"
@@ -1652,15 +1652,15 @@ msgstr "Tak jest!"
 
 msgctxt "394_394_0_GRINDSTUMP"
 msgid "{Default} You'd better be usin' the Voodoo summons… that {Sarcastic} saucy sea-hag doesn't look like she be {Stern} respecting the customs of pirate law."
-msgstr "I lepiej daj jej nakaz z voodoo. Ta pyskata wiedźma morska nie wygląda mi na taką, co to szanuje pirackie prawa."
+msgstr "{Default}Najlepiej daj jej ten nasz voodoo nakaz... ta{Sarcastic} pyskata wiedźma morska nie wygląda mi na taką,{Stern} co to szanuje pirackie prawa."
 
 msgctxt "395_395_0_HARDTACK"
 msgid "Aye-aye, sir!"
-msgstr "Aye-aye!"
+msgstr "Tak jest!"
 
 msgctxt "396_396_0_GRINDSTUMP"
 msgid "{Stern} But first, haul the defendant's Pox-spreading keister back to the brig!"
-msgstr "Ale wpierw odprowadź oskarżonego i ten jego zarażony zad do mamra!"
+msgstr "{Stern}Ale wpierw odprowadź ten zarażony zad oskarżonego z powrotem do mamra!"
 
 msgctxt "397_397_0_GUYBRUSH"
 msgid "{Default} Guilty!"
@@ -1672,7 +1672,7 @@ msgstr "Naprawdę?"
 
 msgctxt "399_399_0_GUYBRUSH"
 msgid "Is the mandatory sentence a {Cocky} slap on the bottom and a public shaming?"
-msgstr "Czy karą jest klaps w pupę i publiczne upokorzenie?"
+msgstr "Czy karą będzie klapsik w tyłek i publiczne zawstydzenie?"
 
 msgctxt "400_400_0_GRINDSTUMP"
 msgid "{Questioning} Let's see here...{Stern} no. It's death."
@@ -1680,7 +1680,7 @@ msgstr "Zobaczmy... nie. Śmierć."
 
 msgctxt "401_401_0_GUYBRUSH"
 msgid "{Default} Oh.  Then not guilty."
-msgstr "Aha. No to niewinny."
+msgstr "Och. No to niewinny."
 
 msgctxt "402_402_0_GRINDSTUMP"
 msgid "{Questioning} On what grounds?"
@@ -1692,35 +1692,35 @@ msgstr "Niewinny!"
 
 msgctxt "404_404_0_GUYBRUSH"
 msgid "{Stern} There is no Pox! {Incredulous} Everyone's just got the mumps."
-msgstr "Ta ospa to ściema! Wszyscy dostali świnki."
+msgstr "Nie ma żadnej ospy! Wszyscy dostali świnki."
 
 msgctxt "405_405_0_GUYBRUSH"
 msgid "[Awkward eh] {Embarrassed} Er..."
-msgstr "Eee..."
+msgstr " "
 
 msgctxt "406_406_0_GUYBRUSH"
 msgid "{Default} I may have aided in its creation, incubation, dissemination and proliferation, {Confused} but mastication? {Stern} That doesn't even make sense!"
-msgstr "Mogłem maczać palce w jej stworzeniu, wylęganiu, propagowaniu, szerzeniu, ale żuciu? Toż to banialuki!"
+msgstr "Mogłem maczać palce w kreacji, inkubacji, propagacji, proliferacji... ale wulkanizacji? Toż to banialuki!"
 
 msgctxt "407_407_0_GRINDSTUMP"
 msgid "[angry] {Stern} Are you suggestioning that this court doesn't know the meaning of the words it uses?"
-msgstr "Sugerujesz, że sąd nie zna znaczenia słów, których używa?"
+msgstr "Sugeruje pan, że sąd nie zna znaczenia słów, których używa?"
 
 msgctxt "408_408_0_GUYBRUSH"
 msgid "{Sarcastic} The Pox isn't so bad. {Happy} Everyone's tough as nails now and can do {Cocky} neato demon things with their eyes!"
-msgstr "Ta ospa jest całkiem spoko. Każdy może teraz kozaczyć i robić fajne triki oczami!"
+msgstr "Ta ospa nie jest taka zła. Każdy jest teraz twardy jak skała i robi te szalenie demoniczne triki z oczami!"
 
 msgctxt "409_409_0_GALLERY2"
 msgid "It's evil!"
-msgstr "To zło wcielone!"
+msgstr "To zło!"
 
 msgctxt "410_410_0_GUYBRUSH"
 msgid "{Worried} The Pox isn't {Stern} MY fault!  {Worried} It's LeChuck's!  {Incredulous} It all started with the Cursed Cutlass of Kaflu, {Confused} off the Rock of Gelato.  {Suspicious} LeChuck was doing something evil with monkeys, and I was all {Stern} "grrrr." {Worried} But then LeChuck broke my root beer bottle, {Cocky} and I had to substitute some of the Voodoo Lady's ingredients, {Confused} and then LeChuck turned into a human and all his voodoo went {Surprised} "booOOOom" and..."
-msgstr "Ospa to sprawka LeChucka, nie moja! A zaczęło się od przeklętej szabli Kaflu nieopodal Skały Gelato. LeChuck knuł coś z małpami, a we mnie się zagotowało! Ale stłukł mi butelkę piwa korzennego, no to musiałem zastąpić część składników Lady Voodoo. A potem LeChuck zmienił się w człowieka i całe voodoo z niego wyparowało i..."
+msgstr "{Worried}Ospa to nie {Stern}moja wina,{Worried} tylko LeChucka!{Incredulous} A zaczęło się od tej przeklętej szabli Kaflu{Confused} nieopodal Skały Gelato.{Suspicious} LeChuck knuł coś z małpami, a ja się wkurzyłem!{Worried} I wtedy LeChuck stłukł mi butelkę piwa,{Cocky} i musiałem czymś zastąpić część voodoo składników.{Confused} A potem LeChuck stał się człowiekiem i całe to voodoo zrobiło{Surprised} \"buuuuuum\" i..."
 
 msgctxt "411_411_0_GUYBRUSH"
 msgid "I don't think leaving the summons there will do any good."
-msgstr "To niemądre zostawiać tu wezwanie."
+msgstr "Nie sądzę, by zostawiając tu ten nakaz coś zdziałam."
 
 msgctxt "412_412_0_GUYBRUSH"
 msgid "I don't think that needs its fortune told."
@@ -1728,35 +1728,35 @@ msgstr "Temu nie trzeba wróżyć z kart."
 
 msgctxt "413_413_0_GUYBRUSH"
 msgid "It's a cup of scalding science fluid."
-msgstr "Szklanka wrzącej naukowej cieczy."
+msgstr "Szklanka wrzącej, naukowej cieczy."
 
 msgctxt "414_414_0_GUYBRUSH"
 msgid "It's a broken "Draw a Beard on Guybrush" toy"
-msgstr "Zepsuta zabawka \"narysuj Guybrushowi brodę\"."
+msgstr "Zepsuta zabawka dorysowująca Guybrushowi brodę."
 
 msgctxt "415_415_0_GUYBRUSH"
 msgid "Hm. looks like it's leaking iron fillings."
-msgstr "Opiłki żelaza się wysypują."
+msgstr "Hmm... opiłki żelaza się wysypują."
 
 msgctxt "416_416_0_GUYBRUSH"
 msgid "It's a broken toy that's leaking iron flakes."
-msgstr "Zabawka, z której wysypują się opiłki."
+msgstr "Zabawka, z której wysypują się opiłki żelaza."
 
 msgctxt "417_417_0_GUYBRUSH"
 msgid "Icky."
-msgstr "A fuj."
+msgstr "Fuj."
 
 msgctxt "418_418_0_GUYBRUSH"
 msgid "Hard to believe that nacho sauce could do that."
-msgstr "Coś nie wierzę, że to sprawka sosu nacho."
+msgstr "Nie wierzę, że to sprawka sosu nacho."
 
 msgctxt "419_419_0_GUYBRUSH"
 msgid "It's an insulated cup that Club 41 uses to serves its Blood Island Volcano Shots."
-msgstr "Izolowany kubek z Klubu 41 do serwowania Erupcji Wulkanu Krwawej Wyspy."
+msgstr "To kielon termiczny z Klubu 41 do serwowania wulkanicznego szota Krwawej Wyspy."
 
 msgctxt "420_420_0_GUYBRUSH"
 msgid "I'll have to get it to look at someone else's eye before it takes on a color."
-msgstr "Ktoś będzie musiał spojrzeć na to oko, zanim przybierze kolor."
+msgstr "Ktoś musiałby spojrzeć na to oko, zanim przybierze kolor."
 
 msgctxt "421_421_0_GUYBRUSH"
 msgid "Nice looking, but not exactly "wow.""
@@ -1768,7 +1768,7 @@ msgstr "Ten kolor nie robi na mnie wrażenia."
 
 msgctxt "423_423_0_GUYBRUSH"
 msgid "That's one creepy Pox-filled eye."
-msgstr "A to upiorne oko z ospą."
+msgstr "To upiorne oko z ospą."
 
 msgctxt "424_424_0_GUYBRUSH"
 msgid "I wonder whatever happened to my hand.  I hope it's happy."
@@ -1776,7 +1776,7 @@ msgstr "Ciekawe, co się stało z moją ręką. Oby była szczęśliwa."
 
 msgctxt "425_425_0_GUYBRUSH"
 msgid "It's an esophagus-scarring Blood Island Volcano Shot."
-msgstr "To kalecząca w przełyk Erupcja Wulkanu Krwawej Wyspy."
+msgstr "To kaleczący w przełyk wulkaniczny szot Krwawej Wyspy."
 
 msgctxt "426_426_0_GUYBRUSH"
 msgid "It's a cup of bubbling hot wax."
@@ -1784,15 +1784,15 @@ msgstr "Kubek gorącego wosku."
 
 msgctxt "427_427_0_GUYBRUSH"
 msgid "Even though it's been reduced to rags, Stan's jacket is still a sight to make eyes sore."
-msgstr "Nawet po zmianie w szmatę marynarka Stana daje po oczach."
+msgstr "Nawet po zmianie w szmatę marynarka Stana nieźle daje po oczach."
 
 msgctxt "428_428_0_GUYBRUSH"
 msgid "[singing a familiar song] Oh there's a monkey in my pocket, he's attracting all my change, his tail is a magnet, and I think that he's got mange..."
-msgstr "Małpę w mej kieszeni kuszą moje drobne, jej ogon jak magnes przyciąga co podobne..."
+msgstr "[singing a familiar song]Małpę w mej kieszeni kuszą moje drobne, jej ogon jest jak magnes przyciąga co podobne..."
 
 msgctxt "429_429_0_GUYBRUSH"
 msgid "I'm never going to attract any Jungle Fireflies out here in the Not-Jungle."
-msgstr "Nie zwabię świetlików z dżungi, skoro nie jestem w dżungli."
+msgstr "Nie zwabię świetlików z dżungli, skoro nie jestem w dżungli."
 
 msgctxt "430_430_0_GUYBRUSH"
 msgid "Hmmm."
@@ -1804,11 +1804,11 @@ msgstr "Wygląda znajomo."
 
 msgctxt "432_432_0_GUYBRUSH"
 msgid "Hmmm.  I wonder how that compares to Kathryn's burn?"
-msgstr "Ciekawe jak to się ma do poparzenia Kathryn."
+msgstr "Hmm... ciekawe, jak to się ma do poparzenia Kathryn?"
 
 msgctxt "433_433_0_GUYBRUSH"
 msgid "It's a sack full of severed legs... [shudder]"
-msgstr "Wór pełen odciętych kończyn."
+msgstr "Wór pełen odciętych nóg..."
 
 msgctxt "434_434_0_GUYBRUSH"
 msgid "That lion's paw stinks worse than my mother-in-law's neck folds."
@@ -1816,7 +1816,7 @@ msgstr "Ta lwia łapa wali gorzej niż fałda na szyi mojej teściowej."
 
 msgctxt "435_435_0_GUYBRUSH"
 msgid "[singing] In the jungle, the pirate jungle, the lion stinks on ice..."
-msgstr "W środku dżungli, pirackiej dżungli, lew stary nami capi..."
+msgstr "W środku dżungli, pirackiej dżungli, lew stary capi nam..."
 
 msgctxt "436_436_0_GUYBRUSH"
 msgid "I hope this bubbling manatee oil was harvested humanely."
@@ -1824,11 +1824,11 @@ msgstr "Mam nadzieję, że ten olej z manata uzyskano humanitarnie."
 
 msgctxt "437_437_0_GUYBRUSH"
 msgid "Hey, neat, there's a map of the Flotsam Jungle on the cover!"
-msgstr "Super! Na okładce jest mapa Wyspy Rozbitków!"
+msgstr "Hej, super! Na okładce jest mapa Wyspy Rozbitków!"
 
 msgctxt "438_438_0_GUYBRUSH"
 msgid "No more listening to bees and birds and boars for THIS Mighty Pirate™!"
-msgstr "Ten potężny pirat™ nie będzie więcej słuchał pszczół, ptaków i dzików!"
+msgstr "Nie będzie już słuchania pszczół, ptaków i dzików w TEJ potężnej misji™!"
 
 msgctxt "439_439_0_GUYBRUSH"
 msgid "It's molten glass... inside a glass.  Trippy."
@@ -1836,7 +1836,7 @@ msgstr "Ciekłe szkło... w szklance. Schiza."
 
 msgctxt "440_440_0_GUYBRUSH"
 msgid "Just LOOKING at that thing makes my tongue burn."
-msgstr "Od samego patrzenia język mi połnie."
+msgstr "Od samego patrzenia język mi płonie."
 
 msgctxt "441_441_0_GUYBRUSH"
 msgid "[sarcastic] "La Esponja Grande" has turned out to be "La Esponja Lame-o.""
@@ -1844,59 +1844,59 @@ msgstr "La Esponja Grande okazała się La Esponja Ściema."
 
 msgctxt "442_442_0_GUYBRUSH"
 msgid "Looks like I'm gonna have to give this mini-sponge a "Feast for the Senses" before he'll suck up any more Pox."
-msgstr "Będę musiał poddać tej gąbeczce \"Ucztę dla zmysłów\", nim będzie mogła wchłonąć ospę."
+msgstr "Będę musiał podać tej gąbeczce \"Ucztę dla zmysłów\", nim będzie mogła ona wchłonąć jakąkolwiek ospę."
 
 msgctxt "443_443_0_GUYBRUSH"
 msgid "It's all dressed up and ready to eat!"
-msgstr "Przystrojona i gotowa do jedzenia!"
+msgstr "Przystrojona i gotowa do posiłku!"
 
 msgctxt "444_444_0_GUYBRUSH"
 msgid "I'd pull the bone out of there, but I might lose my other hand."
-msgstr "Wyciągnąłbym tę kość, ale jeszcze mi odgryzie sprawną rękę."
+msgstr "Mógłbym wyciągnąć tę kość, ale pewnie straciłbym drugą rękę."
 
 msgctxt "445_445_0_GUYBRUSH"
 msgid "Hot, stinky, and bad for the eyes is no way to go through life, Sponge."
-msgstr "Gorąco, smród i kiepski wygląd nie zaprowadzą cię w życiu daleko."
+msgstr "Gorąc, smród i kiepski wygląd nie zaprowadzą cię w życiu daleko, gąbko."
 
 msgctxt "446_446_0_GUYBRUSH"
 msgid "I wonder if La Esponja Grande can sense the future now?  And how would it tell anyone if it did?"
-msgstr "Ciekawe czy La Esponja Grande widzi przyszłość. I jak mogłaby o tym powiedzieć?"
+msgstr "Ciekawe, czy La Esponja Grande widzi przyszłość. I jak mogłaby o tym komuś powiedzieć?"
 
 msgctxt "447_447_0_GUYBRUSH"
 msgid "Now all I've got to do is find a big, belchy sound, and La Esponja Grande'll be as good as grown!"
-msgstr "Teraz wystarczy znaleźć donośne beknięcie a La Esponja Grande urośnie jak na drożdżach!"
+msgstr "Teraz wystarczy znaleźć donośne beknięcie, a La Esponja Grande urośnie jak na drożdżach!"
 
 msgctxt "448_448_0_GUYBRUSH"
 msgid "[loudly] Looks like all I have to do now is plunk La Esponja Grande into the noisy Vaycaylian Wind Control Device!"
-msgstr "Muszę tylko wrzucić La Esponja Grande do tej machiny Wakacjan do kontroli wiatru!"
+msgstr "[loudly]Chyba muszę teraz tylko wrzucić La Esponja Grande do temu hałaśliwemu wakacjańskiemu Wiatromanipulatorowi!"
 
 msgctxt "449_449_0_GUYBRUSH"
 msgid "This thing's gonna have to get a lot bigger to soak up all of Elaine's Pox."
-msgstr "Gąbeczka musi urosnąć, jeśli ma wchłonąć ospę Elaine."
+msgstr "Gąbeczka musi trochę urosnąć, jeśli ma wchłonąć ospę Elaine."
 
 msgctxt "450_450_0_GUYBRUSH"
 msgid "Good ol' C-Twelve, H-Twenty-Two, O-Eleven, just like Mamma Threepwood used to make."
-msgstr "C-12, H-22, O-11, jak to robiła mama Threepwood."
+msgstr "Stary, dobry C-12, H-22, O-11. Dokładnie taki, jak u mamy Threepwood."
 
 msgctxt "451_451_0_GUYBRUSH"
 msgid "The only way to drag Elaine into court is to get this Voodoo summons into her hands!"
-msgstr "Elaine musi dostać wezwanie do rąk własnych, żeby pójść do sądu!"
+msgstr "Jedyny sposób, żeby ściągnąć Elaine do sądu, to dać jej ten voodoo nakaz do rąk własnych!"
 
 msgctxt "452_452_0_GUYBRUSH"
 msgid "Looks like there's few cards missing, but I'm sure there's enough precognitive mojo in these babies to count as a "Sixth Sense" course."
-msgstr "Paru kart chyba brakuje, ale na pewno tyle w nich proroczych mocy, że mogą uchodzić za \"szósty zmysł\"."
+msgstr "Paru kart chyba brakuje, ale na pewno tyle w tych cudeńkach proroczych mocy, że mogą uchodzić za danie \"szóstego zmysłu\"."
 
 msgctxt "453_453_0_GUYBRUSH"
 msgid "Whoa, that's one powerful magnetic monkey tail!"
-msgstr "A to potężny elektomagnetyczny ogon!"
+msgstr "Łoo, a to ci potężny magnetyczny małpi ogon!"
 
 msgctxt "454_454_0_GUYBRUSH"
 msgid "That's strange... I could've sworn Jacques' eyes used to be a green, icky, hypnotized kind of color."
-msgstr "Dziwne. Dałbym głowę, że oczy Jacquesa były w kolorze hipnotycznej zieleni."
+msgstr "Dziwne... dałbym głowę, że oczy Jacquesa były w kolorze wstrętnej hipnotycznej zieleni."
 
 msgctxt "455_455_0_GUYBRUSH"
 msgid "They say that monkey eyes are 99.5% the same as human eyes..."
-msgstr "Ponoć małpie oczy są w 99,5% identyczne jak u człowieka."
+msgstr "Ponoć małpie oczy są w 99,5% identyczne jak u człowieka..."
 
 msgctxt "456_456_0_GUYBRUSH"
 msgid "Hmm, no match here."
@@ -1908,7 +1908,7 @@ msgstr "Bingo!"
 
 msgctxt "458_458_0_GUYBRUSH"
 msgid "Looks like Captain Kathryn's case is nacho good, after all... [yeaaaaaaaah!]"
-msgstr "Sprawa kapitan Kathryn i ma się w końcu nacho dobrze."
+msgstr "Sprawa kapitan Kathryn ma się w teraz z-nacho-co lepiej."
 
 msgctxt "459_459_0_GUYBRUSH"
 msgid "There's nothing in the cup to splash on the leg."
@@ -1916,11 +1916,11 @@ msgstr "Nie mam czym pochlapać tej nogi."
 
 msgctxt "460_460_0_GUYBRUSH"
 msgid "Y'know, when I dreamed of becoming a Mighty Pirate™, I never imagined that one day I'd be tying eye-popping napkins around the non-existent necks of mystical sponges."
-msgstr "Kiedy marzyłem o zostaniu potężnym piratem™, nie myślałem, że będę kiedyś przywiązywał serwetki do nieistniejącej szyi mistycznej gąbki."
+msgstr "Kiedy marzyłem o zostaniu potężnym piratem™, nie myślałem, że będę kiedyś przywiązywał przaśne serwetki wokół nieistniejącej szyi mistycznej gąbki."
 
 msgctxt "461_461_0_GUYBRUSH"
 msgid "C'mon little Sponge, eat the nice smelly antepawsta..."
-msgstr "No, gąbeczko, zjedz tę smaczną, śmierdzącą przystawkę."
+msgstr "No, gąbeczko, zjedz sobie śmierdzącą przystaweczkę..."
 
 msgctxt "462_462_0_GUYBRUSH"
 msgid "[encouraging, as though to a baby] That's a good Sponge."
@@ -1928,7 +1928,7 @@ msgstr "Dobra gąbcia."
 
 msgctxt "463_463_0_GUYBRUSH"
 msgid "It's a good thing the Sponge doesn't have a tongue, or I'd be dunking it in the ocean right about now."
-msgstr "Dobrze, że gąbka nie ma języka, bo inaczej już bym ją moczył w morzu."
+msgstr "Dobrze, że gąbka ta nie ma języka, bo inaczej już bym ją moczył w morzu."
 
 msgctxt "464_464_0_GUYBRUSH"
 msgid "Hopefully, these flakes of the future will give La Esponja a sixth sense that'll help keep me from getting into situations like this."
@@ -1944,23 +1944,23 @@ msgstr "Guybrush!"
 
 msgctxt "467_467_0_GUYBRUSH"
 msgid "{Happy} Really, thanks again."
-msgstr "Dzięki raz jeszcze."
+msgstr "Jeszcze raz, dzięki."
 
 msgctxt "468_468_0_LECHUCK"
 msgid "{Happy} You don't need to thank me, my friend. I merely spoke the truth.  They say that truth is the greatest barnacle scrubber, you know."
-msgstr "Drobiazg, przyjacielu. Ja tylko mówiłem prawdę. A jak to mówią, prawda jest największą lafiryndą."
+msgstr "{Happy}Nie ma co mi dziękować, przyjacielu. Ja tylko mówiłem prawdę. A jak to mówią, prawda szoruje z pąkli kłamstwa najlepiej."
 
 msgctxt "469_469_0_GUYBRUSH"
 msgid "{Cocky} Nice to the see that nothing's altered the altar while I've been away."
-msgstr "Dobrze, że ołtarzyk jest nadal w dobrym stanie."
+msgstr "Dobrze, że ołtarzyk nic się nie zmienił, kiedy nie nie było."
 
 msgctxt "470_470_0_GUYBRUSH"
 msgid "{Surprised} I bet that's the "Sacrificial Altar of the Jungle Beast" that Hemlock was rambling about."
-msgstr "To pewnie \"ofiarny ołtarz bestii z dżungli\", o którym biadolił Hemlock."
+msgstr "To pewnie ten \"ofiarny ołtarz bestii z dżungli\", o którym tyle biadolił Hemlock."
 
 msgctxt "471_471_0_GUYBRUSH"
 msgid "[smelling something bad]{Disgust} Whew, that altar reeks!"
-msgstr "Ale wali!"
+msgstr "Fiu, ależ on wali!"
 
 msgctxt "472_472_0_GUYBRUSH"
 msgid "It smells worse than the sofa bed {Incredulous} after Elaine's mom has dropped by for a visit!"
@@ -1968,23 +1968,23 @@ msgstr "Capi gorzej niż kanapa po wizycie matki Elaine!"
 
 msgctxt "473_473_0_GUYBRUSH"
 msgid "{Cocky}Now that I know a little bit more about the Vaycaylians, it appears that we're nearing the end of the {Incredulous} Year of the Fish, and approaching the dawn of the Year of the Slightly Bigger Fish."
-msgstr "Co nieco już wiem o Wakacjanach i widzę, że kończy się Rok Ryby, a powoli zaczyna Rok Ciut Większej Ryby."
+msgstr "Teraz, kiedy już co nieco wiem o Wakacjanach widzę, że kończy się wkrótce Rok Ryby, a zaczyna powoli Rok Ciut Większej Ryby."
 
 msgctxt "474_474_0_GUYBRUSH"
 msgid "{worried} The poor little flesh-eating stink bomb looks like he's in a world of pain."
-msgstr "Ta mała mięsożerna bomba śmierdząca przeżywa chyba katusze."
+msgstr "Ta mała mięsożerna bomba śmierdząca przeżywa tu chyba katusze."
 
 msgctxt "475_475_0_GUYBRUSH"
 msgid "{Confused} Those jaws'll snap me twain if I get too close, or maybe even thwain!"
-msgstr "Jeszcze mnie zeżre nie na raz, a na dwa!"
+msgstr "{Confused}Te zębiska wciągnęłyby mnie na raz, jakbym podszedł. Albo i na dwa!"
 
 msgctxt "476_476_0_GUYBRUSH"
 msgid "{Suspicious} It's the Mysterious Chest of Foreshadowing from the Voodoo Lady's shack! {Incredulous} Who knows what sort of useful voodoo bric-a-brac lurk in its locked timbers?"
-msgstr "To tajemny kufer-omen z chaty Lady Voodoo! Jakież to przydatne barachło czai się w środku?"
+msgstr "{Suspicious}To tajemny kufer zwiastowania z chaty Lady Voodoo! Któż wie, jakież to przydatne voodoo barachło czai się w środku?"
 
 msgctxt "477_477_0_GUYBRUSH"
 msgid "{Confused} Even more importantly, how am I gonna unlock it to find out?"
-msgstr "A co ważniejsze, jak to otworzyć, żeby się tego dowiedzieć?"
+msgstr "A co ważniejsze, jak to otworzyć, żeby się dowiedzieć?"
 
 msgctxt "478_478_0_GUYBRUSH"
 msgid "{Confused} What the heck is THAT thing supposed to do?"
@@ -1992,15 +1992,15 @@ msgstr "A to co, do diaska?"
 
 msgctxt "479_479_0_DESINGE"
 msgid "{Arrogant} This is  my Harpsichronitron, which I can use to remotely manipulate the Vaycaylians' Wind Control Device without all that {Sarcastic} tedious mucking about in the jungle with ancient idols!"
-msgstr "To Klawikosynchronizator do zdalnego sterowania wakacjańskią machiną kontrolującą wiatr. Nie trzeba już łazić po dżungli ze starożytnymi bożkami!"
+msgstr "To jest mój Klawesyntron do zdalnego sterowania wakacjańskim Wiatromanipulatorem. Nie trzeba już łazić po dżungli za starożytnymi bożkami!"
 
 msgctxt "480_480_0_GUYBRUSH"
 msgid "{Incredulous} I can't say's I blame you... all that running and spinning and weather vaning DID get on my nerves after a while."
-msgstr "Nie dziwię ci się. Mnie też to ciągłe łażenie i mieszanie w pogodzie działało na nerwy."
+msgstr "W ogóle mnie to nie dziwi... mnie też to ciągłe łażenie i mieszanie w pogodzie działało potem na nerwy."
 
 msgctxt "481_481_0_GUYBRUSH"
 msgid "{Stern} De Singe is using that mutant harpsichord to manipulate the Vaycaylian's Wind Control device."
-msgstr "De Singe manipuluje wakacjańskią machiną do kontroli wiatru za pomocą tego zmutowanego klawesynu."
+msgstr "De Singe używa tego zmutowanego klawesynu, aby sterować wakacjańskim Wiatromanipulatorem."
 
 msgctxt "482_482_0_GUYBRUSH"
 msgid "{Incredulous} I would've bet my good hand that I'd never say this, but...{Happy} thank you."
@@ -2012,23 +2012,23 @@ msgstr "Za co? Ściągam na ciebie same kłopoty!"
 
 msgctxt "484_484_0_GUYBRUSH"
 msgid "For taking the fall back there. And for exposing the Voodoo Lady. {Confused} I don't know what to make of any of it, {Happy}but now I can focus on saving Elaine and dealing with the Pox."
-msgstr "Za wzięcie winy na siebie. I za ujawnienie Lady Voodoo. Nie wiem, co o tym myśleć, ale teraz mogę się skupić na wyleczeniu Elaine i zniszczeniu ospy."
+msgstr "Za wzięcie winy na siebie. I za ujawnienie Lady Voodoo.{Confused} Nie wiem, co o tym myśleć, ale teraz mogę się skupić na wyleczeniu Elaine i zniszczeniu ospy."
 
 msgctxt "485_485_0_LECHUCK"
 msgid "{Humble} It is the very least I could do. But be careful, Guybrush."
-msgstr "Przynajmniej tyle mogłem zrobić. Ale bądź ostrożny."
+msgstr "Przynajmniej tyle mogłem zrobić. Ale bądź ostrożny, Guybrushu."
 
 msgctxt "486_486_0_GUYBRUSH"
 msgid "{Proud} I'm always careful."
-msgstr "Zawsze jestem ostrożny."
+msgstr "Zawsze jestem."
 
 msgctxt "487_487_0_LECHUCK"
 msgid "[Friendly, sarcastic]{SeriousThinking} This from the guy who proposed to his wife with a cursed engagement ring you stole from MY hold?..."
-msgstr "I mówi to gość, który oświadczył się żonie przeklętym pierścionkiem skradzionym z mej ładowni?"
+msgstr "[Friendly, sarcastic]{SeriousThinking}I mówi to gość, który oświadczył się żonie przeklętym pierścionkiem skradzionym z mej ładowni?"
 
 msgctxt "488_488_0_GUYBRUSH"
 msgid "{Confused} Was that a dig?{Incredulous} Is the evil Demon Pirate LeChuck developing a{Happy} sense of humor?"
-msgstr "Czy to była ironia? Czyżby demoniczny pirat LeChuck rozwijał w sobie poczucie humoru?"
+msgstr "Czy to była ironia? Czyżby demoniczny pirat LeChuck znalazł w sobie poczucie humoru?"
 
 msgctxt "489_489_0_GUYBRUSH"
 msgid "[Becoming friends with LeChuck]{Suspicious} This is weird."
@@ -2040,27 +2040,27 @@ msgstr "Gdzieś ty się podziewał? Myślałem, że jesteś z Elaine!"
 
 msgctxt "491_491_0_LECHUCK"
 msgid "{SeriousThinking} Well, after leaving Spinner Cay, Elaine and I set out to finish releasing all those monkeys I'd captured. After we were finished releasing the last of them, Elaine caught wind of your trial,{Shocked} went into a Poxed rage, seized a passing clam schooner, and made a beeline for Flotsam Island."
-msgstr "Po opuszczeniu Rafy Zawirowań wyruszyliśmy z Elaine uwolnić schwytane przeze mnie małpy. Gdy skończyliśmy, Elaine doszły słuchy o twoim procesie, wpadła w szał wywołany ospą, przejęła przepływający szkuner i ruszyła na Wyspę Rozbitków."
+msgstr "{SeriousThinking}Po opuszczeniu Rafy Zawirowań wyruszyliśmy z Elaine uwolnić schwytane przeze mnie małpy. Gdy wypuściliśmy ostatnią, Elaine doszły słuchy o twoim procesie.{Shocked} Wpadła w szał wywołany ospą, przejęła przepływający szkuner i ruszyła na Wyspę Rozbitków."
 
 msgctxt "492_492_0_GUYBRUSH"
 msgid "{Proud} That's my girl..."
-msgstr "Moja dziewczynka."
+msgstr "Zuch dziewczyna..."
 
 msgctxt "493_493_0_GUYBRUSH"
 msgid "{Cocky} It's amazing how easily man-eating tribes can be reasoned with."
-msgstr "Zadziwiające, jak łatwo da się dogadać z plemieniem kanibali."
+msgstr "Zadziwiające, jak łatwo da się dogadać z plemieniem ludożerców."
 
 msgctxt "494_494_0_LECHUCK"
 msgid "{Worried} Knowing I needed to get here more than ever, I lashed together a few bits of cannibal leftovers and warthog sinew to build a makeshift raft. {Frustrated} Unfortunately that was soon eaten by the sharks..."
-msgstr "Wiedząc, że muszę się tu dostać jak najszybciej, zbudowałem prowizoryczną tratwę z resztek kanibali i ścięgien guźca. Niestety, rekiny ją zeżarły."
+msgstr "{Worried}Wiedząc, że muszę się tu dostać jak najszybciej, zbudowałem prowizoryczną tratwę z resztek kanibali i ścięgien guźca.{Frustrated} Niestety, wkrótce zeżarły ją rekiny..."
 
 msgctxt "495_495_0_GUYBRUSH"
 msgid "[Rapt, listening to LeChuck's story]{Surprised} Oh no."
-msgstr "Nie gadaj."
+msgstr "No nie."
 
 msgctxt "496_496_0_LECHUCK"
 msgid "{Excited} So I swam. I swam as fast as I could for three days."
-msgstr "Więc popłynąłem wpław. Płynąłem ile sił przez trzy dni."
+msgstr "Więc popłynąłem. Płynąłem ile sił przez trzy dni."
 
 msgctxt "497_497_0_GUYBRUSH"
 msgid "{Happy} And arrived just in time to save me from the gallows. Nicely done, buddy."
@@ -2080,11 +2080,11 @@ msgstr "Widziałeś może Elaine?"
 
 msgctxt "501_501_0_LECHUCK"
 msgid "{Worried} No, not since she left me in a Poxed rage."
-msgstr "Nie od czasu jej ataku ospy."
+msgstr "Nie od czasu kiedy mnie opuściła w ataku ospy."
 
 msgctxt "502_502_0_GUYBRUSH"
 msgid "{Incredulous} She's been doing a lot of that lately."
-msgstr "Ostatnio często tak robi."
+msgstr "Ostatnio często jej się to zdarza."
 
 msgctxt "503_503_0_GUYBRUSH"
 msgid "{Confused} So, you haven't seen Elaine then?"
@@ -2096,11 +2096,11 @@ msgstr "Niestety nie. Niezłe z niej ziółko."
 
 msgctxt "505_505_0_GUYBRUSH"
 msgid "{Incredulous} You're telling me.{Happy} All those thwarted attempts to marry her might have been blessings in disguise, huh?"
-msgstr "No nie? Wszystkie te nieudane próby poślubienia jej to było szczęście w nieszczęściu, co?"
+msgstr "Mnie to mówisz. Wszystkie te nieudane próby poślubienia jej to było szczęście w nieszczęściu, co?"
 
 msgctxt "506_506_0_GUYBRUSH"
 msgid "{Angry} De Singe is going to use that contraption to pulverize my sweet patootie!"
-msgstr "De Singe chce tym sproszkować moją turkaweczkę!"
+msgstr "De Singe chce tym sproszkować moją truskaweczkę!"
 
 msgctxt "507_507_0_GUYBRUSH"
 msgid "[as though narrating a nature special] {Suspicious} "The mighty pirate hunter tracks his prey via his distinctive firefly-attracting spoor...""
@@ -2108,51 +2108,51 @@ msgstr "\"Potężny łowca piratów tropi swą ofiarę za pomocą wabika na świ
 
 msgctxt "508_508_0_GUYBRUSH"
 msgid "{Happy} Those fireflies are so pretty, {Incredulous} it almost makes you forget they spend half their lives as maggots."
-msgstr "Te świetliki są tak ładne, że aż się zapomina, że połowę życia spedzają jako larwy."
+msgstr "Te świetliki są tak ładne, że aż się zapomina, że połowę życia spędzają jako larwy."
 
 msgctxt "509_509_0_GUYBRUSH"
 msgid "{Angry} What have you done to my hand, De Jerk [pronounced "Zherk"]."
-msgstr "Co zrobiłeś z moją ręką, De Durniu?"
+msgstr "Co zrobiłeś z moją ręką, De Buc?"
 
 msgctxt "510_510_0_DESINGE"
 msgid "{Arrogant} You hand is attached to my Transdermic Intraveneous Turbo Turban, {Happy} which holds it in place while a delicate series of tubes distills its amazing Pox into my death-defying Jus de Vie!"
-msgstr "Jest dołączona do mego przezskórnie dożylnego turbo turbanu, który trzyma ją na miejscu, podczas gdy sieć rurek skrapla ospę w mój cudny Jus de Vie!"
+msgstr "Jest dołączona do mego przyskórnie dożylnego turbo turbanu, który trzyma ją na miejscu, podczas gdy subtelna sieć rurek destyluje ukrytą w niej ospę w mój cudny Jus de Vie!"
 
 msgctxt "511_511_0_GUYBRUSH"
 msgid "{Confused} Uhhh..."
-msgstr "Eee..."
+msgstr " "
 
 msgctxt "512_512_0_DESINGE"
 msgid "[rolling his eyes, domubing it down] {Angry} It's a hat that's sucking the life out of your hand."
-msgstr "To kapelusz, który wysysa życie z twojej ręki."
+msgstr "To czapka, co wysysa życie z twej ręki."
 
 msgctxt "513_513_0_GUYBRUSH"
 msgid "{surprised}Ohhhh.  {Confused} That's bad, then."
-msgstr "Aha. To niedobrze."
+msgstr "Och. To niedobrze."
 
 msgctxt "514_514_0_DESINGE"
 msgid "{Sarcastic} For your hand, yes.  {Happy} Por moi, it's spectacular!"
-msgstr "Dla twojej ręki - tak. Pour moi - to imponujące!"
+msgstr "Dla twojej ręki - tak. Por moi - to imponujące!"
 
 msgctxt "515_515_0_GUYBRUSH"
 msgid "{Confused} So, why a turban? {Incredulous} It's not very French."
-msgstr "A skąd ten turban? Nie jest za bardzo francuski."
+msgstr "A skąd ten turban? Nie jest zbyt francuski."
 
 msgctxt "516_516_0_DESINGE"
 msgid "{Confused} What in ze world gave you zee ridiculous idea zat I was French?"
-msgstr "A cóż to za niedorzeczny pomysł, że jestem Francuzem?"
+msgstr "A cóż to za pomysł, że ja jestem Francuzem?"
 
 msgctxt "517_517_0_GUYBRUSH"
 msgid "{Surprised} But, um... never mind."
-msgstr "Ale, ee.. już nic."
+msgstr "Ale... no nieważne."
 
 msgctxt "518_518_0_GUYBRUSH"
 msgid "{Whiney} I can't believe the Voodoo Lady has been pulling your ghostly/demonic strings all these years."
-msgstr "Nie do wiary, że przez lata Lady Voodoo kontrolowała twoje widmowo/demoniczne oblicze."
+msgstr "Nie do wiary, że Lady Voodoo kontrolowała twoje widmowo/demoniczne oblicze taki szmat czasu."
 
 msgctxt "519_519_0_LECHUCK"
 msgid "{Exasperated} It came as a shock to me, as well. {SeriousThinking} But her diary spells it all out.  You, me, Elaine... we're all part of the Voodoo Lady's malevolent plans."
-msgstr "I mnie to zszokowało. Ale jej dziennik wszystko tłumaczy. Ty, ja, Elaine. Wszyscy padliśmy ofiarą niecnych planów Lady Voodoo."
+msgstr "I mnie to zszokowało. Ale jej dziennik wszystko tłumaczy. Ty, ja, Elaine... wszyscy byliśmy częścią niecnych planów Lady Voodoo."
 
 msgctxt "520_520_0_VOODOOLADY"
 msgid "{Mystical} Malevolence is in the eye of the beholder, Guybrush Threepwood."
@@ -2160,15 +2160,15 @@ msgstr "Niecnych tylko na pierwszy rzut oka, Guybrushu Threepwoodzie."
 
 msgctxt "521_521_0_VOODOOLADY"
 msgid "{Default} I know this is difficult to understand, but things are not as they seem."
-msgstr "Wiem, że niełatwo ci to pojąć, ale wszystko wygląda zgoła inaczej."
+msgstr "Wiem, że niełatwo ci to pojąć, ale rzeczy mają się zgoła inaczej."
 
 msgctxt "522_522_0_GUYBRUSH"
 msgid "{Stern} No... things seem remarkably convoluted, which is what I've come to expect from you."
-msgstr "Nie. Wszystko wygląda na zagmatwane, czego można się po tobie spodziewać."
+msgstr "Nie... są po prostu mocno zagmatwane, czego można było się po tobie spodziewać."
 
 msgctxt "523_523_0_LECHUCK"
 msgid "{Stern} Well, what about MY interests? Without your meddling, I could have lived a normal, happy, pirate's life!"
-msgstr "No a co ze mną? Gdyby nie ty, mógłbym wieść normalny i szczęśliwy żywot pirata!"
+msgstr "No, a co ze mną? Bez twego mącenia, mógłbym wieść normalny, szczęśliwy żywot pirata!"
 
 msgctxt "524_524_0_VOODOOLADY"
 msgid "{Angry} Hah!  The destiny of LeChuck has NEVER been "normal.""
@@ -2184,23 +2184,23 @@ msgstr "I to jak."
 
 msgctxt "527_527_0_GUYBRUSH"
 msgid "{Confused} That's weird.  This whole idol is under one of Crimpdigit's unbreakable glass bottles."
-msgstr "Dziwne. Ten bożek nakryto nietłukącym się szkłem Crimpdigita."
+msgstr "Dziwne. Ten bożek zabezpieczono nietłukącym się szkłem Crimpdigita."
 
 msgctxt "528_528_0_GUYBRUSH"
 msgid "{Cocky} I assume that these "idols-under-glass" are your doing?"
-msgstr "Te \"butelkowane\" bożki to twoja sprawka?"
+msgstr "Zakładam, że te \"butelkowane\" bożki to twoja sprawka?"
 
 msgctxt "529_529_0_DESINGE"
 msgid "{Happy} Oui!  Using a complex series of powerful unbreakable vacuum tubes and my own incredible machinery, {Arrogant} I've centralized the control of the Vaycaylian Wind Control Device to this relatively compact Harspichronitron."
-msgstr "Oui! Dzięki serii złożonych, nietłukących się tub próżniowych i mej obłędnej maszynerii, mogę sterować wakacjańskim kontrolerem wiatru z tego niewielkiego klawesynonitronu."
+msgstr "Oui! Dzięki serii złożonych, nietłukących się tub próżniowych i mej obłędnej maszynerii, mogę sterować wakacjańskim Wiatromanipulatorem z tego relatywnie niewielkiego Klawesyntronu."
 
 msgctxt "530_530_0_GUYBRUSH"
 msgid "I didn't think it was possible, but De Singe has LITERALLY made the Vaycaylians's Wind Control Machine suck even more than it did before!"
-msgstr "Nie do wiary, ale De Singe sprawił, że wakacjański kontroler wiatru dosłownie ssie jeszcze bardziej!"
+msgstr "Aż trudno uwierzyć, ale De Singe sprawił, że wakacjański Wiatromanipulator ssie dosłownie jeszcze bardziej niż wcześniej!"
 
 msgctxt "531_531_0_GUYBRUSH"
 msgid "{Whiney} I risked life, limb and manatee to get La Esponja Grande and it's a puny, worthless lump."
-msgstr "Ryzykowałem życiem, ręką i manatem, żeby zdobyć La Esponja Grande, a to jakaś mizerna bryłka."
+msgstr "Ryzykowałem życiem, kończyną i manatem, żeby zdobyć La Esponja Grande, a to drobna mizerna bryłka."
 
 msgctxt "532_532_0_LECHUCK"
 msgid "{Confused} What?"
@@ -2220,27 +2220,27 @@ msgstr "Wiem. Co za chłam."
 
 msgctxt "536_536_0_VOODOOLADY"
 msgid "[Offscreen] The size of the sponge is meaningless.  It is what you DO with it that matters."
-msgstr "Rozmiar gąbki jest bez znaczenia. Liczy się to, co z nią zrobisz."
+msgstr "Rozmiar gąbki nie ma znaczenia. Liczy się to, co z nią zrobisz."
 
 msgctxt "537_537_0_LECHUCK"
 msgid "{Stern} Oh yeah, well you fight like a... uh..."
-msgstr "Czyżby? A ty walczysz jak... eee..."
+msgstr "Czyżby? A ty walczysz jak..."
 
 msgctxt "538_538_0_GUYBRUSH"
 msgid "{Stern} Oh yeah, well you fight like a... uh..."
-msgstr "Czyżby? A ty walczysz jak... eee..."
+msgstr "Czyżby? A ty walczysz jak..."
 
 msgctxt "539_539_0_LECHUCK"
 msgid "{Happy} Teehee!"
-msgstr "Hi, hi!"
+msgstr " "
 
 msgctxt "540_540_0_GUYBRUSH"
 msgid "{Happy} Teehee!"
-msgstr "Hi, hi!"
+msgstr " "
 
 msgctxt "541_541_0_GUYBRUSH"
 msgid "{Whiney} The sponge is still small."
-msgstr "Nadal coś mała ta gąbka."
+msgstr "Gąbka nadal jest mała."
 
 msgctxt "542_542_0_LECHUCK"
 msgid "{SeriousThinking} Most unfortunate!"
@@ -2248,11 +2248,11 @@ msgstr "A to pech!"
 
 msgctxt "543_543_0_GUYBRUSH"
 msgid "{suspicious} I wonder who put this idol under glass, and why?"
-msgstr "Kto i po co umieścił tego bożka pod szkłem?"
+msgstr "Ciekawe kto i po co umieścił tego bożka pod szkłem?"
 
 msgctxt "544_544_0_GUYBRUSH"
 msgid "{Cocky} So Miss Spookypants gave me this menu which will supposedly put more Grande in my Esponja."
-msgstr "Pani Nawiedzona dała mi to menu, które ponoć doda nieco \"Grande\" mojej \"Esponji\"."
+msgstr "Panna Nawiedzona dała mi takie menu, które ponoć doda nieco \"Grande\" do mojej \"La Esponja\"."
 
 msgctxt "545_545_0_LECHUCK"
 msgid "{Happy} Excellent!"
@@ -2260,15 +2260,15 @@ msgstr "Wspaniale!"
 
 msgctxt "546_546_0_GUYBRUSH"
 msgid "{Happy} You want to put some of your new-found deductive reasoning to the test and help me figure out what I need for the menu?"
-msgstr "Może przetestujesz swój nowopoznany zmysł dedukcji i pomożesz mi z tym menu?"
+msgstr "Może przetestujesz swój nowo poznany zmysł dedukcji i pomożesz mi z rozkminić, o co chodzi z tym menu?"
 
 msgctxt "547_547_0_LECHUCK"
 msgid "{Humble} I'd give my beard to be able to help you,{Disappointed} but I'm afraid my pirate mind is not fit for such things."
-msgstr "Oddałbym brodę, żeby ci pomóc, ale chyba mój piracki umysł nie nadaje się do takich szarad."
+msgstr "Oddałbym swą brodę, żeby ci pomóc, ale mój piracki umysł raczej nie nadaje się do takich szarad."
 
 msgctxt "548_548_0_GUYBRUSH"
 msgid "{Incredulous} Which explains why after all these years you've still allowed me to get within a nautical mile of you with a bottle of voodoo root beer."
-msgstr "Co wyjaśnia, czemu nawet po tylu latach pozwoliłeś mi do siebie podejść z piwem korzennym voodoo."
+msgstr "Co wyjaśnia, czemu nawet po tylu latach pozwalasz mi się do siebie zbliżyć z piwem korzennym voodoo."
 
 msgctxt "549_549_0_GUYBRUSH"
 msgid "{Incredulous} Got any deep thoughts about this voodoo menu?"
@@ -2276,11 +2276,11 @@ msgstr "Jakieś pomysły co do tego menu voodoo?"
 
 msgctxt "550_550_0_LECHUCK"
 msgid "{Disappointed} I'm afraid I'm useless here, Guybrush."
-msgstr "Chyba nic tutaj nie wskóram."
+msgstr "Chyba nic tutaj nie wskóram, Guybrushu."
 
 msgctxt "551_551_0_GUYBRUSH"
 msgid "{Cocky} Sit tight, buddy.  Once I save Elaine, you're next."
-msgstr "Nie ruszaj się stąd, stary. Wpierw uratuję Elaine, a potem ciebie."
+msgstr "Trzymaj się, brachu. Wpierw uratuję Elaine, a potem ciebie."
 
 msgctxt "552_552_0_LECHUCK"
 msgid "{Proud} Don't worry about me!"
@@ -2300,11 +2300,11 @@ msgstr "Hej! Ty! Znowu!"
 
 msgctxt "556_556_0_GUYBRUSH"
 msgid "{Worried} Oh look at that... the poor hideous flesh-eating plant has a smelly rotting lion's paw caught in its teeth, er, thorns."
-msgstr "No proszę. Ta biedna mięsożerna roślinka ma gnijącą łapę lwa w zębach... cierniach."
+msgstr "Spójrzcie tylko... ta biedna, ohydna mięsożerna roślinka ma wystającą gnijącą lwią łapę w zębach... w cierniach."
 
 msgctxt "557_557_0_GUYBRUSH"
 msgid "{Incredulous} Hold still little buddy, I'll get that nasty ol' hunk of meat out for--"
-msgstr "Stój spokojnie, przyjacielu. Wyjmę ci ten wstrętny kawał mięcha z..."
+msgstr "Stój spokojnie, paszczurku. Zaraz wyjmiemy ten wstrętny kawał mięcha z..."
 
 msgctxt "558_558_0_GUYBRUSH"
 msgid "{Scared} Yipes!"
@@ -2312,15 +2312,15 @@ msgstr "Jejku!"
 
 msgctxt "559_559_0_GUYBRUSH"
 msgid "{Angry} C'mon, plant, fork over that paw..."
-msgstr "No weź, roślinko, oddaj łapę..."
+msgstr "No weź, roślinko, oddaj tę łapę..."
 
 msgctxt "560_560_0_GUYBRUSH"
 msgid "{stern} I'll never get my hands on that super-stinky paw while that "mouth" is snapping at me."
-msgstr "W życiu nie położę łap na tej arcycuchnącej łapie, kiedy tak kłapie tą \"paszczą\"."
+msgstr "W życiu nie dobiorę się do tej arcycuchnącej łapy, kiedy to coś kłapie mnie \"paszczą\"."
 
 msgctxt "561_561_0_GUYBRUSH"
 msgid "{Cocky} Don't worry, you freakish little abomination, Doctor Guybrush will make it all better."
-msgstr "Spokojnie, ty wybryku natury, doktor Guybrush się tobą zajmie."
+msgstr "Spokojnie, ty wariacki wybryku natury, doktor Guybrush się tobą zajmie."
 
 msgctxt "562_562_0_GUYBRUSH"
 msgid "{Angry} Gotcha!"
@@ -2328,23 +2328,23 @@ msgstr "Mam cię!"
 
 msgctxt "563_563_0_GUYBRUSH"
 msgid "{Disgust} Pee-yoo!  That is by FAR the foulest thing I've ever smelled in all my years of pirating... and that's coming from a guy who's just spent a few days inside a giant manatee!"
-msgstr "Toż to najohydniejsza rzecz, jaką wąchałem w swoim caluśienkim pirackim życiu. I mówi to gość, który spędził parę dni manacie!"
+msgstr "Fujka! Toż to najohydniejsza rzecz, jaką wąchałem w całym swoim pirackim życiu... i mówi to gość, który spędził parę dni w środku gigantycznego manata!"
 
 msgctxt "564_564_0_GUYBRUSH"
 msgid "{Stern} You've been lying to me about LeChuck all these years!"
-msgstr "Przez wszystkie te lata okłamywałaś mnie o LeChucku!"
+msgstr "Okłamywałaś mnie o LeChucku przez wszystkie te lata!"
 
 msgctxt "565_565_0_VOODOOLADY"
 msgid "{Mystical} My ways are my own, Guybrush, but rest assured,{Default} I have never lied to you."
-msgstr "Mam swoje powody, Guybrushu. Ale wiedz, że nigdy cię nie okłamałam."
+msgstr "Mgliste są moje ścieżki, Guybrushu. Ale zapewniam, że nigdy cię nie okłamałam."
 
 msgctxt "566_566_0_GUYBRUSH"
 msgid "{Stern} You're lying right now! {Incredulous} All this time I thought LeChuck was an inhuman monster...{Confused} well, actually he was an inhuman monster,{Stern} but only because you MADE him that way!"
-msgstr "Kłamiesz właśnie teraz! Cały czas myślałem, że LeChuck był nieludzkim potworem. No bo w sumie to był, ale to przez ciebie!"
+msgstr "Kłamiesz tu i teraz! Cały czas myślałem, że LeChuck był nieludzkim potworem... no i w sumie to był, ale tylko przez ciebie!"
 
 msgctxt "567_567_0_VOODOOLADY"
 msgid "{Surprised} Did I? {Mystical} Or was I merely playing my role in a much larger play?"
-msgstr "Czyżby? A może odgrywałam swą rolę w znacznie większej sprawie?"
+msgstr "Czyżby? A może tylko odgrywałam swą rolę w znacznie większej sprawie?"
 
 msgctxt "568_568_0_GUYBRUSH"
 msgid "{Stern} Stop trying to confuse me! We're tired of being puppets in your chess game!"
@@ -2356,39 +2356,39 @@ msgstr "To nie jest gra, Threepwood!"
 
 msgctxt "570_570_0_GUYBRUSH"
 msgid "{Stern} You corrupted LeChuck and sent him out to torment me and Elaine for years!{Angry} I'll never trust you again."
-msgstr "Zdeprawowałaś LeChucka i wysyłałaś go, żeby dręczył mnie i Elaine! W życiu ci już nie zaufam."
+msgstr "Zdeprawowałaś LeChucka i wysyłałaś go, by przez lata dręczył mnie i Elaine! W życiu ci już nie zaufam."
 
 msgctxt "571_571_0_VOODOOLADY"
 msgid "{Stern} I don't require your trust, Threepwood... only your... {Mystical}heroism."
-msgstr "Nie potrzebuję twojego zaufania. Tylko twojego... heroizmu."
+msgstr "Nie potrzebuję twojego zaufania, Threepwood. Tylko... heroizmu."
 
 msgctxt "572_572_0_GUYBRUSH"
 msgid "{Stern} Looks like the ol' Vaycaylian Wind Control Device has been set to "suck" again. {Confused} But what's all that tubing around its "fingers" all about?"
-msgstr "Wakacjański kontroler wiatru znów ustawiono na zasysanie. Ale o co to za tuby wokół tych \"palców\"?"
+msgstr "Wydaje się, że wakacjański Wiatromanipulator znowu \"zasysa\". Ale o co chodzi z tymi tubami wokół jego \"palców\"?"
 
 msgctxt "573_573_0_GUYBRUSH"
 msgid "{Stern} Looks like someone's been messing with the Vaycaylian Wind Control Device.  And by "someone" I mean the Marquis De Singe. {Angry} And by "the Marquis De Singe" I mean "the incredible pain in my fundament.""
-msgstr "Ktoś majstrował przy kontrolerze wiatrów. A mówiąc \"ktoś\" mam na myśli De Singe'a. A przez \"De Singe'a\" mam na myśli \"wrzód na mojej rzyci\"."
+msgstr "Chyba ktoś majstrował przy wakacjańskim Wiatromanipulatorze. A mówiąc \"ktoś\" mam na myśli markiza De Singe. A przez \"markiz De Singe\" mam na myśli \"okropny wrzód na mojej rzyci\"."
 
 msgctxt "574_574_0_GUYBRUSH"
 msgid "{Stern} Whatever De Singe is doing to the Vaycaylian Wind Control Device, it can't be good."
-msgstr "De Singe pewnie knuje jakiś pożal się Boże plan z tym kontrolerem wiatru."
+msgstr "Cokolwiek De Singe knuje z tym wakacjańskim Wiatromanipulatorem, nie wróży to dobrze."
 
 msgctxt "575_575_0_GUYBRUSH"
 msgid "{Surprised}Somehow De Singe has figured out how to make the Vaycaylian Wind Device pulverize people (and annoying parrots) into a fine powder.  {Confused} That's just plain weird."
-msgstr "De Singe znalazł sposób, żeby kontroler wiatru ścierał ludzi na proch. No to już jest kuriozum."
+msgstr "De Singe znalazł jakiś sposób, żeby tym wakacjańskim wiatromanipulator ścierać ludzi(i irytujące papugi) w drobny mak. No to już kuriozum."
 
 msgctxt "576_576_0_GUYBRUSH"
 msgid "{Suspicious} Hm.  Looks like the light of the shack's embers has attracted a swarm of jungle moths."
-msgstr "Światło z żarzącej się chatki zwabiło rój ciem."
+msgstr "Hmm. Światło z żarzących się zgliszczy chatki zwabiło rój moli."
 
 msgctxt "577_577_0_GUYBRUSH"
 msgid "{Incredulous} I'd better keep away from them, or they'll strip me naked faster than you can say "MA Rating.""
-msgstr "Lepiej trzymać się od nich z dala, bo rozbiorą mnie do naga zanim zdążę rzec: \"gra od lat 18\"."
+msgstr "Lepiej trzymać się od nich z daleka, bo rozbiorą mnie do naga zanim zdążę rzec: \"gra od lat 18\"."
 
 msgctxt "578_578_0_GUYBRUSH"
 msgid "{Stern} You sent me on a wild albatross chase for La Esponja Grande, and promised me it would cure the Pox.  But after fending off  sexually ambiguous merpeople, a giant manatee,{Angry} and your crazy ex-boyfriend, what do I get for my trouble?{Incredulous} THIS sorry excuse for a kitchen sponge!"
-msgstr "Wysłałaś mnie w daremną pogoń za La Esponja Grande, obiecując, że wyleczy ospę. Ale po oparciu się się seksualnie dwuznacznym trytonom, wielkiemu manatowi i twojemu stukniętemu eks, co dostaję? Nędzną namiastkę kuchennej gąbki!"
+msgstr "{Stern}Wysłałaś mnie w daremną pogoń za La Esponja Grande, obiecując, że wyleczy ospę. A po oparciu się seksualnie dwuznacznym trytonom, wielkiemu manatowi i{Angry} twojemu stukniętemu byłemu, co dostaję w nagrodę?{Incredulous} Nędzną namiastkę kuchennej gąbki!"
 
 msgctxt "579_579_0_VOODOOLADY"
 msgid "[amazed]{Happy} La Esponja."
@@ -2396,23 +2396,23 @@ msgstr "La Esponja."
 
 msgctxt "580_580_0_GUYBRUSH"
 msgid "{Suspicious} Ah I noticed you strategically left out the "Grande" from this worthless piece of junk.{Incredulous} Once it cured my piddly leftover Pox,{Stern} it didn't have enough mojo left to cure Elaine."
-msgstr "Strategicznie pominełaś \"Grande\" z nazwy tego barachła. Gdy tylko wyleczyła mnie z resztek ospy, zabrakło mocy na wyleczenie Elaine."
+msgstr "Strategicznie pominęłaś \"Grande\" z nazwy tego bezwartościowego barachła. Gdy tylko wyleczyła mnie z resztek ospy, zabrakło mocy, by wyleczyć Elaine."
 
 msgctxt "581_581_0_VOODOOLADY"
 msgid "{Default}It's not worthless, it is merely.. young.{Mystical} It must be brought to maturity in order to reach it's voodoo-absorbing potential."
-msgstr "Nie jest bezwartościowa, jedynie... młoda. Musi dojrzeć, żeby osiągnąć swój pochłaniający-voodoo potencjał."
+msgstr "Nie jest bezwartościowa, tylko... młoda. Musi dojrzeć, żeby osiągnąć swój pochłaniający voodoo potencjał."
 
 msgctxt "582_582_0_GUYBRUSH"
 msgid "{Confused} Brought to maturity? {Suspicious} How'm I supposed to do that,{Incredulous} give it a talk about the Sponge Birds and Sponge Bees?"
-msgstr "\"Dojrzeć\"? I co mam zrobić? Pogadać z nią o gąbkowych pszczółkach i ptaszkach?"
+msgstr "\"Dojrzeć\"? I co ja mam zrobić? Porozmawia z nią o gąbkowych ptaszkach i pszczółkach?"
 
 msgctxt "583_583_0_VOODOOLADY"
 msgid "{Default} Like all infants, La Esponja needs nourishment.{Mystical} It must be fed six special voodoo courses to bring it to adult size."
-msgstr "Tak jak wszystkie niemowlęta, La Esponja potrzebuje pożywienia. Musi zjeść sześć dań voodoo, aby osiągnąć dorosłą formę."
+msgstr "Tak jak wszystkie niemowlęta, La Esponja potrzebuje pożywienia. Musi zjeść sześć voodoo dań, aby osiągnąć dorosłą formę."
 
 msgctxt "584_584_0_GUYBRUSH"
 msgid "{Confused} What sort of meal is THAT?"
-msgstr "A co to niby za posiłek?"
+msgstr "I co to niby za posiłek?"
 
 msgctxt "585_585_0_VOODOOLADY"
 msgid "{Mystical} A Feast for the Senses."
@@ -2420,7 +2420,7 @@ msgstr "Uczta dla zmysłów."
 
 msgctxt "586_586_0_VOODOOLADY"
 msgid "{Stern} The menu, Threepwood. Take it,{Happy} and serve the sponge a meal unlike any other."
-msgstr "To menu, Threepwood. Weź je i zaserwuj gąbce posiłek nie z tej Ziemi."
+msgstr "Oto menu, Threepwood. Weź je i zaserwuj gąbce posiłek inny niż wszystkie."
 
 msgctxt "587_587_0_GUYBRUSH"
 msgid "{Stern} And then?"
@@ -2440,11 +2440,11 @@ msgstr "Co chciałbyś wiedzieć?"
 
 msgctxt "591_591_0_GUYBRUSH"
 msgid "{Confused} Those clothes-munching moths must be attracted to the glowing lights of the Wind Machine's eyes."
-msgstr "Trzeba zwabić te pożerające ciuchy ćmy światłem z oczu maszyny wiatru."
+msgstr "Te pożerające ciuchy mole przyciąga światło z jarzących się oczu tej Wiatromaszyny."
 
 msgctxt "592_592_0_GUYBRUSH"
 msgid "{Happy}Hey, it's the moths!{incredulous}  I bet they're still punch-drunk off of Stan's funky fashions."
-msgstr "To ćmy! Pewnie jeszcze im szumi w głowie po odjechanym wdzianku Stana."
+msgstr "Hej, to te mole! Pewnie jeszcze im szumi w głowie po odjechanym wdzianku Stana."
 
 msgctxt "593_593_0_GUYBRUSH"
 msgid "{Confused} What's that?"
@@ -2472,7 +2472,7 @@ msgstr "To ja, Guybrush Threepwood, potężny pirat™!"
 
 msgctxt "599_599_0_GUYBRUSH"
 msgid "{Whiney} Aw, I can't stay mad at you..."
-msgstr "Nie umiem się na ciebie gniewać."
+msgstr "Nie umiem się na ciebie gniewać..."
 
 msgctxt "600_600_0_GUYBRUSH"
 msgid "I don't think that's opening up without one of those seahorse key thingies.  {Whiney} Too bad I lost mine."
@@ -2480,11 +2480,11 @@ msgstr "Wątpię, żeby dało radę się otworzyć bez klucza z koniem morskim. 
 
 msgctxt "601_601_0_GUYBRUSH"
 msgid "Even when it's burned to the ground, the Voodoo Lady's shack is STILL creepy."
-msgstr "Chatka Lady Voodoo spaliła się doszczętnie, a dalej jest upiorna."
+msgstr "Nawet będąc doszczętnie spaloną, chatka Lady Voodoo dalej jest upiorna."
 
 msgctxt "602_602_0_GUYBRUSH"
 msgid "I met Coronado DeCava."
-msgstr "Spotkałem Coronado De Cavę."
+msgstr "Spotkałem Coronado DeCavę."
 
 msgctxt "603_603_0_VOODOOLADY"
 msgid "{Happy} My beloved! How was he?"
@@ -2492,7 +2492,7 @@ msgstr "Mojego ukochanego! I jaki był?"
 
 msgctxt "604_604_0_GUYBRUSH"
 msgid "{Incredulous} Mad. Bipolar. Life ruined.{Stern} Just another pawn sacrificed in your theater of the damned."
-msgstr "Szalony. Psychicznie zaburzony. Ze zrujnowanym życiem. Kolejny pionek w twoim teatrze potępieńców."
+msgstr "Szalony. Zaburzony. Ze zrujnowanym życiem. Kolejny pionek w twoim teatrze potępieńców."
 
 msgctxt "605_605_0_VOODOOLADY"
 msgid "{Default} I never meant to cause him harm."
@@ -2508,35 +2508,35 @@ msgstr "Przyznaj się. Manipulowałaś Coronado."
 
 msgctxt "608_608_0_VOODOOLADY"
 msgid "{Stern} Coronado was never touched by my Voodoo...{Happy} even though he sometimes begged to be."
-msgstr "Coronado nigdy nie zaznał mojego voodoo... choć czasem wręcz o to błagał."
+msgstr "Coronado nigdy nie zaznał mojego voodoo... choć czasem wręcz o nie błagał."
 
 msgctxt "609_609_0_GUYBRUSH"
 msgid "{Confused} I'm not sure we're talking about the same thing anymore, so I'll just shut up."
-msgstr "Nie jestem pewny, czy mówimy o tym samym, więc się zamknę."
+msgstr "Nie jestem pewny, czy dalej mówimy o tym samym, więc się zamknę."
 
 msgctxt "610_610_0_GUYBRUSH"
 msgid "{Confused} Have you seen Elaine?{Incredulous} Of course, even if you have, I won't believe you."
-msgstr "Widziałaś może Elaine? Oczywiście, nawet jeśli, to i tak ci nie wierzę."
+msgstr "Widziałaś Elaine? Oczywiście, nawet jeśli, to i tak ci nie wierzę."
 
 msgctxt "611_611_0_VOODOOLADY"
 msgid "So whether I have or have not, does not matter."
-msgstr "Widziałam czy nie widziałam, to nie ma znaczenia."
+msgstr "Więc czy widziałam czy nie - nie ma to znaczenia."
 
 msgctxt "612_612_0_GUYBRUSH"
 msgid "{Stern} Well, if you do, tell LeChuck and then have him tell me."
-msgstr "Jeśli widziałaś, powiedz LeChuckowi, a potem każ mu powiedzieć mnie."
+msgstr "Jeśli widziałaś, powiedz LeChuckowi, a potem on niech powie mnie."
 
 msgctxt "613_613_0_GUYBRUSH"
 msgid "{Suspicious} So, when I was with De Cava...you might have felt something...{Confused} "strange" happen."
-msgstr "Kiedy byłem z De Cavą... mogłaś poczuć, że dzieje się coś dziwnego."
+msgstr "Kiedy byłem z De Cavą... mogłaś poczuć coś... trochę dziwnego."
 
 msgctxt "614_614_0_VOODOOLADY"
 msgid "Ah.  You are no doubt alluding to your brief possession of my physical form."
-msgstr "Zapewne masz na myśli swoje krótkie opętanie mej cielesnej powłoki."
+msgstr "Ach. Zapewne masz na myśli tamto krótkie opętanie mej cielesnej powłoki."
 
 msgctxt "615_615_0_GUYBRUSH"
 msgid "{Happy} Ha! {Cocky} How did it feel to be the manipulated instead of the manipulator for once?"
-msgstr "Ha! Jak to jest poczuć się manipulowaną zamiast manipulatorem?"
+msgstr "Ha! Jak to jest poczuć się manipulowaną zamiast być manipulatorem?"
 
 msgctxt "616_616_0_VOODOOLADY"
 msgid "It was...{Happy} curiously liberating."
@@ -2548,15 +2548,15 @@ msgstr "Markiz pewnie myśli, że się na niego napaliłaś."
 
 msgctxt "618_618_0_VOODOOLADY"
 msgid "Tell me, did you ever consider where{Stern} MY consciousness traveled to when you replaced it with yours?"
-msgstr "A czy zastanawiałeś się może dokąd powędrowała moja świadomośc, gdy zamieniała się z twoją?"
+msgstr "A czy zastanawiałeś się może dokąd powędrowała MOJA świadomość, gdy zamieniała się z twoją?"
 
 msgctxt "619_619_0_GUYBRUSH"
 msgid "{Confused}[Thinking... scared] ...N-N-No."
-msgstr "N-N-Nie."
+msgstr "Nie."
 
 msgctxt "620_620_0_GUYBRUSH"
 msgid "{Stern} Try not to get executed before I cure Elaine."
-msgstr "Nie daj się powieścić, póki nie wyleczę Elaine."
+msgstr "Nie daj się powiesić, póki nie wyleczę Elaine."
 
 msgctxt "621_621_0_VOODOOLADY"
 msgid "As you wish."
@@ -2564,11 +2564,11 @@ msgstr "Jak sobie życzysz."
 
 msgctxt "622_622_0_GUYBRUSH"
 msgid "The tide must be high, I can almost reach down and touch the well water."
-msgstr "Pływ musi być wysoki, mogę niemal sięgnąć wody w studni."
+msgstr "Pływ musi być wysoki, mogę niemal sięgnąć wody ze studni."
 
 msgctxt "623_623_0_GUYBRUSH"
 msgid "{Incredulous} Wishing well on jungle floor, who's the pirate most adored?"
-msgstr "{Incredulous} Jaki pirat jest najbardziej uwielbiany?"
+msgstr "{Incredulous} Studnio życzeń w dżungli skryta, jaki pirat serca chwyta?"
 
 msgctxt "624_624_0_ELAINE"
 msgid "{Serious} What the-?"
@@ -2576,11 +2576,11 @@ msgstr "Co do..."
 
 msgctxt "625_625_0_GUYBRUSH"
 msgid "{Confused} Freaky."
-msgstr "Ale schiza."
+msgstr "Ostro."
 
 msgctxt "626_626_0_GUYBRUSH"
 msgid "{Cocky} I hope all this sugar water doesn't rot out the Flotsamites' teeth... {incredulous} what's left of them, anyway."
-msgstr "Oby ta słodka woda nie popsuła tubylcom zębów. A przynajmniej tego, co z nich zostało."
+msgstr "Oby ta słodka woda nie popsuła tubylcom zębów... a przynajmniej tego, co z nich zostało."
 
 msgctxt "627_627_0_GUYBRUSH"
 msgid "The first course in the Feast of the Senses -- the napkin.{Confused} What's up with that?"
@@ -2588,7 +2588,7 @@ msgstr "Pierwsze danie w Uczcie dla zmysłów - serwetka. O co tu biega?"
 
 msgctxt "628_628_0_VOODOOLADY"
 msgid "{Mystical} The table must be set with an eye-catching napkin. To entice the sponge's hunger..."
-msgstr "Stół musi zostać nakryty efektowną serwetką, żeby gąbce zaostrzył się apetyt."
+msgstr "Stół musi zostać nakryty przyciągającą wzrok serwetką, żeby gąbce zaostrzył się apetyt..."
 
 msgctxt "629_629_0_GUYBRUSH"
 msgid "{Suspicious} Tell me about the Napkin again."
@@ -2600,7 +2600,7 @@ msgstr "Uczta musi zacząć się od wizualnie olśniewającej tkaniny, żeby gą
 
 msgctxt "631_631_0_GUYBRUSH"
 msgid "{Confused} Let's see, what do I have now that I DIDN'T have the last time I tried to open this chest..."
-msgstr "Zobaczmy, co mam teraz, a czego nie miałem ostatnio, gdy próbowałem otworzyć kufer."
+msgstr "Zobaczmy, co mam teraz, a czego nie miałem ostatnio, gdy próbowałem otworzyć kufer..."
 
 msgctxt "632_632_0_GUYBRUSH"
 msgid "{Angry} Ow!  Stupid hook!"
@@ -2608,23 +2608,23 @@ msgstr "Głupi hak!"
 
 msgctxt "633_633_0_GUYBRUSH"
 msgid "{Incredulous} Oh, it can't be THAT easy."
-msgstr "To by było za proste."
+msgstr "To nie może być tak proste."
 
 msgctxt "634_634_0_GUYBRUSH"
 msgid "{Confused} The Voodoo Lady's tarot cards?  That's it? {Angry} I bent the fabric of reality for a stupid fortune teller's trick?"
-msgstr "Karty tarota Lady Voodoo? Tylko tyle? Naginam rzeczywistość dla głupich wróżbiarskch sztuczek?"
+msgstr "Karty tarota Lady Voodoo? Tylko tyle? Naginam rzeczywistość dla głupich wróżbiarskich sztuczek?"
 
 msgctxt "635_635_0_GUYBRUSH"
 msgid "{Surprised} Okay, that's a pretty good trick."
-msgstr "No, to była spoko sztuczka."
+msgstr "Okej, ta była całkiem spoko."
 
 msgctxt "636_636_0_GUYBRUSH"
 msgid "My hook won't reach him from here."
-msgstr "Stąd go nie dosięgnę hakiem."
+msgstr "Mój hak tego stąd nie sięgnie."
 
 msgctxt "637_637_0_GUYBRUSH"
 msgid "{Angry} Hey, De Barge!"
-msgstr "Te, De Znicz!"
+msgstr "Hej, De Znicz!"
 
 msgctxt "638_638_0_DESINGE"
 msgid "{Worried} Ack!"
@@ -2640,15 +2640,15 @@ msgstr "NAUKA!"
 
 msgctxt "641_641_0_GUYBRUSH"
 msgid "I think we've established that that won't do any good."
-msgstr "Myślałem, że ustaliliśmy, że z tego nie wyniknie nic dobrego."
+msgstr "Chyba ustaliliśmy, że z tego nie wyniknie nic dobrego."
 
 msgctxt "642_642_0_GUYBRUSH"
 msgid "{Cocky} My hand's already got its hand full."
-msgstr "Moja ręka już ma rękę pełną roboty."
+msgstr "Moja ręka już ma ręce pełne roboty."
 
 msgctxt "643_643_0_GUYBRUSH"
 msgid "{Surprised} I haven't got it in me to kill this miserable, flesh-rending plant-creature-thing."
-msgstr "Nie mam sumienia, żeby zabijać tę biedną i mięsożerną roślinopodobną istotkę."
+msgstr "Nie mam sumienia, żeby zabijać tę biedną, mięsożerną, roślinopodobną istotkę."
 
 msgctxt "644_644_0_GUYBRUSH"
 msgid "{Stern} I can't reach it from here, and even if I could, I don't think it would do any good."
@@ -2656,7 +2656,7 @@ msgstr "Stąd nie dosięgnę, a nawet gdybym mógł, to nic by z tego nie wyszł
 
 msgctxt "645_645_0_GUYBRUSH"
 msgid "{Angry} That's one lock my hook WON'T be unlocking."
-msgstr "Tego zamka mój hak już nie otworzy."
+msgstr "Akurat tego zamka mój hak na pewno nie otworzy."
 
 msgctxt "646_646_0_GUYBRUSH"
 msgid "{Confused} The antepasta?{Incredulous} Explain."
@@ -2664,15 +2664,15 @@ msgstr "Przystawka? Wyjaśnij."
 
 msgctxt "647_647_0_VOODOOLADY"
 msgid "{Mystical} With the table set, a powerful aroma must encourage the appetite to grow."
-msgstr "Gdy stół jest już nakryty, jakiś silny aromat musi zaostrzyć apetyt."
+msgstr "Gdy stół już nakryty, jakiś silny aromat musi zaostrzyć apetyt."
 
 msgctxt "648_648_0_GUYBRUSH"
 msgid "{Whiney} I think my nose has been in shock since traversing the inside of a manatee."
-msgstr "Mój nos jest w stanie szoku po przechadzce w brzuchu manata."
+msgstr "Mój nos jest w mocnym szoku po przechadzce w brzuchu manata."
 
 msgctxt "649_649_0_VOODOOLADY"
 msgid "{Default} I'm sure you will find something."
-msgstr "Jestem pewna, że coś znajdziesz."
+msgstr "Na pewno coś wymyślisz."
 
 msgctxt "650_650_0_GUYBRUSH"
 msgid "{Suspicious}Can you give me any more insight about the antepasta?"
@@ -2680,7 +2680,7 @@ msgstr "Powiesz mi coś więcej o tej przystawce?"
 
 msgctxt "651_651_0_VOODOOLADY"
 msgid "I can't say what exactly would be appropriate for the Feast of the Senses.{Happy} Fetid sweet meats perhaps. Dry aged, deep within the jungle. Something of that nature."
-msgstr "Nie umiem powiedzieć, co byłoby idealne dla Uczty zmysłów. Może cuchnąco słodkie mięso. Suszone w głębi dżungli. Coś w tym stylu."
+msgstr "Nie umiem powiedzieć, co byłoby idealne dla Uczty dla zmysłów. Może cuchnąco słodkie mięso. Suszone w głębi dżungli. Coś w tym stylu."
 
 msgctxt "652_652_0_GUYBRUSH"
 msgid "{Incredulous}[Sarcastic] Appetizing."
@@ -2688,19 +2688,19 @@ msgstr "Palce lizać."
 
 msgctxt "653_653_0_GUYBRUSH"
 msgid "{Cocky} I don't know about mythical jungle beasts, but I always prefer MY ritual sacrifices to be slathered in sugar water."
-msgstr "Nie znam się na mitycznych bestiach, ale swoje ofiary rytualne zwykłem smarować słodką wodą."
+msgstr "Nie znam się na mitycznych bestiach z dżungli, ale swoje ofiary rytualne zwykłem smarować słodką wodą."
 
 msgctxt "654_654_0_GUYBRUSH"
 msgid "{Suspicious} Can you tell me about the palate cleanser?"
-msgstr "Co mi powiesz o tym czystym podniebieniu?"
+msgstr "Co mi powiesz o tym oczyszczeniu podniebienia?"
 
 msgctxt "655_655_0_VOODOOLADY"
 msgid "Before the main course, the palate must be scalded clean by a powerful taste!"
-msgstr "Przed daniem głównym podniebienie musi być sparzone mocnym smakiem!"
+msgstr "Przed daniem głównym podniebienie musi być wyparzone mocnym smakiem!"
 
 msgctxt "656_656_0_GUYBRUSH"
 msgid "{Happy} Ooh! Like grog?!"
-msgstr "Takim jak grog?!"
+msgstr "Och! Jak grog?!"
 
 msgctxt "657_657_0_VOODOOLADY"
 msgid "{Stern} No, not at all like grog."
@@ -2708,7 +2708,7 @@ msgstr "Nie, nie jak grog."
 
 msgctxt "658_658_0_GUYBRUSH"
 msgid "{Whiney} Palate cleanser...Hmm..."
-msgstr "Oczyszczenie podniebienia... Hmm..."
+msgstr "Oczyszczenie podniebienia... hmm..."
 
 msgctxt "659_659_0_VOODOOLADY"
 msgid "Something of such grand flavor as to send the senses back to square one."
@@ -2716,11 +2716,11 @@ msgstr "Coś o tak silnym smaku, że wywróci zmysły do punkty wyjścia."
 
 msgctxt "660_660_0_GUYBRUSH"
 msgid "{Happy} Big flavor.{Cocky} Got it."
-msgstr "Mocny posmak. Kumam."
+msgstr "Mocny smak. Kumam."
 
 msgctxt "661_661_0_GUYBRUSH"
 msgid "{Suspicious} It says here that course four, the main course, is the "sixth" sense.{Confused} That doesn't even MAKE sense."
-msgstr "Tu jest napisane, że czwarte danie i zarazem główne danie, jest \"szóstym\" zmysłem. To bez sensu."
+msgstr "Tu jest napisane, że czwarte i zarazem główne danie, jest \"szóstym\" zmysłem. To w ogóle nie ma sensu."
 
 msgctxt "662_662_0_GUYBRUSH"
 msgid "{Surprised} Whoa."
@@ -2728,15 +2728,15 @@ msgstr "Łoł."
 
 msgctxt "663_663_0_GUYBRUSH"
 msgid "{Worried} Uh-oh."
-msgstr "O-o."
+msgstr " "
 
 msgctxt "664_664_0_GUYBRUSH"
 msgid "{Confused} Hmm.  Looks like these finicky moths {Incredulous} won't eat a jacket that's encrusted with bacon grease, fishwater, and manatee guts.  Lucky me."
-msgstr "Te wybredne ćmy nie tkną kurtki splamionej tłuszczem z bekonu, rybą i bebechami manata. Ale fart."
+msgstr "Hmm. Te wybredne mole nie tkną kurtki splamionej tłuszczem z bekonu, rybą i bebechami manata. Ależ fart."
 
 msgctxt "665_665_0_GUYBRUSH"
 msgid "{Cocky} "We replaced our usual fleshy sacrifice with a clever simulacrum...{Incredulous} let's see if the jungle gods notice.""
-msgstr "\"Zamieńmy naszą zwykłą mięsną ofiarę na zmyślną atrapę. Zobaczmy, czy bogowie dżungli coś zauważą\"."
+msgstr "\"Zamieniliśmy naszą zwykłą mięsną ofiarę na zmyślną atrapę. Zobaczmy, czy bogowie dżungli coś zauważą\"."
 
 msgctxt "666_666_0_GUYBRUSH"
 msgid "{Incredulous} Wet meat.  It's what's for dinner."
@@ -2744,7 +2744,7 @@ msgstr "Mokre mięsko. Na kolację."
 
 msgctxt "667_667_0_VOODOOLADY"
 msgid "{Happy} Ah, but it does. [make sense]{Mystical} For where the other five senses are limited to the finite experiences of the present, the sixth sense satiates the appetite for the infinite possibilities of the future!"
-msgstr "Ależ nie. Tam, gdzie pięć innych zmysłów jest ograniczona do obecnych doświadczeń, szósty zmysł zaspokaja apetyt na nieskończenie wiele możliwości w przyszłości!"
+msgstr "Ależ ma. [make sense]{Mystical}Tam, gdzie pięć innych zmysłów jest ograniczona do skończonych doświadczeń teraźniejszości, szósty zmysł zaspokaja apetyt na nieskończenie wiele możliwości w przyszłości!"
 
 msgctxt "668_668_0_GUYBRUSH"
 msgid "The future?  How do I feed something the future?"
@@ -2756,7 +2756,7 @@ msgstr "Ten cały szósty zmysł to jakaś abstrakcja."
 
 msgctxt "670_670_0_VOODOOLADY"
 msgid "You must find something that will allow the Sponge to sense the future. As I said, you already possess the key to finding it."
-msgstr "Musisz znaleźć coś, co pozwoli gąbce odczuć przyszłość. Jak mówiłam, masz już klucz do jej znalezienia."
+msgstr "Musisz znaleźć coś, co pozwoli gąbce odczuć przyszłość. Jak wiesz, masz już klucz, by ją znaleźć."
 
 msgctxt "671_671_0_GUYBRUSH"
 msgid "{Confused} Your hut is nothing more than a smoldering pile of rubble!"
@@ -2768,11 +2768,11 @@ msgstr "Tak, sama dokonałam zniszczenia."
 
 msgctxt "673_673_0_GUYBRUSH"
 msgid "{Happy} But you had so much neat stuff! The Chest of Foreshadowing! Your creepy rug!  All those skulls! That mysterious machine in the corner that didn't do anything!"
-msgstr "Ale miałaś tyle fajnych rzeczy! Kufer Zwiastowania! Upiorny dywan! Czaszki! Tę tajemniczą maszynę w kącie, która nic nie robiła!"
+msgstr "Ale miałaś tyle fajnych gratów! Kufer zwiastowania! Upiorny dywan! I te czaszki! Tę misterną maszynę w kącie, która nic nie robiła!"
 
 msgctxt "674_674_0_VOODOOLADY"
 msgid "{Mystical} The objects of utmost importance were taken care of. Stowed away in a safe place."
-msgstr "Schowałam przedmioty najwyższej wagi. Są w bezpiecznym miejscu."
+msgstr "Przedmioty najwyższej wagi zostały przemieszczone. Są w bezpiecznym miejscu."
 
 msgctxt "675_675_0_GUYBRUSH"
 msgid "{Confused} Where?"
@@ -2780,19 +2780,19 @@ msgstr "Gdzie?"
 
 msgctxt "676_676_0_VOODOOLADY"
 msgid "{Default} You have the knowledge of its whereabouts with you right now.{Mystical} You must know HOW, not WHERE, to look."
-msgstr "Masz wiedzę o miejscu ich pobytu przy sobie. Musisz wiedzieć jak, a nie gdzie patrzeć."
+msgstr "Masz wiedzę o miejscu ich pobytu przy sobie. Musisz wiedzieć JAK, a nie GDZIE patrzeć."
 
 msgctxt "677_677_0_GUYBRUSH"
 msgid "{Incredulous} Couldn't you just tell me directly?"
-msgstr "A nie możesz mi powiedzieć wprost?"
+msgstr "A może powiesz mi wprost?"
 
 msgctxt "678_678_0_"
 msgid "Your hut! It's been burned down."
-msgstr "Twoja chatka się spaliła."
+msgstr "Twoja chata! Spaliła się."
 
 msgctxt "679_679_0_GUYBRUSH"
 msgid "{Suspicious} You said your most valuable voodoo possession locked away in a safe place?"
-msgstr "Mówiłaś, że twój najcenniejszy dobytek voodoo jest schowany w bezpiecznym miejcu?"
+msgstr "Mówiłaś, że twój najcenniejszy dobytek voodoo jest schowany w bezpiecznym miejscu?"
 
 msgctxt "680_680_0_VOODOOLADY"
 msgid "That's right."
@@ -2808,19 +2808,19 @@ msgstr "Masz informacje, ale być może nie..."
 
 msgctxt "683_683_0_GUYBRUSH"
 msgid "{Incredulous} Yeah, yeah, I get it. But not the SMARTS. [Sarcastic] Thanks."
-msgstr "...nie mam rozumu. Dzięki."
+msgstr "Tak, tak, wiem. Nie mam rozumu. Dzięki."
 
 msgctxt "684_684_0_VOODOOLADY"
 msgid "{Stern} I was going to say perspective.{Happy} But that too."
-msgstr "Chciałam powiedzieć perspektywy. Ale tego pierwszego też."
+msgstr "Chciałam powiedzieć perspektywy. Ale tego też."
 
 msgctxt "685_685_0_GUYBRUSH"
 msgid "{Happy} Here boy!"
-msgstr "Do nogi!"
+msgstr "No weź!"
 
 msgctxt "686_686_0_GUYBRUSH"
 msgid "[sympathizing] {Whiney} Ooh, that looks uncomfortable.  {Cocky} But at least he's not snapping at me any more."
-msgstr "Niefajny widok. Ale przynajmnmiej już na mnie nie kłapie."
+msgstr "Och, chyba mu nieprzyjemnie. Ale przynajmniej na mnie nie kłapie."
 
 msgctxt "687_687_0_GUYBRUSH"
 msgid "{Confused} What about the dessert?{Suspicious} This is one hungry sponge."
@@ -2828,19 +2828,19 @@ msgstr "A co z deserem? Głodomór z tej gąbki."
 
 msgctxt "688_688_0_VOODOOLADY"
 msgid "{Happy} Ah, what is YOUR favorite thing about dessert, Guybrush?"
-msgstr "A co ty sam najbardziej lubisz w deserach?"
+msgstr "A co ty sam najbardziej lubisz w deserach, Guybrushu?"
 
 msgctxt "689_689_0_GUYBRUSH"
 msgid "{Cocky} Running out before the check arrives?"
-msgstr "Dać nogę zanim przyniosą rachunek?"
+msgstr "Dać nogę zanim przyjdzie rachunek?"
 
 msgctxt "690_690_0_VOODOOLADY"
 msgid "{Default} No,{Mystical} it is the pleasurable SHOCK of something different."
-msgstr "Nie, to przyjemny szok doświadczenia czegoś innego."
+msgstr "Nie, ten przyjemny SZOK doświadczenia czegoś innego."
 
 msgctxt "691_691_0_GUYBRUSH"
 msgid "{Incredulous}Ah."
-msgstr "Aha."
+msgstr "Ach."
 
 msgctxt "692_692_0_GUYBRUSH"
 msgid "{Confused} So, the Sponge needs a big shock for dessert?"
@@ -2856,15 +2856,15 @@ msgstr "\"Uczta dla zmysłów\" ma skończyć się beknięciem."
 
 msgctxt "695_695_0_VOODOOLADY"
 msgid "Do not worry about this.{Happy} If you provide La Esponja the first five courses,{Mystical} the location of the final course will undoubtedly reveal itself."
-msgstr "O tę kwestię bądź spokojny. Jeśli podasz La Esponja pierwszych pięć dań, lokacja ostatniego dania sama ci się objawi."
+msgstr "O tę kwestię się nie martw. Jeśli podasz La Esponja pierwszych pięć dań, lokacja ostatniego dania sama ci się objawi."
 
 msgctxt "696_696_0_GUYBRUSH"
 msgid "{Cocky} My favorite type of responsibility: the one that takes care of itself."
-msgstr "Mój ulubiony typ obowiązków: takie, które same się robią."
+msgstr "Mój ulubiony typ obowiązków: takie, które same się ogarną."
 
 msgctxt "697_697_0_GUYBRUSH"
 msgid "{Stern} All right, enough about the Feast for now."
-msgstr "Na razie starczy tych pytań o Ucztę."
+msgstr "Dobra, na razie starczy tych pytań o Ucztę."
 
 msgctxt "698_698_0_GUYBRUSH"
 msgid "{confused}You look uncharacteristically grim."
@@ -2876,11 +2876,11 @@ msgstr "To jeden z tych dni."
 
 msgctxt "700_700_0_GUYBRUSH"
 msgid "{incredulous}I know what you mean. {stern}Betraying your childhood hero can really take it out of you."
-msgstr "Znam ten ból. Zdrada bohatera z dzieciństwa potrafi człowieka wyczeprać."
+msgstr "Znam ten ból. Zdrada bohatera z dzieciństwa potrafi człowieka zdołować."
 
 msgctxt "701_701_0_MORGAN"
 msgid "{questioning}Hey, that was just business."
-msgstr "To był czysty biznes."
+msgstr "Hej, to był czysty biznes."
 
 msgctxt "702_702_0_GUYBRUSH"
 msgid "Your business sucks more than the winds of Flotsam.{default}"
@@ -2892,11 +2892,11 @@ msgstr "Co to za dziwaczne drinki?"
 
 msgctxt "704_704_0_MORGAN"
 msgid "{serious}They're a row of Blood Island Volcano Shots..."
-msgstr "To szoty Erupcji Wulkanu Krwawej Wyspy."
+msgstr "To wulkaniczne szoty Krwawej Wyspy..."
 
 msgctxt "705_705_0_GUYBRUSH"
 msgid "They look...{suspicious}painful."
-msgstr "Wyglądają jakby parzyły w gębę."
+msgstr "Wyglądają... boleśnie."
 
 msgctxt "706_706_0_MORGAN"
 msgid "{stern}Only the first one.{default}"
@@ -2912,7 +2912,7 @@ msgstr "Nie żebym narzekał, ale czemu odrzuciłaś ofertę De Singe'a na upolo
 
 msgctxt "709_709_0_GUYBRUSH"
 msgid "[goin' all Shakespeare-y] {Whiney} Alas, poor Hemlock...{Stern} I knew it, this limb, a leg of infinite toe jam, of most excellent thigh cheese... {Surprised} It hath borne its owner's creaking frame a thousand times, and now how clammy and gross within my grasp it wriggles!"
-msgstr "Biedny Hemlocku!. , te kończyny, bezgraniczny brud na nodze, najwspanialszy ser z uda... {Surprised} Te ramiona skrzypiące właścicieli podnoszone tysiąc razy i teraz oślizgłość i obrzydliwość chwyta mnie i skręca!"
+msgstr "Biedny Hemlock... Znałem to, ten kikut, noga bezgranicznego syfu i najwspanialszym serze z ud... {Surprised} Dźwigająca skrzypiącą ramę swojego właściciela podnoszonego tysiące razy... i teraz jak oślizgła i jak obrzydliwa w moim uścisku się wije!"
 
 msgctxt "710_710_0_GUYBRUSH"
 msgid "{Incredulous} Oh well.  Soup's on!"
@@ -2920,23 +2920,23 @@ msgstr "No trudno. Podano zupę!"
 
 msgctxt "711_711_0_GUYBRUSH"
 msgid "{Confused} What the-? {Angry} It's empty!"
-msgstr "Że co? Tu nic nie ma!"
+msgstr "Co do...? Jest pusty!"
 
 msgctxt "712_712_0_GUYBRUSH"
 msgid "{Incredulous} Hmm, a wet severed leg.  Guess that's one item off my Christmas list."
-msgstr "Mokra odcięta noga. Kolejna rzecz, którą mogę już skreślić z świątecznej listy."
+msgstr "Mokra odcięta noga. Kolejne, co mogę skreślić ze świątecznej listy."
 
 msgctxt "713_713_0_GUYBRUSH"
 msgid "{confused} Hmm.  The fireflies are attracted to the sugar water on the leg.  Fascinating.{Disgust}  Annnd just a little nauseating."
-msgstr "Noga zamoczona w słodkiej wodzie przyciąga świetliki. Fascynujące. I z deka obrzydliwe."
+msgstr "Hmm. Te świetliki mocno jarają się słodką wodą z nogi. Fascynujące. I z deka obrzydliwe."
 
 msgctxt "714_714_0_GUYBRUSH"
 msgid "{Incredulous}I've already got three wet legs in my pants... I'd rather not add another one."
-msgstr "Mam już w spodnaich trzy mokre nogi. Więcej już nie chcę."
+msgstr "Mam już w spodniach trzy mokre nogi... Więcej już nie chcę."
 
 msgctxt "715_715_0_GUYBRUSH"
 msgid "{Angry} Hey De la Soul!"
-msgstr "Ej, De la Soul!"
+msgstr "Ej, de la Soul!"
 
 msgctxt "716_716_0_DESINGE"
 msgid "{Stern} What?"
@@ -2948,7 +2948,7 @@ msgstr "Ach, piracki humor."
 
 msgctxt "718_718_0_GUYBRUSH"
 msgid "{Angry} Hey, De Cringe!"
-msgstr "Ej, De Syf!"
+msgstr "Ej, de Syf!"
 
 msgctxt "719_719_0_GUYBRUSH"
 msgid "Taste the adventure!"
@@ -2956,7 +2956,7 @@ msgstr "Posmakuj przygody!"
 
 msgctxt "720_720_0_DESINGE"
 msgid "{Worried} Ieeeeee!"
-msgstr "Ajjj!"
+msgstr " "
 
 msgctxt "721_721_0_GUYBRUSH"
 msgid "{Angry} Hey, vu!"
@@ -2968,7 +2968,7 @@ msgstr "Co znowu?"
 
 msgctxt "723_723_0_DESINGE"
 msgid "[relieved]{amazed}Ahhhhh!"
-msgstr "Aaa!"
+msgstr " "
 
 msgctxt "724_724_0_DESINGE"
 msgid "{Confused} What in ze world-?  Shoo!"
@@ -2980,7 +2980,7 @@ msgstr "Już wystarczająco z niej ostra sztuka."
 
 msgctxt "726_726_0_GUYBRUSH"
 msgid "{Confused} I'm not sure what my wayward hand would do with a pepper.  {Incredulous} You know, since he doesn't have a tongue 'n' all."
-msgstr "Nie wiem, co moja krnąbrna ręka zrobiłaby z papryczką. Wszak nie ma języka."
+msgstr "Nie wiem, co moja krnąbrna ręka zrobiłaby z tą papryczką. Wszak nie ma języka."
 
 msgctxt "727_727_0_GUYBRUSH"
 msgid "{stern}I think you should know that I'm still really angry with you."
@@ -2992,15 +2992,15 @@ msgstr "A jak postawię ci drinka?"
 
 msgctxt "729_729_0_GUYBRUSH"
 msgid "{suspicious}What, so you can poison me?  {stern}I'll pass.{default}"
-msgstr "Co, chcesz mnie otruć? Dziękuję, postoję."
+msgstr "Co, chcesz mnie otruć? Dziękuję."
 
 msgctxt "730_730_0_GUYBRUSH"
 msgid "{Cocky} I don't think that chest, even though it belongs to the Voodoo Lady, technically counts as a "Sixth Sense."  Maybe what's inside it will, though."
-msgstr "Wątpię, żeby kufer, choć należy do Lady Voodoo, liczył się jako \"Szósty zmysł\". Może to, co jest w środku."
+msgstr "Wątpię, żeby cały kufer, mimo że należy do Lady Voodoo, liczył się jako \"Szósty zmysł\". Może to, co jest w środku."
 
 msgctxt "731_731_0_GUYBRUSH"
 msgid "{angry} There's no WAY I'm giving this to De Singe now that I'm so close to enlarging it and curing Elaine!"
-msgstr "De Singe za nic nie dostanie gabki, skoro zaraz ją powiększę i wyleczę Elaine!"
+msgstr "Nie ma szans, bym ot tak teraz oddał tę gąbkę De Singe'owi, skoro zaraz ją powiększę i wyleczę Elaine!"
 
 msgctxt "732_732_0_GUYBRUSH"
 msgid "{Angry} La Esponja Grande won't work on Elaine until I complete the Feast for the Senses!"
@@ -3012,27 +3012,27 @@ msgstr "Zauważyłem, że nie masz ospy."
 
 msgctxt "734_734_0_MORGAN"
 msgid "{serious}I'm Pox free. Tested on a regular basis."
-msgstr "Jestem udoporniona. Regularne badania to podstawa."
+msgstr "Jestem uodporniona. Badam się regularnie."
 
 msgctxt "735_735_0_GUYBRUSH"
 msgid "{confused}Do you know why?"
-msgstr "A dlaczego tak jest?"
+msgstr "Wiesz dlaczego?"
 
 msgctxt "736_736_0_MORGAN"
 msgid "{stern}Probably because I'm not really a pirate, since I'm a pirate HUNTER."
-msgstr "Pewnie dlatego, że jestem ŁOWCZYNIĄ piratów."
+msgstr "Pewnie dlatego, że nie jestem piratem, tylko ŁOWCZYNIĄ piratów."
 
 msgctxt "737_737_0_GUYBRUSH"
 msgid "{suspicious}Gotta like a Pox that respects minor semantical distinctions.{default}"
-msgstr "Wirus, który rozpoznaje różnice znaczeniowe."
+msgstr "Szanuję ospę, która respektuje drobne różnice semantyczne."
 
 msgctxt "738_738_0_GUYBRUSH"
 msgid "{Cocky} That's a good idea, but I better get the lion's paw OUT of its [air quotes] "mouth" first.  I'd hate to lose the Sponge inside its rapacious gullet."
-msgstr "Dobry pomysł, ale lepiej wpierw wyjąć łapę lwa z paszczy. Nie chciałbym stracić gąbki w tym drapieżnym przełyku."
+msgstr "Dobry pomysł, ale wpierw lepiej wyjąć lwią łapę z paszczy tego czegoś. Nie chciałbym stracić gąbki w tym drapieżnym przełyku."
 
 msgctxt "739_739_0_GUYBRUSH"
 msgid "{Cocky} That's a great idea, but I think I need to find the PART of this plant-beast that's stinking up the jungle."
-msgstr "Pomysł przedni, ale muszę znaleźć część tej roślino-bestii, która zasmradza dżunglę."
+msgstr "Pomysł przedni, ale lepiej jakbym znalazł tylko CZĘŚĆ tej roślino-bestii, która zasmradza dżunglę."
 
 msgctxt "740_740_0_GUYBRUSH"
 msgid "{suspicious}Y'know, if you have even a scintilla of a guilty conscience, {confused}I could really use your help."
@@ -3048,7 +3048,7 @@ msgstr "Mam proces..."
 
 msgctxt "743_743_0_MORGAN"
 msgid "So I've heard. Some guy was trying to tell me that it's the [impersonating Stan] "Trial of the century-y-y-y-y.""
-msgstr "Tak, słyszałam. Jakiś facet próbował mnie przekonać, że to \"Proces stulecia-a-a-a\"."
+msgstr "Słyszałam. Jakiś facet próbował mnie przekonać, że to \"Proces stulecia-a-a-a\"."
 
 msgctxt "744_744_0_GUYBRUSH"
 msgid "{confused}Yeah, well, I could really some trumped-up evidence.  {incredulous}Or a few intimidated witnesses.  {embarrassed}Or maybe a well-placed bribe or ten."
@@ -3060,15 +3060,15 @@ msgstr "Nie stać cię na mnie."
 
 msgctxt "746_746_0_GUYBRUSH"
 msgid "{confused}Changed your mind about helping me with my legal troubles?{default}"
-msgstr "To pomożesz mi z moimi kłopotami z prawem?"
+msgstr "Czy zmieniłaś zdanie odnośnie moich kłopotów z prawem?"
 
 msgctxt "747_747_0_MORGAN"
 msgid "{serious}The pirate legal system and I don't exactly get along. And if we did, {stern}I wouldn't do pro bono work.{default}"
-msgstr "Prawo pirackie i ja jesteśmy ze sobą na bakier. Zresztą nie pracuję pro bono."
+msgstr "Piracki system prawny i ja jesteśmy ze sobą na bakier. Zresztą w ogóle nie pracuję pro bono."
 
 msgctxt "748_748_0_GUYBRUSH"
 msgid "{Incredulous}Oh, what the heck..."
-msgstr "A co mi tam..."
+msgstr "Co u licha..."
 
 msgctxt "749_749_0_GUYBRUSH"
 msgid "{Cocky} Sweet!"
@@ -3084,19 +3084,19 @@ msgstr "Czego De Singe w ogóle chce od Elaine?"
 
 msgctxt "752_752_0_GUYBRUSH"
 msgid "{Happy} Jungle fireflies!  Nature's little spotlights!"
-msgstr "Świetliki dżungli! Reflektorki natury!"
+msgstr "Świetliki z dżungli! Reflektorki natury!"
 
 msgctxt "753_753_0_GUYBRUSH"
 msgid "{Incredulous} I'd better not.  The diabetics of Flotsam would never forgive me."
-msgstr "Lepiej  nie. Tutejsi cukrzycy by mi nie wybaczyli."
+msgstr "Lepiej nie. Tutejsi cukrzycy nigdy by mi nie wybaczyli."
 
 msgctxt "754_754_0_GUYBRUSH"
 msgid "{suspicious}Well, I can see you've got inner demons to wrestle with, {stern}so I'll just get on with my life.{default}"
-msgstr "Widzę, że zmagasz się ze swoimi demonami, więc pójde się zająć własnym życiem."
+msgstr "Widzę, że zmagasz się ze swoimi demonami, więc lecę zająć się własnym życiem."
 
 msgctxt "755_755_0_MORGAN"
 msgid "{serious}Thanks.  {terrified}And watch out for De Singe... that thing he did with his finger was...{disgusted} unnatural.{default}"
-msgstr "Dzięki. I uważaj na De Singe'a. To co zrobił ze swoim palcem było... dziwne."
+msgstr "Dzięki. I uważaj na De Singe'a... To co zrobił ze swoim palcem było... nienaturalne."
 
 msgctxt "756_756_0_GUYBRUSH"
 msgid "{Suspicious} Stan?"
@@ -3112,7 +3112,7 @@ msgstr "Mam w celi takiego strasznego szczura... mam nadzieję, że to szczur."
 
 msgctxt "759_759_0_STAN"
 msgid "{Smarmy} That's just swell, kid!{Annoyed}  Look, could you get out of the way and make room for some paying customers?"
-msgstr "Gites! A odsunąłbyś się i zwolnił miejsce dla kasiastych klientów?"
+msgstr "No i gites! A odsunąłbyś się trochę i zwolnił miejsce dla tych kasiastych klientów?"
 
 msgctxt "760_760_0_GUYBRUSH"
 msgid "{Happy} Stan!"
@@ -3128,7 +3128,7 @@ msgstr "Morgan! Co ty wyprawiasz?!"
 
 msgctxt "763_763_0_MORGAN"
 msgid "{stern}Don't ask me, {strained}ask your crazy wife!"
-msgstr "Nie pytaj mnie, tylko swoją walniętą żonkę!"
+msgstr "Nie pytaj mnie, tylko swoją żonkę!"
 
 msgctxt "764_764_0_ELAINE"
 msgid "{angry}I'm gonna run you through{evil} ya High Seas Hussy!"
@@ -3136,11 +3136,11 @@ msgstr "Już ja ci dam, ty morska lafiryndo!"
 
 msgctxt "765_765_0_STAN"
 msgid "{Thinking} Threepwood!  No hard feelings over all those various civil and criminal charges?"
-msgstr "Threepwood! Nie gniewasz się za te wszystkie cywilne i karne zarzuty?"
+msgstr "Threepwood! Nie gniewasz się chyba za te wszystkie cywilne i karne zarzuty?"
 
 msgctxt "766_766_0_GUYBRUSH"
 msgid "{Happy} Water under the bridge!"
-msgstr "{Happy} Woda pod mostem!"
+msgstr "Było, minęło!"
 
 msgctxt "767_767_0_STAN"
 msgid "Great-"
@@ -3148,11 +3148,11 @@ msgstr "Super..."
 
 msgctxt "768_768_0_GUYBRUSH"
 msgid "{Stern} [muttering] A bridge with a fast-talking shyster-slash-salesman dangling from it."
-msgstr "{Stern} [muttering] Most z szybko-mówiącym krętaczem-naciągaczem-akwizytorem zwisającym z niego."
+msgstr "{Stern} [muttering] Było dla zwisającego z mostu akwizytora, minęło dla mnie."
 
 msgctxt "769_769_0_STAN"
 msgid "{Surprised} Ulp!"
-msgstr "Gulp!"
+msgstr " "
 
 msgctxt "770_770_0_GUYBRUSH"
 msgid "{Happy} Stan."
@@ -3164,7 +3164,7 @@ msgstr "Guybrush, przyjacielu!"
 
 msgctxt "772_772_0_GUYBRUSH"
 msgid "{Suspicious} What are you doing out here?{Confused} Shouldn't you be prepping for trial?"
-msgstr "Co tutaj robisz? Nie powinieneś przygotowywać się do rozprawy?"
+msgstr "Co ty tutaj robisz? Nie przygotowujesz się do rozprawy?"
 
 msgctxt "773_773_0_STAN"
 msgid "{Smarmy} Hey, no offense, kid, but the day ol' Stan can't beat you in open court with one wildly flapping arm tied behind his back is the day I haul my corpus juris back to Jambalaya Island for a full restitutio in integrum, know what I mean?"
@@ -3172,7 +3172,7 @@ msgstr "Bez urazy, ale dzień, w którym Stan nie pokona cię w sądzie z ręką
 
 msgctxt "774_774_0_GUYBRUSH"
 msgid "{surprised}Okay, this is {cocky}really flattering, but {suspicious}let's calm down and talk this out adults.{default}"
-msgstr "Pochlebia mi to, ale uspokójmy się i pomówmy jak dorośli."
+msgstr "Spoko, pochlebia mi to, ale uspokójmy się i pomówmy jak dorośli."
 
 msgctxt "775_775_0_ELAINE"
 msgid "{evil}I'll be calm when {angry}LeFlay's been filleted like a fish!"
@@ -3180,7 +3180,7 @@ msgstr "Uspokoję się, gdy z LeFlay zostanie filet!"
 
 msgctxt "776_776_0_GUYBRUSH"
 msgid "{cocky}Ladies, please {proud}there's plenty of Guybrush Threepwood to go around...{default}"
-msgstr "Drogie panie, proszę. Guybrusha Threepwooda starczy dla każdej..."
+msgstr "Moje panie, proszę. Guybrusha Threepwooda starczy dla każdej..."
 
 msgctxt "777_777_0_MORGAN"
 msgid "{questioning}Get over yourself, Threepwood!"
@@ -3216,11 +3216,11 @@ msgstr "Skoro nie przygotowujesz się do procesu, to co tu robisz?"
 
 msgctxt "785_785_0_STAN"
 msgid "{Smarmy} Following Stan's rule #1 - A.B.M.!"
-msgstr "Następująca zasada Stana nr 1 - ZOT!"
+msgstr "Podstawowa zasada Stana nr 1 - Z.O.T.!"
 
 msgctxt "786_786_0_GUYBRUSH"
 msgid "A.B.M.?"
-msgstr "ZOT?"
+msgstr "Z.O.T.?"
 
 msgctxt "787_787_0_STAN"
 msgid "Always Be Merchandising!"
@@ -3236,7 +3236,7 @@ msgstr "Kategorii B?"
 
 msgctxt "790_790_0_STAN"
 msgid "That's why ol' Stan got all the souvenirs and timeless keepsakes you'll ever need to remind you of this month's [here Stan adds his own echo] Trial of the Century-y-y-y!"
-msgstr "Dlatego Stan ma na stanie suweniry i ponadczasowe pamiątki, które będą ci przypominać o Procesie stulecia-a-a-a!"
+msgstr "Dlatego Stan ma na stanie suweniry i ponadczasowe pamiątki, żebyś nigdy nie zapomniał o Procesie stulecia-a-a-a!"
 
 msgctxt "791_791_0_GUYBRUSH"
 msgid "{Happy} How're sales going?"
@@ -3244,7 +3244,7 @@ msgstr "I jak idzie interes?"
 
 msgctxt "792_792_0_STAN"
 msgid "{Smarmy} Great!  Celebrity merchandise is always a good investment, especially if you suspect that the celebrity in question is about to become a wind chime in the gallows! NOTHING sells like dead celebrities."
-msgstr "Świetnie! Gadżety z celebrytami to zawsze dobra inwestycja, zwłaszcza gdy taki osobnik ma się kołysać na stryczku! Nic się tak nie sprzedaje jak martwy celebryta."
+msgstr "Świetnie! Gadżety z celebrytami to zawsze dobra inwestycja, zwłaszcza gdy taki osobnik ma się zaraz kołysać na stryczku! Nic się tak nie sprzedaje jak martwy celebryta."
 
 msgctxt "793_793_0_GUYBRUSH"
 msgid "{cocky}Hey Morgan, {suspicious}I think you're losing your edge."
@@ -3260,7 +3260,7 @@ msgstr "Łoł!"
 
 msgctxt "796_796_0_GUYBRUSH"
 msgid "{cocky}[sauve]Hey, ladies!{default}"
-msgstr "Drogie panie!"
+msgstr "Moje panie!"
 
 msgctxt "797_797_0_ELAINE"
 msgid "{evil}[Annoyed, in a sword fight] What?!"
@@ -3272,7 +3272,7 @@ msgstr "Czego?!"
 
 msgctxt "799_799_0_GUYBRUSH"
 msgid "{suspicious}Elaine, tuckle-bear! Morgan's all bark and no bite!{default}"
-msgstr "Elaine, misiaczku! Morgan tylko tak głośno szczeka, ale nie gryzie!"
+msgstr "Elaine, misiaczku! Morgan głośno szczeka, ale nie gryzie!"
 
 msgctxt "800_800_0_MORGAN"
 msgid "{stern}You want bite? You got it. {sarcastic}And I'll throw in the bark for free."
@@ -3280,11 +3280,11 @@ msgstr "Chcesz gryzienia? Dostaniesz. A szczekanie dorzucę za darmo."
 
 msgctxt "801_801_0_GUYBRUSH"
 msgid "{Incredulous} Yeah, well I don't plan on dying today."
-msgstr "Nie planuję dziś umierać."
+msgstr "Tak, ale nie planuję dziś umierać."
 
 msgctxt "802_802_0_STAN"
 msgid "And I didn't plan to wear the same jacket for 20 years, but here we are."
-msgstr "A ja nie planowałem nosić tej samej marynarki przez 20 lat, a tu proszę."
+msgstr "A ja nie planowałem nosić jednej marynarki przez 20 lat, a tu proszę."
 
 msgctxt "803_803_0_GUYBRUSH"
 msgid "{Suspicious} Still trying to make a buck on my recently-cleared name?"
@@ -3292,11 +3292,11 @@ msgstr "Dalej próbujesz zarobić na moim oczyszczonym imieniu?"
 
 msgctxt "804_804_0_STAN"
 msgid "{Smarmy} Naw, I sold all that junk to that D'Oro sap.  I've moved on to the NEXT Trial of the Century - Flotsam Island v. LeChuck and the Voodoo Lady!"
-msgstr "Nie, sprzedałem to barachło temu ciemniakowi D'Oro. Zabrałem się się za na kolejny Proces stulecia: Wyspa Rozbitków kontra LeChuck i Lady Voodoo!"
+msgstr "Nie, sprzedałem wszystko temu ciemniakowi D'Oro. Teraz czas na kolejny Proces stulecia: Wyspa Rozbitków kontra LeChuck i Lady Voodoo!"
 
 msgctxt "805_805_0_GUYBRUSH"
 msgid "{embarrassed}Elaine, you should know{incredulous} that Morgan and I spent a few nights together inside of a manatee."
-msgstr "Elaine, wiedz, że Morgan i ja spędziliśmy parę nocek w środku manata."
+msgstr "Elaine, wiedz tylko, że Morgan i ja spędziliśmy parę nocek w środku manata."
 
 msgctxt "806_806_0_ELAINE"
 msgid "{surprised}Inside of a WHAT?!"
@@ -3304,7 +3304,7 @@ msgstr "W środku czego?!"
 
 msgctxt "807_807_0_GUYBRUSH"
 msgid "{scared}[very nervous] Uh...{default}"
-msgstr "Eee..."
+msgstr " "
 
 msgctxt "808_808_0_ELAINE"
 msgid "{evil}You're a DOG GUYBRUSH THREEPWOOD!"
@@ -3312,11 +3312,11 @@ msgstr "Jesteś kundlem, Guybrushu Threepwoodzie!"
 
 msgctxt "809_809_0_ELAINE"
 msgid "{surprised}Ahh!{default}"
-msgstr "Aaa!"
+msgstr " "
 
 msgctxt "810_810_0_GUYBRUSH"
 msgid "{incredulous}Wow, Morgan, you're {happy}pretty handy with a sword."
-msgstr "Łał, Morgan, jesteś dosyć zręczna z mieczem."
+msgstr "Łał, Morgan, jesteś całkiem zręczna z mieczem."
 
 msgctxt "811_811_0_ELAINE"
 msgid "{evil}IS THAT SO!? What ELSE is she handy with?!"
@@ -3332,11 +3332,11 @@ msgstr "Guybrush Threepwood stawia mi drinka?"
 
 msgctxt "814_814_0_ELAINE"
 msgid "{angry}Over your dead body, trollop!"
-msgstr "Po twoim trupie, ulicznico!"
+msgstr "Po twoim trupie, trollico!"
 
 msgctxt "815_815_0_MORGAN"
 msgid "{stern}Who you calling trollop, Schooner-Mom?!{default}"
-msgstr "Kogo nazywasz ulicznicą, szkuner-mamuśko?!"
+msgstr "Kogo nazywasz trollicą, szkunereczko?!"
 
 msgctxt "816_816_0_GUYBRUSH"
 msgid "{suspicious}Oh boy.{default}"
@@ -3348,7 +3348,7 @@ msgstr "I jak tam teraz idzie interes?"
 
 msgctxt "818_818_0_STAN"
 msgid "{Smarmy} Great!  People can't get enough of the Voodoo Lady's murky moral ambiguity, mysterious unexplored backstory, and her ample--"
-msgstr "Świetnie! Gawiedź oszalała na punkcie mętnej dwuznaczności moralnej Lady Voodoo, jej tajemniczej przeszłości, jej pokaźnego..."
+msgstr "Świetnie! Gawiedź oszalała na punkcie mętnej dwuznaczności moralnej Lady Voodoo, jej niezbadanej przeszłości, jej pokaźnego..."
 
 msgctxt "819_819_0_GUYBRUSH"
 msgid "{Confused} La-la-la, I'm not listening!"
@@ -3356,19 +3356,19 @@ msgstr "La-la-la, nie słucham cię!"
 
 msgctxt "820_820_0_STAN"
 msgid "Voodoo charms!  And as for LeChuck, well, let's just say the lady pirates love, love, LOVE a tale of a redemption, the whole "bad boy made good" angle."
-msgstr "...uroku voodoo! A co do LeChucka, to powiedzmy, że piratki kochają opowieści o odkupieniu, kiedy \"zły chłopiec staje się dobry\"."
+msgstr "Uroku voodoo! A co do LeChucka, to powiedzmy, że pirackie damy kochają, KOCHAJĄ opowieści o odkupieniu, kiedy \"zły chłopiec staje się dobry\"."
 
 msgctxt "821_821_0_GUYBRUSH"
 msgid "{Disgust} Argh."
-msgstr "Argh."
+msgstr " "
 
 msgctxt "822_822_0_GUYBRUSH"
 msgid "{confused}Okay, I'm gonna go think of something clever.  {suspicious}Try not to kill each other while I'm away.{default}"
-msgstr "To ja pójdę zmajstrować. Tylko mi się nie pozabijajcie, jak mnie nie będzie."
+msgstr "Dobra, to ja pójdę coś zmajstrować. Tylko mi się nie pozabijajcie, jak mnie nie będzie."
 
 msgctxt "823_823_0_MORGAN"
 msgid "{stern}Yee-ah!{default}"
-msgstr "Iii-ha!"
+msgstr " "
 
 msgctxt "824_824_0_GUYBRUSH"
 msgid "{Suspicious} Stan, about these charges..."
@@ -3376,7 +3376,7 @@ msgstr "Stan, co do tych zarzutów..."
 
 msgctxt "825_825_0_STAN"
 msgid "{Thinking} Sorry kid, can't talk!  Conflict of interest, attorney-pirate privilege and all that stuff!"
-msgstr "Wybacz, gębka na kłódkę! Konflikt interesów, tajemnica adwokacka i te sprawy!"
+msgstr "Wybacz, gęba na kłódkę! Konflikt interesów, tajemnica adwokacka i te sprawy!"
 
 msgctxt "826_826_0_GUYBRUSH"
 msgid "{Whiney} But--"
@@ -3404,27 +3404,27 @@ msgstr "Stare dzieje, Threepwood!"
 
 msgctxt "832_832_0_GUYBRUSH"
 msgid "{Confused} So, what kind of case are you building against LeChuck and the Voodoo Lady?"
-msgstr "To o co oskarżysz LeChucka i Lady Voodoo?"
+msgstr "To o co będziesz oskarżał LeChucka i Lady Voodoo?"
 
 msgctxt "833_833_0_STAN"
 msgid "{Thinking} Oh, I'm not prosecuting them... I'm defending them!"
-msgstr "Nie będę ich oskarżał, tylko bronił!"
+msgstr "Nie będę ich oskarżał... tylko bronił!"
 
 msgctxt "834_834_0_GUYBRUSH"
 msgid "{Surprised} What?{Confused} Why?"
-msgstr "Że jak? Dlaczego?"
+msgstr "Co? Dlaczego?"
 
 msgctxt "835_835_0_STAN"
 msgid "Why do I do anything, Threepwood?  Money!  Pieces of Eight!  Filthy Lucre!  That Voodoo Lady babe is loa-ded!"
-msgstr "No dlaczego, Threepwood? Dla szmalu! Talarów! Kapuchy! Ta babeczka Lady Voodoo jest dziana!"
+msgstr "No dlaczego, Threepwood? Dla szmalu! Talarów! Kapuchy! Ta voodoo babeczka jest dziana!"
 
 msgctxt "836_836_0_STAN"
 msgid "Funny thing, though, she only let me take the case if I'd defend LeChuck, too..."
-msgstr "Ale zabawne, że pozwoliła mi się zająć sprawą pod warunkiem, że będę bronił LeChucka."
+msgstr "Co zabawne, pozwoliła mi się zająć tą sprawą tylko jeśli pobronię też LeChucka...."
 
 msgctxt "837_837_0_GUYBRUSH"
 msgid "{Suspicious} Funny like a peg leg..."
-msgstr "Zabawne jak drewniana noga..."
+msgstr "Zabawne jak nie wiem..."
 
 msgctxt "838_838_0_GUYBRUSH"
 msgid "{Confused} Have you seen my wife?"
@@ -3432,7 +3432,7 @@ msgstr "Widziałeś może moją żonę?"
 
 msgctxt "839_839_0_STAN"
 msgid "{Confused} Have I?  That crazy sea-devil hit me up for one of my Patented and Perfectly Passable Porcelain Power Pirate Treasure Maps before hightailing it for the jungle.{Smarmy}  If we're lucky, that thing'll keep her going around in circles for weeks!"
-msgstr "Czy widziałem? Ta diablica morska dobrała się do moich opatentowanych i niezgorszych map skarbu Porcelanowych Piratów Mocy, a potem zwiała do dżungli. Przy odrobinie szczęścia, będzie tam krążyć w kółko przez tydzień!"
+msgstr "Czy widziałem? Ta diablica morska dobrała się do moich opatentowanych i niezbyt dokładnych map skarbów Porcelanowych Piratów Mocy, a potem zwiała do dżungli. Przy odrobinie szczęścia, będzie tam krążyć w kółko przez tydzień!"
 
 msgctxt "840_840_0_GUYBRUSH"
 msgid "{Suspicious} I notice that YOU'RE remarkably free of the Pox."
@@ -3440,15 +3440,15 @@ msgstr "Widzę, że jesteś niezwykle odporny na ospę."
 
 msgctxt "841_841_0_STAN"
 msgid "{Thinking} Nothing remarkable about it at all, Threepwood!  Haven't you been paying attention?  The Pox only affects real, one hundred percent, honest-to-Blackbeard pirates!"
-msgstr "Nie ma w tym nic niezwykłego, Threepwood! Nie słuchałeś? Ta ospa oddziałuje tylko na prawdziwych, stuprocentowych piratów!"
+msgstr "Nie ma w tym nic niezwykłego, Threepwood! Nie słuchałeś? Ta ospa działa tylko na prawdziwych, stuprocentowych, czarnobrodych piratów!"
 
 msgctxt "842_842_0_STAN"
 msgid "{Cocky} Now, I've been many things in this life - A salesman, a real estate agent, a troubadour, a stevedore, a ralphadore, and even a brief-but-memorable stint as an exotic dancer to pay my way through law school, but the one thing I'm not, and never will be, is a pirate."
-msgstr "Czego to ja się w życiu nie imałem - akwizytor, agent nieruchomości, trubadur, doker, a nawet krótka acz pamiętna fucha tancerki egzotycznej, by opłacić szkołę prawniczą. Ale nie jestem i nigdy nie będę piratem."
+msgstr "Czego to ja się w życiu nie imałem - akwizytor, agent nieruchomości, trubadur, doker, szmoker, a nawet krótka acz pamiętna fucha tancerki egzotycznej, by opłacić szkołę prawniczą. Ale nie jestem i nigdy nie będę piratem."
 
 msgctxt "843_843_0_GUYBRUSH"
 msgid "{Incredulous} No matter how many times I see it, I can't get over your jacket."
-msgstr "Ilekroć cię widzę, zadziwia mnie twoja marynarka."
+msgstr "Ilekroć cię widzę, zawsze zadziwia mnie twoja marynarka."
 
 msgctxt "844_844_0_STAN"
 msgid "{Smarmy} Do you like it?  I just had it in for its annual re-stitching and de-rezzing."
@@ -3460,7 +3460,7 @@ msgstr "Pewnie byś mi nie odsprzedał tej pstrokatej marynarki?"
 
 msgctxt "846_846_0_STAN"
 msgid "{Smarmy} Give up my jacket?  That'd be like Samson getting a buzz-cut, or King Arthur losing Excalibur, or Bluebeard dying himself blonde!"
-msgstr "Pozbyć się marynarki? To jakby Samson się ostrzygł albo król Artur stracił Excalibura, albo Sindobrody przefrabował na blond!"
+msgstr "Pozbyć się marynarki? To jakby Samson się ostrzygł, król Artur stracił Excalibura, albo Sindobrody przefarbował się na blond!"
 
 msgctxt "847_847_0_GUYBRUSH"
 msgid "Huh?"
@@ -3476,11 +3476,11 @@ msgstr "Czyli się zastanowisz?"
 
 msgctxt "850_850_0_GUYBRUSH"
 msgid "{Cocky} Sure you don't want to sell me your pupil-defying jacket?  It's for a good cause."
-msgstr "Na pewno nie chcesz sprzedać tej marynareczki? To dla dobra sprawy."
+msgstr "Na pewno nie chcesz sprzedać swej marynarki? To dla dobra sprawy."
 
 msgctxt "851_851_0_STAN"
 msgid "{Happy} This jacket stays with Stan until it literally falls off my back, Threepwood."
-msgstr "Ta marynarka zostaje na mnie, póki dosłownie nie spadnie mi z pleców."
+msgstr "Ta marynarka zostaje na Stanie, póki dosłownie nie spadnie mi z pleców, Threepwood."
 
 msgctxt "852_852_0_GUYBRUSH"
 msgid "{Suspicious} I know I'll kick myself for asking,{Confused} but what sorts of trial souvenirs are you selling?"
@@ -3672,7 +3672,7 @@ msgstr "{confused}[toward Grindstump] Wygląda jakby Elaine i Morgan zrobiły {i
 
 msgctxt "899_899_0_GRINDSTUMP"
 msgid "{confused}What, that mess?  Pshaw, m'boy, {proud}that's just the typical aftermath of our weekly Ladies' Night Buffet Table.  Our lady pirates may be easy on the eyes, {serious}but heaven help you if you get between them and our bottomless salad bowl."
-msgstr "{confused}Co, ten bałagan?  Phi, mój chłopcze. {proud}To typowy wynik cotygodniowego Nocnego Bufetu Kobiet.  Nasze panie może i są atrakcyjne, {serious}ale bogowie nie pomogą, kiedy staniesz między nimi, a naszą bezdenną salaterką."
+msgstr "{confused}Co, ten bałagan?  Phi, mój chłopcze. {proud}To typowy wynik cotygodniowego bufetu podczas babskiego wieczoru.  Nasze panie może i są atrakcyjne, {serious}ale bogowie nie pomogą, kiedy staniesz między nimi, a naszą bezdenną salaterką."
 
 msgctxt "900_900_0_GUYBRUSH"
 msgid "{confused}Yikes."
@@ -3792,7 +3792,7 @@ msgstr "[voice from gallery] Powieszenie jest za dobre dla niego!"
 
 msgctxt "929_929_0_STAN"
 msgid "Secondly, during this selfsame fight, Captain Threepwood spilled boiling nacho sauce on the exposed leg of Bosun Kathryn Krebbs, hideously scarring one of Flotsam's "Shapeliest Gams"!"
-msgstr "Po drugie, podczas tej samej walki, kapitan Threepwood wylał wrzący sos nacho na odsłoniętą nogę bosman K. Raks, ohydnie kalecząc jedyną na wyspie \"Kształtną Nogę\"!"
+msgstr "Po drugie, podczas tej samej walki, kapitan Threepwood wylał wrzący sos nacho na odsłoniętą nogę bosman Kathryn Krebbs, ohydnie kalecząc jedyną na wyspie \"Kształtną Nogę\"!"
 
 msgctxt "930_930_0_KREBBS"
 msgid "[voice from gallery] Skin 'im alive!"
@@ -3820,7 +3820,7 @@ msgstr "[looking somewhat guilty] Eee, tak.  On mi to zrobił!"
 
 msgctxt "936_936_0_GRINDSTUMP"
 msgid "Captain Threepwood, having heard the grave charges arrayed against you, how do you plead?"
-msgstr "Kapitanie Threepwood, po wysłuchaniu tych poważnych oskarżeń wobec ciebie, jak się wytłumaczysz?"
+msgstr "Kapitanie Threepwood, po wysłuchaniu tych poważnych zarzutów wobec ciebie, jak się wytłumaczysz?"
 
 msgctxt "937_937_0_HARDTACK"
 msgid "The Pirate Court of Flotsam Island is back in session, the Right Honorable Wallace P. Grindstump presiding."
@@ -4140,11 +4140,11 @@ msgstr "{Default} Sąd pragnie przypomnieć, że {Sarcastic} \"kapitan d'Oro\" {
 
 msgctxt "1016_1016_0_GUYBRUSH"
 msgid "I'd like to call Bosun Kathryn Krebbs to the stand."
-msgstr "Wzywam bosman K. Raks do zeznań."
+msgstr "Wzywam bosman Kathryn Krebbs do zeznań."
 
 msgctxt "1017_1017_0_HARDTACK"
 msgid "Kathryn Krebbs!"
-msgstr "Bosman Raks!"
+msgstr "Kathryn Krebbs!"
 
 msgctxt "1018_1018_0_KREBBS"
 msgid "{Sarcastic} Aye!"
@@ -4152,7 +4152,7 @@ msgstr "{Sarcastic} Aj!"
 
 msgctxt "1019_1019_0_STAN"
 msgid "{Default} Bosun Krebbs, could you tell the court what {Confused} happened on that fateful day."
-msgstr "{Default} Bosman Raks, mogłabyś powiedzieć sądowi {Confused} co się stało w ten fatalny dzień?"
+msgstr "{Default} Bosman Krebbs, mogłabyś powiedzieć sądowi {Confused} co się stało w ten fatalny dzień?"
 
 msgctxt "1020_1020_0_KREBBS"
 msgid "{Serious} Aye… I was mindin' my own business at Club 41 with a mug full of grog and some {Sarcastic} zesty nachos, when all of a sudden {Annoyed} THAT blindfolded jasper barreled into me, knocked me nacho sauce into me lap, {Sad} and gave me THIS disfiguring scar!"
@@ -4260,7 +4260,7 @@ msgstr "...zeznaję pod przysięgą."
 
 msgctxt "1046_1046_0_GUYBRUSH"
 msgid "If it pleases the court, I'd like to call Bailiff Hardtack to the stand!"
-msgstr "Jeśli Sąd pozwoli, wzywam strażnika Suchara na świadka!"
+msgstr "Jeśli Sąd pozwoli, wzywam klawisza Suchara na świadka!"
 
 msgctxt "1047_1047_0_HARDTACK"
 msgid "{Default} Bailiff Hardtack!  {Happy} Oh, that's me!"
@@ -4380,7 +4380,7 @@ msgstr "{Incredulous} Nie mam już więcej pytań do świadka."
 
 msgctxt "1076_1076_0_GRINDSTUMP"
 msgid "{Sarcastic}You may step down, Bosun Krebbs."
-msgstr "{Sarcastic}Możesz odejść, bosman Raks."
+msgstr "{Sarcastic}Możesz odejść, bosman Krebbs."
 
 msgctxt "1077_1077_0_KREBBS"
 msgid "{Annoyed} Hmph."
@@ -4556,7 +4556,7 @@ msgstr "[muttering]OCENZUROWANO..."
 
 msgctxt "1120_1120_0_GUYBRUSH"
 msgid "{Default} Bosun Krebbs.  {Cocky} You don't really expect this court to believe that the nacho sauce I allegedly spilled onto your leg from this platter actually scarred your leg, do you?"
-msgstr "{Default} Bosman Raks.  {Cocky}Naprawdę oczekujesz, że sąd uwierzy, że sos nacho, który rzekomo wylałem na twoją nogę z tego półmiska faktycznie okaleczył twoją nogę?"
+msgstr "{Default} Bosman Krebbs.  {Cocky}Naprawdę oczekujesz, że sąd uwierzy, że sos nacho, który rzekomo wylałem na twoją nogę z tego półmiska faktycznie okaleczył twoją nogę?"
 
 msgctxt "1121_1121_0_KREBBS"
 msgid "{Sad} Arr, but it did!  {Sarcastic} See for yourself!"
@@ -4568,7 +4568,7 @@ msgstr "{Suspicious} Jesteś pewna, że nacho z tego półmisku poparzyło twoje
 
 msgctxt "1123_1123_0_KREBBS"
 msgid "{Sarcastic} Sure as me name is Kathryn Krebbs!"
-msgstr "{Sarcastic} Tak pewna jak to, że nazywam się Raks!"
+msgstr "{Sarcastic} Tak pewna jak to, że nazywam się Kathryn Krebbs!"
 
 msgctxt "1124_1124_0_STAN"
 msgid "{Annoyed} Objection, your honor!  Defense is stalling for time."
@@ -4580,7 +4580,7 @@ msgstr "{Stern}Przejdź dalej."
 
 msgctxt "1126_1126_0_GUYBRUSH"
 msgid "{Cocky} Your honor, I'd like to enter this leg-shaped lamp into evidence that Bosun Krebbs was not, in fact, {Incredulous} scalded by Club 41's Nacho Sauce."
-msgstr "{Cocky} Wysoki sądzie, chciałbym dołączyć tą kształtną nogę lampy do dowodów na to, że bosman Raks właściwie nie była {Incredulous} poparzona przez sos nacho."
+msgstr "{Cocky} Wysoki sądzie, chciałbym dołączyć tą kształtną nogę lampy do dowodów na to, że bosman Krebbs właściwie nie była {Incredulous} poparzona przez sos nacho."
 
 msgctxt "1127_1127_0_KREBBS"
 msgid "{Confused} What, with that burn?  {Sarcastic} It's not even the same color as my burn, see?"
@@ -4592,11 +4592,11 @@ msgstr "{Default} Nie pozwolę, aby noga lampy była w dowodach dopóki oparzeni
 
 msgctxt "1129_1129_0_GUYBRUSH"
 msgid "{Confused} I'd better not.  It's still not the same color as Kathryn's burns."
-msgstr "{Confused} Lepiej nie.  To nadal nie jest ten sam kolor co oparzenie Raks."
+msgstr "{Confused} Lepiej nie.  To nadal nie jest ten sam kolor co oparzenie Kathryn."
 
 msgctxt "1130_1130_0_GUYBRUSH"
 msgid "{Default} Your honor, I'd like to {Cocky} introduce this leg lamp into evidence as proof that Bosun Kathryn Krebbs's is {Stern}  lying about her so-called nacho sauce burn!"
-msgstr "{Default} Wysoki sądzie, chcę {Cocky} dodać tą nogę lampy do dowodów jako dowód, że bosman Raks {Stern} kłamie w sprawie jej rzekomego oparzenia!"
+msgstr "{Default} Wysoki sądzie, chcę {Cocky} dodać tą nogę lampy do dowodów jako dowód, że bosman Kathryn Krebbs {Stern} kłamie w sprawie jej rzekomego oparzenia!"
 
 msgctxt "1131_1131_0_KREBBS"
 msgid "{Annoyed} This proves nothing!"
@@ -4612,7 +4612,7 @@ msgstr "{Cocky} Cieszę się, że pytasz..."
 
 msgctxt "1134_1134_0_GUYBRUSH"
 msgid "{Default} So, you see, your honor, Kathryn's distinctive burns were not caused by Club 41's nacho sauce, but {Cocky} by an unlikely combination of scalding fluids found throughout Flotsam Island!  {Stern} Isn't that true, Bosun Krebbs?"
-msgstr "{Default} Więc, widzi sąd, oparzenie Raks nie było zrobione w Klubie 41 przez sos nacho, ale {Cocky} przez mało prawdopodobną kombinację płynów znajdujących się na Wyspie!  {Stern} Czy to prawda, bosman Raks?"
+msgstr "{Default} Więc, widzi sąd, oparzenie Kathryn nie było zrobione w Klubie 41 przez sos nacho, ale {Cocky} przez mało prawdopodobną kombinację płynów znajdujących się na Wyspie!  {Stern} Czy to prawda, bosman Krebbs?"
 
 msgctxt "1135_1135_0_GRINDSTUMP"
 msgid "{Stern} Answer the question, ya she-devil!"
@@ -4640,7 +4640,7 @@ msgstr "[poxy] {Angry} Arrrr."
 
 msgctxt "1141_1141_0_GUYBRUSH"
 msgid "{Default} Your honor, I move that Bosun Kathryn Krebbs' charge be dropped."
-msgstr "{Default} Wysoki sądzie, zgłaszam, żeby zarzut bosman Raks odwołać."
+msgstr "{Default} Wysoki sądzie, zgłaszam, żeby zarzut bosman Kathryn Krebbs odwołać."
 
 msgctxt "1142_1142_0_GRINDSTUMP"
 msgid "{Questioning} Counselor?"
@@ -4652,7 +4652,7 @@ msgstr "{Thinking} Nie mam, wysoki sądzie."
 
 msgctxt "1144_1144_0_GRINDSTUMP"
 msgid "{Default} Very well.  In the matter of Krebbs v. Threepwood, the Pirate Court of Flotsam Island finds in favor of the defendant, Guybrush Threepwood!"
-msgstr "{Default} Bardzo dobrze.  W kwestii Raks kontra Threepwood, Sąd Piratów Wyspy Rozbitków wnioskuje na korzyść oskarżonego, Guybrusha Threepwooda!"
+msgstr "{Default} Bardzo dobrze.  W kwestii Krebbs kontra Threepwood, Sąd Piratów Wyspy Rozbitków wnioskuje na korzyść oskarżonego, Guybrusha Threepwooda!"
 
 msgctxt "1145_1145_0_GRINDSTUMP"
 msgid "{Stern} Knock it off, you lot!"
@@ -4660,7 +4660,7 @@ msgstr "{Stern} Wszyscy, przestańcie!"
 
 msgctxt "1146_1146_0_GUYBRUSH"
 msgid "Your honor, I'd like to introduce this caustic agent into evidence as an alternative cause of Bosun Kathryn's burn."
-msgstr "Wysoki sądzie, chciałbym przedstawić tą żrącą substancję do dowodów jako alternatywny sposób oparzenia bosman Krebbs."
+msgstr "Wysoki sądzie, chciałbym przedstawić tą żrącą substancję do dowodów jako alternatywny sposób oparzenia bosman Kathryn."
 
 msgctxt "1147_1147_0_KREBBS"
 msgid "Oh yeah? Prove it!"
@@ -4976,7 +4976,7 @@ msgstr "{stern}Mógłbyś nie przeszkadzać?  {strained}Próbuję zapić mój j�
 
 msgctxt "1225_1225_0_GUYBRUSH"
 msgid "{cocky}Hey, Krebbs!"
-msgstr "{cocky}Hej, Raks!"
+msgstr "{cocky}Hej, Krebbs!"
 
 msgctxt "1226_1226_0_GUYBRUSH"
 msgid "{cocky}That's a good idea, but if I want a realistic simulation of a "hot wax spill," I should find something to scoop up the wax, first."
@@ -5000,7 +5000,7 @@ msgstr "{evil}Tylko jeśli nie masz nic przeciwko wzięciu tego!"
 
 msgctxt "1231_1231_0_GUYBRUSH"
 msgid "{cocky}So, about this [air quotes] "voodoo summons...""
-msgstr "{cocky}Więc, ten [air quotes] \" pozew voodoo...\""
+msgstr "{cocky}Więc, ten [air quotes] \" voodoo nakaz...\""
 
 msgctxt "1232_1232_0_GRINDSTUMP"
 msgid "{proud}Wonderful things, aren't they?  Every few months we have that {confused}creepy Voodoo Lady whip up a few of them so that we can get our less... {questioning}"civic-minded" pirates to show up for their court appointments."
@@ -5384,11 +5384,11 @@ msgstr "Nieważne."
 
 msgctxt "1329_1329_0_GUYBRUSH"
 msgid "{Confused} What are you doing to the Wind Control Device?  It sounds like it's about to explode!"
-msgstr "{Confused} Co robisz z tym Narzędziem Do Kontroli Wiatrów?  Brzmi jakby miało wybuchnąć!"
+msgstr "{Confused} Co robisz z tym Wiatromanipulatorem?  Brzmi jakby miało wybuchnąć!"
 
 msgctxt "1330_1330_0_DESINGE"
 msgid "{Arrogant} I'm so glad you asked.  You see, using my hand-built Harpsichronitron, in conjunction with my Oscimoligorphiscope to seek out a resonant frequency in the Vaycaylian Climatiphone , I hope to anatomize living tissue on a macroscopic basis!"
-msgstr "{Arrogant}Cieszę się, że zapytałeś.  Widzisz, użyję mojego Klawikosynchronizatora. W połączeniu z moim Oskimoligorfoskopem odszukując częstotliwość rezonansową w Wakacjańskim Klimatofonie. Mam nadzieję zrobić sekcję żywej tkanki w formie makroskopowej!"
+msgstr "{Arrogant}Cieszę się, że zapytałeś.  Widzisz, użyję mojego Klawesyntronu. W połączeniu z moim Oscymologorfoskopem odszukując częstotliwość rezonansową w Wakacjańskim Klimatofonie. Mam nadzieję zrobić sekcję żywej tkanki w formie makroskopowej!"
 
 msgctxt "1331_1331_0_GUYBRUSH"
 msgid "{confused} Could you run through the purposes of all this machinery again?"
@@ -5396,7 +5396,7 @@ msgstr "{confused} Mógłbyś ponownie powiedzieć o celu uruchomieniu tej maszy
 
 msgctxt "1332_1332_0_DESINGE"
 msgid "{Angry} Sigh. [explaining as though to a three year old] I'm going to use this machine to make that machine smash people into a fine powder."
-msgstr "{Angry} (Westchnienie). [explaining as though to a three year old] Użyję tej maszyny, aby zrobić tą maszyną z ludzi proszek."
+msgstr "{Angry} (Westchnienie). [explaining as though to a three year old] Użyję tej maszyny, żeby zetrzeć wszystkich w drobny mak."
 
 msgctxt "1333_1333_0_GUYBRUSH"
 msgid "{Surprised} Oh. [realizing]{Angry} Hey, that's not very nice!"
@@ -6260,7 +6260,7 @@ msgstr "{stern}Wygląda jakby DeSinge używał mojej ręki do robienia czegoś, 
 
 msgctxt "1548_1548_0_GUYBRUSH"
 msgid "{suspicious}The Vaycaylian Wind Control Device?  What is that creep doing with it NOW?"
-msgstr "{suspicious}Narzędzie Wakacjan do Kontroli Wiatrów?  Co takiego strasznego teraz to robi?"
+msgstr "{suspicious}Wakacjańskim Wiatromanipulatorem?  Co takiego strasznego teraz to robi?"
 
 msgctxt "1549_1549_0_GUYBRUSH"
 msgid "{cocky}That doesn't look good."
@@ -6276,7 +6276,7 @@ msgstr "{angry}DeSinge zapłaci za to."
 
 msgctxt "1552_1552_0_GUYBRUSH"
 msgid "[reading]"Lepidoptera Flotsamus Accelerus - Like many of its more common cousins, the Sharp-Toothed Flotsam Island Moth has a penchant for noshing on articles of clothing.""
-msgstr "[reading]\"Lepidoptera Rozbitkus Napędus\". Tak jak wielu jego zwykłych kuzynów, Ostro-Zębne Ćmy Wyspy Rozbitków mają skłonność do jedzenia odzieży.\""
+msgstr "[reading]\"Lepidoptera Rozbitkus Napędus\". Tak jak wielu jego zwykłych kuzynów, Ostro-Zębne Mole Wyspy Rozbitków mają skłonność do jedzenia odzieży.\""
 
 msgctxt "1553_1553_0_GUYBRUSH"
 msgid ""Where Flotsamus Accelerus differs is in the pain of its bites, which can be quite annoying, and the rapidity of its meals. ""
@@ -6284,7 +6284,7 @@ msgstr "\"Gdzie Rozbitkus Napędus wyróżnia się bólem od  ugryzienia, który
 
 msgctxt "1554_1554_0_GUYBRUSH"
 msgid ""A swarm of Flotsam Moths can strip a man down to his undergarments in mere seconds... assuming the notoriously finicky moths approve of his wardrobe, of course.""
-msgstr "\"Rój ciem z wyspy może rozebrać mężczyznę do bielizny w kilka sekund... oczywiście zakładając, że notorycznie wybredne ćmy zgodzą się na jego garderobę.\""
+msgstr "\"Rój moli z wyspy może rozebrać mężczyznę do bielizny w kilka sekund... oczywiście zakładając, że notorycznie wybredne ćmy zgodzą się na jego garderobę.\""
 
 msgctxt "1555_1555_0_GUYBRUSH"
 msgid "{stern}Darn, no more bananas.  Curse you, banana god."
@@ -6548,7 +6548,7 @@ msgstr "{Happy} Co teraz sądzisz o tej lampie, Stan?"
 
 msgctxt "1620_1620_0_STAN"
 msgid "{Happy} It'd be a great little souvenir if Krebbs's case were still going on, Threepwood, but now it's nothing but another piece of kitschy crud... and believe me, I know my kitschy crud!"
-msgstr "{Happy} To byłby bardzo miły upominek jeśli sprawa Raks wciąż byłaby w toku, Threepwood, ale teraz jest to nic innego jak kawałek kiczowatego paskudztwa... i uwierz mi, znam się na kiczowatych paskudztwach!"
+msgstr "{Happy} To byłby bardzo miły upominek jeśli sprawa Krebbs wciąż byłaby w toku, Threepwood, ale teraz jest to nic innego jak kawałek kiczowatego paskudztwa... i uwierz mi, znam się na kiczowatych paskudztwach!"
 
 msgctxt "1621_1621_0_STAN"
 msgid "{Smarmy} Hey now, what's this?  A fuzzy flying fan club?"
@@ -7360,7 +7360,7 @@ msgstr "[reading]\"Mimo, że nie mają naturalnych wrogów, Rozbitkus Cukrus to 
 
 msgctxt "1823_1823_0_LECHUCK"
 msgid "{SeriousThinking} Needless to say, I took my own vessel and headed after her, but in the middle of the night,{Exasperated} my ship was sunk by a rogue wave.{Pleading} I was washed up on an island of cannibals, from whom I {Proud}deftly escaped using many of the selfsame skills you taught me back on the Jerkbait Islands."
-msgstr "{SeriousThinking} Rzecz jasna wziąłem mój własny statek i ruszyłem za nią, ale w środku nocy{Exasperated} statek został zatopiony przez falę.{Pleading} Wyrzuciło mnie na wyspie kanibali, skąd {Proud} zręcznie uciekłem, używając umiejętności, których nauczyłeś mnie na Wyspie Szarpnęta."
+msgstr "{SeriousThinking}Rzecz jasna wziąłem mój własny statek i ruszyłem za nią. Ale w nocy{Exasperated} mój statek został zatopiony przez wielką falę.{Pleading} Wyrzuciło mnie na wyspie kanibali, skąd {Proud} zręcznie uciekłem, używając umiejętności, których nauczyłeś mnie na Wyspie Szarpnęta."
 
 msgctxt "1824_1824_0_VOODOOLADY"
 msgid "{Happy} I've always had your best interests at heart."
@@ -7536,11 +7536,11 @@ msgstr "{Incredulous} Myślę, że powinienem wrócić na proces."
 
 msgctxt "1867_1867_0_GUYBRUSH"
 msgid "I'd bet my lunch money that something other than nacho sauce burned Krebbs's leg."
-msgstr "Założę się o pieniądze na lunch, że coś innego niż sos nacho oparzyło nogę Raks."
+msgstr "Założę się o pieniądze na lunch, że coś innego niż sos nacho oparzyło nogę Krebbs."
 
 msgctxt "1868_1868_0_GUYBRUSH"
 msgid "{Confused} I wonder what Krebbs's alleged nacho burn looks like, anyway?"
-msgstr "{Confused} Zastanawiam się dlaczego domniemane oparzenie Raks wygląda jak od nacho?"
+msgstr "{Confused} Zastanawiam się dlaczego domniemane oparzenie Krebbs wygląda jak od nacho?"
 
 msgctxt "1869_1869_0_GUYBRUSH"
 msgid "Flotsam's gone to heck in a handbasket since the Pox settled in... there's puddles of dangerous goo everywhere!"
@@ -7576,7 +7576,7 @@ msgstr "{happy}Arrr.  Orzeźwiający."
 
 msgctxt "1877_1877_0_GUYBRUSH"
 msgid "{cocky}Set me up with a line of Blood Island Volcano Shots!"
-msgstr "{cocky}Postaw mi kolejkę Erupcji Wulkanu Krwawej Wyspy!"
+msgstr "{cocky}Postaw mi kolejkę wulkanicznych szotów Krwawej Wyspy!"
 
 msgctxt "1878_1878_0_GRINDSTUMP"
 msgid "{happy}Me pleasure."
@@ -7584,7 +7584,7 @@ msgstr "{happy}Z przyjemnością."
 
 msgctxt "1879_1879_0_GRINDSTUMP"
 msgid "These come with our complimentary {proud}Club 41 Insulated Volcano Shot Glasses, hewn out of molten lava, they can keep hot liquids hot for a week!"
-msgstr "Pochodzi z uszczelnionego szkła wulkanicznego {proud}Klubu 41. Wykonany z płynnej lawy, potrafi utrzymać gorąco nawet przez tydzień!"
+msgstr "W gratisie masz {proud} wulkaniczne kielony termiczne od Klubu 41. Wykonane z płynnej lawy, potrafią utrzymać gorąco nawet przez tydzień!"
 
 msgctxt "1880_1880_0_GUYBRUSH"
 msgid "Impressive!"
@@ -7596,7 +7596,7 @@ msgstr "{happy}Fiu, to jakiś gorący grog-w-grogu!  Zachowam ostatni na późni
 
 msgctxt "1882_1882_0_GUYBRUSH"
 msgid "{cocky}How about some more of those Volcano Shots?"
-msgstr "{cocky}Można więcej Erupcji Wulkanu?"
+msgstr "{cocky}Można więcej wulkanicznych szotów?"
 
 msgctxt "1883_1883_0_GRINDSTUMP"
 msgid "{confused}Sorry, one per customer."
@@ -7880,11 +7880,11 @@ msgstr "{angry}To się okaże."
 
 msgctxt "1953_1953_0_GRINDSTUMP"
 msgid "{Default} Hold on...{Questioning} What's this?  There appears to be a CRIMINAL charge on the other side of this blasted paper..."
-msgstr "{Default} Zaczekaj...{Questioning} Co to?  Wydaje się, że są jakieś kryminalne zarzuty na drugiej stronie tego cholernego papieru..."
+msgstr "{Default} Chwila...{Questioning} A to co? Wygląda, że ma pan jeszcze jakiś zarzut KRYMINALNY na drugiej stronie tej cholernej kartki..."
 
 msgctxt "1954_1954_0_GUYBRUSH"
 msgid "{Disgust} Oh, grog nuts."
-msgstr "{Disgust} Och, grogowe orzechy."
+msgstr "{Disgust} Się pogrogiło."
 
 msgctxt "1955_1955_0_GUYBRUSH"
 msgid "[as lawyer] {Stern} Captain Threepwood, {Sarcastic} where were you on the night of August 15th?"
@@ -8184,7 +8184,7 @@ msgstr "W takim razie zostaną sprzedane na aukcji Allezłom."
 
 msgctxt "2029_2029_0_HARDTACK"
 msgid "{Stern} All right you!  Stay put until I summon your ball and chain..."
-msgstr "{Stern} W porządku!  Zostań tu dopóki nie wezwę twojej kuli na łańcuchu..."
+msgstr "{Stern} W porządku!  Zostań tu dopóki nie ogarnę ci kuli na łańcuchu..."
 
 msgctxt "2030_2030_0_GUYBRUSH"
 msgid "{Confused}[Shouting after him] Um, I wouldn't call her that, she--"
@@ -8208,7 +8208,7 @@ msgstr "{Incredulous} Poczuć się dotknięta..."
 
 msgctxt "2035_2035_0_HARDTACK"
 msgid "{Sad} I'll tell you what happened! {Concerned} I went to Club 41 to hand this summons to your better half,{Scared} and she backhanded me right out of the bar!"
-msgstr "{Sad} Powiem ci, co się stało! {Concerned} Poszedłem do Klubu 41 dać to wezwanie twojej lepszej połowie{Scared} i uderzyła mnie z liścia!"
+msgstr "{Sad} Powiem ci, co się stało! {Concerned} Poszedłem do Klubu 41 dać ten nakaz twojej lepszej połowie{Scared} i uderzyła mnie z liścia!"
 
 msgctxt "2036_2036_0_HARDTACK"
 msgid "{Sad} I'm gonna go see if the local doctor can fix me jawbone..."
@@ -8216,7 +8216,7 @@ msgstr "{Sad} Pójdę zobaczyć, czy miejscowy doktor może naprawić mi szczęk
 
 msgctxt "2037_2037_0_GUYBRUSH"
 msgid "Club 41 uses these insulated cups to keep their Blood Island Volcano Shots from cooling down."
-msgstr "Klub 41 używa tych izolowanych szklanek do schładzania Erupcji Wulkanu Krwawej Wyspy."
+msgstr "Klub 41 używa tych termicznych kielonów, przez co ich wulkaniczne szoty Krwawej Wyspy nie chłodnieją."
 
 msgctxt "2038_2038_0_GUYBRUSH"
 msgid "Seems simple enough."
@@ -8228,7 +8228,7 @@ msgstr "Nie zostałem nauczony jak odpowiednio enigmatyczno-złowieszczo czytać
 
 msgctxt "2040_2040_0_GUYBRUSH"
 msgid "This summons will only work on Elaine!"
-msgstr "Wezwanie zadziała tylko na Elaine!"
+msgstr "Nakaz zadziała tylko na Elaine!"
 
 msgctxt "2041_2041_0_GUYBRUSH"
 msgid "La Esponja Grande won't work on anyone until it's been fed its "Feast for the Senses.""
@@ -8308,7 +8308,7 @@ msgstr "{Worried} Jaka szkoda... {incredulous} ten dywan naprawdę pasował do c
 
 msgctxt "2060_2060_0_GUYBRUSH"
 msgid "{Confused} I think that the rug is more of a symbol than an actual voodoo artifact.  Besides, it's been torn apart by moths."
-msgstr "{Confused} Myślę, że dywan jest bardziej symbolem, niż artefaktem voodoo.  Poza tym, że został rozszarpany przez ćmy."
+msgstr "{Confused} Myślę, że dywan jest bardziej symbolem, niż artefaktem voodoo.  Poza tym, że został rozszarpany przez mole."
 
 msgctxt "2061_2061_0_GUYBRUSH"
 msgid "{Cocky} That probably explains what happened to the Voodoo Lady's rug."
@@ -8344,7 +8344,7 @@ msgstr "{confused}Chyba przyjąłem zbyt dużo ciosów w głowę. {suspicious}Je
 
 msgctxt "2069_2069_0_KREBBS"
 msgid "{surprised}Well, you may not remember {serious}Bosun Kathryn C. Krebbs, {annoyed}but you can be sure that there'll always be a black mark next to the name of Guybrush Q. Threepwood!"
-msgstr "{surprised}Cóź, możesz nie pamiętać {serious}bosman K. C. Raks, {annoyed}ale możesz być pewny, że zawsze będzie krecha obok imienia Guybrush Q. Threepwood!"
+msgstr "{surprised}Cóź, możesz nie pamiętać {serious}bosman Kathryn C. Krebbs, {annoyed}ale możesz być pewny, że zawsze będzie krecha obok imienia Guybrush Q. Threepwood!"
 
 msgctxt "2070_2070_0_GUYBRUSH"
 msgid "{confused}Wait, did you say [emphasize the Q] "Guybrush {surprised}Q. Threepwood?""
@@ -8460,7 +8460,7 @@ msgstr "Stan nigdy nie da mi tej matynarki dobrowolnie."
 
 msgctxt "2098_2098_0_GUYBRUSH"
 msgid "The Voodoo Lady's gonna be annoyed when sees what those moths did to her rug."
-msgstr "Lady Voodoo będzie zła jak zobaczy co ćmy zrobiły z jej dywanem."
+msgstr "Lady Voodoo będzie zła jak zobaczy co mole zrobiły z jej dywanem."
 
 msgctxt "2099_2099_0_GUYBRUSH"
 msgid "I can't believe the judge took all my cool cups full of burning stuff, and left me with this useless lamp!"
@@ -8508,7 +8508,7 @@ msgstr "Myślę, że mogłem coś przeoczyć w dżungli."
 
 msgctxt "2110_2110_0_GUYBRUSH"
 msgid "{cocky}Hey, Krebbs, now that your case has been dismissed, {incredulous}care to join me in a little post-trial amicus curae?"
-msgstr "{cocky}Hej, Raks. Teraz jak spawa została oddalona, {incredulous}chcesz dołączyć do mnie w małym post-procesowym amicus curae?"
+msgstr "{cocky}Hej, Krebbs. Teraz jak spawa została oddalona, {incredulous}chcesz dołączyć do mnie w małym post-procesowym amicus curae?"
 
 msgctxt "2111_2111_0_KREBBS"
 msgid "{sarcastic}Was that a pick-up line?"
@@ -9024,7 +9024,7 @@ msgstr "Praworządny Sędzia Wallace P. Grindstump"
 
 msgctxt "2239_2239_0_"
 msgid "Bosun Krebbs"
-msgstr "Bosman Raks"
+msgstr "Bosman Krebbs"
 
 msgctxt "2240_2240_0_"
 msgid "Altar"
@@ -9100,23 +9100,23 @@ msgstr "Łapa Lwa"
 
 msgctxt "2258_2258_0_"
 msgid "Vaycaylian Wind Control Device"
-msgstr "Narzędzie Wakacjan do Kontroli Wiatrów"
+msgstr "wakacjański Wiatromanipulator"
 
 msgctxt "2259_2259_0_"
 msgid "Glowing Wind Control Device"
-msgstr "Żarzące Narzędzie do Kontroli Wiatrów"
+msgstr "świecący Wiatromanipulator"
 
 msgctxt "2260_2260_0_"
 msgid "Moth-Attracting Wind Control Device"
-msgstr "Przyciągające Ćmy Narzędzie do Kontroli Wiatrów"
+msgstr "wabiący mole Wiatromanipulator"
 
 msgctxt "2261_2261_0_"
 msgid "Moths"
-msgstr "Ćmy"
+msgstr "Mole"
 
 msgctxt "2262_2262_0_"
 msgid "Fashion-Loving Moths"
-msgstr "Kochające Modę Ćmy"
+msgstr "kochające modę mole"
 
 msgctxt "2263_2263_0_"
 msgid "The Pyrite Parrot of Petaluma"
@@ -9168,7 +9168,7 @@ msgstr "Oszklona Gablota"
 
 msgctxt "2275_2275_0_"
 msgid "Case of Flotsam Moths"
-msgstr "Gablota z Ćmami Wyspy Rozbitków"
+msgstr "gablota z molami Wyspy Rozbitków"
 
 msgctxt "2276_2276_0_"
 msgid "Broken Banana Pedal"
@@ -9220,11 +9220,11 @@ msgstr "Cięknący Olej"
 
 msgctxt "2288_2288_0_"
 msgid "Manatee Oil Leak"
-msgstr "Cieknący Olej Manata"
+msgstr "cieknący olej z manata"
 
 msgctxt "2289_2289_0_"
 msgid "HOT Manatee Oil Leak"
-msgstr "Gorący Cieknący Olej Manata"
+msgstr "gorący, cieknący olej z manata"
 
 msgctxt "2290_2290_0_"
 msgid "Weird Oozing Fluid"
@@ -9288,7 +9288,7 @@ msgstr "Kubek Gorącego Tłuszczu"
 
 msgctxt "2305_2305_0_"
 msgid "Blood Island Volcano Shot"
-msgstr "Erupcja Wulkanu Krwawej Wyspy"
+msgstr "wulkaniczny szot Krwawej Wyspy"
 
 msgctxt "2306_2306_0_"
 msgid "Cup of Molten Glass"
@@ -9296,7 +9296,7 @@ msgstr "Kubek Ciekłego Szkła"
 
 msgctxt "2307_2307_0_"
 msgid "Cup of Hot Manatee Oil"
-msgstr "Kubek Gorącego Oleju Manata"
+msgstr "kubek gorącego oleju z manata"
 
 msgctxt "2308_2308_0_"
 msgid "Cup of Hot Wax"
@@ -9316,7 +9316,7 @@ msgstr "Mokra Odcięta Noga"
 
 msgctxt "2312_2312_0_"
 msgid "Lion's Paw"
-msgstr "Łapa Lwa"
+msgstr "lwia łapa"
 
 msgctxt "2313_2313_0_"
 msgid "Feast for the Senses Menu"
@@ -9344,7 +9344,7 @@ msgstr "Worek z Odciętymi Nogami"
 
 msgctxt "2319_2319_0_"
 msgid "Voodoo Summons"
-msgstr "Wezwanie Voodoo"
+msgstr "voodoo nakaz"
 
 msgctxt "2320_2320_0_"
 msgid "Tarot Cards"
@@ -9376,7 +9376,7 @@ msgstr "Nie Paląca się Noga Lampy"
 
 msgctxt "2327_2327_0_"
 msgid "Stink Lion's Paw"
-msgstr "Śmierdząca Łapa Lwa"
+msgstr "śmierdząca lwia łapa"
 
 msgctxt "2328_2328_0_"
 msgid "Tongue-Scalding Pepper"
@@ -9396,23 +9396,23 @@ msgstr "Wróżące Przyszłość Karty Tarota"
 
 msgctxt "2332_2332_0_"
 msgid "5 Empty Volcano Shot Glasses"
-msgstr "5 Pustych Szklanek Erupcji Wulkanu"
+msgstr "5 pustych kielonów po szotach"
 
 msgctxt "2333_2333_0_"
 msgid "4 Empty Volcano Shot Glasses"
-msgstr "4 Puste Szklanki Erupcji Wulkanu"
+msgstr "4 puste kielony po szotach"
 
 msgctxt "2334_2334_0_"
 msgid "3 Empty Volcano Shot Glasses"
-msgstr "3 Puste Szklanki Erupcji Wulkanu"
+msgstr "3 puste kielony po szotach"
 
 msgctxt "2335_2335_0_"
 msgid "2 Empty Volcano Shot Glasses"
-msgstr "2 Puste Szklanki Erupcji Wulkanu"
+msgstr "2 puste kielony po szotach"
 
 msgctxt "2336_2336_0_"
 msgid "Empty Volcano Shot Glass"
-msgstr "Pusta Szklanka Erupcji Wulkanu"
+msgstr "Pusty kielon po szotach"
 
 msgctxt "2337_2337_0_"
 msgid "Bye."
@@ -9440,7 +9440,7 @@ msgstr "Guybrush szybko obala niedorzeczne twierdzenia Suchara o wandaliźmie na
 
 msgctxt "2343_2343_0_"
 msgid "Bosun Krebbs' case is dismissed after Guybrush's methodical forensic analysis proves that her horrifying (yet oddly colorful) burns were NOT caused by Club 41's famous nacho sauce."
-msgstr "Sprawa bosman Raks zostaje umorzona po tym jak Guybrush udowadnia, że jej okropne (jeszcze dziwnie kolorowe) oparzenie nie zostało spowodowane w Klubie 41 przez sos nacho."
+msgstr "Sprawa bosman Krebbs zostaje umorzona po tym jak Guybrush udowadnia, że jej okropne (jeszcze dziwnie kolorowe) oparzenie nie zostało spowodowane w Klubie 41 przez sos nacho."
 
 msgctxt "2344_2344_0_"
 msgid "Hemlock's case is dismissed after Guybrush tampers with his fear-stiffened cat, causing it to seemingly spring to life in open court."
@@ -9452,11 +9452,11 @@ msgstr "Guybrush przekupuje głównego świadka Joaquin d'Oro \"naprawdę fajnym
 
 msgctxt "2346_2346_0_"
 msgid "Just as Guybrush is hit with the biggest charge of all (Spreading the Pox of LeChuck), Elaine arrives on Flotsam Island, crazed with the Pox and looking for the blood of Morgan LeFlay!  Guybrush thinks she'll make an ideal witness, but first he's got to drag her keister to court with a Voodoo Summons!"
-msgstr "Kiedy Guybrush jest atakowany największymi zarzutami (Rozprzestrzenianie Ospy LeChucka), Elaine przybywa na Wyspę Rozbitków, oszalała przez Ospę i szukając krwi Morgan LeFlay!  Guybrush myśli, że będzie idealnym świadkiem, ale najpierw musi zaciągnąć jej tyłek do sądu przez Wezwanie Voodoo!"
+msgstr "Kiedy Guybrush jest atakowany tym największym pozwem (Rozprzestrzenianie Ospy LeChucka), Elaine przybywa na Wyspę Rozbitków, oszalała przez Ospę i szukając krwi Morgan LeFlay!  Guybrush myśli, że będzie idealnym świadkiem, ale najpierw musi zaciągnąć jej tyłek do sądu przez voodoo nakaz!"
 
 msgctxt "2347_2347_0_"
 msgid "Guybrush cleverly figures out how to get Elaine to grab the Summons, but she's proving to be an extremely hostile witness..."
-msgstr "Guybrush sprytnie obmyślił jak namówić Elaine na wezwaniwe, ale ona okazuje się być wrogo nastawionym świadkiem..."
+msgstr "Guybrush sprytnie obmyślił jak wcisnąć Elaine jej nakaz, ale ona okazuje się być wrogo nastawionym świadkiem..."
 
 msgctxt "2348_2348_0_"
 msgid "When Guybrush finally tries to use La Esponja Grande on the extremely Pox-ridden Elaine, nothing happens!  Luckily, LeChuck arrives just in time to save Guybrush from the gallows, nobly throwing himself (and the Voodoo Lady!) on the mercy of Flotsam's execution-happy legal system.  With his oldest friend and oldest enemy now in prison, Guybrush must figure out what went wrong with the sponge, so that he can finally cure the Pox of LeChuck!"
@@ -9464,11 +9464,11 @@ msgstr "Kiedy Guybrush próbuje użyć La Esponja Grande na zarażoną ospą Ela
 
 msgctxt "2349_2349_0_"
 msgid "After obtaining a "Feast for the Senses" menu from the Voodoo Lady, Guybrush sics some moths on Stan's eye-gouging jacket, and ties the scraps around the sponge to make a napkin."
-msgstr "Po uzyskaniu menu \"Uczty dla Zmysłów\" od Lady Voodoo, Guybrush napuszcza na dziurawą marynarkę Stana ćmy i związuje fragmenty wokół gąbki, aby zrobić serwetkę."
+msgstr "Po uzyskaniu menu \"Uczty dla Zmysłów\" od Lady Voodoo, Guybrush napuszcza na dziurawą marynarkę Stana mole i związuje fragmenty wokół gąbki, aby zrobić serwetkę."
 
 msgctxt "2350_2350_0_"
 msgid "In the heart of Flotsam's jungle, Guybrush removes a stinky lion's paw from a beast's thorn, and feeds the ante-paw-sta to the sponge."
-msgstr "W sercu dżungli wyspy, Guybrush usuwa śmierdzącą łapę lwa z zębów bestii i karmi nią gąbkę."
+msgstr "W sercu dżungli wyspy, Guybrush usuwa śmierdzącą lwią łapę z zębów bestii i karmi nią gąbkę."
 
 msgctxt "2351_2351_0_"
 msgid "With the help of De Singe's auto-trepanation helmet, Guybrush acquires the scalding Fugu Jolokia, and uses it to cleanse the Sponge's palate."
@@ -9484,7 +9484,7 @@ msgstr "Po utworzeniu olbrzymiego statycznego ładunku na dywanie z Klubu 41, Gu
 
 msgctxt "2354_2354_0_"
 msgid "With La Esponja nearly entirely Grande, Guybrush heads to the Vaycaylian Wind Control Machine to feed it the final noisy meal... only to be ensnared with Elaine by the utterly insane plans of the Marquis De Singe!"
-msgstr "Z La Esponja niemal całkowicie Grande, Guybrush idzie do Narzędzia Wakacjan do Kontroli Wiatrów nakarmić ją ostatnim głośnym posiłkiem... tylko że Elaine zostaje złapana do szalonych planów markiza DeSinge!"
+msgstr "Z La Esponja niemal całkowicie Grande, Guybrush idzie do wakacjańskiego Wiatromanipulatora nakarmić ją ostatnim głośnym posiłkiem... tylko że Elaine zostaje złapana do szalonych planów markiza DeSinge!"
 
 msgctxt "2355_2355_0_"
 msgid "Guybrush attempts to toss La Esponja Grande into the Vaycaylian Machine, only to have the Sponge snatched away by his severed hand, perched upon De Singe's head!  The Marquis reveals his scheme to atomize Elaine and spread the Threepwood Strain of the Pox across the Caribbean!"
@@ -9536,15 +9536,15 @@ msgstr "[pickup1] To tyle jeśli chodzi o szalony skomplikowany pomysł."
 
 msgctxt "2367_2367_0_GUYBRUSH"
 msgid "[pickup1] Still, it's good to know that the moths can be attracted by the fireflies.  I'll have to file that away for later."
-msgstr "[pickup1] Dobrze wiedzieć, że ćmy mogą być pozyskane przez świetliki.  Będę musiał to złożyć później."
+msgstr "[pickup1] Dobrze wiedzieć, że mole mogą być pozyskane przez świetliki.  Będę musiał to złożyć później."
 
 msgctxt "2368_2368_0_GUYBRUSH"
 msgid "[pickup1] I don't think I want to sacrifice any more fireflies to those ravenous moths right now."
-msgstr "[pickup1] Nie sądzę, że trzeba poświęcić więcej świetlików dla tych żarłocznych ciem."
+msgstr "[pickup1] Nie sądzę, że trzeba poświęcić więcej świetlików dla tych żarłocznych moli."
 
 msgctxt "2369_2369_0_GUYBRUSH"
 msgid "[pickup1] It's a good thing those fashion-conscious moths don't appreciate my clothes, or my pockets would have more holes than the Albert Hall."
-msgstr "[pickup1] Dobrze, że te modne ćmy nie doceniają moich ubrań, bo moje kieszenie miałyby więcej dziur niż Hala Alberta."
+msgstr "[pickup1] Dobrze, że te modne mole nie doceniają moich ubrań, bo moje kieszenie miałyby więcej dziur niż Hala Alberta."
 
 msgctxt "2370_2370_0_"
 msgid "Leg Lamp with Red, Parrot Shaped Burn"
@@ -9608,7 +9608,7 @@ msgstr "[pickup1] {Default} Nie uznam tej nogi lampy jako dowód dopóki oparzen
 
 msgctxt "2385_2385_0_GUYBRUSH"
 msgid "[pickup1] {Confused} I'd better not.  It's still not the same shape as Krebbs' burn."
-msgstr "[pickup1] {Confused} Lepiej  nie.  To wciąż nie ten sam kształt co oparzenie Raks."
+msgstr "[pickup1] {Confused} Lepiej  nie.  To wciąż nie ten sam kształt co oparzenie Krebbs."
 
 msgctxt "2386_2386_0_GALLERY1"
 msgid "[pickup1]  Arrr, I ne'er seen anyone as Pox-crazy as Judge Grindstump!"
@@ -9768,7 +9768,7 @@ msgstr "[pickup1] {Concerned} Przepraszam."
 
 msgctxt "2425_2425_0_GUYBRUSH"
 msgid "{cocky}[pickup1] I'm not leaving until I serve Elaine with this summons!{default}"
-msgstr "{cocky}[pickup1] Nie odejdę, dopóki nie zaserwuję Elaine wezwania!{default}"
+msgstr "{cocky}[pickup1] Nie odejdę, dopóki nie zaserwuję Elaine jej nakazu!{default}"
 
 msgctxt "2426_2426_0_GALLERY2"
 msgid "[pickup1] Occupied!"
@@ -9800,7 +9800,7 @@ msgstr "[pickup1]{Whiney} No świetnie.  Lampa padła."
 
 msgctxt "2433_2433_0_GUYBRUSH"
 msgid "[pickup1]{Cocky} At least Stan's sign is keeping the moths from returning to the jungle."
-msgstr "[pickup1]{Cocky} Przynajmniej szyld Stana wstrzymuje ćmy do powrotu do dżungli."
+msgstr "[pickup1]{Cocky} Przynajmniej szyld Stana wstrzymuje mole do powrotu do dżungli."
 
 msgctxt "2434_2434_0_"
 msgid "Gibbet"
@@ -9824,7 +9824,7 @@ msgstr "Diagram"
 
 msgctxt "2439_2439_0_"
 msgid "Leg-Shaped Lamp With Moths"
-msgstr "Lampa w Kształcie Nogi z Ćmami"
+msgstr "lampa w kształcie nogi z molami"
 
 msgctxt "2440_2440_0_"
 msgid "Bottom Fold"
@@ -10060,7 +10060,7 @@ msgstr "Poproszę grog."
 
 msgctxt "2484_2484_0_"
 msgid "Those Blood Island Volcano Shots look tempting."
-msgstr "Erupcja Wulkanu Krwawej Wyspy wygląda kusząco."
+msgstr "Wulkaniczny szot Krwawej Wyspy wygląda kusząco."
 
 msgctxt "2485_2485_0_"
 msgid "How about a Scabb Island Sling?"
@@ -10144,7 +10144,7 @@ msgstr "Chciałbym odwołać się do moich ex post facto privileges..."
 
 msgctxt "2505_2505_0_"
 msgid "I plead not guilty!"
-msgstr "Nie przyznaję się do winy!"
+msgstr "Jestem niewinny!"
 
 msgctxt "2506_2506_0_"
 msgid "Not guilty by reason of insanity!"
@@ -10160,27 +10160,27 @@ msgstr "Chcę obrońcę z urzędu."
 
 msgctxt "2509_2509_0_"
 msgid "Can Stan represent me?"
-msgstr "Stan może mnie reprezentować?"
+msgstr "Czy Stan może mnie bronić?"
 
 msgctxt "2510_2510_0_"
 msgid "Call Bosun Krebbs"
-msgstr "Wzywam bosman Raks"
+msgstr "Wezwij bosman Krebbs"
 
 msgctxt "2511_2511_0_"
 msgid "Call Joaquin D'Oro"
-msgstr "Wzywam Joaquin d'Oro"
+msgstr "Wezwij Joaquin d'Oro"
 
 msgctxt "2512_2512_0_"
 msgid "Call Hemlock McGee"
-msgstr "Wzywam Hemlock McGee"
+msgstr "Wezwij Hemlock McGee"
 
 msgctxt "2513_2513_0_"
 msgid "Call Bailiff Hardtack"
-msgstr "Wzywam klawisza Suchara"
+msgstr "Wezwij klawisza Suchara"
 
 msgctxt "2514_2514_0_"
 msgid "Call Guybrush Threepwood"
-msgstr "Wzywam Guybrusha Threepwooda"
+msgstr "Wezwij Guybrusha Threepwooda"
 
 msgctxt "2515_2515_0_"
 msgid "Where were you on the night of August 15th?"
@@ -10204,7 +10204,7 @@ msgstr "Kłamiesz.  Przyznaj się."
 
 msgctxt "2520_2520_0_"
 msgid "What're you doing with the Wind Control Device?"
-msgstr "Co robisz z Narzędziem do Kontroli Wiatrów?"
+msgstr "Co robisz z Wiatromanipulatorem?"
 
 msgctxt "2521_2521_0_"
 msgid "I'm still confused about what you're doing..."
@@ -10560,15 +10560,15 @@ msgstr "Ta ospa to nie moja wina!"
 
 msgctxt "2609_2609_0_"
 msgid "I plead guilty!"
-msgstr "Przyznaję się do winy!"
+msgstr "Jestem winny!"
 
 msgctxt "2610_2610_0_"
 msgid "I plead not guilty!"
-msgstr "Nie przyznaję się do winy!"
+msgstr "Jestem niewinny!"
 
 msgctxt "2611_2611_0_"
 msgid "I plead not guilty!"
-msgstr "Nie przyznaję się do winy!"
+msgstr "Jestem niewinny!"
 
 msgctxt "2612_2612_0_"
 msgid "Bye."
@@ -10676,7 +10676,7 @@ msgstr "\"Brązowe Szklane Oko Grindstumpa\""
 
 msgctxt "2638_2638_0_"
 msgid ""Krebbs Baby Blue" Glass Eye"
-msgstr "\"Jasnoniebieskie Szklane Oko Raks\""
+msgstr "\"Jasnoniebieskie Szklane Oko Krebbs\""
 
 msgctxt "2639_2639_0_"
 msgid ""Hemlock Aqua" Glass Eye"
@@ -10720,7 +10720,7 @@ msgstr "Och, jeśli tylko Bestia wejdzie na oświetloną ścieżkę Pięknych"
 
 msgctxt "2644_2644_5_"
 msgid "Beautiful Jungle Fireflies!"
-msgstr "Świetlików Dżungli Wyspy!"
+msgstr "Świetlików z Dżungli!"
 
 msgctxt "2644_2644_6_"
 msgid ""
@@ -10756,7 +10756,7 @@ msgstr "Wyrok: Śmierć przez powieszenie"
 
 msgctxt "2647_2647_0_"
 msgid "Witness: K. Krebbs"
-msgstr "Świadek: B. Raks"
+msgstr "Świadek: K. Krebbs"
 
 msgctxt "2648_2648_0_"
 msgid "Charge: Thigh Crimes & Misdemeanors "
@@ -10768,7 +10768,7 @@ msgstr ""
 
 msgctxt "2648_2648_2_"
 msgid "Discontinuation of Club 41's nacho sauce makes proof of guilt difficult, but Court deems it unlikely that some other mix of fluids could have caused Krebbs' distinctive burn."
-msgstr "Zlikwidowanie z Klubu 41 sosu nacho utrudnia sprawę, ale sąd uznaje za mało prawdopodobne, aby jakaś inna mieszanina płynów spowodowała u Raks charakterystyczne oparzenie."
+msgstr "Zlikwidowanie z Klubu 41 sosu nacho utrudnia sprawę, ale sąd uznaje za mało prawdopodobne, aby jakaś inna mieszanina płynów spowodowała u Krebbs charakterystyczne oparzenie."
 
 msgctxt "2648_2648_3_"
 msgid ""
