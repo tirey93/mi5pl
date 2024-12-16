@@ -11152,8 +11152,8 @@
       <tuv lang="en-US">
         <seg>{Cocky} Please tell the court how this horrible Pox is all {Stern} LeChuck's fault…</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Cocky} Proszę, powiedz sądowi, że ta cała potworna ospa jest z winy {Stern} LeChucka...</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20241105T162044Z">
+        <seg>{Cocky}Proszę, powiedz sądowi, że ta cała potworna ospa jest z winy {Stern} LeChucka... tirey</seg>
       </tuv>
     </tu>
     <tu>
@@ -14584,8 +14584,8 @@
       <tuv lang="en-US">
         <seg>{Questioning} How do you plead?</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241004T122404Z">
-        <seg>{Questioning}Co pan na to?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20241105T162303Z">
+        <seg>{Questioning}Przyznaje się pan?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17192,8 +17192,8 @@
       <tuv lang="en-US">
         <seg>{Worried} Permission to address the witness as hostile, your honor?</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241103T205133Z">
-        <seg>{Worried}Czy mogę traktować świadka jako wroga, wysoki sądzie?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20241103T205354Z">
+        <seg>{Worried}Czy mogę uznać świadka jako wrogiego, wysoki sądzie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19976,8 +19976,8 @@
       <tuv lang="en-US">
         <seg>{sarcastic} I think that's a given, Captain.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241103T205148Z">
-        <seg>{sarcastic}Udziela, kapitanie.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20241103T205423Z">
+        <seg>{sarcastic}Proszę bardzo, kapitanie.</seg>
       </tuv>
     </tu>
     <tu>

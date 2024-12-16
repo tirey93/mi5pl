@@ -1304,8 +1304,8 @@
       <tuv lang="en-US">
         <seg>Captain Threepwood, having heard the grave charges arrayed against you, how do you plead?</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241103T175620Z">
-        <seg>Kapitanie Threepwood, po wysłuchaniu tych poważnych zarzutów jak się pan wytłumaczy?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20241105T162316Z">
+        <seg>Kapitanie Threepwood, po wysłuchaniu tych poważnych zarzutów, przyznaje się pan?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11152,7 +11152,7 @@
       <tuv lang="en-US">
         <seg>{Cocky} Please tell the court how this horrible Pox is all {Stern} LeChuck's fault…</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241103T205442Z">
+      <tuv lang="pl" changeid="dapyt" changedate="20241105T162356Z">
         <seg>{Cocky}Proszę, powiedz sądowi, że ta cała potworna ospa jest z winy {Stern} LeChucka...</seg>
       </tuv>
     </tu>
@@ -14584,8 +14584,8 @@
       <tuv lang="en-US">
         <seg>{Questioning} How do you plead?</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241004T122404Z">
-        <seg>{Questioning}Co pan na to?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20241105T162303Z">
+        <seg>{Questioning}Przyznaje się pan?</seg>
       </tuv>
     </tu>
     <tu>
@@ -20168,8 +20168,8 @@
       <tuv lang="en-US">
         <seg>{stern} I plead one thousand percent not guilty.  {Confused} Especially to that last one about the X.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241103T184759Z">
-        <seg>{stern} Wytłumaczę, że jestem na tysiąc procent niewinny.  {Confused}Szczególnie tego znaku X.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20241105T162351Z">
+        <seg>{stern} Przyznaję, że jestem na tysiąc procent niewinny.  {Confused}Szczególnie tego znaku X.</seg>
       </tuv>
     </tu>
     <tu>
