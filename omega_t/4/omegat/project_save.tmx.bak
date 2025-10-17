@@ -400,8 +400,8 @@
       <tuv lang="en-US">
         <seg>Aha!  I have you now, my pretty!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Aha!  Teraz cię mam, moja piękna!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T165129Z">
+        <seg>Aha! Teraz cię mam, piękna!</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +416,8 @@
       <tuv lang="en-US">
         <seg>Aieeeeeeeeeee!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Aaaaaaaaa!!!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T165131Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -528,8 +528,8 @@
       <tuv lang="en-US">
         <seg>And what, pray tell, makes a "cool" glass eye?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>I co, modliłeś się o zrobienie "fajnego" szklanego oka?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T154226Z">
+        <seg>A co niby sprawi, że oko może być "fajne"?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1104,8 +1104,8 @@
       <tuv lang="en-US">
         <seg>But Guybrush learns too late that it is the wise pirate who  prepares for the inevitable change in the winds, as Morgan betrays him and returns him to the scientific clutches of the Marquis De Singe...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ale Guybrush dowiaduje się za późno, że mądry pirat to ktoś, kto przygotowałby się na nieuniknioną zmianę wiatrów, jako że Morgan zdradza go i powraca z nim do markiza DeSinge...</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T175304Z">
+        <seg>Ale Guybrush uczy się za późno, że mądry pirat przygotowuje się na nieuniknioną zmianę wiatrów, gdyż Morgan zdradza go i oddaje w naukowe szpony markiza DeSinge...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2320,8 +2320,8 @@
       <tuv lang="en-US">
         <seg>Guess that was a little too much to ask.  At least I've got the Sponge back, though.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Domyślam się, że trochę za dużo pytam.  Przynajmniej odzyskałem gąbkę.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T165236Z">
+        <seg>Chyba poprosiłem o za dużo. Ale przynajmniej odzyskałem gąbkę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2560,8 +2560,8 @@
       <tuv lang="en-US">
         <seg>Hi there, Double Peg.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Witaj, Dwuprotezy.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250923T164547Z">
+        <seg>Witaj, Dwukikucie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3592,8 +3592,8 @@
       <tuv lang="en-US">
         <seg>I've already got enough molten glass in my pants for all my molten glass needs.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mam dość ciekłego szkła w spodniach do wszystkich moich potrzeb.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250926T151543Z">
+        <seg>W moich gaciach jest już tyle stopionego szkła, że na dobre mi wystarczy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4016,8 +4016,8 @@
       <tuv lang="en-US">
         <seg>Just as we agreed.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tak jak się umawialiśmy.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T175625Z">
+        <seg>Zgodnie z umową.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4664,8 +4664,8 @@
       <tuv lang="en-US">
         <seg>Morgan left Mister Winslow circling the island, just outside the reach of Flotsam's winds.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Morgan zostawiła pana Winslow poza zasięgiem wiatrów wyspy.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T082110Z">
+        <seg>Morgan zostawiła pana Winslowa poza zasięgiem wiatrów wyspy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4696,8 +4696,8 @@
       <tuv lang="en-US">
         <seg>Much to Morgan and Guybrush's surprise, an uneasy alliance to escape the beast blossoms into a genuine friendship between the pirate and the pirate hunter... a tidal shift that leads Threepwood to the elusive Pox-curing Esponja Grande...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dużym zaskoczeniem dla Morgan i Guybrusha było niespokojne przymierze rozkwitające w bestii, prawdziwa przyjaźń pomiędzy piratem, a łowczynią piratów... chwilowa zmiana kierunku prowadząca Threepwooda do nieosiągalnej, leczącej ospę Esponja Grande...</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T175035Z">
+        <seg>Ku zaskoczeniu Morgan i Guybrusha niełatwe przymierze w bestii przerodziło się w prawdziwą przyjaźń pomiędzy piratem a łowczynią piratów... chwilowa zmiana prowadząca Threepwooda do nieuchwytnej, leczącej ospę Esponja Grande...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4800,8 +4800,8 @@
       <tuv lang="en-US">
         <seg>Nice one, hand!  Care to help me with these locks?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pięknie, rączko!  Chcesz pomóc mi z tymi zamkami?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T165159Z">
+        <seg>Nieźle, rączko! Pomożesz mi z tym zamkiem?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5112,8 +5112,8 @@
       <tuv lang="en-US">
         <seg>On second thought,{Embarrassed} I really don't want to part with my sextants.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pomyśl sekundę.{Embarrassed} Naprawdę nie chcesz moich sekstansów.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T153755Z">
+        <seg>Z drugiej strony{Embarrassed} właściwie nie chce dzielić się sekstantami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5848,8 +5848,8 @@
       <tuv lang="en-US">
         <seg>Shoo!  Shoo!  Get away from me, you nasty little pests!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Sio!  Sio!  Uciekajcie ode mnie, wy okropne małe szkodniki!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T164918Z">
+        <seg>Sio!  Sio! Odczepcie się, wy małe szkodniki!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7048,8 +7048,8 @@
       <tuv lang="en-US">
         <seg>What about the Ferdinand Majelly Anne Quad-Action sextants, hmmm?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>A co z tym seksatnsem Ferdynanda Majelly Anna Quada-Akcji, hmmm?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T153636Z">
+        <seg>A może ten z Ferdynandem Majelly Anne Quad, co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7432,8 +7432,8 @@
       <tuv lang="en-US">
         <seg>Without my hand to supply him with his "Jus de Vie," all those wounds you've been inflicting are starting to catch up with him.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Bez mojej ręki zaopatrującej jego "Jus de Vie," wszystkie te rany, które mu zadałaś zaczynają na niego oddziaływać.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T165043Z">
+        <seg>Bez mojej ręki, zaopatrującej go w "Jus de Vie," wszystkie te rany, które mu zadałaś, zaczynają go dosięgać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7560,8 +7560,8 @@
       <tuv lang="en-US">
         <seg>Yeah, but you can't have that one, either.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tak, ale tego jednego też nie możesz mieć.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T153653Z">
+        <seg>Tak, ale ten też odpada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8456,8 +8456,8 @@
       <tuv lang="en-US">
         <seg>[coughing and wheezing] Get back here, you naughty little hand!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>[coughing and wheezing] Warcaj tu, ty mała niegrzeczna mała rączko!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T165111Z">
+        <seg>[coughing and wheezing] Wróć do mnie, ty niegrzeczna rączko!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8800,8 +8800,8 @@
       <tuv lang="en-US">
         <seg>[incredulous] THAT'S the legendary Jungle Beast of Flotsam Island?</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20250213T174049Z">
-        <seg>[incredulous] TO ta legendarna "Bestia z Dżungli" Wyspy Rozbitków?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T173740Z">
+        <seg>[incredulous] To jest ta legendarna bestia z dżungli Wyspy Rozbitków?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9576,8 +9576,8 @@
       <tuv lang="en-US">
         <seg>[poxy] Fine!  Take it!  Just get out of me sight!  Arrrr!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>[poxy] Dobra!  Weź to!  Zabierz to z moich oczu!  Arrrr!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T081818Z">
+        <seg>[poxy] Dobra! Weź go! I zjeżdżaj mi z oczu! Arrrr!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9608,8 +9608,8 @@
       <tuv lang="en-US">
         <seg>[poxy]{angry} Ya clumsy clam-clipper!  Ya ruined me prototype!  Now I have to start all over!  Arrrr!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>[poxy]{angry} Ty niezdarny kliperze!  Zniszczyłeś mój prototyp!  Muszę zaczynać wszystko od nowa!  Arrrr!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T081709Z">
+        <seg>[poxy]{angry} Ty niezdarny małżołupie! Zniszczyłeś mój prototyp! Wszystko muszę robić od nowa!  Arrrr!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9648,8 +9648,8 @@
       <tuv lang="en-US">
         <seg>[process through tube] [angry]Threepwood!  Stay away from my laboritorium!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>[process through tube] [angry]Threepwood!  Trzymaj się z dala od laboratorium!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T081532Z">
+        <seg>[process through tube] [angry]Threepwood! Trzymaj się z dala od laboratorium!</seg>
       </tuv>
     </tu>
     <tu>
@@ -9744,8 +9744,8 @@
       <tuv lang="en-US">
         <seg>[reading] "The Doctor is OUT!"</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>[reading] "Doktor Wyszedł!"</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T165046Z">
+        <seg>[reading] "Doktora NIE MA!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9896,8 +9896,8 @@
       <tuv lang="en-US">
         <seg>[serious]{cocky} Out of his freaking MIND, maybe.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>[serious]{cocky} Może wyszedł jego szalony mózg.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T165222Z">
+        <seg>[serious]{cocky} Nie ma to on rozumu, raczej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9912,8 +9912,8 @@
       <tuv lang="en-US">
         <seg>[sheepish]{whiney} So, if it's messed up, can I have it?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>[sheepish]{whiney} Więc, jeśli jest zepsute mogę to wziąść?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T081752Z">
+        <seg>[sheepish]{whiney} No, skoro nie działa, to mogę go zabrać?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10512,8 +10512,8 @@
       <tuv lang="en-US">
         <seg>{Angry} You were the one who made that counterfeit Dave in the first place!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Angry} Przede wszystkim byłeś tym, kto stworzył fałszywego Dave'a!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T101613Z">
+        <seg>{Angry} Przede wszystkim to ty stworzyłeś fałszywego Dave'a!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10840,8 +10840,8 @@
       <tuv lang="en-US">
         <seg>{Cocky} Have you thought about the possibility that you might not actually be a pirate?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Cocky} Czy myślałeś, że możesz nie być w rzeczywistości piratem?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T164501Z">
+        <seg>{Cocky} Czy rozważałeś możliwość, że może jednak nie jesteś piratem?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10888,8 +10888,8 @@
       <tuv lang="en-US">
         <seg>{Cocky} How about I get you a glass eye for your eye hole?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Cocky} A co powiesz na szklane oko do twojego oczodołu?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T154019Z">
+        <seg>{Cocky} A może chcesz szklane oko pasujące do oczodołu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -11032,8 +11032,8 @@
       <tuv lang="en-US">
         <seg>{Cocky} Let me get back to you on that.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Cocky} Powrócimy do tego.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T152706Z">
+        <seg>{Cocky} Wrócimy do tego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11352,8 +11352,8 @@
       <tuv lang="en-US">
         <seg>{Cocky} You know, that bay with the auction thing.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Cocky} No wiesz, to miejsce z Allezłomem.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T101432Z">
+        <seg>{Cocky} No wiesz, to ta zatoka z aukcjami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11432,8 +11432,8 @@
       <tuv lang="en-US">
         <seg>{Concerned} But!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Concerned} Ale...</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T154044Z">
+        <seg>{Concerned} Ale!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11472,8 +11472,8 @@
       <tuv lang="en-US">
         <seg>{Concerned} Now I need a glass eye!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Concerned} Teraz potrzebuję szklanego oka!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T082839Z">
+        <seg>{Concerned} Teraz potrzebuję szklanego!</seg>
       </tuv>
     </tu>
     <tu>
@@ -11552,8 +11552,8 @@
       <tuv lang="en-US">
         <seg>{Confused} Associating with hardened criminals like you can't be good for my legal situation. {Happy} I'm out of here.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Confused} Bycie z zatwardziałymi przestępcami jak ty, nie może być dobre dla mojej sytuacji prawnej. {Happy} Odchodzę z stąd.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T164635Z">
+        <seg>{Confused} Obcowanie z zatwardziałymi przestępcami jak ty, nie poprawi mojej sytuacji prawnej. {Happy} Zmykam stąd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11824,8 +11824,8 @@
       <tuv lang="en-US">
         <seg>{Confused} I wonder why they're called "fireflies," anyway.  It's not like they're on fire...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Confused} Zastanawiam się dlaczego są one nazywane "świetlikami".  To nie tak, żebym nie lubił świetl... (lub ogień-gra słowna)</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T181415Z">
+        <seg>{Confused} Ciekawe, czemu nazywają je "świetlikami". W świetle w ogóle nie świecą...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11992,8 +11992,8 @@
       <tuv lang="en-US">
         <seg>{Confused} Okay, okay, you are a pirate. {Incredulous} I'm sure the Pox'll be coming for you any day now.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Confused} Ok, ok, jesteś piratem. {Incredulous} Jestem pewny, że złapiesz ospę lada dzień.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T164535Z">
+        <seg>{Confused} Ok, ok, jesteś piratem.{Incredulous} Bez wątpienia złapiesz ospę lada dzień.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12192,8 +12192,8 @@
       <tuv lang="en-US">
         <seg>{Confused} What happened to your eye?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Confused} Co ci się stało w oko?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T082141Z">
+        <seg>{Confused} Co ty masz z okiem?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12344,8 +12344,8 @@
       <tuv lang="en-US">
         <seg>{Confused} Why do you want a glass eye? {Cocky} An eyepatch is much more pirate-y.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Confused} Dlaczego chcesz szklane oko? {Cocky} Z przepaską na oko jesteś bardziej piracki.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T083120Z">
+        <seg>{Confused} Po co ci szklane oko? {Cocky} Opaska na oko jest bardziej piracka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12376,8 +12376,8 @@
       <tuv lang="en-US">
         <seg>{Confused} Yeah, but you can't have that one.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Confused} Tak, ale tego jednego nie możesz mieć.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T153526Z">
+        <seg>{Confused} Tak, ale tego ci nie dam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12424,8 +12424,8 @@
       <tuv lang="en-US">
         <seg>{Confused} [peering into dark cell]Hello?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Confused} [peering into dark cell]Witaj?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T082121Z">
+        <seg>{Confused} [peering into dark cell]Halo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13104,16 +13104,16 @@
       <tuv lang="en-US">
         <seg>{Enthused} It has to have a really cool color, like the color in the eyes of those nasty Poxed pirates when they're really REALLY angry.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Enthused} Ma mieć fajny kolor, jak kolor oczu tych okropnych ospowiałych piratów kiedy są naprawdę, NAPRAWDĘ źli.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T154846Z">
+        <seg>{Enthused} Musi mieć fajny kolor, podobny do koloru oczu tych okropnych ospowatych piratów, kiedy są naprawdę BARDZO źli.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>{Enthused} Ooh, do you have one to those limited edition Vasco De Llama sextants?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Enthused} Ooch, masz jeden z tej limitowanej edycji sekstansów Vasco De Llama?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T153514Z">
+        <seg>{Enthused} Och, a masz może ten z limitowanej edycji Vasco De Llama?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13432,8 +13432,8 @@
       <tuv lang="en-US">
         <seg>{Happy} I want a really cool glass eye!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Happy} Naprwdę chciałbym fajne szklane oko!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T154138Z">
+        <seg>{Happy} Chcę takie super fajne oko!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13456,8 +13456,8 @@
       <tuv lang="en-US">
         <seg>{Happy} I'll let you have your pick of my autographed sextants!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Happy} Pozwolę ci wybrać jeden z moich sekstansów z autografem!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T153426Z">
+        <seg>{Happy} Będziesz mógł wybrać jeden z moich podpisanych sekstansów!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13480,8 +13480,8 @@
       <tuv lang="en-US">
         <seg>{Happy} I've got a crate full of fine leather jackets back in my hold that have your name all over them.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Happy} Mam skrzynię pełną skórzanych kurtek w mojej ładowni, które mogą mieć twoje imię.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T153922Z">
+        <seg>{Happy} Mam w ładowni skrzynię pełną eleganckich skórzanych kurtek szytych jakby na ciebie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13496,8 +13496,8 @@
       <tuv lang="en-US">
         <seg>{Happy} Jacques the Monkey!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Happy} Małpce Jacques!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T181250Z">
+        <seg>{Happy} Małpka Jacques!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13536,8 +13536,8 @@
       <tuv lang="en-US">
         <seg>{Happy} Luckily for me, Stan got me a reduced sentence in exchange for my testimony against you!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Happy} Na szczęście dla mnie, Stan obniżył mój wyrok w zamian za moje zeznania przeciw tobie!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T101528Z">
+        <seg>{Happy} Na szczęście Stan wywalczył mi złagodzenie wyroku w zamian za zeznania przeciwko tobie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13600,8 +13600,8 @@
       <tuv lang="en-US">
         <seg>{Happy} Oh yeah, that.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Happy} Och, o to.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T152305Z">
+        <seg>{Happy} A, to.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13616,8 +13616,8 @@
       <tuv lang="en-US">
         <seg>{Happy} Ooh, I'd like that. {Sad} All these Poxed pirates are always making fun of me for not being Poxed.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Happy} Ooch, chciałbym ją. {Sad} Wszyscy ci chorzy piraci zawsze śmieli się ze mnie, że nie byłem chory.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T152602Z">
+        <seg>{Happy} Och, to chętnie. {Sad} Wszyscy ci chorzy piraci ciągle się naśmiewają, że jej nie mam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13720,8 +13720,8 @@
       <tuv lang="en-US">
         <seg>{Happy} Then it's a deal!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Happy} Więc mamy umowę!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T154042Z">
+        <seg>{Happy} No to umowa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -13760,8 +13760,8 @@
       <tuv lang="en-US">
         <seg>{Happy} Well c'mon then.  Let's do some business.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Happy} Więc dobrze.  Zawrzyjmy układ.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T152639Z">
+        <seg>{Happy} Cóż, to dawaj. Zawrzyjmy układ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13952,8 +13952,8 @@
       <tuv lang="en-US">
         <seg>{Incredulous} D'Oro?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Incredulous} d'Oro?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T082126Z">
+        <seg>{Incredulous} D'Oro?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14056,8 +14056,8 @@
       <tuv lang="en-US">
         <seg>{Incredulous} I knew there'd be a big, noisy "but" somewhere in there.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Incredulous} Wiedziałem, że gdzieś tam jest duże, hałaśliwe "ale".</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T154113Z">
+        <seg>{Incredulous} Nie mogło się obyć bez dużego, hałaśliwego "ale".</seg>
       </tuv>
     </tu>
     <tu>
@@ -14120,8 +14120,8 @@
       <tuv lang="en-US">
         <seg>{Incredulous} I've got a line on a genuine Dark Ninja Dave Porcelain Power Pirate,{Happy} autographed by Dark Ninja Dave Himself!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Incredulous} Wiem gdzie jest prawdziwa Porcelanowa Figurka Mocy Mrocznego Ninja Dave'a,{Happy} z autografem Mrocznego Ninja Dave'a!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T153336Z">
+        <seg>{Incredulous} Wiem, gdzie jest prawdziwa porcelanowa figurka mocy Mrocznego Ninja Dave'a{Happy} z jego osobistym autografem!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14328,8 +14328,8 @@
       <tuv lang="en-US">
         <seg>{Incredulous} Y'know, I can't help but notice that you don't seem to be afflicted by the Pox of LeChuck.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Incredulous} Wiesz, nie mogę pomóc, ale zauważyłem, że nie chorujesz na Ospę LeChucka.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T164345Z">
+        <seg>{Incredulous} Wiesz, nie mogę odeprzeć osądu, że nie wydajesz się dotknięty Ospą LeChucka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14408,8 +14408,8 @@
       <tuv lang="en-US">
         <seg>{Incredulous}[muttering] Yeah, I'll just bet he did.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Incredulous}[muttering] Taak, zakładam, że tak zrobił.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T082830Z">
+        <seg>{Incredulous}[muttering] Taak, na pewno tak zrobił.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14720,8 +14720,8 @@
       <tuv lang="en-US">
         <seg>{Sarcastic} "Allegedly" planted,{Stern} I got a speck of dirt lodged in my eye.  A week later it got infected, and Doctor De Singe had to cut it out!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Sarcastic} "Rzekomo" umieszczonego,{Stern} dostało mi się trochę brudu do oka.  Tydzień później miałem infekcję i dr. DeSinge musiał je wyciąć!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T082809Z">
+        <seg>{Sarcastic} "Rzekomo" podłożyłeś,{Stern} drobina brudu dostała mi się do oka. Tydzień później złapałem infekcję i doktor DeSinge musiał je usunąć!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14768,8 +14768,8 @@
       <tuv lang="en-US">
         <seg>{Sarcastic} Eyepatches are so last month. {Cocky} All the cool pirates are getting scary glass eyes these days.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Sarcastic} Przepaska na oko była w ostatnim miesiącu. {Cocky} Dziś wszyscy fajni piraci mają straszne szklane oko.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T083236Z">
+        <seg>{Sarcastic} Opaski są już passe.{Cocky} Dziś fajni piraci noszą straszne szklane oczy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14808,8 +14808,8 @@
       <tuv lang="en-US">
         <seg>{Sarcastic} I guess...{Cocky} but you really can't beat a glass eye.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Sarcastic} Chyba...{Cocky} ale naprawdę nie pobijesz szklanego oka.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T083317Z">
+        <seg>{Sarcastic} Chyba...{Cocky} ale szklanego oka nie przebijesz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15360,8 +15360,8 @@
       <tuv lang="en-US">
         <seg>{Stern} Allegedly planted!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Stern} "Rzekomo" umieściłem!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T082509Z">
+        <seg>{Stern} Rzekomo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15616,8 +15616,8 @@
       <tuv lang="en-US">
         <seg>{Stern} I'll tell you what happened to my eye, smarty guy!  When I dug up that phoney Dark Ninja Dave you planted-</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Stern} Powiem ci, co mi się stało w oko, mądralo!  Kiedy wykopywałem fałszywego Mrocznego Ninja Dave'a, którego umieściłeś--</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T082454Z">
+        <seg>{Stern} A powiem ci, co mam z okiem, mądralo! Kiedy wykopywałem podróbkę Mrocznego Ninja Dave'a, którego podłożyłeś...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15760,8 +15760,8 @@
       <tuv lang="en-US">
         <seg>{Stern} That is a very poor joke, seńor.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Stern} To jest bardzo zły żart, seńor.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T153347Z">
+        <seg>{Stern} To jest bardzo słaby żart, seńor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15968,8 +15968,8 @@
       <tuv lang="en-US">
         <seg>{Stern}He dug up my perfectly good X!  {Worried} It's ruined now!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Stern}Zniszczył mój perfekcyjnie dobry X!  {Worried} Teraz jest zniszczony!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T180916Z">
+        <seg>{Stern}Podkopał mój perfekcyjny znak X! {Worried} Jest do niczego!</seg>
       </tuv>
     </tu>
     <tu>
@@ -16264,8 +16264,8 @@
       <tuv lang="en-US">
         <seg>{Surprised} You're going to cure the Pox?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Surprised} Będziesz leczyć ospę?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T152439Z">
+        <seg>{Surprised} Ty chcesz wyleczyć ospę?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16336,8 +16336,8 @@
       <tuv lang="en-US">
         <seg>{Suspicious} Are you still open to a bribe to shut down your testimony against me?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Suspicious} Wciąż jesteś otwarty na łapówkę, aby przestać zeznawać przeciw mnie?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T152943Z">
+        <seg>{Suspicious} Wciąż otwarty na łapówkę, by wycofać zeznania przeciwko mnie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16504,8 +16504,8 @@
       <tuv lang="en-US">
         <seg>{Suspicious} No thanks.  Leather makes me chafe.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Suspicious} Nie, dzięki.  Skóra powoduje u mnie otarcia.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T153946Z">
+        <seg>{Suspicious} Nie, dzięki. Skóra mnie ociera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16952,8 +16952,8 @@
       <tuv lang="en-US">
         <seg>{Whiney} Look, I'm sorry about the jail time, but you've got to stop testifying against me!  I've got a wife and scores of pirates to cure!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Whiney} Słuchaj, przepraszam za twój pobyt w mamrze, ale musisz przestać zeznawać przeciw mnie!  Mam żonę i piratów do wyleczenia!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T152423Z">
+        <seg>{Whiney} Słuchaj, przepraszam za to więzienie, ale musisz przestać zeznawać przeciw mnie! Mam żonę i piratów do wyleczenia!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17312,8 +17312,8 @@
       <tuv lang="en-US">
         <seg>{angry}Arrr, ya best watch yer step... that be a puddle of molten glass.  It'll cool down in a few seconds, but until it does, it'll melt your boots off!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{angry}Arrr, patrz jak chodzisz... to jest kałuża ciekłego szkła.  Ostygnie za kilka sekund, ale dopóki tak się nie stanie, stopi twoje buty!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T164623Z">
+        <seg>{angry}Lepiej uważaj, jak łazisz... to kałuża stopionego szkła. Ostygnie za kilka sekund, ale zanim to nastąpi, to stopi ci buty!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17360,8 +17360,8 @@
       <tuv lang="en-US">
         <seg>{angry}I didn't see nothin'</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{angry}Nic nie widzę.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T170201Z">
+        <seg>{angry}Nic nie było.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17416,8 +17416,8 @@
       <tuv lang="en-US">
         <seg>{angry}She is!  I have to feed it to her through a straw!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{angry}Jest!  Muszę karmić ją przez słomkę!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T165817Z">
+        <seg>{angry}Bo jest! Muszę go karmić przez słomkę!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17432,8 +17432,8 @@
       <tuv lang="en-US">
         <seg>{angry}Stay away from Miss Prettywhiskers's food, ya fiend!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{angry}Trzymaj się z dala od jedzenia Panny Pięknisi ty potworze!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T165742Z">
+        <seg>{angry}Trzymaj się z dala od miski Panny Pięknisi, ty diabole!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17464,8 +17464,8 @@
       <tuv lang="en-US">
         <seg>{angry}Yer fancy cryptozoology tricks won't fool me, laddie!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{angry}Nie oszukasz mnie swoją kryptozoologiczną sztuczką, chłopcze!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T081439Z">
+        <seg>{angry}Twoje kryptozoologiczne sztuczki nic nie dadzą, chłopcze!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17544,8 +17544,8 @@
       <tuv lang="en-US">
         <seg>{cocky} I hope Miss Prettywhiskers likes all the iron I've added to her diet.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{cocky} Mam nadzieję, że Panna Pięknisia polubi całe to żelazo w swojej diecie.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T170128Z">
+        <seg>{cocky}Liczę, że Panna Pięknisia polubi żelazo, które dodałem do jej diety.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17560,8 +17560,8 @@
       <tuv lang="en-US">
         <seg>{cocky} That's really, um, something.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{cocky} To naprawdę, eee... coś.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250926T151645Z">
+        <seg>{cocky} To naprawdę... coś.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17664,16 +17664,16 @@
       <tuv lang="en-US">
         <seg>{cocky}He must be REALLY busy if he needs all those exclamation points.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{cocky}Naprawdę musi być zajęty, skoro potrzebuje wszystkich tych wykrzykników.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T165038Z">
+        <seg>{cocky}Musi być strasznie zajęty, skoro potrzebuje tylu wykrzykników.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>{cocky}Hemlock's cat is catatonic enough without adding mixed drinks to the equation.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240930T103844Z">
-        <seg>{cocky}Kot Hemlock jest wystarczająco katatoniczny bez mieszania jedzenia.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T165702Z">
+        <seg>{cocky}Kot Hemlock jest już dość kotatoniczny bez mieszania z nim drinków.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17688,8 +17688,8 @@
       <tuv lang="en-US">
         <seg>{cocky}Hey, Hemlock, mind if I get capture your eye color?</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240930T103848Z">
-        <seg>{cocky}Hej Hemlock, mogę uchwycić kolor twojego oka?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250926T151616Z">
+        <seg>{cocky}Hej, Hemlock, mogę cyknąć kolor twojego oka?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17808,24 +17808,24 @@
       <tuv lang="en-US">
         <seg>{cocky}I've already got enough of that sizzling goo for my needs.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{cocky}Mam dość tej skwierczącej breji do swoich potrzeb.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250926T130144Z">
+        <seg>{cocky}Jak na moje, to już mi starczy tej skwierczącej brei.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>{cocky}I've got all the liquid bacon grease I need right now.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{cocky}Mam już cały tłuszcz jakiego potrzebowałem.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250926T151442Z">
+        <seg>{cocky}Więcej bekonu w płynie mi już nie trzeba.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>{cocky}I've just GOT to get some of this incredible bacon grease.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{cocky}Chyba wezmę trochę tego niesamowitego tłuszczu.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250926T130401Z">
+        <seg>{cocky}Chyba MUSZĘ dostać więcej tego genialnego tłuszczu z bekonu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17944,8 +17944,8 @@
       <tuv lang="en-US">
         <seg>{cocky}So, I've {incredulous}got a monkey in my pocket...</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{cocky}Mam {incredulous}małpę w kieszeni...</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T164709Z">
+        <seg>{cocky}Cóż, mam {incredulous}małpę w kieszeni...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17976,8 +17976,8 @@
       <tuv lang="en-US">
         <seg>{cocky}Sorry, must have been a weather balloon.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{cocky}Przepraszam, musiał to być balon meteorologiczny.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T170222Z">
+        <seg>{cocky}Sorki, to pewnie balon pogodowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18048,8 +18048,8 @@
       <tuv lang="en-US">
         <seg>{cocky}There.  Now my jacket AND my pants smell like bacon.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{cocky}  Teraz moja kurtka i spodnie pachną jak bekon.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250926T130545Z">
+        <seg>{cocky}No. I teraz moja kurtka oraz gacie jadą bekonem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18064,16 +18064,16 @@
       <tuv lang="en-US">
         <seg>{cocky}What kind of a madman keeps a perfectly good magnetic monkey locked in a cage?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{cocky}Jaki szaleniec trzyma dobrą magnetyczną małpę zamkniętą w klatce?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T164321Z">
+        <seg>{cocky}Jaki szaleniec trzyma zupełnie zdrową magnetyczną małpę klatce pod kluczem?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>{cocky}While there may be many locks I can pick with my spiffy hook, this isn't one of them.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{cocky}Choć mogę wiele zamków otworzyć moim stylowym hakiem to nie jest jeden z nich.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T165600Z">
+        <seg>{cocky}Choć istnieje wiele zamków, które mogę otworzyć moim stylowym hakiem, to tego nie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18104,8 +18104,8 @@
       <tuv lang="en-US">
         <seg>{cocky}Y'know, if I was a little more scientifically inclined, I might be worried about the effects this stuff is having on any future generations of Threepwoods.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{cocky}Gdybym był bardziej skłonny ku nauce, martwiłbym się o skutki działania tej rzeczy dla przyszłych pokoleń Threepwoodów.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250926T130100Z">
+        <seg>{cocky}Gdybym był nieco bardziej wykształcony, to bym się pewnie więcej martwił o wpływ tego czegoś na przyszłe pokolenia Threepwoodów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18256,8 +18256,8 @@
       <tuv lang="en-US">
         <seg>{confused}Hm.  Guess they decided to put the rug inside after it was cleaned.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{confused}Hm.  Zgaduję, że zdecydowali się włożyć do środka dywan po tym jak go wyczyścili.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T181148Z">
+        <seg>{confused}Hm. Czyli włożyli dywan do środka po tym jak go wyczyścili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18456,8 +18456,8 @@
       <tuv lang="en-US">
         <seg>{confused}Um-</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{confused}Um-</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T081449Z">
+        <seg>{confused}Yy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18544,8 +18544,8 @@
       <tuv lang="en-US">
         <seg>{confused}What the what now?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{confused}Czego chcesz?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T180533Z">
+        <seg>{confused}Że jaka co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -18968,8 +18968,8 @@
       <tuv lang="en-US">
         <seg>{enthused} Nay, pirates LOVE this kind of stuff!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{enthused} Nie, piraci kochają takie rzeczy!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T081255Z">
+        <seg>{enthused} Nie, piraci kochają takie graty!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19168,8 +19168,8 @@
       <tuv lang="en-US">
         <seg>{happy}Aye, isn't she a beauty?  It's a prototype of my Swashbuckling Suzy Long-Lasting Leg Lamp!  That crystal on the top'll glow for days!</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20250211T194155Z">
-        <seg>{happy}Aj, czy nie jest piękna?  To prototyp mojej "Zuzanny", Awanturniczej Długotrwałej Lamponogi!  Ten kryształ będzie świecił całe dnie!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T081220Z">
+        <seg>{happy}Aj, czyż nie jest piękna? To prototyp mojej zawadiackiej długotrwałej Lamponogi! Ten kryształ na czubku świeci całe dnie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19200,8 +19200,8 @@
       <tuv lang="en-US">
         <seg>{happy}C'mon, let's get you out of here!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{happy}No, wyłaź!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T164424Z">
+        <seg>{happy}No, wyłaź stamtąd!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19224,8 +19224,8 @@
       <tuv lang="en-US">
         <seg>{happy}Candy sprinkles.  Miss Prettywhiskers loves her little candy sprinkles!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{happy}Drobne cukierki.  Panna Pięknisia kocha te małe drobne cukierki!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T170051Z">
+        <seg>{happy}Cukrowa posypka. Panna Pięknisia kocha swoje cukrowe posypeczki!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19248,8 +19248,8 @@
       <tuv lang="en-US">
         <seg>{happy}Don't worry, little guy, I'll liberate you... somehow.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{happy}Nie matw się, mały kolego, uwolnię cię... jakoś.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T164240Z">
+        <seg>{happy}Nie martw się, mały, uwolnię cię... jakoś.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19304,8 +19304,8 @@
       <tuv lang="en-US">
         <seg>{happy}Hey look, a five-headed bonobo!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{happy}Ej, zobacz, pięciogłowy szympans karłowaty!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T170152Z">
+        <seg>{happy}Ej, patrz, to pięciogłowy bonobo!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19392,8 +19392,8 @@
       <tuv lang="en-US">
         <seg>{happy}Look!  An eight-legged alpaca!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{happy}Patrz!  Ośmionożna alpaka!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T081304Z">
+        <seg>{happy}Patrz! Ośmionożna alpaka!</seg>
       </tuv>
     </tu>
     <tu>
@@ -19416,8 +19416,8 @@
       <tuv lang="en-US">
         <seg>{happy}Ohh, now I get it.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{happy}Och, teraz rozumiem.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T165233Z">
+        <seg>{happy}Och, teraz kumam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19448,8 +19448,8 @@
       <tuv lang="en-US">
         <seg>{happy}This oughtta help me get a "leg up" in the trial.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{happy}Ta rzecz powinna pomóc mi w procesie.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T081954Z">
+        <seg>{happy}Może mi pomóc "zrobić krok" w procesie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19496,8 +19496,8 @@
       <tuv lang="en-US">
         <seg>{happy}You wouldn't expect pirates to be so punny.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{happy}Nie spodziewasz się, że piraci są zabawni.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T165418Z">
+        <seg>{happy}Nie spodziewałbym się tu takich kalamburów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19512,8 +19512,8 @@
       <tuv lang="en-US">
         <seg>{incredulous} Don't you think it's a little... tacky?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{incredulous} Nie sądzisz, że jest trochę... tandetna?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T081245Z">
+        <seg>{incredulous} Czy nie aby trochę... tandetna?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19712,8 +19712,8 @@
       <tuv lang="en-US">
         <seg>{incredulous}Your cat eats that?  I thought she was paralyzed?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{incredulous}Twój kot to je?  Myślałem, że jest sparaliżowana?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T165800Z">
+        <seg>{incredulous}Twój kot to je? Myślałem, że jest sparaliżowany?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19936,8 +19936,8 @@
       <tuv lang="en-US">
         <seg>{sad}And I've got one on my back.  {stern}Let a girl struggle with her demons in peace, willya?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{sad}A ja mam jedną za plecami.  {stern}Pozwól zmagać się dziewczynie z jej demonami w spokoju?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T164846Z">
+        <seg>{sad}A ja mam jedną na placach. {stern}Pozwolisz dziewczynie samej zmagać się z jej demonami?</seg>
       </tuv>
     </tu>
     <tu>
@@ -20128,8 +20128,8 @@
       <tuv lang="en-US">
         <seg>{serious}It'd better be, or I'll{stern} cut the difference out of your fluffy wig.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{serious}Lepiej, aby się zgadzało, inaczej{stern} wytnę różnicę z twojej puszystej peruki.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T175732Z">
+        <seg>{serious}Na to liczę.{stern} Albo wytnę se różnicę z tej puszystej peruki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20264,8 +20264,8 @@
       <tuv lang="en-US">
         <seg>{stern}I COULD row back to the Screaming Narwhal, but without La Esponja Grande I'll never be able to cure Elaine... and if I show up without Elaine's wedding ring, she'll probably kill me.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{stern}Mógłbym powrócić na Wyjącą Narwalę, ale bez La Esponja Grande nigdy nie wyleczę Elaine... i jak pokażę się bez jej obrączki, najprawdopodobniej mnie zabije.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T164825Z">
+        <seg>{stern}Mógłbym powrócić na Wyjącą Narwalę, ale bez La Esponja Grande nie uda mi się wyleczyć Elaine... no i jak się jej pokażę bez obrączki ślubnej, to pewnie mnie zabije.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20288,8 +20288,8 @@
       <tuv lang="en-US">
         <seg>{stern}I think I've fortified that cat food with enough iron as it is.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{stern}Myślę, że jest już dość żelaza w jedzeniu kota.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250926T125709Z">
+        <seg>{stern}Sądzę, że już dość użelaźniłem karmę tego kota.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20384,8 +20384,8 @@
       <tuv lang="en-US">
         <seg>{stern}Save it.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{stern}Zachowaj to.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T173807Z">
+        <seg>{stern}Zachowane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20568,8 +20568,8 @@
       <tuv lang="en-US">
         <seg>{strained}[yelling at him as he leaves] Well, it wouldn't be the first! [muttering to herself]{stern} Jerk.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{strained}[yelling at him as he leaves] Cóż, nie byłby pierwszy! [muttering to herself]{stern} Głupek.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T180656Z">
+        <seg>{strained}[yelling at him as he leaves] Nie pierwszy, nie ostatni! [muttering to herself]{stern} Głupek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20600,8 +20600,8 @@
       <tuv lang="en-US">
         <seg>{surprised}Hey!  Why can't I stop my legs?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{surprised}Hej!  Dlaczego nie mogę zatrzymać moich nóg?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250928T180227Z">
+        <seg>{surprised}Hej! Czemu moje nogi idą same?</seg>
       </tuv>
     </tu>
     <tu>
@@ -20656,8 +20656,8 @@
       <tuv lang="en-US">
         <seg>{surprised}Ooh, sizzly.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{surprised}Ooch, skwierczy.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250926T125745Z">
+        <seg>{surprised}Och, skwierku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20872,8 +20872,8 @@
       <tuv lang="en-US">
         <seg>{suspicious}Hmm, someone sank my rowboat.  Probably one of Flotsam's Poxed pirates.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{suspicious}Hmm, ktoś zatopił moją łódź.  Prawdopodobnie to jeden z piratów z ospą.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T164958Z">
+        <seg>{suspicious}Hmm, ktoś zatopił moją łódź. Pewnie jeden z tutejszych piratów z ospą.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21000,8 +21000,8 @@
       <tuv lang="en-US">
         <seg>{suspicious}What are those sprinkly flakes in there?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{suspicious}Co to za drobne płatki?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20250924T165933Z">
+        <seg>{suspicious}Co tam masz za płateczki?</seg>
       </tuv>
     </tu>
     <tu>
