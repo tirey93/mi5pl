@@ -352,16 +352,16 @@
       <tuv lang="en-US">
         <seg>After building up a huge static charge on Club 41's carpet, Guybrush shocks the sponge, bringing it ever-closer to maturity.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Po utworzeniu olbrzymiego statycznego ładunku na dywanie z Klubu 41, Guybrush poraża gąbkę, która jest bliko dojrzania.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T170636Z">
+        <seg>Po zgromadzeniu olbrzymiego ładunku na dywanie w Klubie 41, Guybrush poraża gąbkę prądem, przez co ta staje się coraz dojrzalsza.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>After obtaining a "Feast for the Senses" menu from the Voodoo Lady, Guybrush sics some moths on Stan's eye-gouging jacket, and ties the scraps around the sponge to make a napkin.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20251106T213547Z">
-        <seg>Po uzyskaniu menu "Uczty dla zmysłów" od Lady Voodoo, Guybrush napuszcza na dziurawą marynarkę Stana mole i związuje fragmenty wokół gąbki, aby zrobić serwetkę.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T170059Z">
+        <seg>Po uzyskaniu od Lady Voodoo menu "Uczty dla zmysłów", Guybrush napuszcza mole na dziurawą oczobijną marynarkę Stana i a jej skrawki wiążę wokół gąbki, aby zrobić serwetkę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,8 +448,8 @@
       <tuv lang="en-US">
         <seg>Altar</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ołtarz</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220046Z">
+        <seg>ołtarz</seg>
       </tuv>
     </tu>
     <tu>
@@ -768,8 +768,8 @@
       <tuv lang="en-US">
         <seg>Auto-Trepanation Helmet</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Hełm Auto-Trepanacji</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220807Z">
+        <seg>hełm do autotrepanacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -880,8 +880,8 @@
       <tuv lang="en-US">
         <seg>Bar</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kraty</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221044Z">
+        <seg>kraty</seg>
       </tuv>
     </tu>
     <tu>
@@ -896,8 +896,8 @@
       <tuv lang="en-US">
         <seg>Bathroom Door</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Drzwi do Łazienki</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251110T163707Z">
+        <seg>drzwi do łazienki</seg>
       </tuv>
     </tu>
     <tu>
@@ -960,8 +960,8 @@
       <tuv lang="en-US">
         <seg>Betrayed by pirate hunter/biggest fan Morgan LeFlay, Guybrush Threepwood is delivered to the clutches of the Marquis De Singe on Flotsam Island.  But before the Threepwood-obsessed scientist can begin his painful experiments, the Mighty Pirate™ is hauled before the Pirate Court of Flotsam Island and accused of various execution-worthy crimes!</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241103T180034Z">
-        <seg>Zdradzony przez łowczynię piratów/wielką fankę Morgan LeFlay, Guybrush Threepwood został oddany w szpony markiza DeSinge na Wyspie Rozbitków.  Ale zanim naukowiec ogarnięty Threepwood obsesją rozpoczął swoje bolesne eksperymenty, Potężny Pirat™ zostaje zaciągnięty przed Sąd Piracki Wyspy Rozbitków i oskarżony o różne szlachetno-straczeńcze zbrodnie!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T164110Z">
+        <seg>Zdradzony przez łowczynię piratów i swą wielką fankę Morgan LeFlay, Guybrush Threepwood trafia na Wyspę Rozbitków w szpony markiza DeSinge. Zanim jednak naukowiec ogarnięty na jego punkcie obsesją rozpocznie swoje bolesne eksperymenty, Potężny Pirat™ zostaje postawiony przed Sąd Piracki i oskarżony o szereg grożących śmiercią zbrodni!</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,16 +992,16 @@
       <tuv lang="en-US">
         <seg>Bosun Krebbs</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241008T100009Z">
-        <seg>Bosman Krebbs</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220044Z">
+        <seg>bosman Krebbs</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Bosun Krebbs' case is dismissed after Guybrush's methodical forensic analysis proves that her horrifying (yet oddly colorful) burns were NOT caused by Club 41's famous nacho sauce.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241008T100018Z">
-        <seg>Sprawa bosman Krebbs zostaje umorzona po tym jak Guybrush udowadnia, że jej okropne (jeszcze dziwnie kolorowe) oparzenie nie zostało spowodowane w Klubie 41 przez sos nacho.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T164511Z">
+        <seg>Sprawa bosman Krebbs zostaje umorzona po tym jak Guybrush udowadnia, że jej okropne (ale i dziwnie kolorowe) oparzenia nie zostało spowodowane w Klubie 41 przez sos nacho.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1032,72 +1032,72 @@
       <tuv lang="en-US">
         <seg>Bowl</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Miska</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221322Z">
+        <seg>miska</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Bowl of Cat Food</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Miska z Kocim Jedzeniem</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221330Z">
+        <seg>miska z kocim żarciem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Bowl of Unhealthy-Looking Cat Food</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Miska z Niezdrowo Wyglądającym Kocim Jedzeniem</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221345Z">
+        <seg>miska z niezdrowym kocim żarciem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Broken Banana Pedal</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zepsuty Bananowy Pedał</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220857Z">
+        <seg>zepsuty bananowy pedał</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Broken X</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zepsuty X</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220012Z">
+        <seg>zepsuty X</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Bucket of Water</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wiadro z Wodą</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220054Z">
+        <seg>wiadro z wodą</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Buffet Table</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Bufet</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251110T163713Z">
+        <seg>bufet</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Bulletin</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Biuletyn</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221028Z">
+        <seg>biuletyn</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Burned Out Leg Lamp</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20250211T194223Z">
-        <seg>Nie Paląca się Lamponoga</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T222028Z">
+        <seg>wypalona lamponoga</seg>
       </tuv>
     </tu>
     <tu>
@@ -1128,8 +1128,8 @@
       <tuv lang="en-US">
         <seg>Button</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Przycisk</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220808Z">
+        <seg>brzycisk</seg>
       </tuv>
     </tu>
     <tu>
@@ -1320,8 +1320,8 @@
       <tuv lang="en-US">
         <seg>Case of Flotsam Moths</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241009T144246Z">
-        <seg>gablota z molami Wyspy Rozbitków</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220850Z">
+        <seg>gablota z molami</seg>
       </tuv>
     </tu>
     <tu>
@@ -1376,8 +1376,8 @@
       <tuv lang="en-US">
         <seg>Clamshell Trap</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Małżowy Zatrzask</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220736Z">
+        <seg>małżowa pułapka</seg>
       </tuv>
     </tu>
     <tu>
@@ -1392,8 +1392,8 @@
       <tuv lang="en-US">
         <seg>Club 41</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Klub 41</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T222155Z">
+        <seg>klub 41</seg>
       </tuv>
     </tu>
     <tu>
@@ -1448,8 +1448,8 @@
       <tuv lang="en-US">
         <seg>Complex Tuna Colada Recipe</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Złożony Przepis na Trójwyspową Tuńczykoladę</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T222129Z">
+        <seg>trudny przepis na Trójwyspową Tuńczykoladę</seg>
       </tuv>
     </tu>
     <tu>
@@ -1464,8 +1464,8 @@
       <tuv lang="en-US">
         <seg>Court Briefs</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Akta Sprawy</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221417Z">
+        <seg>akta sprawy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,8 +1496,8 @@
       <tuv lang="en-US">
         <seg>Courtroom</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Sala Sądowa</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T084138Z">
+        <seg>sala sądowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -1512,48 +1512,48 @@
       <tuv lang="en-US">
         <seg>Cup of Hot Grease</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kubek Gorącego Tłuszczu</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221544Z">
+        <seg>kielon z gorącym tłuszczem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cup of Hot Manatee Oil</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241008T100807Z">
-        <seg>kubek gorącego oleju z manata</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221620Z">
+        <seg>kielon z gorącym olejem z manata</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cup of Hot Wax</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kubek Gorącego Wosku</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221632Z">
+        <seg>kielon z gorącym woskiem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cup of Molten Glass</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kubek Ciekłego Szkła</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221607Z">
+        <seg>kielon z ciekłym szkłem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cup of Mysterious Caustic Fluid</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kubek Tajemniczego Żrącego Płynu</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221532Z">
+        <seg>kielon z tajemniczą, żrącą cieczą</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Curious Helmet</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ciekawy Hełm</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220754Z">
+        <seg>ciekawy hełm</seg>
       </tuv>
     </tu>
     <tu>
@@ -1584,8 +1584,8 @@
       <tuv lang="en-US">
         <seg>Dark Ninja Dave Action Figurine</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Figurka Akcji Mrocznego Ninja Dave'a</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215949Z">
+        <seg>figurka mrocznego ninja Dave'a</seg>
       </tuv>
     </tu>
     <tu>
@@ -1600,8 +1600,8 @@
       <tuv lang="en-US">
         <seg>Dart Board</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tarcza do Rzutek</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215655Z">
+        <seg>tarcza do rzutek</seg>
       </tuv>
     </tu>
     <tu>
@@ -1640,8 +1640,8 @@
       <tuv lang="en-US">
         <seg>De Singe's Musical Control Device</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Muzyczne Kontrolujące Urządzenie DeSinge</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220153Z">
+        <seg>muzyczny kontroler DeSinge'a</seg>
       </tuv>
     </tu>
     <tu>
@@ -1688,8 +1688,8 @@
       <tuv lang="en-US">
         <seg>Delicate Machinery</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Delikatany Mechanizm</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220215Z">
+        <seg>delikatna maszyneria</seg>
       </tuv>
     </tu>
     <tu>
@@ -1752,8 +1752,8 @@
       <tuv lang="en-US">
         <seg>Display Cabinet</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Oszklona Gablota</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220827Z">
+        <seg>oszklona gablota</seg>
       </tuv>
     </tu>
     <tu>
@@ -1904,16 +1904,16 @@
       <tuv lang="en-US">
         <seg>Empty Nacho Plate</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20250212T133108Z">
-        <seg>Pusty Talerz Nachosów</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220008Z">
+        <seg>pusty talerz nachosów</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Empty Volcano Shot Glass</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241001T151236Z">
-        <seg>Pusty kielon po szotach</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T084129Z">
+        <seg>pusty kielon po szotach</seg>
       </tuv>
     </tu>
     <tu>
@@ -2016,8 +2016,8 @@
       <tuv lang="en-US">
         <seg>Feast for the Senses Menu</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20251106T213540Z">
-        <seg>Menu Uczty dla zmysłów</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221654Z">
+        <seg>menu uczty dla zmysłów</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,16 +2032,16 @@
       <tuv lang="en-US">
         <seg>Fireflies</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Świetliki</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220303Z">
+        <seg>świetliki</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Firefly-Illuminated Hidden Trail</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Oświetlona Ukryta Ścieżka</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220225Z">
+        <seg>oświetlona ukryta ścieżka</seg>
       </tuv>
     </tu>
     <tu>
@@ -2152,8 +2152,8 @@
       <tuv lang="en-US">
         <seg>Future-Divining Tarot Cards</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wróżące Przyszłość Karty Tarota</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T222140Z">
+        <seg>wróżące przyszłość karty tarota</seg>
       </tuv>
     </tu>
     <tu>
@@ -2200,8 +2200,8 @@
       <tuv lang="en-US">
         <seg>Garishly Blinding Coat Shreds</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jaskrawy Strzęp Marynarki)</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221958Z">
+        <seg>jaskrawy strzęp marynarki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2240,24 +2240,24 @@
       <tuv lang="en-US">
         <seg>Glass Eye</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Szklane Oko</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221635Z">
+        <seg>szklane oko</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Glowing Embers</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Rozżarzony Węgielek</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220301Z">
+        <seg>świecące płomienie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Glowing Wind Control Device</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241009T144756Z">
-        <seg>świecący Wiatromanipulator</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220535Z">
+        <seg>świecący wiatromanipulator</seg>
       </tuv>
     </tu>
     <tu>
@@ -2352,32 +2352,32 @@
       <tuv lang="en-US">
         <seg>Guybrush bribes star witness Joaquin D'Oro with a "really cool" glass eye, forcing Stan to drop a counterfeiting case against our hero.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Guybrush przekupuje głównego świadka Joaquin d'Oro "naprawdę fajnym" szklanym okiem. Stan porzuca argumenty przeciw naszemu bohaterowi.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T164818Z">
+        <seg>Guybrush przekupuje głównego świadka Joaquin d'Oro "naprawdę fajnym" szklanym okiem, przez co Stan porzuca zarzuty przeciw naszemu bohaterowi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Guybrush cleverly figures out how to get Elaine to grab the Summons, but she's proving to be an extremely hostile witness...</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241004T124411Z">
-        <seg>Guybrush sprytnie obmyślił jak wcisnąć Elaine jej nakaz, ale ona okazuje się być wrogo nastawionym świadkiem...</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T165325Z">
+        <seg>Guybrush sprytnie wymyśla, jak wcisnąć Elaine jej nakaz, ale okazuje się ona być niezwykle wrogo nastawionym świadkiem...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Guybrush makes quick work of Hardtack's preposterous claim of X-Rated vandalism, breaking him down on the stand like a house of cards.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Guybrush szybko obala niedorzeczne twierdzenia Suchara o wandaliźmie na X, niszczy go na zeznaniach jak domek z kart.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T164252Z">
+        <seg>Guybrush szybko obala niedorzeczne zarzuty Suchara o wandalizmie na X, obalając wszystkie jego zeznania jak domek z kart.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Guybrush's Severed Hand</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Odcięta Ręka Guybrusha</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220334Z">
+        <seg>odcięta ręka Guybrusha</seg>
       </tuv>
     </tu>
     <tu>
@@ -2392,16 +2392,16 @@
       <tuv lang="en-US">
         <seg>Hand Trapped on Stylish Cloth Turban</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ręka Uwięziona w Stylowym Turbanie</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220409Z">
+        <seg>uwięziona w stylowym turbanie ręka</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Hand Trapped on Turban</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Uwięziona Ręka w Turbanie</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220356Z">
+        <seg>uwięziona w turbanie ręka</seg>
       </tuv>
     </tu>
     <tu>
@@ -2488,24 +2488,24 @@
       <tuv lang="en-US">
         <seg>Hemlock's Cat</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240930T103916Z">
-        <seg>Kot Hemlocka</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215950Z">
+        <seg>kot Hemlocka</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Hemlock's Painting of Jungle Beast</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20250213T174114Z">
-        <seg>Obraz Hemlocka "Bestia z Dżungli"</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215817Z">
+        <seg>obraz bestii z dżungli</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Hemlock's case is dismissed after Guybrush tampers with his fear-stiffened cat, causing it to seemingly spring to life in open court.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20240930T103922Z">
-        <seg>Sprawa Hemlocka zostaje umorzona po ingerencji Guybrusha z jego zabójczo sztywnym kotem, który wyraźnie wrócił do życia wyskakując z sądu.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T164706Z">
+        <seg>Sprawa Hemlocka zostaje umorzona po ingerencji Guybrusha w jego sparaliżowanego strachem kota, który niewątpliwie ożył na sali sądowej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2736,8 +2736,8 @@
       <tuv lang="en-US">
         <seg>Hot-to-the Touch Pepper</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Gorąca w Dotyku Papryka</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T222116Z">
+        <seg>ostra w kosmos papryka</seg>
       </tuv>
     </tu>
     <tu>
@@ -3664,8 +3664,8 @@
       <tuv lang="en-US">
         <seg>Idol</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Bożek</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220411Z">
+        <seg>bożek</seg>
       </tuv>
     </tu>
     <tu>
@@ -3704,8 +3704,8 @@
       <tuv lang="en-US">
         <seg>In the heart of Flotsam's jungle, Guybrush removes a stinky lion's paw from a beast's thorn, and feeds the ante-paw-sta to the sponge.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241009T100847Z">
-        <seg>W sercu dżungli wyspy, Guybrush usuwa śmierdzącą lwią łapę z zębów bestii i karmi nią gąbkę.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T170155Z">
+        <seg>W sercu dżungli Wyspy Rozbitków, Guybrush usuwa śmierdzącą lwią łapę z paszczy bestii i karmi nią gąbkę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3720,24 +3720,24 @@
       <tuv lang="en-US">
         <seg>Iron-Fortified Cat</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Wzmocniony Żelazem Kot</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215959Z">
+        <seg>wzmocniony żelazem kot</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Iron-Leaking Beard Toy</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zabawka z Przeciekającymi Opiłkami</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221919Z">
+        <seg>zabawka z wysypującymi opiłkami</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Iron-Leaking Magnetic Beard Toy</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Magnetyczna Zabawka z Przeciekającymi Opiłkami</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221939Z">
+        <seg>magnetyczna zabawka z wysypującymi opiłkami</seg>
       </tuv>
     </tu>
     <tu>
@@ -3920,16 +3920,16 @@
       <tuv lang="en-US">
         <seg>Jacket Shreds</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Strzęp Marynarki</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221411Z">
+        <seg>strzęp marynarki</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Jacques the Electromagnetic Monkey</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Jacques Elektromagnetyczna Małpa</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T222007Z">
+        <seg>Jacques, elektromagnetyczna małpa</seg>
       </tuv>
     </tu>
     <tu>
@@ -3944,16 +3944,16 @@
       <tuv lang="en-US">
         <seg>Jar</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Słoik</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220743Z">
+        <seg>słoik</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Jar of Dead Fireflies</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Słoik z Martwymi Świetlikami</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220750Z">
+        <seg>słoik z martwymi świetlikami</seg>
       </tuv>
     </tu>
     <tu>
@@ -3984,8 +3984,8 @@
       <tuv lang="en-US">
         <seg>Jungle Beast</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20250213T174117Z">
-        <seg>Bestia z Dżungli</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220416Z">
+        <seg>bestia z dżungli</seg>
       </tuv>
     </tu>
     <tu>
@@ -4008,8 +4008,8 @@
       <tuv lang="en-US">
         <seg>Just as Guybrush is hit with the biggest charge of all (Spreading the Pox of LeChuck), Elaine arrives on Flotsam Island, crazed with the Pox and looking for the blood of Morgan LeFlay!  Guybrush thinks she'll make an ideal witness, but first he's got to drag her keister to court with a Voodoo Summons!</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241004T124729Z">
-        <seg>Kiedy Guybrush jest atakowany tym największym pozwem (Rozprzestrzenianie Ospy LeChucka), Elaine przybywa na Wyspę Rozbitków, oszalała przez Ospę i szukając krwi Morgan LeFlay!  Guybrush myśli, że będzie idealnym świadkiem, ale najpierw musi zaciągnąć jej tyłek do sądu przez voodoo nakaz!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T165231Z">
+        <seg>Podczas gdy Guybrush staje przed największym ze wszystkich zarzutów (rozprzestrzenianie ospy LeChucka), Elaine przybywa na Wyspę Rozbitków, oszalała przez zarazę i żądna zemsty na Morgan LeFlay! Guybrush uznaje ją za idealnego świadka, ale najpierw musi zaciągnąć ją do sądu za pomocą voodoo nakazu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4344,8 +4344,8 @@
       <tuv lang="en-US">
         <seg>Leg-Shaped Lamp</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Lampa w Kształcie Nogi</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221352Z">
+        <seg>lamponoga</seg>
       </tuv>
     </tu>
     <tu>
@@ -4392,8 +4392,8 @@
       <tuv lang="en-US">
         <seg>Lion Paw</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Łapa Lwa</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220524Z">
+        <seg>lwia łapa</seg>
       </tuv>
     </tu>
     <tu>
@@ -4424,8 +4424,8 @@
       <tuv lang="en-US">
         <seg>Locked Chest</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zamknięta Skrzynia</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220104Z">
+        <seg>zamknięta skrzynia</seg>
       </tuv>
     </tu>
     <tu>
@@ -4480,7 +4480,7 @@
       <tuv lang="en-US">
         <seg>Looks like we'll be doing this "with" all that voodoo...</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20251110T151545Z">
+      <tuv lang="pl" changeid="dapyt" changedate="20251110T151627Z">
         <seg>Wygląda na to, że będziemy to robić z całym tym voodoo...</seg>
       </tuv>
     </tu>
@@ -4488,16 +4488,16 @@
       <tuv lang="en-US">
         <seg>Loose Bar</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Poluzowane Kraty</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221052Z">
+        <seg>luźne kraty</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Loose Patch of Plaster</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Obluzowany Kawałek Ściany</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221134Z">
+        <seg>luźny fragment tynku</seg>
       </tuv>
     </tu>
     <tu>
@@ -4520,8 +4520,8 @@
       <tuv lang="en-US">
         <seg>Manatee</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Manat</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215706Z">
+        <seg>manat</seg>
       </tuv>
     </tu>
     <tu>
@@ -4624,8 +4624,8 @@
       <tuv lang="en-US">
         <seg>Miss Prettywhiskers</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Panna Pięknisia</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215953Z">
+        <seg>panna Pięknisia</seg>
       </tuv>
     </tu>
     <tu>
@@ -4680,16 +4680,16 @@
       <tuv lang="en-US">
         <seg>Moth-Attracting Wind Control Device</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241009T144800Z">
-        <seg>wabiący mole Wiatromanipulator</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220546Z">
+        <seg>wabiący mole wiatromanipulator</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Moths</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241009T144221Z">
-        <seg>Mole</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220601Z">
+        <seg>mole</seg>
       </tuv>
     </tu>
     <tu>
@@ -4744,8 +4744,8 @@
       <tuv lang="en-US">
         <seg>Mysterious Device</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Tajemnicze Urządzenie</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220108Z">
+        <seg>tajemnicze urządzenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -4768,8 +4768,8 @@
       <tuv lang="en-US">
         <seg>Narwhal</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Narwala</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215704Z">
+        <seg>narwal</seg>
       </tuv>
     </tu>
     <tu>
@@ -4848,8 +4848,8 @@
       <tuv lang="en-US">
         <seg>No-Longer-Red Carpet</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Niedługi Czerwony Dywan</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215901Z">
+        <seg>już nie czerwony dywan</seg>
       </tuv>
     </tu>
     <tu>
@@ -4912,8 +4912,8 @@
       <tuv lang="en-US">
         <seg>Not-So-Loose Bar</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Nie Tak Bardzo Poluzowane Kraty</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221104Z">
+        <seg>nie tak luźne kraty</seg>
       </tuv>
     </tu>
     <tu>
@@ -5088,8 +5088,8 @@
       <tuv lang="en-US">
         <seg>Oil Leak</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Cięknący Olej</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221219Z">
+        <seg>cieknący olej</seg>
       </tuv>
     </tu>
     <tu>
@@ -5240,8 +5240,8 @@
       <tuv lang="en-US">
         <seg>Partially-Digested Crossroads Rug</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Częściowo Strawiony Dywan</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220719Z">
+        <seg>częściowo strawiony dywan</seg>
       </tuv>
     </tu>
     <tu>
@@ -5256,8 +5256,8 @@
       <tuv lang="en-US">
         <seg>Pepper</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Papryka</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215744Z">
+        <seg>papryka</seg>
       </tuv>
     </tu>
     <tu>
@@ -5272,8 +5272,8 @@
       <tuv lang="en-US">
         <seg>Phuzzy Nostril Recipe</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Przepis na Włochate Nozdrza</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221725Z">
+        <seg>przepis na Włochate Nozdrza</seg>
       </tuv>
     </tu>
     <tu>
@@ -5360,8 +5360,8 @@
       <tuv lang="en-US">
         <seg>Pointless Shock Pedal</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Niepotrzebny Wstrząsowy Pedał</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220947Z">
+        <seg>pedał od zbędnego wstrząsu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5384,8 +5384,8 @@
       <tuv lang="en-US">
         <seg>Pox-Curing Voodoo Sponge</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Lecząca Ospę Gąbka Voodoo</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220028Z">
+        <seg>lecząca ospę gąbka voodoo</seg>
       </tuv>
     </tu>
     <tu>
@@ -5448,24 +5448,24 @@
       <tuv lang="en-US">
         <seg>Puddle</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kałuża</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221354Z">
+        <seg>kałuża</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Puddle of Molten Glass</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kałuża Ciekłego Szkła</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221400Z">
+        <seg>kałuża ciekłego szkła</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Puddle of Wax</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kałuża Wosku</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215929Z">
+        <seg>kałuża wosku</seg>
       </tuv>
     </tu>
     <tu>
@@ -5576,8 +5576,8 @@
       <tuv lang="en-US">
         <seg>Remains of Stan's Jacket</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Pozostałości po Marynarce Stana</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221035Z">
+        <seg>pozostałości po marynarce Stana</seg>
       </tuv>
     </tu>
     <tu>
@@ -5640,24 +5640,24 @@
       <tuv lang="en-US">
         <seg>Sack of Severed Legs</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Worek z Odciętymi Nogami</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221814Z">
+        <seg>worek z odciętymi nogami</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Sack of Sugar</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Worek Cukru</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215912Z">
+        <seg>worek cukru</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Sacrificial Altar</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Ołtarz Ofiarny</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220052Z">
+        <seg>ołtarz ofiarny</seg>
       </tuv>
     </tu>
     <tu>
@@ -5712,24 +5712,24 @@
       <tuv lang="en-US">
         <seg>Scabb Island Sling Recipe</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Przepis na Wyrzutka Wyspy Parszywców</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221730Z">
+        <seg>przepis na Wyrzutka Wyspy Parszywców</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Scary Painting</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Straszny Obraz</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215750Z">
+        <seg>straszny obraz</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Scrap of Paper</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Skrawek Papieru</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215822Z">
+        <seg>skrawek papieru</seg>
       </tuv>
     </tu>
     <tu>
@@ -5808,8 +5808,8 @@
       <tuv lang="en-US">
         <seg>Shack Remains</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Szczątki Chaty</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220741Z">
+        <seg>szczątki chaty</seg>
       </tuv>
     </tu>
     <tu>
@@ -5880,24 +5880,24 @@
       <tuv lang="en-US">
         <seg>Sketch</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Szkic</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221419Z">
+        <seg>szkic</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Skull Candle</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Czaszkoświeczka</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215925Z">
+        <seg>czaszkoświeca</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Snap-Jawed Jungle Beast</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20250213T174121Z">
-        <seg>Zatrzaśnięta Szczęka Bestii z Dżungli</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220510Z">
+        <seg>rozdziawiona bestie z dżungli</seg>
       </tuv>
     </tu>
     <tu>
@@ -6088,16 +6088,16 @@
       <tuv lang="en-US">
         <seg>Static-Charged Carpet</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Statyczny-Naładowany Dywan</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T215910Z">
+        <seg>naładowany dywan</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Steel-Fortified Patch of Wall</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Stalowa Łata w Ścianie</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221155Z">
+        <seg>wzmocniona stalą część muru</seg>
       </tuv>
     </tu>
     <tu>
@@ -6168,16 +6168,16 @@
       <tuv lang="en-US">
         <seg>Sugar-Dipped Severed Leg</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zanurzona w Cukrze Odcięta Noga</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T222017Z">
+        <seg>zanurzona w cukrze odcięta noga</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Sunken Rowboat</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zatopiona Łódź</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221405Z">
+        <seg>zatopiona łódź</seg>
       </tuv>
     </tu>
     <tu>
@@ -6224,8 +6224,8 @@
       <tuv lang="en-US">
         <seg>TTFN!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Na razie!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251110T163455Z">
+        <seg>Nara!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6240,8 +6240,8 @@
       <tuv lang="en-US">
         <seg>Tarot Cards</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Karty Tarota</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221820Z">
+        <seg>karty tarota</seg>
       </tuv>
     </tu>
     <tu>
@@ -6456,8 +6456,8 @@
       <tuv lang="en-US">
         <seg>The Pyrite Parrot of Petaluma</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zwisająca Piracia Papuga</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220702Z">
+        <seg>pirytowa papuga z Petalumy</seg>
       </tuv>
     </tu>
     <tu>
@@ -6752,8 +6752,8 @@
       <tuv lang="en-US">
         <seg>Tongue-Scalding Pepper</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Parząca Jezyk Papryka</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T222046Z">
+        <seg>parząca język papryka</seg>
       </tuv>
     </tu>
     <tu>
@@ -6784,16 +6784,16 @@
       <tuv lang="en-US">
         <seg>Totally Useless Microscope</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Całkowicie Bezużyteczny Mikroskop</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220818Z">
+        <seg>całkowicie bezużyteczny mikroskop</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Toy</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Zabawka</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221407Z">
+        <seg>zabawka</seg>
       </tuv>
     </tu>
     <tu>
@@ -6808,8 +6808,8 @@
       <tuv lang="en-US">
         <seg>Tuna Colada Recipe</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Przepis na Trójwyspową Tuńczykoladę</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221737Z">
+        <seg>przepis na Trójwyspową Tuńczykoladę</seg>
       </tuv>
     </tu>
     <tu>
@@ -6880,40 +6880,40 @@
       <tuv lang="en-US">
         <seg>Useful Pointy Things</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Przydatna Spiczasta Rzecz</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221007Z">
+        <seg>przydatna spiczasta rzecz</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Useless Pointy Things</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Przydatna Spiczasta Rzecz</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221026Z">
+        <seg>nieprzydatna spiczasta rzecz</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Using the menu itself to bend time and space, Guybrush discovers the Voodoo Lady's fortune telling tarot cards in a hidden clearing, and sprinkles them on the Sponge, which grows ever bigger.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Używając menu by samemu zagiąć czas i przestrzeń, Guybrush odkrywa ukryte karty tarota Lady Voodoo i karmi nimi Gąbkę, która staje się większa.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T170506Z">
+        <seg>Wykorzystując menu, aby nagiąć czas i przestrzeń, Guybrush odkrywa ukryte na polanie karty tarota Lady Voodoo i karmi nimi Gąbkę, która staje się coraz większa.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Vaycaylian Calendar</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kalendarz Wakacjan</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220101Z">
+        <seg>kalendarz Wakacjan</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Vaycaylian Wind Control Device</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241009T144751Z">
-        <seg>wakacjański Wiatromanipulator</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220530Z">
+        <seg>wakacjański wiatromanipulator</seg>
       </tuv>
     </tu>
     <tu>
@@ -6984,24 +6984,24 @@
       <tuv lang="en-US">
         <seg>Weird HOT Oozing Fluid of Science</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dziwny Gorący Sączący się Płyn</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221311Z">
+        <seg>dziwny, gorący, sączący się płyn</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Weird Oozing Fluid</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Dziwny Sączący się Płyn</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221243Z">
+        <seg>dziwnie sączący się płyn</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Well</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Studnia</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T220742Z">
+        <seg>studnia</seg>
       </tuv>
     </tu>
     <tu>
@@ -7040,8 +7040,8 @@
       <tuv lang="en-US">
         <seg>Wet Severed Leg</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Mokra Odcięta Noga</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251118T221648Z">
+        <seg>mokra, odcięta noga</seg>
       </tuv>
     </tu>
     <tu>
@@ -7224,8 +7224,8 @@
       <tuv lang="en-US">
         <seg>When Guybrush finally tries to use La Esponja Grande on the extremely Pox-ridden Elaine, nothing happens!  Luckily, LeChuck arrives just in time to save Guybrush from the gallows, nobly throwing himself (and the Voodoo Lady!) on the mercy of Flotsam's execution-happy legal system.  With his oldest friend and oldest enemy now in prison, Guybrush must figure out what went wrong with the sponge, so that he can finally cure the Pox of LeChuck!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Kiedy Guybrush próbuje użyć La Esponja Grande na zarażoną ospą Elaine, nic się nie dzieje!  Szczęśliwie, LeChuck przybywa w samą porę, aby uratować Guybrusha od szubienicy, szlachetnie rzucając się (i Lady Voodoo!) na łaskę systemu prawnego wyspy.  Z starym przyjacielem i starym wrogiem, który jest w więzieniu, Guybrush musi dowiedzieć się, co się dzieje z gąbką, ktróra w końcu ma wyleczyć Ospę LeChucka!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T165853Z">
+        <seg>Kiedy Guybrush próbuje użyć La Esponja Grande na zarażoną ospą Elaine, nic się nie dzieje! Szczęśliwie LeChuck przybywa w samą porę, aby uratować Guybrusha przed szubienicą, szlachetnie oddając się (i Lady Voodoo!) na łaskę lubieżnego systemu prawnego Wyspy Rozbitków. Mając więc zarówno starego przyjacielem i starego wrogiem razem za kratami, Guybrush musi odkryć, co poszło nie tak z gąbką, która miała jednak wyleczyć Ospę LeChucka!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7408,8 +7408,8 @@
       <tuv lang="en-US">
         <seg>With La Esponja nearly entirely Grande, Guybrush heads to the Vaycaylian Wind Control Machine to feed it the final noisy meal... only to be ensnared with Elaine by the utterly insane plans of the Marquis De Singe!</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20241009T144814Z">
-        <seg>Z La Esponja niemal całkowicie Grande, Guybrush idzie do wakacjańskiego Wiatromanipulatora nakarmić ją ostatnim głośnym posiłkiem... tylko że Elaine zostaje złapana do szalonych planów markiza DeSinge!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T170834Z">
+        <seg>Z La Esponja niemal całkowicie Grande, Guybrush zmierza do wakacjańskiego Wiatromanipulatora nakarmić ją ostatnim głośnym posiłkiem... tylko po to, by wraz z Elaine wpaść w sidła szalonych planów markiza DeSinge!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7424,8 +7424,8 @@
       <tuv lang="en-US">
         <seg>With the help of De Singe's auto-trepanation helmet, Guybrush acquires the scalding Fugu Jolokia, and uses it to cleanse the Sponge's palate.</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20250214T073810Z">
-        <seg>Przy pomocy auto-trepanacyjnego hełmu DeSinge, Guybrush nabywa ostrą Fugu Jolokię i używa jej do oczyszcznia podniebienia Gąbki.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T170328Z">
+        <seg>Przy pomocy hełmu do autotrepanacyjnego od DeSinge'a, Guybrush zdobywa palącą Fugu Jolokię i używa jej do oczyszczenia podniebienia gąbki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7896,8 +7896,8 @@
       <tuv lang="en-US">
         <seg>[Jerry Springer-esque] ooo-OOOOoooh!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>[Jerry Springer-esque] ooo-OOOOoooch!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251110T163412Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -8832,8 +8832,8 @@
       <tuv lang="en-US">
         <seg>[laughing from above] Bwah-hah-haah!!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>[laughing from above] Bwah-hah-haah!!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251110T163435Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -9328,16 +9328,16 @@
       <tuv lang="en-US">
         <seg>[pickup1]Grease IS the word.  Or is it the Bird?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>[pickup1]Tłuszcz jest słowem.  Albo jest to ptak?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251110T163645Z">
+        <seg>[pickup1]Tłuszcz jest słowem.  Albo jest nim ptak?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[pickup1]I think I need to do the first course of the feast first.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>[pickup1]Myślę, że najpierw muszę zrobić pierwsze danie.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251110T163701Z">
+        <seg>[pickup1]Myślę, że najpierw muszę przygotować pierwsze danie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9352,16 +9352,16 @@
       <tuv lang="en-US">
         <seg>[pickup1]I wonder what keeps this thing lit?</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>[pickup1]Zastanawiam się po co trzyma tę rzecz zapaloną?</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251110T163559Z">
+        <seg>[pickup1]Ciekawe, co zasila ten płomień?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>[pickup1]Now that the lamp's dead, it's nothing but a big tacky paperweight.</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>[pickup1]Teraz jak lampa padła, to tylko duży lepki przycisk do papieru.</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251110T163630Z">
+        <seg>[pickup1]Teraz, jak lampa padła, to tylko duży, tandetny przycisk do papieru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10408,8 +10408,8 @@
       <tuv lang="en-US">
         <seg>{Angry} Off with your head!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>{Angry} Ściąć go!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251110T163433Z">
+        <seg>{Angry} Łub u ściąć!</seg>
       </tuv>
     </tu>
     <tu>
