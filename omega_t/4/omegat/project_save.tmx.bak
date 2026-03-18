@@ -2344,8 +2344,8 @@
       <tuv lang="en-US">
         <seg>Guybrush attempts to toss La Esponja Grande into the Vaycaylian Machine, only to have the Sponge snatched away by his severed hand, perched upon De Singe's head!  The Marquis reveals his scheme to atomize Elaine and spread the Threepwood Strain of the Pox across the Caribbean!</seg>
       </tuv>
-      <tuv lang="pl">
-        <seg>Guybrush próbuje wrzucić La Esponja Grande do Maszyny Wakacjan, tylko musi wyrwać Gąbkę z odciętej ręki będącej na głowie DeSinge!  Markiz ujawnia swój plan, jak chce rozpylić Elaine i rozprzestrzenić Szczep Ospy Threepwooda na Karaiby!</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T171212Z">
+        <seg>Guybrush próbuje wrzucić La Esponja Grande do Maszyny Wakacjan, ale ta zostaje mu wyrwana przez odciętą rękę z turbanu DeSinge'a! Markiz ujawnia swój plan, by zatomizować Elaine i rozpylić Szczep Ospy Threepwooda po całych Karaibach!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7400,8 +7400,8 @@
       <tuv lang="en-US">
         <seg>With De Singe destroyed by his own devices, the world holds its breath, waiting for Guybrush to complete the Feast for the Senses and cure the Pox of LeChuck once and for all...</seg>
       </tuv>
-      <tuv lang="pl" changeid="dapyt" changedate="20251106T213554Z">
-        <seg>DeSinge zniszczony przez własne urządzenie. Świat wstrzymuje oddech i czeka, aż Guybrusha zakończy Ucztę dla zmysłów i wyleczy Ospę LeChucka raz na zawsze...</seg>
+      <tuv lang="pl" changeid="dapyt" changedate="20251119T171342Z">
+        <seg>Po zniszczoniu DeSinge'a jego własnym urządzeniem, świat wstrzymuje oddech i czeka, aż Guybrusha ukończył Ucztę dla zmysłów i wyleczył Ospę LeChucka raz na zawsze...</seg>
       </tuv>
     </tu>
     <tu>
