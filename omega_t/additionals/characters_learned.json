@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "game": "Tales of Monkey Island Chapter 4",
+    "created": "2026-03-23",
+    "last_updated": "2026-03-23",
+    "note": "This file is automatically updated by the translation assistant"
+  },
+  "characters": {
+    "GUYBRUSH": {
+      "name": "Guybrush Threepwood",
+      "occupation": "Pirat",
+      "role_in_story": "Główny protagonista, oskarżony w procesie sądowym na Flotsam Island",
+      "first_seen": "line 201",
+      "traits": ["sarkastyczny", "humorystyczny", "lekko niezdarny", "dobroduszny", "przesadnie pewny siebie"],
+      "speech_patterns": ["Często używa tagów emocji: {incredulous}, {surprised}, {happy}, {cocky}", "Skraca zdania gdy może (pa, au, hmm)", "Tłumaczy nazwy własne na polski (Well, Blow Me Down → A dmuchnę se w szkiełko)"],
+      "relationships": {
+        "ELAINE": "żona, kocha ją ale często się kłócą",
+        "DESINGE": "główny wróg, prześladowca",
+        "GRINDSTUMP": "sędzia w jego procesie"
+      },
+      "known_facts": [
+        "Jest oskarżony o różne przestępstwa",
+        "Szuka lekarstwa na Ospę LeChucka",
+        "Ma charakterystyczny humor point-and-click"
+      ],
+      "tone": "lekki, żartobliwy, czasem przesadnie pewny siebie, sarkastyczny"
+    },
+    "GRINDSTUMP": {
+      "name": "Sędzia Grindstump",
+      "occupation": "Sędzia sądu na Flotsam Island",
+      "role_in_story": "Przewodniczy procesowi Guybrusha, cierpi na Ospę LeChucka",
+      "first_seen": "line 1421",
+      "traits": ["sarkastyczny", "niecierpliwy", "pragmatyczny", "czasem wybuchowy (z powodu Ospy)"],
+      "speech_patterns": ["Używa tagów: {Stern}, {Sarcastic}, {Default}, {Angry}", "Formalny język sądowy ale z ironią", "Często przerywa i spieszy sprawę"],
+      "relationships": {
+        "GUYBRUSH": "oskarżony w jego sądzie, traktuje go z ironią",
+        "DESINGE": "współpracuje jako oskarżyciel"
+      },
+      "known_facts": [
+        "Przewodniczy procesowi Guybrusha",
+        "Cierpi na Ospę LeChucka (wpływa na jego zachowanie)",
+        "Martwi się o koszty (nadgodziny kata)"
+      ],
+      "tone": "oficjalny ale sarkastyczny, czasem wybuchowy, pragmatyczny"
+    },
+    "STAN": {
+      "name": "Stan",
+      "occupation": "Handlarz, sprzedawca pamiątek",
+      "role_in_story": "Pomaga Guybrushowi, prowadzi Courtroom Souvenir Emporium",
+      "first_seen": "line 1541",
+      "traits": ["przekupny", "cwany", "gadatliwy", "przyjazny ale interesowny"],
+      "speech_patterns": ["Używa tagu {Smarmy} (przesadnie uprzejmy/oleisty)", "Mówi 'kid' (młody)", "Potoczny język ('No i gites!')", "Często zmienia ton z uprzejmego na zirytowany"],
+      "relationships": {
+        "GUYBRUSH": "znajomy z przeszłości, był oskarżycielem w poprzednich przygodach"
+      },
+      "known_facts": [
+        "Prowadzi sklep z pamiątkami przy sądzie",
+        "Ma historię z Guybrushem (poprzednie zarzuty)",
+        "Sprzedaje różne dziwne przedmioty"
+      ],
+      "tone": "przesadnie uprzejmy/oleisty, potoczny, interesowny"
+    },
+    "DESINGE": {
+      "name": "Marquis De Singe",
+      "occupation": "Naukowiec, chirurg, oskarżyciel",
+      "role_in_story": "Główny antagonista, chce zdobyć Esponja Grande dla nieśmiertelności",
+      "first_seen": "line 633",
+      "traits": ["arogancki", "megalomaniak", "przebiegły", "elegancki", "szalony naukowiec"],
+      "speech_patterns": ["Mówi po francusku (moi, alouette)", "Narcystyczny (śpiewa o własnej nieśmiertelności)", "Sarkastyczny, ironiczny", "Używa francuskich słów i zwrotów"],
+      "relationships": {
+        "GUYBRUSH": "główny wróg, chce go zniszczyć",
+        "ELAINE": "częściowo zazdrosny o związek z Guybrushem"
+      },
+      "known_facts": [
+        "Chce osiągnąć nieśmiertelność",
+        "Prowadzi laboratorium na Flotsam Island",
+        "Jest głównym oskarżycielem w procesie",
+        "Mówi z francuskim akcentem i używa francuskich słów"
+      ],
+      "tone": "arogancki, sarkastyczny, elegancki, megalomański"
+    },
+    "ELAINE": {
+      "name": "Elaine Marley-Threepwood",
+      "occupation": "Była gubernatorka, żona pirata",
+      "role_in_story": "Żona Guybrusha, pomaga mu w trudnej sytuacji",
+      "first_seen": "line 641",
+      "traits": ["twarda", "zdecydowana", "odważna", "czasem sarkastyczna", "lojalna"],
+      "speech_patterns": ["Używa tagów: [angry], [amused]", "Bezpośrednia, czasem wulgarna ('wciągająca tabakę glizdo')", "Pirackie wyrażenia", "Nie boi się mówić otwarcie"],
+      "relationships": {
+        "GUYBRUSH": "żona, kocha go ale często się na niego złości",
+        "DESINGE": "wróg, nie znosi go",
+        "MORGAN": "rywalka o uwagę Guybrusha (częściowo)"
+      },
+      "known_facts": [
+        "Jest żoną Guybrusha",
+        "Była gubernatorką Melee Island",
+        "Potrafi walczyć i bronić się",
+        "Ma silny charakter"
+      ],
+      "tone": "twarda, bezpośrednia, czasem wulgarna, lojalna"
+    },
+    "HARDTACK": {
+      "name": "Killick Hardtack",
+      "occupation": "Klawisz (woźny sądowy), strażnik więzienny",
+      "role_in_story": "Nie zauważa jak Guybrush ucieka z więzienia świadek w procesie",
+      "first_seen": "line 1649",
+      "traits": ["pokorny", "służalczy wobec przełożonych", "niezbyt bystry"],
+      "speech_patterns": ["Używa 'Yes sir!', 'Aye-aye, sir!'", "Formalny język sądowy", "Pirackie wyrażenia", "Czasem przestraszony {Scared}"],
+      "relationships": {
+        "GUYBRUSH": "nie zauważa jak ucieka z więzienia, choć pracuje dla sądu",
+        "GRINDSTUMP": "szef, boi się go",
+        "KREBBS": "koleżanka z pracy, są razem na sali sądowej"
+      },
+      "known_facts": [
+        "Jest woźnym/klawiszem w sądzie",
+        "Pomaga Guybrushowi w zamian za przysługi",
+        "Zeznaje jako świadek w procesie (sprawa X)",
+        "Ma kota (Miss Prettywhiskers, panna pięknisia)"
+      ],
+      "tone": "służalczy, formalny, czasem przestraszony, pomocny"
+    },
+    "MORGAN": {
+      "name": "Morgan LeFlay",
+      "occupation": "Łowczyni piratów",
+      "role_in_story": "Sojuszniczka Guybrusha, pomaga w procesie, jest ranna",
+      "first_seen": "line 981",
+      "traits": ["odważna", "lojalna", "tajemnicza", "czasem skonfliktowana emocjonalnie"],
+      "speech_patterns": ["Używa tagów: {strained}, {Serious}, {terrified}", "Krótkie zdania gdy jest ranna", "Poważny ton", "Czasem przeprasza"],
+      "relationships": {
+        "GUYBRUSH": "sojuszniczka, pomaga mu choć była łowczynią piratów",
+        "ELAINE": "rywalka (częściowo) o uwagę Guybrusha",
+        "DESINGE": "wróg, uciekła od niego, wcześniej była jego łowczynią piratów"
+      },
+      "known_facts": [
+        "Jest łowczynią piratów",
+        "Pomaga Guybrushowi w procesie",
+        "Jest ranna/cierpi (kaszle, umiera w niektórych scenach)",
+        "Znalazła Jacquesa (małpę)"
+      ],
+      "tone": "poważna, lojalna, czasem słaba/zraniona"
+    },
+    "DORO": {
+      "name": "D'Oro",
+      "occupation": "Więzień, poszukiwacz skarbów",
+      "role_in_story": "Świadek w procesie, można go przekupić",
+      "first_seen": "line 789",
+      "traits": ["chciwy", "tchórzliwy", "przebiegły", "hiszpański akcent"],
+      "speech_patterns": ["Używa hiszpańskich słów ('Si', 'Señor')", "Mówi o 'zaklepywaniu' sobie rzeczy", "Skarży się na brak łupów", "Potoczny język ('Granda!')"],
+      "relationships": {
+        "GUYBRUSH": "można go przekupić żeby nie zeznawał",
+        "VOODOOLADY": "obwinia ją o pożar"
+      },
+      "known_facts": [
+        "Jest więźniem w celi obok Guybrusha",
+        "Jest świadkiem w procesie",
+        "Można go przekupić szklanym okiem",
+        "Chce 'fajnych artefaktów voodoo'"
+      ],
+      "tone": "chciwy, tchórzliwy, hiszpański akcent, narzekający"
+    },
+    "VOODOOLADY": {
+      "name": "Lady Voodoo (Voodoo Lady)",
+      "occupation": "Kapłanka voodoo, wróżka",
+      "role_in_story": "Pomaga Guybrushowi, daje wskazówki, więźniarka",
+      "first_seen": "line 825",
+      "traits": ["tajemnicza", "mądra", "enigmatyczna", "czasem złośliwa", "wszechwiedząca"],
+      "speech_patterns": ["Mówi tajemnicze zaklęcia (łacina?)", "Filozoficzne wypowiedzi", "Podwójne znaczenia", "Czasem złośliwa {Angry}", "Mistyczny ton {Mystical}"],
+      "relationships": {
+        "GUYBRUSH": "pomaga mu, daje wskazówki",
+        "LECHUCK": "zna jego przeznaczenie",
+        "DORO": "on ją obwinia o pożar"
+      },
+      "known_facts": [
+        "Jest w więzieniu (oskarżona o szerzenie Ospy)",
+        "Zna przyszłość i przeznaczenie",
+        "Daje Guybrushowi mapę",
+        "Ma wiedzę o Esponja Grande"
+      ],
+      "tone": "mistyczny, enigmatyczny, filozoficzny, czasem złośliwy"
+    },
+    "MCGEE": {
+      "name": "Hemlock McGee",
+      "occupation": "Pirat, członek galerii sądowej",
+      "role_in_story": "Świadek w procesie, chce powiesić Guybrusha",
+      "first_seen": "line 1225",
+      "traits": ["agresywny", "podekscytowany procesem", "wrogi Guybrushowi", "chce sprawiedliwości (w swoim mniemaniu)"],
+      "speech_patterns": ["Używa tagów: {stern}, {angry}", "Pirackie wyrażenia", "Chce krwawej sprawiedliwości", "Mówi do tłumu", "Wulgaryzmy wobec De Singe ('konowal')"],
+      "relationships": {
+        "GUYBRUSH": "wróg, chce go powiesić",
+        "DESINGE": "pogardza nim, nazywa go 'konowalem'",
+        "MCGEE": "ma kota (Miss Prettywhiskers)"
+      },
+      "known_facts": [
+        "Jest świadkiem w procesie",
+        "Chce powieszenia Guybrusha",
+        "Ma kota (panna pięknisia)",
+        "Jest członkiem galerii sądowej"
+      ],
+      "tone": "agresywny, podekscytowany, wrogi, piracki"
+    }
+  }
+}
